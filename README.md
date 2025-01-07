@@ -1,5 +1,7 @@
-# echos_du_temps_passe
+# Echos du temps passé
 Corpus of Baroque keyboard music editions from the long 19th century.
+
+An artistic research project by Nicholas Cornia and Viktor Lazarov.
 
 ## Abstract
 
