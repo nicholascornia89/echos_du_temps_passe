@@ -1,12 +1,12 @@
-# Title
+# The Well-Tempered Clavier, BWV 846-893
 
 ## Authorities
 
 - [FAAM]()
-- [IMSLP]() 
+- [IMSLP]()
 - [RISM]()
 - [VIAF]()
-- [Wikidata]() 
+- [Wikidata](http://www.wikidata.org/entity/Q211971) 
 
 ## List of editions
 

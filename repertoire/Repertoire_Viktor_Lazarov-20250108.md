@@ -13,7 +13,7 @@ This is a list of the solo keyboard repertoire of Viktor Lazarov before the begi
 
 ## Johann Sebastian Bach
 
-### The Well-Tempered Clavier
+### [The Well-Tempered Clavier](./Bach-Johann_Sebastian/Bach-BWV846-893.md)
 
 **Book I**
 - [No.1 in C major BWV 846](./Bach-Johann_Sebastian/Bach-BWV846.md)
