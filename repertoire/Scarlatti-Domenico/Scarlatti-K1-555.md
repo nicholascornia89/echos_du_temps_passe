@@ -1,9 +1,9 @@
-# Keyboard Sonata in D minor, K.9
+# Keyboard Sonatas, K.1-555
 
 ## Authorities
 
 - [FAAM]() 
-- [IMSLP]() 
+- [IMSLP](https://imslp.org/wiki/Keyboard_Sonatas,_K.1-555_(Scarlatti,_Domenico)) 
 - [RISM]()
 - [VIAF]()
 - [Wikidata]() 
@@ -14,7 +14,7 @@
 
 | Editor | Collection | Pages | PDF | MusicXML | MIDI |
 | ------ | ---------  | ----  | --- | -------- | -----|
-| ``editor's page`` | ``collection's page`` | ``page numbers in collection`` | |``pdf link`` | ``MusicXML link`` | ``Midi link`` |
+| [Kenneth Gilbert](https://www.wikidata.org/wiki/Q563321) | *Le Pupitre, Vol. 31-41* | ``page numbers in collection`` | |``pdf link`` | ``MusicXML link`` | ``Midi link`` |
 
 ## Recordings / Sessions
 
