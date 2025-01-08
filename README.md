@@ -3,6 +3,51 @@ Corpus of Baroque keyboard music editions from the long 19th century.
 
 An artistic research project by Nicholas Cornia and Viktor Lazarov.
 
+## Repository structure
+
+[Documentation](/documentation)
+: Markdown pages useful to clarify technical and artistic steps during the creation of the corpus.
+
+Repertoire
+: Metadata and useuful pages concerning the musical pieces of the corpus.
+
+Sessions
+: Logs and output of performances.
+
+Analysis
+: Computational and Statistical analysis of the corpus, including scripts and quantitative data.
+
+Encoded Music
+: Digitally readable transcriptions of the pieces from our own and related projects.
+
+## Useful links
+
+### Learning Markdown
+
+- [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+- [Sublime Text for editing Markdown files](https://www.sublimetext.com/download)
+
+
+### Getting started with Git(Hub)
+
+- [GitHub Desktop guideline](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop)
+- [Install Git from the terminal using brew](https://git-scm.com/downloads/mac)
+
+Some basic commands for Git from the terminal. Note, your terminal prompt should be on the main directory of the GitHub repository.
+
+```bash
+# pull: synchronize your local folder with the repository
+git pull
+# add: add automatically new changes for commit
+git add .
+# commit: short comment about the changes
+git commit -m "date, or other comment"
+# push: update your changes into the repository (in the main branch)
+git push origin main
+```
+
+
+
 ## Abstract
 
 ```
