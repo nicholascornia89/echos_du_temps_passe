@@ -5,19 +5,19 @@ An artistic research project by Nicholas Cornia and Viktor Lazarov.
 
 ## Repository structure
 
-[Documentation](/documentation)
-: Markdown pages useful to clarify technical and artistic steps during the creation of the corpus.
+### [Documentation](/documentation)
+Markdown pages useful to clarify technical and artistic steps during the creation of the corpus.
 
-Repertoire
-: Metadata and useuful pages concerning the musical pieces of the corpus.
+### [Repertoire](/repertoire)
+Metadata and useuful pages concerning the musical pieces of the corpus.
 
-Sessions
-: Logs and output of performances.
+### [Sessions](/sessions)
+Logs and output of performances.
 
-Analysis
-: Computational and Statistical analysis of the corpus, including scripts and quantitative data.
+### [Analysis](/analysis)
+Computational and Statistical analysis of the corpus, including scripts and quantitative data.
 
-Encoded Music
+### [Encoded Music](/encoded_music)
 : Digitally readable transcriptions of the pieces from our own and related projects.
 
 ## Useful links
