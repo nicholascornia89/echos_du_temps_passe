@@ -5,7 +5,7 @@ This script analyses imported metadata from the FAAM platform in CSV format
 
 import csv
 import json
-import numpy
+#import numpy
 #import mathplotlib
 
 def csv2dict(csv_filename): # dumps a CSV into dictionary with main property "items"
@@ -21,7 +21,7 @@ def dict2json(dictionary,json_filename): 	#dumps a dictionary into a JSON file
 	json.dump(dictionary,json_file,indent=2,ensure_ascii=False )
 	return print("Export completed.")
 
-def inputCsv2faamJson(input_csv_dict): 	# Cleans-up, organizes and collates duplicates
+def inputCsv2faamJson(manifestations_dict,works_dict,annotations_dict): 	# Cleans-up, organizes and collates duplicates
 	# Initialize main FAAM categories
 	FAAM = {
 	"manifestations": [],
@@ -43,7 +43,7 @@ def inputCsv2faamJson(input_csv_dict): 	# Cleans-up, organizes and collates dupl
 	}
 	'''
 	# Generate manifestations
-	for row in input_csv_dict["items"]:
+	for row in manifestations_dict["items"]:
 		#check if FAAM-ID changed
 		try:
 			current_manifestation = FAAM["manifestations"][-1]
@@ -85,12 +85,35 @@ def inputCsv2faamJson(input_csv_dict): 	# Cleans-up, organizes and collates dupl
 				})
 
 
+	# Generate works
+	for row in musicalWorks["items"]:
+		try:
+
+		# TO BE CONTINUED
+		except IndexError: # first element
+			FAAM["musicalWorks"].append(
+				{
+					"workName": row["\ufeffName"],
+					"qid": row["Wikidata QID"],
+					"composers": [row["composer"]],
+					"arrangers": [row["arrangers"]],
+					"annotations": [row["Editorial annotations"]],
+					"FAAM-IDs": [],
+					"occurrence": 0
+				}
+
+				)
+	# Generate annotations
+	# TO BE CONTINUED
+
+
+
 	return FAAM
 
 def faaamStatistics(FAAM): #Generates statistics for FAAM JSON
 	# Unique agents, musicalWorks and annotations
 	for manifestation in FAAM["manifestations"]:
-		for musicalWork in manifestation["musicalWorks"]:
+		for musicalWork in manifestation["musicalWorks"]: #add manif. to musical works
 			if musicalWork["workName"] == "":
 				print(manifestation)
 				input()
@@ -99,16 +122,23 @@ def faaamStatistics(FAAM): #Generates statistics for FAAM JSON
 			if len(query) >0:
 				# update occurrence
 				FAAM["musicalWorks"][query[0][0]]["occurrence"] +=1
-			else:
-				#append new element
+				FAAM["musicalWorks"][query[0][0]]["FAAM-IDs"].append(manifestation["FAAM-ID"])
+			else: #append new element, normally not necessary!
+				
 				FAAM["musicalWorks"].append(
 					{
 					"workName": musicalWork["workName"],
 					"qid": "",
+					"composers": [],
 					"arrangers": [],
 					"annotations": [],
+					"FAAM-IDs": [manifestation["FAAM-ID"]],
 					"occurrence": 1
 					})
+
+		for agent in manifestation["agents"]: #add agent to agents list
+			#to be continued...
+		for annotation in manifestation["annotations"]: # add annotations to annotations list
 	return FAAM
 
 
@@ -117,13 +147,19 @@ def faaamStatistics(FAAM): #Generates statistics for FAAM JSON
 #print("Insert the input CSV filename (with extension): \n")
 #input_csv_filename = input()
 #TEST
-input_csv_filename = "FAAM-scarlatti_export_20250122.csv"
+date = "20250123"
+
+input_manifestations_csv_filename = "FAAM-scarlatti_export_20250122.csv"
+input_works_csv_filename = "FAAM-scarlatti-works_export-"+date+".csv"
+input_annotations_csv_filename = "../FAAM_annotations/FAAM-annotations_export-"+date+".csv"
 output_json_filename = input_csv_filename[:-4]+".json"
 
-print("Loading CSV into Python dictionary...")
-input_csv_dict = csv2dict(input_csv_filename)
+print("Loading CSVs into Python dictionary...")
+manifestations_dict = csv2dict(input_manifestation_filename)
+works_dict = csv2dict(input_works_csv_filename)
+annotations_dict = csv2dict(input_annotations_csv_filename)
 
 print("Clean-up and export to JSON...")
-FAAM = inputCsv2faamJson(input_csv_dict)
+FAAM = inputCsv2faamJson(manifestations_dict,works_dict,annotations_dict)
 FAAM = faaamStatistics(FAAM)
 dict2json(FAAM,output_json_filename)

@@ -11,14 +11,23 @@ Markdown pages useful to clarify technical and artistic steps during the creatio
 ### [Repertoire](/repertoire)
 Metadata and useuful pages concerning the musical pieces of the corpus.
 
+#### TO-DO
+
+- [ ] Generate dynamically pieces' pages from CSV Nodegoat
+
 ### [Sessions](/sessions)
 Logs and output of performances.
 
 ### [Analysis](/analysis)
 Computational and Statistical analysis of the corpus, including scripts and quantitative data.
 
+- [ ] Complete Scarlatti Sonata's script for Statistics.
+- [ ] Import new metadata entries to CSV export files.
+
 ### [Encoded Music](/encoded_music)
 : Digitally readable transcriptions of the pieces from our own and related projects.
+
+- [ ] Convert Scarlatti sonatas Humdrum files to MusicXML 
 
 ## Useful links
 
