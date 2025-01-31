@@ -21,11 +21,10 @@ def xy_horizontalhistogram(x_list,y_list,xValue,title): #inputs 2 lists and retu
 	ax.tick_params(axis='both', which='major', pad=1)
 	ax.set(xlim=[0, 12], xlabel=xValue, ylabel="",
        title=title)
-
-	#plt.rcParams.update({'figure.autolayout': True})
+	plt.tight_layout()
+	plt.rcParams.update({'figure.autolayout': True})
 	plt.style.use('fast')
 	plt.savefig('histogram.png',dpi=600)
-
 
 def csv2dict(csv_filename): # dumps a CSV into dictionary with main property "items"
 	f = open(csv_filename,'r')
@@ -74,7 +73,7 @@ def generate_network(FAAM): # returns a Networkx graph given the FAAM elements d
 		if "qid" in work: # exclude works without qid
 			url = "<a href=\'"+work["wikidataUrl"]+">"+work["workName"]+", "+work["qid"]+"</a>"
 			title ="<body>"+url+"</body>"
-			add_node(net,work["qid"],work["workName"],nodes_colors["work"],1000*work["occurrence"],title)
+			add_node(net,work["qid"],work["workName"],nodes_colors["work"],10**work["occurrence"],title)
 	# add annotation nodes
 	for anno in FAAM["annotations"]:
 		url = "<a href=\'"+wikidataUrl+anno["qid"]+">"+anno["annotationName"]+", "+anno["qid"]+"</a>"
@@ -85,7 +84,7 @@ def generate_network(FAAM): # returns a Networkx graph given the FAAM elements d
 		if "qid" in agent: # exclude publishers for now
 			url = "<a href=\'"+wikidataUrl+agent["qid"]+">"+agent["agentName"]+", "+agent["qid"]+"</a>"
 			title ="<body>"+url+"</body>"
-			add_node(net,agent["qid"],agent["agentName"],nodes_colors["agent"],1000,title)
+			add_node(net,agent["qid"],agent["agentName"],nodes_colors["agent"],10000,title)
 
 	#EDGES
 	for work in FAAM["musicalWorks"]:
@@ -95,25 +94,35 @@ def generate_network(FAAM): # returns a Networkx graph given the FAAM elements d
 			if arranger["qid"] == "":
 				pass
 			else:
-				net.add_edge(work["qid"],arranger["qid"],weight=200)
+				net.add_edge(work["qid"],arranger["qid"],weight=10)
+		for annotation in work["annotations"]:
+			if annotation["qid"] == "":
+				pass
+			else:
+				net.add_edge(work["qid"],annotation["qid"],weight=1) 
 
 	return net
 
 def pyvis_visualization(net,net_filename):
 	layout = nx.spring_layout(net)
 	visualization=Network(height="1200px", width="1200px", bgcolor="#1C1A19", font_color="#f8f7f4", directed=False,select_menu=True,filter_menu=False,notebook=False)
-	visualization.repulsion(node_distance=1000,
-							spring_strength=0.05,
+	
+	# The visualisation can be changed using the native vis Physics settings in options.
+	# https://visjs.github.io/vis-network/docs/network/physics.html
+	'''for i in visualization.nodes:
+		#node_id = i["id"]
+		#if node_id in layout:
+			#i["x"], i["y"] = layout[node_id][0]*1000, layout[node_id][1]*1000
+	visualization.force_atlas_2based(gravity=-5000,
+							spring_strength=0.5,
 							central_gravity=0,
-							spring_length=1000,
-							damping=0.1)
+							spring_length=10,
+							damping=0.4,overlap=1)
+	'''
 	visualization.from_nx(net)
 	visualization.toggle_physics(False)
 	visualization.show_buttons(filter_=['nodes','physics'])
-	#for i in visualization.nodes:
-			#node_id = i["id"]
-			#if node_id in layout:
-				#i["x"], i["y"] = layout[node_id][0]*1000, layout[node_id][1]*1000
+	
 	options = """
 			var options = {
    					"configure": {
@@ -126,11 +135,17 @@ def pyvis_visualization(net,net_filename):
 					"smooth": false
   					},
   					"physics": {
-					"barnesHut": {
-	  				"gravitationalConstant": -10050
-					},
-					"minVelocity": 0.75
-  					}
+						"forceAtlas2Based": {
+	  					"gravitationalConstant": -20,
+	  					"springLength": 1,
+	  					"springConstant": 1.0,
+	  					"avoidOverlap": 0,
+	  					"damping":0
+
+							},
+						"maxVelocity": 1,
+						"minVelocity": 0.25
+  						}
 					}
 				"""
 	visualization.set_options(options)
@@ -330,13 +345,13 @@ def faaamStatistics(FAAM): #Generates statistics for FAAM JSON
 		for annotation in manifestation["annotations"]: # add annotations to annotations list
 			query = list(filter(lambda x: x[1].get('annotationName') == annotation["annotationName"], enumerate(FAAM["annotations"])))
 			if len(query)>0:
-				print(FAAM["annotations"][query[0][0]])
+				#print(FAAM["annotations"][query[0][0]])
 				current_annotation = FAAM["annotations"][query[0][0]]
 				current_annotation["FAAM-IDs"].append(manifestation["FAAM-ID"])
 				current_annotation["occurrence"]+=1
 			else:
 				print("Missing annotation: ",annotation["annotationName"])				
-	for work in FAAM["musicalWorks"]: # add qids to agents
+	for work in FAAM["musicalWorks"]: # add qids to agents and annotations
 		for composer in work["composers"]:
 			query = list(filter(lambda x: x[1].get('agentName') == composer["agentName"],enumerate(FAAM["agents"])))
 			if len(query)>0:
@@ -346,6 +361,25 @@ def faaamStatistics(FAAM): #Generates statistics for FAAM JSON
 				query = list(filter(lambda x: x[1].get('agentName') == arranger["agentName"],enumerate(FAAM["agents"])))
 				if len(query)>0:
 					FAAM["agents"][query[0][0]]["qid"] = arranger["qid"]
+
+		for faamId in work["FAAM-IDs"]:
+			# append annotations
+			query = list(filter(lambda x: x[1].get('FAAM-ID') == faamId, enumerate(FAAM["manifestations"])))
+			for annotation in FAAM["manifestations"][query[0][0]]["annotations"]:
+				query = list(filter(lambda x: x.get('annotationName') == annotation["annotationName"], work["annotations"] ))
+				if len(query) > 0: # pass if already present
+					pass
+				else: # append new annotaion and retrieve qid
+					query = list(filter(lambda x: x.get('annotationName') == annotation["annotationName"], FAAM["annotations"] ))
+					if len(query)>0:
+						annotation_qid = query[0]["qid"]
+						work["annotations"].append({"annotationName": annotation["annotationName"], "qid": annotation_qid})
+					else:
+						print("Missing annotation!\n")
+						print(annotation["annotationName"])
+
+
+
 
 
 	# Base statistics
@@ -400,11 +434,11 @@ FAAM = faaamStatistics(FAAM)
 dict2json(FAAM,output_json_filename)
 
 print("Generating Graph network...")
-#net = generate_network(FAAM)
-#network_dict = nx.node_link_data(net)
-#network_file = open(network_json_filename,'w')
-#json.dump(network_dict,network_file,indent=2)
-#pyvis_visualization(net,network_visualisation_filename)
+net = generate_network(FAAM)
+network_dict = nx.node_link_data(net)
+network_file = open(network_json_filename,'w')
+json.dump(network_dict,network_file,indent=2)
+pyvis_visualization(net,network_visualisation_filename)
 
 print("Generating charts for statistics...")
 # create input list
