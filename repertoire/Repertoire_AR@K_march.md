@@ -6,7 +6,7 @@ This is a list of the solo keyboard repertoire that we are planning to play and 
 
 ### [Keyboard Sonatas](./Scarlatti-Domenico/Scarlatti-K1-555.md)
 
-For more information see the [Scarlatti Sonata report in JSON format](analysis/scarlatti_sonatas/FAAM-scarlatti.json)
+For more information see the [Scarlatti Sonata report in JSON format](/analysis/scarlatti_sonatas/FAAM-scarlatti.json)
 
 | Sonata | Occurrences | 
 | -----  | --------    |
@@ -23,7 +23,7 @@ For more information see the [Scarlatti Sonata report in JSON format](analysis/s
 | [Sonata in G minor, K.450]() | 6 |
 | [Sonata in D minor, K.434]() | 6 |
 
-<img scr="analysis/scarlatti_sonatas/histogram.png" attr="Histogram of occurrences" width=300px, height= 300>
+<img scr="/analysis/scarlatti_sonatas/histogram.png" attr="Histogram of occurrences" width=300px, height= 300>
 
 ## Johann Sebastian Bach
 
