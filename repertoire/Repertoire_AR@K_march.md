@@ -25,6 +25,8 @@ For more information see the [Scarlatti Sonata report in JSON format](/analysis/
 
 <img src="/analysis/scarlatti_sonatas/histogram.png" attr="Histogram of occurrences" width=500px, height= 300>
 
+<iframe src="/analysis/scarlatti_sonatas/FAAM-scarlatti_network.html" width=800px, height= 800px>
+
 ## Johann Sebastian Bach
 
 ### [The Well-Tempered Clavier](./Bach-Johann_Sebastian/Bach-BWV846-893.md)
