@@ -6,10 +6,26 @@ This script analyses imported metadata from the FAAM platform in CSV format
 import csv
 import json
 import numpy as np
-import matplotlib
-import matplotlib.pyplot
+import matplotlib.pyplot as plt
 from pyvis.network import Network
 import networkx as nx
+
+def xy_horizontalhistogram(x_list,y_list,xValue,title): #inputs 2 lists and returns histogram
+	fig, ax = plt.subplots()
+	# data
+	y_pos = np.arange(len(y_list))
+	x_pos = np.arange(len(x_list))
+	ax.barh(y_list,x_list, color= "#d63a19", height = 0.7)
+	ax.set_yticklabels(y_list,fontsize=10)
+	ax.set_xticks(np.arange(12))
+	ax.tick_params(axis='both', which='major', pad=1)
+	ax.set(xlim=[0, 12], xlabel=xValue, ylabel="",
+       title=title)
+
+	#plt.rcParams.update({'figure.autolayout': True})
+	plt.style.use('fast')
+	plt.savefig('histogram.png',dpi=600)
+
 
 def csv2dict(csv_filename): # dumps a CSV into dictionary with main property "items"
 	f = open(csv_filename,'r')
@@ -50,52 +66,47 @@ def generate_network(FAAM): # returns a Networkx graph given the FAAM elements d
 	#NODES
 	# add manifestation nodes
 	for manifestation in FAAM["manifestations"]:
-		title = """
-					<body>
-					<a href=\'"""+manifestation["FAAMUrl"]+""">"""+manifestation["title"]+""", """+manifestation["FAAM-ID"]+"""</a>
-					</body>
-					"""
+		url ="<a href=\'"+manifestation["FAAMUrl"]+">"+manifestation["title"]+", "+manifestation["FAAM-ID"]+"</a>"
+		title ="<body>"+url+"</body>"
 		add_node(net,manifestation["FAAM-ID"],manifestation["title"],nodes_colors["manifestation"],10*len(manifestation["musicalWorks"]),title)
 	# add work nodes
 	for work in FAAM["musicalWorks"]:
 		if "qid" in work: # exclude works without qid
-			title = """
-						<body>
-						<a href=\'"""+work["wikidataUrl"]+""">"""+work["workName"]+""", """+work["qid"]+"""</a>
-						</body>
-						"""
-			add_node(net,work["qid"],work["workName"],nodes_colors["work"],10*work["occurrence"],title)
+			url = "<a href=\'"+work["wikidataUrl"]+">"+work["workName"]+", "+work["qid"]+"</a>"
+			title ="<body>"+url+"</body>"
+			add_node(net,work["qid"],work["workName"],nodes_colors["work"],1000*work["occurrence"],title)
 	# add annotation nodes
 	for anno in FAAM["annotations"]:
-		title = """
-					<body>
-					<a href=\'"""+"not available"+""">"""+anno["annotationName"]+""", """+anno["qid"]+"""</a>
-					</body>
-					"""
+		url = "<a href=\'"+wikidataUrl+anno["qid"]+">"+anno["annotationName"]+", "+anno["qid"]+"</a>"
+		
 		add_node(net,anno["qid"],anno["annotationName"],nodes_colors["annotation"],5,title)
 	# add agent nodes
 	for agent in FAAM["agents"]:
 		if "qid" in agent: # exclude publishers for now
-			title = """
-					<body>
-					<a href=\'"""+wikidataUrl+agent["qid"]+""">"""+agent["agentName"]+""", """+agent["qid"]+"""</a>
-					</body>
-					"""
-			add_node(net,agent["qid"],agent["agentName"],nodes_colors["agent"],100,title)
+			url = "<a href=\'"+wikidataUrl+agent["qid"]+">"+agent["agentName"]+", "+agent["qid"]+"</a>"
+			title ="<body>"+url+"</body>"
+			add_node(net,agent["qid"],agent["agentName"],nodes_colors["agent"],1000,title)
 
 	#EDGES
 	for work in FAAM["musicalWorks"]:
 		#for composer in work["composers"]:
 			#net.add_edge(work["qid"],composer["qid"],weight=1)
 		for arranger in work["arrangers"]:
-			net.add_edge(work["qid"],arranger["qid"],weight=1)
+			if arranger["qid"] == "":
+				pass
+			else:
+				net.add_edge(work["qid"],arranger["qid"],weight=200)
 
 	return net
 
 def pyvis_visualization(net,net_filename):
 	layout = nx.spring_layout(net)
-	visualization=Network(height="1200px", width="1200px", bgcolor="#1C1A19", font_color="#f8f7f4", directed=False,select_menu=False,filter_menu=False,notebook=False)
-	visualization.barnes_hut()
+	visualization=Network(height="1200px", width="1200px", bgcolor="#1C1A19", font_color="#f8f7f4", directed=False,select_menu=True,filter_menu=False,notebook=False)
+	visualization.repulsion(node_distance=1000,
+							spring_strength=0.05,
+							central_gravity=0,
+							spring_length=1000,
+							damping=0.1)
 	visualization.from_nx(net)
 	visualization.toggle_physics(False)
 	visualization.show_buttons(filter_=['nodes','physics'])
@@ -116,7 +127,7 @@ def pyvis_visualization(net,net_filename):
   					},
   					"physics": {
 					"barnesHut": {
-	  				"gravitationalConstant": -12050
+	  				"gravitationalConstant": -10050
 					},
 					"minVelocity": 0.75
   					}
@@ -127,10 +138,6 @@ def pyvis_visualization(net,net_filename):
 	#input()
 	#visualization.write_html(name='example.html',notebook=False,open_browser=False)
 	visualization.save_graph(net_filename+'.html')
-
-def histograms(FAAM):
-	# Histogram occurrences in works
-	pass
 	
 def dict2json(dictionary,json_filename): 	#dumps a dictionary into a JSON file
 	json_file = open(json_filename,'w')
@@ -323,6 +330,7 @@ def faaamStatistics(FAAM): #Generates statistics for FAAM JSON
 		for annotation in manifestation["annotations"]: # add annotations to annotations list
 			query = list(filter(lambda x: x[1].get('annotationName') == annotation["annotationName"], enumerate(FAAM["annotations"])))
 			if len(query)>0:
+				print(FAAM["annotations"][query[0][0]])
 				current_annotation = FAAM["annotations"][query[0][0]]
 				current_annotation["FAAM-IDs"].append(manifestation["FAAM-ID"])
 				current_annotation["occurrence"]+=1
@@ -334,9 +342,10 @@ def faaamStatistics(FAAM): #Generates statistics for FAAM JSON
 			if len(query)>0:
 				FAAM["agents"][query[0][0]]["qid"] = composer["qid"]
 		for arranger in work["arrangers"]:
-			query = list(filter(lambda x: x[1].get('agentName') == arranger["agentName"],enumerate(FAAM["agents"])))
-			if len(query)>0:
-				FAAM["agents"][query[0][0]]["qid"] = arranger["qid"]
+			if arranger["agentName"] != "":
+				query = list(filter(lambda x: x[1].get('agentName') == arranger["agentName"],enumerate(FAAM["agents"])))
+				if len(query)>0:
+					FAAM["agents"][query[0][0]]["qid"] = arranger["qid"]
 
 
 	# Base statistics
@@ -351,10 +360,10 @@ def faaamStatistics(FAAM): #Generates statistics for FAAM JSON
 	mu = float(sum_arrangers)/len(FAAM["musicalWorks"])
 	mu2 = float(sum2_arrangers)/len(FAAM["musicalWorks"])
 	sigma = np.sqrt(mu2-(mu)**2)
-	max_occurrence = mu + 2*sigma
+	max_occurrence = mu + sigma
 	for work in FAAM["musicalWorks"]:
-		if work["occurrence"] > max_occurrence:
-			high_occurrences.append(work["workName"])
+		if work["occurrence"] >= max_occurrence:
+			high_occurrences.append({"workName": work["workName"], "occurrence": work["occurrence"]})
 
 	FAAM["statistics"] = {
 	"averageArrangersPerWork": mu,
@@ -371,9 +380,9 @@ def faaamStatistics(FAAM): #Generates statistics for FAAM JSON
 #print("Insert the input CSV filename (with extension): \n")
 #input_csv_filename = input()
 #TEST
-date = "20250130"
+date = "20250131"
 
-input_manifestations_csv_filename = "FAAM-scarlatti_export_20250130.csv"
+input_manifestations_csv_filename = "FAAM-scarlatti_export_"+date+".csv"
 input_works_csv_filename = "FAAM-scarlatti_works_export_"+date+".csv"
 input_annotations_csv_filename = "../FAAM_annotations/FAAM-annotations_export-"+date+".csv"
 output_json_filename = input_manifestations_csv_filename[:-4]+".json"
@@ -391,8 +400,18 @@ FAAM = faaamStatistics(FAAM)
 dict2json(FAAM,output_json_filename)
 
 print("Generating Graph network...")
-net = generate_network(FAAM)
-network_dict = nx.node_link_data(net)
-network_file = open(network_json_filename,'w')
-json.dump(network_dict,network_file,indent=2)
-pyvis_visualization(net,network_visualisation_filename)
+#net = generate_network(FAAM)
+#network_dict = nx.node_link_data(net)
+#network_file = open(network_json_filename,'w')
+#json.dump(network_dict,network_file,indent=2)
+#pyvis_visualization(net,network_visualisation_filename)
+
+print("Generating charts for statistics...")
+# create input list
+x_list = []
+y_list = []
+sortedHighOccurrenceWorks = sorted(FAAM["statistics"]["highOccurrenceWorks"], key=lambda x:x['occurrence'])
+x_list = list(map(lambda x: x.get('occurrence'),sortedHighOccurrenceWorks))
+y_list = list(map(lambda x: x.get('workName'),sortedHighOccurrenceWorks))
+# filter the first 10 works
+xy_horizontalhistogram(x_list[-12:],y_list[-12:],"Occurence","Works with high occurrence")
