@@ -6,7 +6,7 @@ This is a list of the solo keyboard repertoire that we are planning to play and 
 
 ### [Keyboard Sonatas](./Scarlatti-Domenico/Scarlatti-K1-555.md)
 
-For more information see the [Scarlatti Sonata report in JSON format](/analysis/scarlatti_sonatas/FAAM-scarlatti.json)
+For more information see the [Scarlatti Sonata report in JSON format](/analysis/scarlatti_sonatas/FAAM-scarlatti.json) to retrive the FAAM-IDs where the sonatas appears. Information about the given editorial annotations are also provided.
 
 | Sonata | Occurrences | 
 | -----  | --------    |
