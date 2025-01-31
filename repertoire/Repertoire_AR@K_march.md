@@ -8,7 +8,7 @@ This is a list of the solo keyboard repertoire that we are planning to play and 
 
 For more information see the [Scarlatti Sonata report in JSON format](/analysis/scarlatti_sonatas/FAAM-scarlatti.json) to retrive the FAAM-IDs where the sonatas appears. Information about the given editorial annotations are also provided.
 
-Have a look at the [network visualization](/analysis/scarlatti_sonatas/FAAM-scarlatti_network.html) (work in progress..)
+Have a look at the [network visualization](/analysis/scarlatti_sonatas/FAAM-scarlatti_network.html) (work in progress..) by running the HTML file in your browser.
 
 | Sonata | Occurrences | 
 | -----  | --------    |
