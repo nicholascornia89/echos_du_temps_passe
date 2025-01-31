@@ -23,7 +23,7 @@ For more information see the [Scarlatti Sonata report in JSON format](/analysis/
 | [Sonata in G minor, K.450]() | 6 |
 | [Sonata in D minor, K.434]() | 6 |
 
-<img src="../analysis/scarlatti_sonatas/histogram.png" attr="Histogram of occurrences" width=300px, height= 300>
+<img src="/analysis/scarlatti_sonatas/histogram.png" attr="Histogram of occurrences" width=500px, height= 300>
 
 ## Johann Sebastian Bach
 
