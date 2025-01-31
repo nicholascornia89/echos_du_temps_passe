@@ -8,6 +8,8 @@ This is a list of the solo keyboard repertoire that we are planning to play and 
 
 For more information see the [Scarlatti Sonata report in JSON format](/analysis/scarlatti_sonatas/FAAM-scarlatti.json) to retrive the FAAM-IDs where the sonatas appears. Information about the given editorial annotations are also provided.
 
+Have a look at the [network visualization](/analysis/scarlatti_sonatas/FAAM-scarlatti_network.html) (work in progress..)
+
 | Sonata | Occurrences | 
 | -----  | --------    |
 | [Sonata in D minor, K.9]() | 9 |
@@ -24,8 +26,6 @@ For more information see the [Scarlatti Sonata report in JSON format](/analysis/
 | [Sonata in D minor, K.434]() | 6 |
 
 <img src="/analysis/scarlatti_sonatas/histogram.png" attr="Histogram of occurrences" width=500px height= 300>
-
-<iframe src="/analysis/scarlatti_sonatas/FAAM-scarlatti_network.html" width=800px height= 800px>
 
 ## Johann Sebastian Bach
 
