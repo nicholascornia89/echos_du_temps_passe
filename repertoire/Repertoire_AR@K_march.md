@@ -12,7 +12,7 @@ Have a look at the [network visualization](/analysis/scarlatti_sonatas/FAAM-scar
 
 | Sonata | Occurrences | 
 | -----  | --------    |
-| [Sonata in D minor, K.9]() | 9 |
+| [Sonata in D minor, K.9](/encoded_music/project_transcriptions/scarlatti_sonatas) | 9 |
 | [Sonata in G minor, K.30]() | 9 |
 | [Sonata in A major, K.113]() | 8 |
 | [Sonata in G minor, K.8]() | 7 |
