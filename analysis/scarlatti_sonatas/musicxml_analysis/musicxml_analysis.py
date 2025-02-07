@@ -1,5 +1,13 @@
 '''
 This script will extract information about specific objects in a MusicXML file
+
+TO DO:
+- Extract GeneralNote.articulation and expressions
+- Fix wrong density for slurs and hairpins
+- Visualize results in charts using Matplotlib
+- Assign ids to elements that have no equivalent in Urtext, then color them
+- Export music21 Score back to MusicXML
+
 '''
 
 import sys
