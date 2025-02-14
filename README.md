@@ -21,13 +21,14 @@ Logs and output of performances.
 ### [Analysis](/analysis)
 Computational and Statistical analysis of the corpus, including scripts and quantitative data.
 
-- [ ] Complete Scarlatti Sonata's script for Statistics.
-- [ ] Import new metadata entries to CSV export files.
+- [x] Complete Scarlatti Sonata's script for Statistics.
+- [x] Import new metadata entries to CSV export files.
+- [ ] Musicdiff script for rendering differences between pieces.
 
 ### [Encoded Music](/encoded_music)
 : Digitally readable transcriptions of the pieces from our own and related projects.
 
-- [ ] Convert Scarlatti sonatas Humdrum files to MusicXML 
+- [ ] Finish Transcriptions of BWV 853
 
 ## Useful links
 
@@ -55,6 +56,12 @@ git commit -m "date, or other comment"
 git push origin main
 ```
 
+
+### Python
+
+For this project we are using Python 3.x for generating statistical data analysis.
+
+I have set up a **virtual environment** in the `analysis` folder with all the needed `pip` modules and packages to run the code.
 
 
 ## Abstract
