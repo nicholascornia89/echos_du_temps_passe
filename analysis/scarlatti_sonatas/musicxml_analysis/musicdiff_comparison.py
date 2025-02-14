@@ -1,19 +1,31 @@
 import musicdiff
-from musicdiff import Visualization
 import music21 as m21
+from pathlib import Path
 
 # Importing files:
-base_path = "../../encoded_music/project_transcriptions/bach_wtc/BWV853/"
-urtext_path = base_path+"/musicxml/BWV853_durr.musicxml"
-arrangement_path = base_path+"/musicxml/BWV853_czerny.musicxml"
-output_path = base_path+"output"
-
-print(output_path)
-
-# Difference between scores
-#diff(urtext_path,arrangement_path,output_path+"1.pdf",output_path+"2.pdf")
-Visualization.show_diffs(urtext_path,arrangement_path)
-# Render scores
-m21.converter.parse(output_path+"2.musicxml").show()
+# base_path = "../../encoded_music/project_transcriptions/bach_wtc/BWV853/"
+urtext_path = "K9_gilbert.musicxml"
+arrangement_path = "K9_czerny.musicxml"
+output_path = "output"
 
 
+# Difference between scores pdfs and MusicXML files are generated
+
+# See integer mapping of detail level
+# https://gregchapman-dev.github.io/musicdiff/musicdiff/detaillevel.html#DetailLevel
+
+
+def generate_differences():
+    musicdiff.diff(
+        urtext_path,
+        arrangement_path,
+        output_path + "_gilbert.pdf",
+        output_path + "_czerny.pdf",
+        force_parse=True,
+        visualize_diffs=True,
+        print_text_output=False,
+        detail=musicdiff.DetailLevel.Slurs,
+    )
+
+
+generate_differences()
