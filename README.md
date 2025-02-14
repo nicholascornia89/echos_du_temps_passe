@@ -63,6 +63,12 @@ For this project we are using Python 3.x for generating statistical data analysi
 
 I have set up a **virtual environment** in the `analysis` folder with all the needed `pip` modules and packages to run the code.
 
+To activate the virtual enviroment open the terminal in the project directory:
+
+```bash
+# activate the enviroment for this terminal
+source ./analysis/analysis-env/bin/activate
+```
 
 ## Abstract
 
