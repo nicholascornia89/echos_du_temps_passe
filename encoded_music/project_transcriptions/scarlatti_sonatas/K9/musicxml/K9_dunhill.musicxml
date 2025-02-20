@@ -7,7 +7,7 @@
     <rights>B. 32.645</rights>
     <encoding>
       <software>MuseScore 4.4.4</software>
-      <encoding-date>2025-02-07</encoding-date>
+      <encoding-date>2025-02-20</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -11107,12 +11107,12 @@
           <system-distance>320</system-distance>
           </system-layout>
         <staff-layout number="2">
-          <staff-distance>70.5</staff-distance>
+          <staff-distance>65</staff-distance>
           </staff-layout>
         </print>
       <direction placement="below">
         <direction-type>
-          <wedge type="crescendo" default-y="-77.1" number="1"/>
+          <wedge type="crescendo" default-y="-74.35" number="1"/>
           </direction-type>
         <staff>1</staff>
         </direction>
@@ -11223,7 +11223,7 @@
         </direction>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="2.31" default-y="-61.7" relative-y="-20">
+          <dynamics default-x="2.31" default-y="-58.95" relative-y="-20">
             <f/>
             </dynamics>
           </direction-type>
@@ -11280,7 +11280,7 @@
       <backup>
         <duration>24</duration>
         </backup>
-      <note default-x="76.48" default-y="-130.5">
+      <note default-x="76.48" default-y="-125">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -11288,11 +11288,11 @@
         <duration>12</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <dot default-x="94.47" default-y="-125.5"/>
+        <dot default-x="94.47" default-y="-120"/>
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="307.74" default-y="-165.5">
+      <note default-x="307.74" default-y="-160">
         <pitch>
           <step>D</step>
           <octave>2</octave>
@@ -11300,11 +11300,11 @@
         <duration>12</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <dot default-x="325.73" default-y="-165.5"/>
+        <dot default-x="325.73" default-y="-160"/>
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note default-x="307.74" default-y="-130.5">
+      <note default-x="307.74" default-y="-125">
         <chord/>
         <pitch>
           <step>D</step>
@@ -11313,7 +11313,7 @@
         <duration>12</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <dot default-x="325.73" default-y="-125.5"/>
+        <dot default-x="325.73" default-y="-120"/>
         <stem>up</stem>
         <staff>2</staff>
         </note>
@@ -11321,16 +11321,7 @@
     <measure number="59" width="335.94">
       <direction>
         <direction-type>
-          <words default-y="-42.52" relative-y="-25" font-style="italic">poco</words>
-          </direction-type>
-        <staff>1</staff>
-        </direction>
-      <direction placement="below" system="only-top">
-        <direction-type>
-          <words>rall.</words>
-          </direction-type>
-        <direction-type>
-          <dashes type="start" number="1"/>
+          <words default-y="-55.66" relative-y="-25" font-style="italic">poco rall.</words>
           </direction-type>
         <staff>1</staff>
         </direction>
@@ -11370,18 +11361,6 @@
             </articulations>
           </notations>
         </note>
-      <backup>
-        <duration>2</duration>
-        </backup>
-      <direction placement="below" system="only-top">
-        <direction-type>
-          <dashes type="stop" number="1"/>
-          </direction-type>
-        <staff>1</staff>
-        </direction>
-      <forward>
-        <duration>2</duration>
-        </forward>
       <note default-x="119.71" default-y="-25">
         <pitch>
           <step>A</step>
@@ -11455,7 +11434,7 @@
       <backup>
         <duration>24</duration>
         </backup>
-      <note default-x="12.5" default-y="-165.5">
+      <note default-x="12.5" default-y="-160">
         <pitch>
           <step>D</step>
           <octave>2</octave>
@@ -11463,11 +11442,11 @@
         <duration>12</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <dot default-x="30.49" default-y="-165.5"/>
+        <dot default-x="30.49" default-y="-160"/>
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note default-x="12.5" default-y="-130.5">
+      <note default-x="12.5" default-y="-125">
         <chord/>
         <pitch>
           <step>D</step>
@@ -11476,11 +11455,11 @@
         <duration>12</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <dot default-x="30.49" default-y="-125.5"/>
+        <dot default-x="30.49" default-y="-120"/>
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note default-x="173.32" default-y="-165.5">
+      <note default-x="173.32" default-y="-160">
         <pitch>
           <step>D</step>
           <octave>2</octave>
@@ -11488,11 +11467,11 @@
         <duration>12</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <dot default-x="191.31" default-y="-165.5"/>
+        <dot default-x="191.31" default-y="-160"/>
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note default-x="173.32" default-y="-130.5">
+      <note default-x="173.32" default-y="-125">
         <chord/>
         <pitch>
           <step>D</step>
@@ -11501,7 +11480,7 @@
         <duration>12</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <dot default-x="191.31" default-y="-125.5"/>
+        <dot default-x="191.31" default-y="-120"/>
         <stem>up</stem>
         <staff>2</staff>
         </note>
@@ -11557,7 +11536,7 @@
       <backup>
         <duration>20</duration>
         </backup>
-      <note default-x="12.5" default-y="-165.5">
+      <note default-x="12.5" default-y="-160">
         <pitch>
           <step>D</step>
           <octave>2</octave>
@@ -11566,14 +11545,14 @@
         <tie type="start"/>
         <voice>5</voice>
         <type>quarter</type>
-        <dot default-x="30.49" default-y="-165.5"/>
+        <dot default-x="30.49" default-y="-160"/>
         <stem>up</stem>
         <staff>2</staff>
         <notations>
           <tied type="start" orientation="under" placement="below"/>
           </notations>
         </note>
-      <note default-x="12.5" default-y="-130.5">
+      <note default-x="12.5" default-y="-125">
         <chord/>
         <pitch>
           <step>D</step>
@@ -11583,14 +11562,14 @@
         <tie type="start"/>
         <voice>5</voice>
         <type>quarter</type>
-        <dot default-x="30.49" default-y="-125.5"/>
+        <dot default-x="30.49" default-y="-120"/>
         <stem>up</stem>
         <staff>2</staff>
         <notations>
           <tied type="start" orientation="over" placement="above"/>
           </notations>
         </note>
-      <note default-x="114.43" default-y="-165.5">
+      <note default-x="114.43" default-y="-160">
         <pitch>
           <step>D</step>
           <octave>2</octave>
@@ -11605,7 +11584,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="114.43" default-y="-130.5">
+      <note default-x="114.43" default-y="-125">
         <chord/>
         <pitch>
           <step>D</step>
