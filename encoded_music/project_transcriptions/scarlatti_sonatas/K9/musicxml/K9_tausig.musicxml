@@ -7,7 +7,7 @@
     <rights>B. 32.645</rights>
     <encoding>
       <software>MuseScore 4.4.4</software>
-      <encoding-date>2025-02-20</encoding-date>
+      <encoding-date>2025-02-24</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -6820,6 +6820,15 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-x="3.1" default-y="-40" relative-x="-19.62" relative-y="-32.35">
+            <pp/>
+            </dynamics>
+          </direction-type>
+        <staff>1</staff>
+        <sound dynamics="54.44"/>
+        </direction>
       <note default-x="218.1" default-y="5">
         <pitch>
           <step>G</step>
@@ -9337,12 +9346,6 @@
       <forward>
         <duration>6</duration>
         </forward>
-      <direction placement="below">
-        <direction-type>
-          <wedge type="diminuendo" default-y="-58.23" number="1"/>
-          </direction-type>
-        <staff>1</staff>
-        </direction>
       <note default-x="109.13" default-y="25">
         <grace slash="yes"/>
         <pitch>
@@ -9372,6 +9375,12 @@
           <slur type="stop" number="2"/>
           </notations>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <wedge type="diminuendo" default-y="-58.23" number="1"/>
+          </direction-type>
+        <staff>1</staff>
+        </direction>
       <note default-x="166.54" default-y="15">
         <pitch>
           <step>B</step>
@@ -9577,18 +9586,12 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <backup>
-        <duration>6</duration>
-        </backup>
       <direction placement="below">
         <direction-type>
           <wedge type="stop" number="1"/>
           </direction-type>
         <staff>1</staff>
         </direction>
-      <forward>
-        <duration>6</duration>
-        </forward>
       <backup>
         <duration>72</duration>
         </backup>
