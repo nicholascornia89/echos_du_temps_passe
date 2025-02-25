@@ -10,7 +10,7 @@
   <identification>
     <encoding>
       <software>MuseScore 4.4.4</software>
-      <encoding-date>2025-02-20</encoding-date>
+      <encoding-date>2025-02-25</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -5225,7 +5225,7 @@
         </direction>
       <direction>
         <direction-type>
-          <words default-y="10.4" relative-y="15" font-style="italic">3 corde</words>
+          <words default-y="5.95" relative-y="15" font-style="italic">3 corde</words>
           </direction-type>
         <staff>2</staff>
         </direction>
@@ -5246,9 +5246,6 @@
         <type>eighth</type>
         <stem>up</stem>
         <staff>2</staff>
-        <notations>
-          <slur type="start" number="1"/>
-          </notations>
         </note>
       <direction placement="below">
         <direction-type>
@@ -5620,7 +5617,6 @@
         <staff>2</staff>
         <notations>
           <tied type="start" orientation="under" placement="below"/>
-          <slur type="stop" number="1"/>
           </notations>
         </note>
       <note default-x="165.81" default-y="-131.72">
