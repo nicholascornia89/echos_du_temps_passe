@@ -12,14 +12,19 @@ import csv, json
 
 # Import MusicXML paths
 transcriptionsPath = "../../../encoded_music/project_transcriptions/"
-sonataPath = os.path.join(transcriptionsPath, "scarlatti_sonatas/K9/musicxml/")
-pieceName = "K9"
-urtextName = pieceName + "_gilbert"
+sonataPath = os.path.join(transcriptionsPath, "bach_wtc/BWV853/musicxml/")
+pieceName = "BWV853"
+urtextName = pieceName + "_durr"
 arrangements = [
-    {"name": "tausig"},
-    {"name": "buonamici"},
-    {"name": "dunhill"},
+    {"name": "bartok"},
+    {"name": "bischoff"},
+    {"name": "busoni"},
     {"name": "czerny"},
+    {"name": "dejong"},
+    {"name": "selva"},
+    {"name": "morgan"},
+    {"name": "sporck"},
+    {"name": "wouters"},
 ]
 
 
@@ -203,22 +208,6 @@ def m21stream2dict(score):
 
     # get Pedal: not supported by Music21...
 
-    # get Articulation
-    # get TextExpressions (rall. other instructions)
-    for el in score.flatten().getElementsByClass(
-        ("Staccato", "Accent", "Staccatissimo", "Tenuto")
-    ):
-        score_dict.append(
-            {
-                "measure_start": el.measureNumber,
-                "measure_end": "",
-                "object": el,
-                "value": el.name,
-                "id": el.id,
-                "quarterlength": el.quarterLength,
-                "offset": el.offset,
-            }
-        )
     # compute number of measures
     max_measure = 0
     for item in score_dict:

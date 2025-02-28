@@ -1,971 +1,1152 @@
 measure_start,measure_end,object,value,id,quarterlength,offset
-0,,<music21.note.Note B>,note,131054984465968,0.5,0.0
-0,,<music21.note.Rest eighth>,note,131054979656464,0.5,0.0
-0,,<music21.dynamics.Dynamic p>,p,131054984465632,,
-0,,<music21.expressions.TextExpression 'Allegretto'>,Allegretto,131054984464672,0.0,0.0
-0,,<music21.tempo.MetronomeMark Quarter=116 (playback only)>,None,131054984465200,0.0,0.0
-0,,<music21.tempo.MetronomeMark Quarter=116 (playback only)>,None None,131054984465200,0.0,0.0
-1,,<music21.note.Note E>,note,131054984466784,0.5,0.5
-1,,<music21.chord.Chord E4 G4 B4>,note,131054984467648,1.5,0.5
-1,,<music21.note.Note F#>,note,131054981558640,0.5,1.0
-1,,<music21.note.Note G>,note,131054981558832,0.5,1.5
-1,,<music21.note.Note F#>,note,131054981559024,0.5,2.0
-1,,<music21.chord.Chord D#4 F#4 B4>,note,131054979656656,1.5,2.0
-1,,<music21.note.Note B>,note,131054981559216,0.5,2.5
-1,,<music21.note.Note B>,note,131054981559408,0.5,3.0
-1,2,<music21.spanner.Slur <music21.note.Note E><music21.note.Note G>>,slur,131054984466688,3.0,0.0
-1,2,<music21.spanner.Slur <music21.chord.Chord E4 G4 B4><music21.note.Note E>>,slur,131054984467504,3.0,0.0
-2,,<music21.note.Note G>,note,131054984467072,1.5,3.5
-2,,<music21.note.Note E>,note,131054984468320,0.5,3.5
-2,,<music21.note.Note G>,note,131054979657328,0.5,4.0
-2,,<music21.note.Note B>,note,131054979657520,0.5,4.5
-2,,<music21.note.Note F#>,note,131054981559648,1.0,5.0
-2,,<music21.note.Note D>,note,131054979657712,0.5,5.0
-2,,<music21.note.Note G>,note,131054979657904,0.5,5.5
-2,,<music21.note.Note B>,note,131054981559840,0.5,6.0
-2,,<music21.note.Note B>,note,131054979658096,0.5,6.0
-2,3,<music21.spanner.Slur <music21.note.Note G><music21.note.Note A>>,slur,131054984468512,3.0,0.0
-2,3,<music21.spanner.Slur <music21.note.Note E><music21.chord.Chord C4 E4 A4>>,slur,131054984468848,3.0,0.0
-3,,<music21.note.Note A>,note,131054984468608,0.5,6.5
-3,,<music21.chord.Chord C4 E4 A4>,note,131054984468944,1.5,6.5
-3,,<music21.note.Note C>,note,131054984469664,0.25,7.0
-3,,<music21.note.Note B>,note,131054981560080,0.25,7.25
-3,,<music21.note.Note A>,note,131054981560272,0.25,7.5
-3,,<music21.note.Note G>,note,131054981560464,0.25,7.75
-3,,<music21.note.Note F#>,note,131054984469856,0.5,8.0
-3,,<music21.chord.Chord A3 E4 F#4 C5>,note,131054984471008,0.5,8.0
-3,,<music21.note.Note A>,note,131054984470384,0.25,8.5
-3,,<music21.note.Rest eighth>,note,131054979658336,0.5,8.5
-3,,<music21.note.Note G>,note,131054981560656,0.25,8.75
-3,,<music21.note.Note F#>,note,131054981560848,0.25,9.0
-3,,<music21.note.Rest eighth>,note,131054979658432,0.5,9.0
-3,,<music21.note.Note E>,note,131054981561040,0.25,9.25
-3,3,<music21.spanner.Slur <music21.note.Note C><music21.note.Note F#>>,slur,131054984469568,1.0,0.0
-3,4,<music21.spanner.Slur <music21.note.Note A><music21.note.Note D#>>,slur,131054984470288,2.5,0.0
-3,3,<music21.spanner.Slur <music21.chord.Chord C4 E4 A4><music21.chord.Chord A3 E4 F#4 C5>>,slur,131054984470912,1.5,0.0
-4,,<music21.note.Note E>,note,131054984472016,1.0,9.5
-4,,<music21.note.Note B>,note,131054984473072,0.5,9.5
-4,,<music21.note.Note F#>,note,131054979658672,0.5,10.0
-4,,<music21.note.Note D#>,note,131054981561520,0.5,10.5
-4,,<music21.note.Note B>,note,131054984473264,0.5,10.5
-4,,<music21.note.Note D#>,note,131054984470576,1.0,11.0
-4,,<music21.note.Note B>,note,131054984473600,0.25,11.0
-4,,<music21.note.Note A>,note,131054979658864,0.25,11.25
-4,,<music21.note.Note G>,note,131054979659056,0.25,11.5
-4,,<music21.note.Note F#>,note,131054979659248,0.25,11.75
-4,,<music21.note.Note B>,note,131054984472304,0.5,12.0
-4,,<music21.chord.Chord E4 G4>,note,131054984473792,0.5,12.0
-4,8,<music21.spanner.Slur <music21.note.Note B><music21.note.Note D>>,slur,131054984472640,9.5,0.0
-4,4,<music21.spanner.Slur <music21.note.Note B><music21.note.Note B>>,slur,131054984472976,1.0,0.0
-4,4,<music21.spanner.Slur <music21.note.Note B><music21.chord.Chord E4 G4>>,slur,131054984473504,1.0,0.0
-4,4,<music21.dynamics.Crescendo <music21.note.Note E><music21.note.Note B>>,diminuendo,131054984471824,,
-4,,<music21.expressions.TextExpression 'ten.'>,ten.,131054981561328,0.0,10.5
-5,,<music21.note.Note D>,note,131054981562144,0.5,12.5
-5,,<music21.note.Note B>,note,131054984474416,0.5,12.5
-5,,<music21.note.Note C>,note,131054981562336,0.5,13.0
-5,,<music21.note.Note A>,note,131054979659488,0.5,13.0
-5,,<music21.note.Note A>,note,131054981857504,0.5,13.5
-5,,<music21.note.Note D#>,note,131054979659680,0.5,13.5
-5,,<music21.note.Note C>,note,131054981857696,0.5,14.0
-5,,<music21.note.Note A>,note,131054979659872,0.5,14.0
-5,,<music21.note.Note B>,note,131054981857888,0.5,14.5
-5,,<music21.note.Note G>,note,131054979660064,0.5,14.5
-5,,<music21.note.Note G>,note,131054981858080,0.5,15.0
-5,,<music21.note.Note E>,note,131054979660256,0.5,15.0
-5,8,<music21.spanner.Slur <music21.note.Note B><music21.note.Note B>>,slur,131054984474272,9.0,0.0
-5,,<music21.dynamics.Dynamic p>,p,131054981562000,,
-5,,<music21.expressions.TextExpression 'tranquillo'>,tranquillo,131054981561856,0.0,12.5
-6,,<music21.note.Note B>,note,131054981858320,0.5,15.5
-6,,<music21.note.Note G>,note,131054979660496,0.5,15.5
-6,,<music21.note.Note A>,note,131054981858512,0.5,16.0
-6,,<music21.note.Note F#>,note,131054979660688,0.5,16.0
-6,,<music21.note.Note F#>,note,131054981858704,0.5,16.5
-6,,<music21.note.Note B>,note,131054979660880,0.5,16.5
-6,,<music21.note.Note A>,note,131054981858896,0.5,17.0
-6,,<music21.note.Note F#>,note,131054979661072,0.5,17.0
-6,,<music21.note.Note G>,note,131054981859088,0.5,17.5
-6,,<music21.note.Note E>,note,131054979661264,0.5,17.5
-6,,<music21.note.Note E>,note,131054981859280,0.5,18.0
-6,,<music21.note.Note C>,note,131054979661456,0.5,18.0
-7,,<music21.note.Note G>,note,131054981859568,0.5,18.5
-7,,<music21.note.Note E>,note,131054979661792,0.5,18.5
-7,,<music21.note.Note F#>,note,131054981859760,0.5,19.0
-7,,<music21.note.Note D>,note,131054977974496,0.5,19.0
-7,,<music21.note.Note D>,note,131054981859952,0.5,19.5
-7,,<music21.note.Note G>,note,131054977974688,0.5,19.5
-7,,<music21.note.Note F#>,note,131054984474944,0.5,20.0
-7,,<music21.note.Note D>,note,131054977974880,0.5,20.0
-7,,<music21.note.Note E>,note,131054984475136,0.5,20.5
-7,,<music21.note.Note C>,note,131054977975072,0.5,20.5
-7,,<music21.note.Note C>,note,131054981860144,0.5,21.0
-7,,<music21.note.Note A>,note,131054977975264,0.5,21.0
-7,7,<music21.spanner.Slur <music21.note.Note F#><music21.note.Note E>>,slur,131054984474368,0.5,0.0
-8,,<music21.note.Note D>,note,131054984472736,0.5,21.5
-8,,<music21.note.Note B>,note,131054984474608,0.5,21.5
-8,,<music21.note.Note E>,note,131054984475424,0.25,22.0
-8,,<music21.note.Note C>,note,131054984475952,0.25,22.0
-8,,<music21.note.Note F#>,note,131054981860384,0.25,22.25
-8,,<music21.note.Note D>,note,131054977975504,0.25,22.25
-8,,<music21.note.Note G>,note,131054981860576,0.25,22.5
-8,,<music21.note.Note E>,note,131054977975696,0.25,22.5
-8,,<music21.note.Note A>,note,131054981860768,0.25,22.75
-8,,<music21.note.Note F#>,note,131054977975888,0.25,22.75
-8,,<music21.note.Note B>,note,131054984475616,0.5,23.0
-8,,<music21.note.Note G>,note,131054984476144,0.5,23.0
-8,,<music21.note.Note A>,note,131054981860960,0.5,23.5
-8,,<music21.note.Note F#>,note,131054977976080,0.5,23.5
-8,,<music21.note.Note G>,note,131054981861200,0.5,24.0
-8,,<music21.note.Note E>,note,131054977976320,0.5,24.0
-8,8,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,131054984474896,1.0,0.0
-8,8,<music21.spanner.Slur <music21.note.Note C><music21.note.Note G>>,slur,131054984475328,1.0,0.0
-9,,<music21.note.Note F#>,note,131054984476432,0.25,24.5
-9,,<music21.note.Note D>,note,131054984476960,0.25,24.5
-9,,<music21.note.Note G>,note,131054981861488,0.25,24.75
-9,,<music21.note.Note E>,note,131054977976608,0.25,24.75
-9,,<music21.note.Note A>,note,131054981861680,0.25,25.0
-9,,<music21.note.Note F#>,note,131054977976800,0.25,25.0
-9,,<music21.note.Note B>,note,131054981861872,0.25,25.25
-9,,<music21.note.Note G>,note,131054977976992,0.25,25.25
-9,,<music21.note.Note C>,note,131054981862064,0.25,25.5
-9,,<music21.note.Note A>,note,131054977977184,0.25,25.5
-9,,<music21.note.Note D>,note,131054981862256,0.25,25.75
-9,,<music21.note.Note B>,note,131054977977376,0.25,25.75
-9,,<music21.note.Note E>,note,131054984476624,0.5,26.0
-9,,<music21.note.Note C>,note,131054984477152,0.5,26.0
-9,,<music21.note.Note D>,note,131054981862448,0.5,26.5
-9,,<music21.note.Note B>,note,131054977977568,0.5,26.5
-9,,<music21.note.Note C>,note,131054981862688,0.5,27.0
-9,,<music21.note.Note A>,note,131054977977808,0.5,27.0
-9,9,<music21.spanner.Slur <music21.note.Note F#><music21.note.Note E>>,slur,131054984475856,1.5,0.0
-9,9,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,131054984476864,1.5,0.0
-10,,<music21.note.Note B>,note,131054981863024,0.5,27.5
-10,,<music21.note.Note G>,note,131054977978192,0.5,27.5
-10,,<music21.note.Note C>,note,131054984477488,0.25,28.0
-10,,<music21.note.Note A>,note,131054984478016,0.25,28.0
-10,,<music21.note.Note D>,note,131054981863264,0.25,28.25
-10,,<music21.note.Note B>,note,131054977978432,0.25,28.25
-10,,<music21.note.Note E>,note,131054981863456,0.25,28.5
-10,,<music21.note.Note C>,note,131054977978624,0.25,28.5
-10,,<music21.note.Note F#>,note,131054981863648,0.25,28.75
-10,,<music21.note.Note D>,note,131054977978816,0.25,28.75
-10,,<music21.note.Note G>,note,131054984477680,0.5,29.0
-10,,<music21.note.Note E>,note,131054984478208,0.5,29.0
-10,,<music21.note.Note F#>,note,131054981863840,0.5,29.5
-10,,<music21.note.Note D>,note,131054977979008,0.5,29.5
-10,,<music21.note.Note E>,note,131054981864080,0.5,30.0
-10,,<music21.note.Note C>,note,131054977979248,0.5,30.0
-10,10,<music21.spanner.Slur <music21.note.Note C><music21.note.Note G>>,slur,131054984477392,1.0,0.0
-10,10,<music21.spanner.Slur <music21.note.Note A><music21.note.Note E>>,slur,131054984477920,1.0,0.0
-11,,<music21.note.Note D>,note,131054984478544,0.25,30.5
-11,,<music21.note.Note B>,note,131054985134496,0.25,30.5
-11,,<music21.note.Note E>,note,131054981864368,0.25,30.75
-11,,<music21.note.Note C>,note,131054977979536,0.25,30.75
-11,,<music21.note.Note F#>,note,131054981864560,0.25,31.0
-11,,<music21.note.Note D>,note,131054977979728,0.25,31.0
-11,,<music21.note.Note G>,note,131054981864752,0.25,31.25
-11,,<music21.note.Note E>,note,131054977979920,0.25,31.25
-11,,<music21.note.Note A>,note,131054981864944,0.25,31.5
-11,,<music21.note.Note F#>,note,131054977980112,0.25,31.5
-11,,<music21.note.Note B>,note,131054981865136,0.125,31.75
-11,,<music21.note.Note G>,note,131054977980304,0.125,31.75
-11,,<music21.note.Note C>,note,131054981865328,0.125,31.875
-11,,<music21.note.Note A>,note,131054977980496,0.125,31.875
-11,,<music21.note.Note D>,note,131054985134160,0.5,32.0
-11,,<music21.note.Note B>,note,131054985134688,0.5,32.0
-11,,<music21.note.Note C>,note,131054981865520,0.5,32.5
-11,,<music21.note.Note A>,note,131054977980688,0.5,32.5
-11,,<music21.note.Note B>,note,131054981865760,0.5,33.0
-11,,<music21.note.Note G>,note,131054977980928,0.5,33.0
-11,11,<music21.spanner.Slur <music21.note.Note D><music21.note.Note D>>,slur,131054984478448,1.5,0.0
-11,11,<music21.spanner.Slur <music21.note.Note B><music21.note.Note B>>,slur,131054985134400,1.5,0.0
-12,,<music21.note.Note A>,note,131054985134976,1.5,33.5
-12,,<music21.chord.Chord A4 F#5>,note,131054985135408,1.5,33.5
-12,,<music21.note.Note D>,note,131054977981312,3.0,33.5
-12,,<music21.note.Note A>,note,131054981866048,0.5,35.0
-12,,<music21.chord.Chord F#4 A4 D5>,note,131054985135840,1.5,35.0
-12,,<music21.note.Note D>,note,131054981866336,0.5,35.5
-12,,<music21.note.Note D>,note,131054981866576,0.5,36.0
-12,12,<music21.spanner.Slur <music21.chord.Chord A4 F#5><music21.chord.Chord F#4 A4 D5>>,slur,131054985135312,1.5,0.0
-13,,<music21.note.Note E>,note,131054985136560,1.0,36.5
-13,,<music21.chord.Chord G4 B4>,note,131054985137424,1.5,36.5
-13,,<music21.note.Note D>,note,131054977981744,3.0,36.5
-13,,<music21.note.Note D>,note,131054985136800,0.5,37.5
-13,,<music21.note.Note D>,note,131054985137088,0.5,38.0
-13,,<music21.chord.Chord F#4 A4>,note,131054985137856,1.5,38.0
-13,,<music21.note.Note D>,note,131054981866912,0.5,38.5
-13,,<music21.note.Note D>,note,131054981867152,0.5,39.0
-13,13,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D>>,slur,131054985136992,1.5,0.0
-13,13,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.chord.Chord F#4 A4>>,slur,131054985137328,1.5,0.0
-14,,<music21.note.Note E>,note,131054985138384,1.0,39.5
-14,,<music21.chord.Chord G4 B4>,note,131054977982080,1.5,39.5
-14,,<music21.note.Note D>,note,131054977983376,3.0,39.5
-14,,<music21.note.Note D>,note,131054985138624,0.5,40.5
-14,,<music21.note.Note D>,note,131054985138912,0.5,41.0
-14,,<music21.chord.Chord F#4 A4>,note,131054977982512,0.5,41.0
-14,,<music21.note.Note D>,note,131054985139248,0.5,41.5
-14,,<music21.note.Note E>,note,131054977982944,0.5,41.5
-14,,<music21.note.Note C>,note,131054981867440,0.5,42.0
-14,,<music21.note.Note F#>,note,131054977983136,0.5,42.0
-14,14,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D>>,slur,131054985138816,1.5,0.0
-14,16,<music21.spanner.Slur <music21.note.Note D><music21.chord.Chord B4 G5>>,slur,131054985139152,4.0,0.0
-15,,<music21.note.Note B>,note,131054981867680,0.0,42.5
-15,,<music21.note.Note C>,note,131054981867872,0.0,42.5
-15,,<music21.note.Note B>,note,131054981868112,0.5,42.5
-15,,<music21.note.Note B>,note,131054977983712,1.5,42.5
-15,,<music21.note.Note G>,note,131054985139968,1.0,42.5
-15,,<music21.note.Note A>,note,131054981868304,0.5,43.0
-15,,<music21.note.Note G>,note,131054981868496,0.5,43.5
-15,,<music21.note.Note C>,note,131054977984144,0.5,43.5
-15,,<music21.chord.Chord B4 G5>,note,131054981868688,0.5,44.0
-15,,<music21.note.Note D>,note,131054977983904,1.5,44.0
-15,,<music21.note.Note D>,note,131054985140160,1.5,44.0
-15,,<music21.chord.Chord C5 A5>,note,131054981869120,0.5,44.5
-15,,<music21.chord.Chord A4 F#5>,note,131054981869552,0.5,45.0
-15,15,<music21.spanner.Slur <music21.note.Note G><music21.note.Note D>>,slur,131054985139872,1.5,0.0
-16,,<music21.chord.Chord B4 G5>,note,131054985139440,0.25,45.5
-16,,<music21.chord.Chord D4 G4>,note,131054977984384,0.5,45.5
-16,,<music21.chord.Chord D5 A5>,note,131054981870176,0.25,45.75
-16,,<music21.chord.Chord B4 G5>,note,131054981870608,0.25,46.0
-16,,<music21.chord.Chord G3 D4>,note,131054977984864,0.5,46.0
-16,,<music21.chord.Chord D5 A5>,note,131054981871040,0.25,46.25
-16,,<music21.chord.Chord B4 G5>,note,131054981871472,0.25,46.5
-16,,<music21.chord.Chord D3 G3>,note,131054977985392,0.5,46.5
-16,,<music21.chord.Chord D5 A5>,note,131054981871904,0.25,46.75
-16,,<music21.chord.Chord B4 G5>,note,131054985140448,0.5,47.0
-16,,<music21.chord.Chord G2 D3>,note,131054977985872,1.5,47.0
-16,,<music21.chord.Chord C5 A5>,note,131054981872336,0.5,47.5
-16,,<music21.chord.Chord G4 D5>,note,131054981872816,0.5,48.0
-16,16,<music21.spanner.Slur <music21.chord.Chord B4 G5><music21.chord.Chord B4 G5>>,slur,131054985140352,1.5,0.0
-16,,<music21.dynamics.Dynamic p>,p,131054981870032,,
-17,,<music21.chord.Chord G5 B5>,note,131054985141024,0.25,48.5
-17,,<music21.chord.Chord D4 G4>,note,131054977986640,0.5,48.5
-17,,<music21.chord.Chord D5 A5>,note,131054981873392,0.25,48.75
-17,,<music21.chord.Chord G5 B5>,note,131054980055264,0.25,49.0
-17,,<music21.chord.Chord G3 D4>,note,131054977987120,0.5,49.0
-17,,<music21.chord.Chord D5 A5>,note,131054980055696,0.25,49.25
-17,,<music21.chord.Chord G5 B5>,note,131054980056128,0.25,49.5
-17,,<music21.chord.Chord D3 G3>,note,131054977987648,0.5,49.5
-17,,<music21.chord.Chord D5 A5>,note,131054980056560,0.25,49.75
-17,,<music21.note.Note G>,note,131054985141456,0.5,50.0
-17,,<music21.chord.Chord G2 D3>,note,131054977988128,1.5,50.0
-17,,<music21.chord.Chord D5 A5>,note,131054980056992,0.5,50.5
-17,,<music21.chord.Chord G4 D5>,note,131054980057472,0.5,51.0
-17,17,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.note.Note G>>,slur,131054985140928,1.5,0.0
-18,,<music21.chord.Chord G5 B5>,note,131054985141792,0.25,51.5
-18,,<music21.chord.Chord D4 G4>,note,131054977988752,0.5,51.5
-18,,<music21.chord.Chord D5 A5>,note,131054980058000,0.25,51.75
-18,,<music21.chord.Chord G5 B5>,note,131054980058432,0.25,52.0
-18,,<music21.chord.Chord G3 D4>,note,131054977989232,0.5,52.0
-18,,<music21.chord.Chord D5 A5>,note,131054980058864,0.25,52.25
-18,,<music21.chord.Chord G5 B5>,note,131054980059296,0.25,52.5
-18,,<music21.chord.Chord D3 G3>,note,131054977989760,0.5,52.5
-18,,<music21.chord.Chord D5 A5>,note,131054980059728,0.25,52.75
-18,,<music21.note.Note G>,note,131054985142224,0.5,53.0
-18,,<music21.chord.Chord G2 D3>,note,131054977990240,1.0,53.0
-18,,<music21.chord.Chord D5 A5>,note,131054980060160,0.5,53.5
-18,,<music21.note.Note D>,note,131054980060640,0.5,54.0
-18,,<music21.chord.Chord F#4 A4 C5>,note,131054978367712,0.5,54.0
-18,18,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.note.Note G>>,slur,131054985141696,1.5,0.0
-19,,<music21.chord.Chord G5 B5>,note,131054985142608,0.5,54.5
-19,,<music21.chord.Chord B4 D5>,note,131054985145296,1.5,54.5
-19,,<music21.chord.Chord A5 C6>,note,131054980060928,0.5,55.0
-19,,<music21.chord.Chord B5 D6>,note,131054985143040,0.5,55.5
-19,,<music21.note.Rest 16th>,note,131054980061408,0.25,55.75
-19,,<music21.note.Rest 16th>,note,131054978368432,0.25,55.75
-19,,<music21.chord.Chord B5 D6>,note,131054985144240,0.5,56.0
-19,,<music21.chord.Chord E4 G4 B4 D5>,note,131054985145728,1.5,56.0
-19,,<music21.chord.Chord A5 C6>,note,131054980061552,0.5,56.5
-19,,<music21.chord.Chord G5 B5>,note,131054985144768,0.5,57.0
-19,,<music21.note.Rest 16th>,note,131054980061984,0.25,57.25
-19,,<music21.note.Rest 16th>,note,131054978368528,0.25,57.25
-19,21,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord G4 B4>>,slur,131054985143568,6.0,0.0
-19,19,<music21.spanner.Slur <music21.chord.Chord B4 D5><music21.chord.Chord E4 G4 B4 D5>>,slur,131054985145200,1.5,0.0
-19,19,<music21.spanner.Slur <music21.chord.Chord B4 D5><music21.chord.Chord E4 G4 B4 D5>>,slur,131054985146592,1.5,0.0
-19,20,<music21.spanner.Slur <music21.chord.Chord B4 D5><music21.note.Note D>>,slur,131054985146688,4.5,0.0
-19,19,<music21.dynamics.Crescendo <music21.chord.Chord G5 B5><music21.chord.Chord B5 D6>>,diminuendo,131054985142464,,
-19,19,<music21.dynamics.Diminuendo <music21.chord.Chord B5 D6><music21.chord.Chord G5 B5>>,diminuendo,131054985144096,,
-20,,<music21.note.Note A>,note,131054980062224,0.25,57.5
-20,,<music21.chord.Chord F#4 A4 C5>,note,131054978368864,1.5,57.5
-20,,<music21.note.Note G>,note,131054985147120,0.25,57.75
-20,,<music21.note.Note F#>,note,131054980062416,0.25,58.0
-20,,<music21.note.Note E>,note,131054980062608,0.25,58.25
-20,,<music21.note.Note D>,note,131054980062800,0.25,58.5
-20,,<music21.note.Note C>,note,131054980062992,0.25,58.75
-20,,<music21.note.Note B>,note,131054980063184,0.25,59.0
-20,,<music21.note.Note D>,note,131054985146784,0.5,59.0
-20,,<music21.note.Note A>,note,131054980063376,0.25,59.25
-20,,<music21.note.Note G>,note,131054980063568,0.25,59.5
-20,,<music21.note.Rest eighth>,note,131054978369536,0.5,59.5
-20,,<music21.note.Note F#>,note,131054980063760,0.25,59.75
-20,,<music21.note.Note E>,note,131054980063952,0.25,60.0
-20,,<music21.note.Rest eighth>,note,131054978369632,0.5,60.0
-20,,<music21.note.Note D>,note,131054985147312,0.25,60.25
-20,20,<music21.dynamics.Diminuendo <music21.note.Note G><music21.note.Note D>>,diminuendo,131054985146976,,
-21,,<music21.chord.Chord G4 B4>,note,131054985143664,0.25,60.5
-21,,<music21.note.Note G>,note,131054978369776,0.5,60.5
-21,,<music21.chord.Chord D4 A4>,note,131054980064192,0.25,60.75
-21,,<music21.chord.Chord G4 B4>,note,131054980064624,0.25,61.0
-21,,<music21.note.Note D>,note,131054978370016,0.5,61.0
-21,,<music21.chord.Chord D4 A4>,note,131054980065056,0.25,61.25
-21,,<music21.chord.Chord G4 B4>,note,131054980065488,0.25,61.5
-21,,<music21.note.Note G>,note,131054978370256,0.5,61.5
-21,,<music21.chord.Chord D4 A4>,note,131054980065920,0.25,61.75
-21,,<music21.note.Note G>,note,131054985147600,0.5,62.0
-21,,<music21.note.Note D>,note,131054978370496,1.5,62.0
-21,,<music21.note.Note A>,note,131054980066352,0.5,62.5
-21,,<music21.note.Note D>,note,131054980066592,0.5,63.0
-21,21,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.note.Note G>>,slur,131054985147504,1.5,0.0
-22,,<music21.chord.Chord G4 B4>,note,131054985147936,0.25,63.5
-22,,<music21.note.Note G>,note,131054978370784,0.5,63.5
-22,,<music21.chord.Chord D4 A4>,note,131054980066880,0.25,63.75
-22,,<music21.chord.Chord G4 B4>,note,131054980067312,0.25,64.0
-22,,<music21.note.Note D>,note,131054978371024,0.5,64.0
-22,,<music21.chord.Chord D4 A4>,note,131054980067744,0.25,64.25
-22,,<music21.chord.Chord G4 B4>,note,131054980068176,0.25,64.5
-22,,<music21.note.Note G>,note,131054978371264,0.5,64.5
-22,,<music21.chord.Chord D4 A4>,note,131054980068608,0.25,64.75
-22,,<music21.note.Note G>,note,131054985148368,0.5,65.0
-22,,<music21.note.Note D>,note,131054978371504,1.5,65.0
-22,,<music21.note.Note A>,note,131054980069040,0.5,65.5
-22,,<music21.note.Note D>,note,131054980069280,0.5,66.0
-22,22,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.note.Note G>>,slur,131054985147840,1.5,0.0
-23,,<music21.chord.Chord G4 B4>,note,131054985148704,0.25,66.5
-23,,<music21.note.Note G>,note,131054978371792,0.5,66.5
-23,,<music21.chord.Chord D4 A4>,note,131054980069568,0.25,66.75
-23,,<music21.chord.Chord G4 B4>,note,131054980070000,0.25,67.0
-23,,<music21.note.Note D>,note,131054978372032,0.5,67.0
-23,,<music21.chord.Chord D4 A4>,note,131054980070432,0.25,67.25
-23,,<music21.chord.Chord G4 B4>,note,131054980070864,0.25,67.5
-23,,<music21.note.Note G>,note,131054978372272,0.5,67.5
-23,,<music21.chord.Chord D4 A4>,note,131054980071296,0.25,67.75
-23,,<music21.note.Note G>,note,131054985149136,0.5,68.0
-23,,<music21.note.Note D>,note,131054978372512,1.5,68.0
-23,,<music21.note.Note A>,note,131054980366704,0.5,68.5
-23,,<music21.note.Note D>,note,131054980366944,0.5,69.0
-23,23,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.note.Note G>>,slur,131054985148608,1.5,0.0
-24,,<music21.note.Note B>,note,131054985149472,0.5,69.5
-24,,<music21.note.Note G>,note,131054980368384,1.0,69.5
-24,,<music21.note.Note G>,note,131054985149952,1.0,69.5
-24,,<music21.note.Note A>,note,131054980367376,0.5,70.0
-24,,<music21.note.Note G>,note,131054980367568,0.5,70.5
-24,,<music21.note.Note E>,note,131054980368576,0.5,70.5
-24,,<music21.note.Note C>,note,131054978372896,0.5,70.5
-24,,<music21.note.Note B>,note,131054980367760,0.5,71.0
-24,,<music21.note.Note G>,note,131054980368768,0.5,71.0
-24,,<music21.note.Note D>,note,131054978373088,1.0,71.0
-24,,<music21.note.Note C>,note,131054980367952,0.5,71.5
-24,,<music21.note.Note A>,note,131054980368960,0.5,71.5
-24,,<music21.note.Note A>,note,131054980368144,0.5,72.0
-24,,<music21.note.Note F#>,note,131054980369152,0.5,72.0
-24,,<music21.note.Note D>,note,131054978373280,0.5,72.0
-24,25,<music21.spanner.Slur <music21.note.Note B><music21.note.Note G>>,slur,131054985149376,3.0,0.0
-24,25,<music21.spanner.Slur <music21.note.Note G><music21.chord.Chord G2 D3 B3>>,slur,131054985149856,3.0,0.0
-25,,<music21.note.Note G>,note,131054985149664,0.25,72.5
-25,,<music21.chord.Chord G2 D3 B3>,note,131054985150144,1.5,72.5
-25,,<music21.note.Note A>,note,131054980369584,0.125,72.75
-25,,<music21.note.Note B>,note,131054980369776,0.125,72.875
-25,,<music21.note.Note C>,note,131054980369968,1/6,73.0
-25,,<music21.note.Note D>,note,131054980370448,1/6,439/6
-25,,<music21.note.Note E>,note,131054980370880,1/6,220/3
-25,,<music21.note.Note F#>,note,131054980371312,1/6,73.5
-25,,<music21.note.Note G>,note,131054980371744,1/6,221/3
-25,,<music21.note.Note A>,note,131054980372176,1/6,443/6
-25,,<music21.chord.Chord G5 B5>,note,131054981136848,0.5,74.0
-25,,<music21.chord.Chord G2 D3 B3>,note,131054978373520,1.5,74.0
-25,,<music21.chord.Chord D5 B5 D6>,note,131054981137376,0.5,74.5
-25,,<music21.chord.Chord G4 D5>,note,131054980372752,0.5,75.0
-25,25,<music21.spanner.Slur <music21.note.Note G><music21.chord.Chord G5 B5>>,slur,131054981136752,1.5,0.0
-25,25,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord D5 B5 D6>>,slur,131054981137280,0.5,0.0
-25,,<music21.dynamics.Dynamic pp>,pp,131054980369392,,
-25,,<music21.expressions.TextExpression 'rallentando.'>,rallentando.,131054980372608,0.0,74.0
-26,,<music21.chord.Chord G5 B5>,note,131054981138096,0.5,75.5
-26,,<music21.chord.Chord G2 D3 B3>,note,131054978374288,1.5,75.5
-26,,<music21.chord.Chord D5 B5 D6>,note,131054981138528,0.5,76.0
-26,,<music21.chord.Chord G4 D5>,note,131054980373328,0.5,76.5
-26,,<music21.chord.Chord G5 B5>,note,131054981139248,0.5,77.0
-26,,<music21.chord.Chord G2 D3 B3>,note,131054978374912,1.5,77.0
-26,,<music21.chord.Chord D5 B5 D6>,note,131054981139680,0.5,77.5
-26,,<music21.chord.Chord G4 D5>,note,131054980373808,0.5,78.0
-26,26,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord D5 B5 D6>>,slur,131054981138000,0.5,0.0
-26,26,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord D5 B5 D6>>,slur,131054981139152,0.5,0.0
-27,,<music21.chord.Chord G5 B5>,note,131054981140400,0.25,78.5
-27,,<music21.note.Note D>,note,131054981141360,0.25,78.5
-27,,<music21.note.Note G>,note,131054978377792,3.0,78.5
-27,,<music21.chord.Chord A5 C6>,note,131054980374480,0.25,78.75
-27,,<music21.note.Note G>,note,131054978375632,0.25,78.75
-27,,<music21.chord.Chord G5 B5>,note,131054980374912,0.25,79.0
-27,,<music21.note.Note D>,note,131054978375824,0.25,79.0
-27,,<music21.chord.Chord A5 C6>,note,131054980375344,0.25,79.25
-27,,<music21.note.Note G>,note,131054978376016,0.25,79.25
-27,,<music21.chord.Chord G5 B5>,note,131054980375776,0.25,79.5
-27,,<music21.note.Note D>,note,131054978376208,0.25,79.5
-27,,<music21.chord.Chord A5 C6>,note,131054980376208,0.25,79.75
-27,,<music21.note.Note G>,note,131054978376400,0.25,79.75
-27,,<music21.chord.Chord G5 B5>,note,131054980376784,0.25,80.0
-27,,<music21.note.Note D>,note,131054978376592,0.25,80.0
-27,,<music21.chord.Chord A5 C6>,note,131054980377216,0.25,80.25
-27,,<music21.note.Note G>,note,131054978376784,0.25,80.25
-27,,<music21.chord.Chord G5 B5>,note,131054980377648,0.25,80.5
-27,,<music21.note.Note D>,note,131054978376976,0.25,80.5
-27,,<music21.chord.Chord A5 C6>,note,131054980378080,0.25,80.75
-27,,<music21.note.Note G>,note,131054978377168,0.25,80.75
-27,,<music21.chord.Chord G5 B5>,note,131054980378512,0.25,81.0
-27,,<music21.note.Note D>,note,131054978377360,0.25,81.0
-27,,<music21.chord.Chord A5 C6>,note,131054980378944,0.25,81.25
-27,,<music21.note.Note G>,note,131054978377552,0.25,81.25
-27,28,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.note.Note B>>,slur,131054981140304,3.0,0.0
-27,28,<music21.spanner.Slur <music21.note.Note D><music21.chord.Chord G2 D3>>,slur,131054981141264,3.0,0.0
-27,,<music21.dynamics.Dynamic pp>,pp,131054980376640,,
-27,,<music21.expressions.TextExpression 'a tempo ma...'>,a tempo ma sempre,131054980374336,0.0,78.5
-28,,<music21.note.Note B>,note,131054981140832,1.5,81.5
-28,,<music21.note.Note G>,note,131054980379760,1.5,81.5
-28,,<music21.chord.Chord G2 D3>,note,131054981141552,1.5,81.5
-28,,<music21.note.Note B>,note,131054980379472,1.0,83.0
-28,,<music21.note.Note G>,note,131054980379952,1.0,83.0
-28,,<music21.chord.Chord G2 D3>,note,131054978378080,1.0,83.0
-28,,<music21.note.Note D>,note,131054980380864,0.5,84.0
-28,,<music21.note.Rest eighth>,note,131054978378848,0.5,84.0
-29,,<music21.note.Note G>,note,131054981142272,0.5,84.5
-29,,<music21.note.Note D>,note,131054980382208,1.5,84.5
-29,,<music21.chord.Chord G3 B3>,note,131054981143376,1.5,84.5
-29,,<music21.note.Note A>,note,131054981142896,0.5,85.0
-29,,<music21.note.Note B>,note,131054980381392,0.5,85.5
-29,,<music21.note.Note A>,note,131054980381584,0.5,86.0
-29,,<music21.note.Note D>,note,131054980382400,1.5,86.0
-29,,<music21.chord.Chord F#3 A3>,note,131054978378992,1.5,86.0
-29,,<music21.note.Note B>,note,131054980381776,0.5,86.5
-29,,<music21.note.Note C>,note,131054980381968,0.5,87.0
-29,30,<music21.spanner.Slur <music21.note.Note G><music21.note.Note F>>,slur,131054981142176,5.5,0.0
-29,30,<music21.spanner.Slur <music21.chord.Chord G3 B3><music21.chord.Chord F3 A3 D4>>,slur,131054981143280,4.5,0.0
-29,30,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note E>>,diminuendo,131054981142752,,
-29,,<music21.expressions.TextExpression 'dolce'>,dolce,131054980381152,0.0,84.5
-30,,<music21.note.Note B>,note,131054980382688,0.5,87.5
-30,,<music21.note.Note D>,note,131054980629472,1.5,87.5
-30,,<music21.chord.Chord G3 B3>,note,131054978379760,1.5,87.5
-30,,<music21.note.Note C>,note,131054980628704,0.5,88.0
-30,,<music21.note.Note D>,note,131054980628896,0.5,88.5
-30,,<music21.note.Note D>,note,131054980629184,0.5,89.0
-30,,<music21.note.Rest quarter>,note,131054980629664,1.0,89.0
-30,,<music21.note.Rest quarter>,note,131054978379520,1.0,89.0
-30,,<music21.chord.Chord F3 A3 D4>,note,131054981143808,1.5,89.0
-30,,<music21.note.Note E>,note,131054981143088,0.5,89.5
-30,,<music21.note.Note F>,note,131054981142464,0.5,90.0
-30,,<music21.note.Rest eighth>,note,131054980629760,0.5,90.0
-30,,<music21.note.Rest eighth>,note,131054978379616,0.5,90.0
-31,,<music21.note.Note A>,note,131054981144576,0.5,90.5
-31,,<music21.note.Note E>,note,131054980630960,1.5,90.5
-31,,<music21.chord.Chord E3 B3>,note,131054981145152,1.5,90.5
-31,,<music21.note.Note G#>,note,131054980629952,0.5,91.0
-31,,<music21.note.Note A>,note,131054980630144,0.5,91.5
-31,,<music21.note.Note B>,note,131054980630336,0.5,92.0
-31,,<music21.note.Note E>,note,131054980631152,1.5,92.0
-31,,<music21.chord.Chord G#3 B3>,note,131054978380240,1.5,92.0
-31,,<music21.note.Note C>,note,131054980630528,0.5,92.5
-31,,<music21.note.Note D>,note,131054980630720,0.5,93.0
-31,32,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,131054981144960,5.5,0.0
-31,32,<music21.spanner.Slur <music21.chord.Chord E3 B3><music21.chord.Chord G3 B3 E4>>,slur,131054981145056,4.5,0.0
-31,32,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note G>>,diminuendo,131054981144432,,
-32,,<music21.note.Note C>,note,131054980631440,0.5,93.5
-32,,<music21.note.Note E>,note,131054980632592,1.5,93.5
-32,,<music21.chord.Chord A3 C4>,note,131054978381008,1.5,93.5
-32,,<music21.note.Note D>,note,131054980631632,0.5,94.0
-32,,<music21.note.Note E>,note,131054980631824,0.5,94.5
-32,,<music21.note.Note E>,note,131054980632112,0.5,95.0
-32,,<music21.note.Rest quarter>,note,131054980632784,1.0,95.0
-32,,<music21.note.Rest quarter>,note,131054978380768,1.0,95.0
-32,,<music21.chord.Chord G3 B3 E4>,note,131054981145584,1.5,95.0
-32,,<music21.note.Note F#>,note,131054980632352,0.5,95.5
-32,,<music21.note.Note G>,note,131054981144768,0.5,96.0
-32,,<music21.note.Rest eighth>,note,131054980632880,0.5,96.0
-32,,<music21.note.Rest eighth>,note,131054978380864,0.5,96.0
-33,,<music21.note.Note B>,note,131054981146352,0.5,96.5
-33,,<music21.note.Note F#>,note,131054980634128,1.5,96.5
-33,,<music21.chord.Chord F#3 C#4>,note,131054978381584,1.5,96.5
-33,,<music21.note.Note A#>,note,131054980633120,0.5,97.0
-33,,<music21.note.Note B>,note,131054980633312,0.5,97.5
-33,,<music21.note.Note C#>,note,131054980633504,0.5,98.0
-33,,<music21.note.Note F#>,note,131054980634320,1.5,98.0
-33,,<music21.chord.Chord A#3 C#4>,note,131054978382016,1.5,98.0
-33,,<music21.note.Note D#>,note,131054980633696,0.5,98.5
-33,,<music21.note.Note E>,note,131054980633888,0.5,99.0
-33,35,<music21.spanner.Slur <music21.note.Note B><music21.note.Note G>>,slur,131054981146736,6.0,0.0
-33,34,<music21.dynamics.Crescendo <music21.note.Note B><music21.note.Note A>>,diminuendo,131054981146208,,
-34,,<music21.note.Note D#>,note,131054980634608,0.5,99.5
-34,,<music21.note.Note F#>,note,131054980635856,1.5,99.5
-34,,<music21.note.Rest quarter>,note,131054980636288,1.0,99.5
-34,,<music21.note.Rest dotted-quarter>,note,131054980636528,1.5,99.5
-34,,<music21.chord.Chord B3 D#4>,note,131054978382928,1.5,99.5
-34,,<music21.note.Rest quarter>,note,131054978383360,1.0,99.5
-34,,<music21.note.Rest dotted-quarter>,note,131054978793696,1.5,99.5
-34,,<music21.note.Note E>,note,131054980634800,0.5,100.0
-34,,<music21.note.Note F#>,note,131054980634992,0.5,100.5
-34,,<music21.note.Rest eighth>,note,131054980636384,0.5,100.5
-34,,<music21.note.Rest eighth>,note,131054978383456,0.5,100.5
-34,,<music21.note.Note F#>,note,131054980635280,0.5,101.0
-34,,<music21.note.Rest quarter>,note,131054980636048,1.0,101.0
-34,,<music21.note.Rest quarter>,note,131054978382688,1.0,101.0
-34,,<music21.chord.Chord B3 F#4>,note,131054978383552,1.5,101.0
-34,,<music21.note.Note D#>,note,131054978793792,1.5,101.0
-34,,<music21.note.Note G>,note,131054980635520,0.5,101.5
-34,,<music21.note.Note A>,note,131054981146544,0.5,102.0
-34,,<music21.note.Rest eighth>,note,131054980636144,0.5,102.0
-34,,<music21.note.Rest eighth>,note,131054978382784,0.5,102.0
-34,,<music21.note.Rest 16th>,note,131054980635712,0.25,102.25
-34,,<music21.note.Rest 16th>,note,131054978382544,0.25,102.25
-35,,<music21.note.Note G>,note,131054981146832,0.0,102.5
-35,,<music21.note.Note A>,note,131054980636672,0.0,102.5
-35,,<music21.note.Note G>,note,131054981147216,0.5,102.5
-35,,<music21.chord.Chord B3 G4>,note,131054978794080,1.5,102.5
-35,,<music21.note.Note E>,note,131054981147984,1.0,102.5
-35,,<music21.note.Note F#>,note,131054980636864,0.5,103.0
-35,,<music21.note.Note E>,note,131054980637056,0.5,103.5
-35,,<music21.note.Note F#>,note,131054978794992,0.5,103.5
-35,,<music21.note.Note B>,note,131054980637248,0.5,104.0
-35,,<music21.chord.Chord B3 E4>,note,131054978794512,1.5,104.0
-35,,<music21.note.Note G>,note,131054978795184,1.5,104.0
-35,,<music21.note.Note A>,note,131054980637440,0.5,104.5
-35,,<music21.note.Note G>,note,131054980637632,0.5,105.0
-35,36,<music21.spanner.Slur <music21.note.Note G><music21.chord.Chord B4 F#5>>,slur,131054981147120,4.5,0.0
-35,36,<music21.spanner.Slur <music21.note.Note E><music21.chord.Chord B3 D#4>>,slur,131054981147888,3.0,0.0
-36,,<music21.chord.Chord B4 F#5>,note,131054981148800,0.25,105.5
-36,,<music21.chord.Chord B3 D#4>,note,131054981148176,0.5,105.5
-36,,<music21.note.Note G>,note,131054980637872,0.25,105.75
-36,,<music21.chord.Chord B4 F#5>,note,131054980638064,0.25,106.0
-36,,<music21.note.Note F#>,note,131054978795616,0.5,106.0
-36,,<music21.note.Note G>,note,131054980638496,0.25,106.25
-36,,<music21.chord.Chord B4 F#5>,note,131054980638688,0.25,106.5
-36,,<music21.note.Note D#>,note,131054978795856,0.5,106.5
-36,,<music21.note.Note G>,note,131054980639120,0.25,106.75
-36,,<music21.chord.Chord B4 F#5>,note,131054981147408,0.5,107.0
-36,,<music21.note.Note B>,note,131054978796096,0.5,107.0
-36,,<music21.note.Note B>,note,131054980639312,0.5,107.5
-36,,<music21.note.Rest eighth>,note,131054978796336,0.5,107.5
-36,,<music21.note.Note B>,note,131054981149232,0.5,108.0
-36,,<music21.note.Rest eighth>,note,131054978796432,0.5,108.0
-36,,<music21.note.Rest 16th>,note,131054980639552,0.25,108.25
-36,,<music21.note.Rest 16th>,note,131054978795472,0.25,108.25
-36,36,<music21.dynamics.Diminuendo <music21.chord.Chord B4 F#5><music21.note.Note B>>,diminuendo,131054981148656,,
-37,,<music21.note.Note C>,note,131054981149568,1.0,108.5
-37,,<music21.chord.Chord E4 G4>,note,131054981150144,1.5,108.5
-37,,<music21.note.Note B>,note,131054978796864,3.0,108.5
-37,,<music21.note.Note B>,note,131054980639936,0.5,109.5
-37,,<music21.note.Note B>,note,131054981149808,0.5,110.0
-37,,<music21.chord.Chord D#4 F#4>,note,131054981150576,1.5,110.0
-37,,<music21.note.Note B>,note,131054980640128,0.5,110.5
-37,,<music21.note.Note B>,note,131054980640368,0.5,111.0
-37,37,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,131054981149472,1.5,0.0
-37,37,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.chord.Chord D#4 F#4>>,slur,131054981150048,1.5,0.0
-37,,<music21.dynamics.Dynamic p>,p,131054980639792,,
-38,,<music21.note.Note C>,note,131054981151104,1.0,111.5
-38,,<music21.chord.Chord E4 G4>,note,131054981151680,1.5,111.5
-38,,<music21.note.Note B>,note,131054978797248,3.0,111.5
-38,,<music21.note.Note B>,note,131054980640656,0.5,112.5
-38,,<music21.note.Note B>,note,131054981151344,0.5,113.0
-38,,<music21.chord.Chord D4 F4>,note,131054981152112,1.5,113.0
-38,,<music21.note.Note B>,note,131054980640848,0.5,113.5
-38,,<music21.note.Note G#>,note,131054980641088,0.5,114.0
-38,38,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,131054981151008,1.5,0.0
-38,38,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.chord.Chord D4 F4>>,slur,131054981151584,1.5,0.0
-39,,<music21.note.Note A>,note,131054981152688,0.5,114.5
-39,,<music21.chord.Chord C4 E4 A4>,note,131054981285504,1.5,114.5
-39,,<music21.note.Note B>,note,131054980641376,0.5,115.0
-39,,<music21.note.Note C>,note,131054981284016,0.5,115.5
-39,,<music21.note.Rest 16th>,note,131054980641568,0.25,115.75
-39,,<music21.note.Rest 16th>,note,131054978797584,0.25,115.75
-39,,<music21.note.Note D>,note,131054981284592,0.0,116.0
-39,,<music21.note.Note C>,note,131054981284880,0.5,116.0
-39,,<music21.chord.Chord D4 F4 B4>,note,131054978797728,1.5,116.0
-39,,<music21.note.Note B>,note,131054981285216,0.5,116.5
-39,,<music21.note.Note A>,note,131054980641664,0.5,117.0
-39,40,<music21.spanner.Slur <music21.note.Note A><music21.note.Note D>>,slur,131054981284208,5.5,0.0
-39,39,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,131054981284496,0.0,0.0
-39,40,<music21.spanner.Slur <music21.chord.Chord C4 E4 A4><music21.chord.Chord G#3 D4 B4>>,slur,131054981285408,4.5,0.0
-39,39,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note C>>,diminuendo,131054981152544,,
-39,40,<music21.dynamics.Diminuendo <music21.note.Note B><music21.note.Note D>>,diminuendo,131054981285072,,
-40,,<music21.note.Note G#>,note,131054980641904,0.5,117.5
-40,,<music21.chord.Chord E4 B4>,note,131054978798400,1.5,117.5
-40,,<music21.note.Note A>,note,131054980642096,0.5,118.0
-40,,<music21.note.Note B>,note,131054980642288,0.5,118.5
-40,,<music21.note.Note G>,note,131054981286848,0.0,119.0
-40,,<music21.note.Note F>,note,131054981287088,0.5,119.0
-40,,<music21.chord.Chord G#3 D4 B4>,note,131054981286128,1.5,119.0
-40,,<music21.note.Note E>,note,131054980642480,0.5,119.5
-40,,<music21.note.Note D>,note,131054981284304,0.5,120.0
-40,40,<music21.spanner.Slur <music21.note.Note G><music21.note.Note F>>,slur,131054981286752,0.0,0.0
-41,,<music21.note.Note D>,note,131054981287424,0.5,120.5
-41,,<music21.chord.Chord E4 B4>,note,131054978799024,0.5,120.5
-41,,<music21.note.Note A>,note,131054981288000,0.5,120.5
-41,,<music21.note.Note C>,note,131054980642816,0.5,121.0
-41,,<music21.note.Rest eighth>,note,131054980643872,0.5,121.0
-41,,<music21.note.Note A>,note,131054978799456,0.5,121.0
-41,,<music21.note.Rest eighth>,note,131054978800464,0.5,121.0
-41,,<music21.note.Note A>,note,131054980643008,0.5,121.5
-41,,<music21.note.Rest eighth>,note,131054980643968,0.5,121.5
-41,,<music21.note.Note D#>,note,131054978799648,0.5,121.5
-41,,<music21.note.Rest eighth>,note,131054978800560,0.5,121.5
-41,,<music21.note.Note C>,note,131054980643200,0.5,122.0
-41,,<music21.note.Rest quarter>,note,131054980644064,1.0,122.0
-41,,<music21.note.Note A>,note,131054978799840,0.5,122.0
-41,,<music21.note.Rest quarter>,note,131054978800656,1.0,122.0
-41,,<music21.note.Note B>,note,131054980643440,0.5,122.5
-41,,<music21.note.Note G>,note,131054978800032,0.5,122.5
-41,,<music21.note.Note G>,note,131054980643632,0.5,123.0
-41,,<music21.note.Rest eighth>,note,131054980644160,0.5,123.0
-41,,<music21.note.Note E>,note,131054978800224,0.5,123.0
-41,,<music21.note.Rest eighth>,note,131054978800752,0.5,123.0
-41,45,<music21.spanner.Slur <music21.note.Note D><music21.note.Note B>>,slur,131054981287328,12.0,0.0
-41,44,<music21.spanner.Slur <music21.note.Note A><music21.note.Note B>>,slur,131054981287904,9.5,0.0
-42,,<music21.note.Note B>,note,131054980644304,0.5,123.5
-42,,<music21.note.Note G>,note,131054978800896,0.5,123.5
-42,,<music21.note.Note A>,note,131054980644544,0.5,124.0
-42,,<music21.note.Note F#>,note,131054978801088,0.5,124.0
-42,,<music21.note.Note F#>,note,131054980644736,0.5,124.5
-42,,<music21.note.Note B>,note,131054978801280,0.5,124.5
-42,,<music21.note.Note A>,note,131054980939904,0.5,125.0
-42,,<music21.note.Note F#>,note,131054978801472,0.5,125.0
-42,,<music21.note.Note G>,note,131054980940144,0.5,125.5
-42,,<music21.note.Note E>,note,131054978801664,0.5,125.5
-42,,<music21.note.Note E>,note,131054980940336,0.5,126.0
-42,,<music21.note.Note C>,note,131054978801856,0.5,126.0
-43,,<music21.note.Note G>,note,131054980940576,0.5,126.5
-43,,<music21.note.Note E>,note,131054978802096,0.5,126.5
-43,,<music21.note.Note F#>,note,131054980940816,0.5,127.0
-43,,<music21.note.Note D>,note,131054978802288,0.5,127.0
-43,,<music21.note.Note D>,note,131054980941008,0.5,127.5
-43,,<music21.note.Note G>,note,131054978802480,0.5,127.5
-43,,<music21.note.Note F#>,note,131054980941200,0.5,128.0
-43,,<music21.note.Note D>,note,131054978802672,0.5,128.0
-43,,<music21.note.Note E>,note,131054980941440,0.5,128.5
-43,,<music21.note.Note C>,note,131054978802864,0.5,128.5
-43,,<music21.note.Note C>,note,131054980941632,0.5,129.0
-43,,<music21.note.Note A>,note,131054978803056,0.5,129.0
-44,,<music21.note.Note E>,note,131054980941872,0.5,129.5
-44,,<music21.note.Note C>,note,131054978803296,0.5,129.5
-44,,<music21.note.Note D>,note,131054980942112,0.5,130.0
-44,,<music21.note.Note B>,note,131054981288192,0.5,130.0
-44,,<music21.note.Note B>,note,131054980942304,0.5,130.5
-44,,<music21.note.Rest eighth>,note,131054978803488,0.5,130.5
-44,,<music21.note.Note D>,note,131054980942496,0.5,131.0
-44,,<music21.note.Note B>,note,131054981288480,0.5,131.0
-44,,<music21.note.Note C>,note,131054980942736,0.5,131.5
-44,,<music21.note.Note A>,note,131054981288672,0.5,131.5
-44,,<music21.note.Note A>,note,131054980942928,0.5,132.0
-44,,<music21.note.Rest eighth>,note,131054978803584,0.5,132.0
-44,44,<music21.spanner.Slur <music21.note.Note B><music21.note.Note A>>,slur,131054981288384,0.5,0.0
-45,,<music21.note.Note B>,note,131054981287664,0.5,132.5
-45,,<music21.note.Note G>,note,131054978804400,0.5,132.5
-45,,<music21.note.Note C#>,note,131054981288960,0.25,133.0
-45,,<music21.note.Note A>,note,131054981289824,0.25,133.0
-45,,<music21.note.Note D#>,note,131054980943264,0.25,133.25
-45,,<music21.note.Note B>,note,131054978804640,0.25,133.25
-45,,<music21.note.Note E>,note,131054980943456,0.25,133.5
-45,,<music21.note.Note C#>,note,131054978804832,0.25,133.5
-45,,<music21.note.Note F#>,note,131054980943648,0.25,133.75
-45,,<music21.note.Note D#>,note,131054978805024,0.25,133.75
-45,,<music21.note.Note G>,note,131054981289152,0.5,134.0
-45,,<music21.note.Note E>,note,131054981289488,0.5,134.0
-45,,<music21.note.Note F#>,note,131054980943888,0.5,134.5
-45,,<music21.note.Note D#>,note,131054978803872,0.5,134.5
-45,,<music21.note.Note E>,note,131054980944128,0.5,135.0
-45,,<music21.note.Note C#>,note,131054978804112,0.5,135.0
-45,45,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note G>>,slur,131054981288864,1.0,0.0
-45,45,<music21.spanner.Slur <music21.note.Note E>>,slur,131054981289392,0.0,0.0
-45,50,<music21.spanner.Slur <music21.note.Note A><music21.chord.Chord E4 G4><music21.note.Note F#>>,slur,131054981289728,16.0,0.0
-46,,<music21.note.Note D#>,note,131054980944416,0.25,135.5
-46,,<music21.note.Note B>,note,131054978805264,0.25,135.5
-46,,<music21.note.Note E>,note,131054981290784,0.25,135.75
-46,,<music21.note.Note C#>,note,131054981291360,0.25,135.75
-46,,<music21.note.Note F#>,note,131054980944608,0.25,136.0
-46,,<music21.note.Note D#>,note,131054978805456,0.25,136.0
-46,,<music21.note.Note G>,note,131054980944800,0.25,136.25
-46,,<music21.note.Note E>,note,131054978805648,0.25,136.25
-46,,<music21.note.Note A>,note,131054980944992,0.25,136.5
-46,,<music21.note.Note F#>,note,131054978805840,0.25,136.5
-46,,<music21.note.Note B>,note,131054980945184,0.25,136.75
-46,,<music21.note.Note G>,note,131054978806032,0.25,136.75
-46,,<music21.note.Note C>,note,131054981290976,0.5,137.0
-46,,<music21.note.Note A>,note,131054981291552,0.5,137.0
-46,,<music21.note.Note B>,note,131054980945376,0.5,137.5
-46,,<music21.note.Note G>,note,131054978806224,0.5,137.5
-46,,<music21.note.Note A>,note,131054980945616,0.5,138.0
-46,,<music21.note.Note F#>,note,131054978806464,0.5,138.0
-46,46,<music21.spanner.Slur <music21.note.Note E><music21.note.Note C>>,slur,131054981290688,1.25,0.0
-46,46,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note A>>,slur,131054981291264,1.25,0.0
-47,,<music21.note.Note B>,note,131054980945904,0.5,138.5
-47,,<music21.note.Note G>,note,131054978806752,0.5,138.5
-47,,<music21.note.Note C#>,note,131054981291888,0.25,139.0
-47,,<music21.note.Note A>,note,131054981292464,0.25,139.0
-47,,<music21.note.Note D#>,note,131054980946144,0.25,139.25
-47,,<music21.note.Note B>,note,131054978806992,0.25,139.25
-47,,<music21.note.Note E>,note,131054980946336,0.25,139.5
-47,,<music21.note.Note C#>,note,131054978807184,0.25,139.5
-47,,<music21.note.Note F#>,note,131054980946528,0.25,139.75
-47,,<music21.note.Note D#>,note,131054978807376,0.25,139.75
-47,,<music21.note.Note G>,note,131054981292080,0.5,140.0
-47,,<music21.note.Note E>,note,131054981292656,0.5,140.0
-47,,<music21.note.Note F#>,note,131054980946720,0.5,140.5
-47,,<music21.note.Note D#>,note,131054978807568,0.5,140.5
-47,,<music21.note.Note E>,note,131054980946960,0.5,141.0
-47,,<music21.note.Note C#>,note,131054978807808,0.5,141.0
-47,47,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note G>>,slur,131054981291792,1.0,0.0
-47,47,<music21.spanner.Slur <music21.note.Note A><music21.note.Note E>>,slur,131054981292368,1.0,0.0
-48,,<music21.chord.Chord D#5 F#5>,note,131054981293040,1.5,141.5
-48,,<music21.note.Note B>,note,131054978808192,0.5,141.5
-48,,<music21.note.Note F#>,note,131054978808432,0.5,142.0
-48,,<music21.note.Note D#>,note,131054978808672,0.5,142.5
-48,,<music21.chord.Chord D#5 F#5>,note,131054981293616,0.5,143.0
-48,,<music21.note.Note B>,note,131054981294192,1.0,143.0
-48,,<music21.note.Note B>,note,131054980947296,0.5,143.5
-48,,<music21.note.Note B>,note,131054980947536,0.5,144.0
-48,,<music21.chord.Chord D#4 F#4>,note,131054981294384,0.5,144.0
-48,48,<music21.spanner.Slur <music21.chord.Chord D#5 F#5><music21.chord.Chord D#5 F#5>>,slur,131054981293520,1.5,0.0
-48,48,<music21.spanner.Slur <music21.note.Note B><music21.chord.Chord D#4 F#4>>,slur,131054981294096,1.0,0.0
-49,,<music21.note.Note C>,note,131054981294912,1.0,144.5
-49,,<music21.note.Rest quarter>,note,131054980948592,1.0,144.5
-49,,<music21.note.Rest dotted-quarter>,note,131054980948832,1.5,144.5
-49,,<music21.chord.Chord E4 G4>,note,131054981295584,1.5,144.5
-49,,<music21.note.Rest quarter>,note,131054978809008,1.0,144.5
-49,,<music21.note.Rest dotted-quarter>,note,131054978809344,1.5,144.5
-49,,<music21.note.Note B>,note,131054980947872,0.5,145.5
-49,,<music21.note.Rest eighth>,note,131054980948688,0.5,145.5
-49,,<music21.note.Rest eighth>,note,131054978809104,0.5,145.5
-49,,<music21.note.Note B>,note,131054981295248,0.5,146.0
-49,,<music21.note.Note F#>,note,131054981296016,1.0,146.0
-49,,<music21.note.Note D#>,note,131054978809440,1.0,146.0
-49,,<music21.note.Note B>,note,131054980948064,0.5,146.5
-49,,<music21.note.Note B>,note,131054980948304,0.5,147.0
-49,,<music21.note.Rest eighth>,note,131054978809200,0.5,147.0
-49,,<music21.note.Note B>,note,131054978809632,0.5,147.0
-49,49,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,131054981295152,1.5,0.0
-49,49,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note F#>>,slur,131054981295488,1.5,0.0
-50,,<music21.note.Note C>,note,131054981296352,1.0,147.5
-50,,<music21.note.Rest quarter>,note,131054980949456,1.0,147.5
-50,,<music21.note.Rest dotted-quarter>,note,131054980949696,1.5,147.5
-50,,<music21.chord.Chord E4 G4>,note,131054981290016,1.5,147.5
-50,,<music21.note.Rest quarter>,note,131054977171680,1.0,147.5
-50,,<music21.note.Rest dotted-quarter>,note,131054977172016,1.5,147.5
-50,,<music21.note.Note B>,note,131054980949024,0.5,148.5
-50,,<music21.note.Rest eighth>,note,131054980949552,0.5,148.5
-50,,<music21.note.Rest eighth>,note,131054977171776,0.5,148.5
-50,,<music21.note.Note B>,note,131054981296688,0.5,149.0
-50,,<music21.note.Note F#>,note,131054981290448,1.0,149.0
-50,,<music21.note.Note D#>,note,131054977172112,1.0,149.0
-50,,<music21.note.Note B>,note,131054981297024,0.5,149.5
-50,,<music21.note.Note A>,note,131054980949216,0.5,150.0
-50,,<music21.note.Rest eighth>,note,131054977171872,0.5,150.0
-50,,<music21.note.Note B>,note,131054977172304,0.5,150.0
-50,50,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,131054981296592,1.5,0.0
-50,52,<music21.spanner.Slur <music21.note.Note B><music21.chord.Chord G4 E5>>,slur,131054981296928,4.0,0.0
-51,,<music21.note.Note G>,note,131054980949840,0.0,150.5
-51,,<music21.note.Note A>,note,131054980950080,0.0,150.5
-51,,<music21.note.Note G>,note,131054980950320,0.5,150.5
-51,,<music21.note.Note G>,note,131054977172688,1.5,150.5
-51,,<music21.note.Note E>,note,131054981297744,1.0,150.5
-51,,<music21.note.Note F#>,note,131054980950512,0.5,151.0
-51,,<music21.note.Note E>,note,131054980950704,0.5,151.5
-51,,<music21.note.Note A>,note,131054977173120,0.5,151.5
-51,,<music21.chord.Chord G4 E5>,note,131054980950896,0.5,152.0
-51,,<music21.note.Rest quarter>,note,131054977172880,1.0,152.0
-51,,<music21.note.Note B>,note,131054981297936,1.5,152.0
-51,,<music21.chord.Chord A4 F#5>,note,131054980951328,0.5,152.5
-51,,<music21.chord.Chord F#4 D#5>,note,131054980951760,0.5,153.0
-51,,<music21.note.Rest eighth>,note,131054977172976,0.5,153.0
-51,51,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,131054981297648,1.5,0.0
-52,,<music21.chord.Chord G4 E5>,note,131054981297216,0.25,153.5
-52,,<music21.chord.Chord B3 E4>,note,131054977173504,0.5,153.5
-52,,<music21.note.Note F#>,note,131054980952288,0.25,153.75
-52,,<music21.chord.Chord B4 E5>,note,131054980952480,0.25,154.0
-52,,<music21.chord.Chord E3 B3>,note,131054977173984,0.5,154.0
-52,,<music21.note.Note F#>,note,131054980952912,0.25,154.25
-52,,<music21.chord.Chord G4 E5>,note,131054980953104,0.25,154.5
-52,,<music21.chord.Chord B2 E3>,note,131054977174464,0.5,154.5
-52,,<music21.note.Note F#>,note,131054980953536,0.25,154.75
-52,,<music21.chord.Chord B4 E5>,note,131054981298224,0.5,155.0
-52,,<music21.chord.Chord E2 B2>,note,131054977174944,1.5,155.0
-52,,<music21.chord.Chord B4 F#5>,note,131054980953728,0.5,155.5
-52,,<music21.chord.Chord E4 B4>,note,131054980954208,0.5,156.0
-52,52,<music21.spanner.Slur <music21.chord.Chord G4 E5><music21.chord.Chord B4 E5>>,slur,131054981298128,1.5,0.0
-53,,<music21.chord.Chord G4 E5>,note,131054981298848,0.25,156.5
-53,,<music21.chord.Chord B3 E4>,note,131054977175472,0.5,156.5
-53,,<music21.note.Note F#>,note,131054980954736,0.25,156.75
-53,,<music21.chord.Chord B4 E5>,note,131054980954928,0.25,157.0
-53,,<music21.chord.Chord E3 B3>,note,131054977175952,0.5,157.0
-53,,<music21.note.Note F#>,note,131054980955360,0.25,157.25
-53,,<music21.chord.Chord G4 E5>,note,131054980955552,0.25,157.5
-53,,<music21.chord.Chord B2 E3>,note,131054977176432,0.5,157.5
-53,,<music21.note.Note F#>,note,131054980955984,0.25,157.75
-53,,<music21.chord.Chord B4 E5>,note,131054981299280,0.5,158.0
-53,,<music21.chord.Chord E2 B2>,note,131054977176912,1.5,158.0
-53,,<music21.chord.Chord B4 F#5>,note,131054979268688,0.5,158.5
-53,,<music21.chord.Chord E4 B4>,note,131054979269168,0.5,159.0
-53,53,<music21.spanner.Slur <music21.chord.Chord G4 E5><music21.chord.Chord B4 E5>>,slur,131054981298752,1.5,0.0
-54,,<music21.chord.Chord G4 E5>,note,131054981299904,0.25,159.5
-54,,<music21.chord.Chord B3 E4>,note,131054977177440,0.5,159.5
-54,,<music21.note.Note F#>,note,131054979269696,0.25,159.75
-54,,<music21.chord.Chord B4 E5>,note,131054979269888,0.25,160.0
-54,,<music21.chord.Chord E3 B3>,note,131054977177920,0.5,160.0
-54,,<music21.note.Note F#>,note,131054979270320,0.25,160.25
-54,,<music21.chord.Chord G4 E5>,note,131054979270512,0.25,160.5
-54,,<music21.chord.Chord B2 E3>,note,131054977178400,0.5,160.5
-54,,<music21.note.Note F#>,note,131054979270944,0.25,160.75
-54,,<music21.chord.Chord B4 E5>,note,131054981546160,0.5,161.0
-54,,<music21.chord.Chord E2 B2>,note,131054977178880,1.5,161.0
-54,,<music21.chord.Chord B4 F#5>,note,131054979271136,0.5,161.5
-54,,<music21.chord.Chord E4 B4>,note,131054979271616,0.5,162.0
-54,54,<music21.spanner.Slur <music21.chord.Chord G4 E5><music21.chord.Chord B4 E5>>,slur,131054981299808,1.5,0.0
-55,,<music21.chord.Chord E5 G5>,note,131054981546832,0.5,162.5
-55,,<music21.chord.Chord E3 B3 G4>,note,131054977179696,1.5,162.5
-55,,<music21.chord.Chord F#5 A5>,note,131054981547264,0.5,163.0
-55,,<music21.chord.Chord G5 B5>,note,131054979272192,0.5,163.5
-55,,<music21.chord.Chord G5 B5>,note,131054981548368,0.5,164.0
-55,,<music21.chord.Chord A3 C4 E4>,note,131054977180320,1.5,164.0
-55,,<music21.chord.Chord F#5 A5>,note,131054979272816,0.5,164.5
-55,,<music21.chord.Chord E5 G5>,note,131054981548896,0.5,165.0
-55,,<music21.note.Rest 16th>,note,131054979273248,0.25,165.25
-55,,<music21.note.Rest 16th>,note,131054977179552,0.25,165.25
-55,57,<music21.spanner.Slur <music21.chord.Chord E5 G5><music21.chord.Chord E4 G4>>,slur,131054981547696,6.0,0.0
-55,55,<music21.dynamics.Crescendo <music21.chord.Chord E5 G5><music21.chord.Chord F#5 A5>>,diminuendo,131054981546688,,
-55,55,<music21.dynamics.Diminuendo <music21.chord.Chord G5 B5><music21.chord.Chord E5 G5>>,diminuendo,131054981548224,,
-56,,<music21.note.Note F#>,note,131054979273392,0.25,165.5
-56,,<music21.chord.Chord B3 D#4>,note,131054981549952,1.5,165.5
-56,,<music21.note.Note E>,note,131054981549472,0.25,165.75
-56,,<music21.chord.Chord D#5 F#5>,note,131054979273584,0.25,166.0
-56,,<music21.note.Note C#>,note,131054979274016,0.25,166.25
-56,,<music21.chord.Chord B4 D#5>,note,131054979274208,0.25,166.5
-56,,<music21.note.Note A>,note,131054979274640,0.25,166.75
-56,,<music21.chord.Chord G4 B4>,note,131054979274832,0.25,167.0
-56,,<music21.note.Note B>,note,131054981550384,0.5,167.0
-56,,<music21.note.Note F#>,note,131054979275264,0.25,167.25
-56,,<music21.note.Note E>,note,131054979275456,0.25,167.5
-56,,<music21.note.Rest eighth>,note,131054977180992,0.5,167.5
-56,,<music21.note.Note D#>,note,131054979275648,0.25,167.75
-56,,<music21.note.Note C#>,note,131054981549664,0.25,168.0
-56,,<music21.note.Rest eighth>,note,131054977181088,0.5,168.0
-56,,<music21.note.Note B>,note,131054979275840,0.25,168.25
-56,56,<music21.spanner.Slur <music21.chord.Chord B3 D#4><music21.note.Note B>>,slur,131054981549856,1.5,0.0
-56,56,<music21.dynamics.Diminuendo <music21.note.Note E><music21.note.Note C#>>,diminuendo,131054981549328,,
-57,,<music21.chord.Chord E4 G4>,note,131054981547792,0.25,168.5
-57,,<music21.note.Note E>,note,131054977181232,0.5,168.5
-57,,<music21.chord.Chord B3 F#4>,note,131054979276080,0.25,168.75
-57,,<music21.chord.Chord E4 G4>,note,131054979276512,0.25,169.0
-57,,<music21.note.Note B>,note,131054977181472,0.5,169.0
-57,,<music21.chord.Chord B3 F#4>,note,131054979276944,0.25,169.25
-57,,<music21.chord.Chord E4 G4>,note,131054979277376,0.25,169.5
-57,,<music21.note.Note E>,note,131054977181712,0.5,169.5
-57,,<music21.chord.Chord B3 F#4>,note,131054979277808,0.25,169.75
-57,,<music21.note.Note G>,note,131054981550720,0.5,170.0
-57,,<music21.note.Note B>,note,131054977181952,1.5,170.0
-57,,<music21.note.Note F#>,note,131054979278240,0.5,170.5
-57,,<music21.note.Note B>,note,131054979278528,0.5,171.0
-57,57,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note G>>,slur,131054981550624,1.5,0.0
-58,,<music21.chord.Chord E4 G4>,note,131054981551056,0.25,171.5
-58,,<music21.note.Note E>,note,131054977182384,0.5,171.5
-58,,<music21.chord.Chord B3 F#4>,note,131054979278960,0.25,171.75
-58,,<music21.chord.Chord E4 G4>,note,131054979279392,0.25,172.0
-58,,<music21.note.Note B>,note,131054977182624,0.5,172.0
-58,,<music21.chord.Chord B3 F#4>,note,131054979279824,0.25,172.25
-58,,<music21.chord.Chord E4 G4>,note,131054979280256,0.25,172.5
-58,,<music21.note.Note E>,note,131054977182864,0.5,172.5
-58,,<music21.chord.Chord B3 F#4>,note,131054979280688,0.25,172.75
-58,,<music21.note.Note G>,note,131054981551488,0.5,173.0
-58,,<music21.note.Note B>,note,131054977183104,1.5,173.0
-58,,<music21.note.Note F#>,note,131054979281120,0.5,173.5
-58,,<music21.note.Note B>,note,131054979281408,0.5,174.0
-58,58,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note G>>,slur,131054981550960,1.5,0.0
-59,,<music21.chord.Chord E4 G4>,note,131054981551824,0.25,174.5
-59,,<music21.note.Note E>,note,131054977183392,0.5,174.5
-59,,<music21.chord.Chord B3 F#4>,note,131054979281744,0.25,174.75
-59,,<music21.chord.Chord E4 G4>,note,131054979282176,0.25,175.0
-59,,<music21.note.Note B>,note,131054977183632,0.5,175.0
-59,,<music21.chord.Chord B3 F#4>,note,131054979282608,0.25,175.25
-59,,<music21.chord.Chord E4 G4>,note,131054979283040,0.25,175.5
-59,,<music21.note.Note E>,note,131054977183872,0.5,175.5
-59,,<music21.chord.Chord B3 F#4>,note,131054979283472,0.25,175.75
-59,,<music21.note.Note G>,note,131054981552256,0.5,176.0
-59,,<music21.note.Note B>,note,131054977184112,1.5,176.0
-59,,<music21.note.Note F#>,note,131054979283904,0.5,176.5
-59,,<music21.note.Note B>,note,131054979284192,0.5,177.0
-59,59,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note G>>,slur,131054981551728,1.5,0.0
-60,,<music21.note.Note G>,note,131054981552592,0.5,177.5
-60,,<music21.note.Note E>,note,131054979646240,0.5,177.5
-60,,<music21.note.Note E>,note,131054981553072,1.0,177.5
-60,,<music21.note.Note F#>,note,131054979284576,0.5,178.0
-60,,<music21.note.Rest eighth>,note,131054979646432,0.5,178.0
-60,,<music21.note.Rest eighth>,note,131054977184448,0.5,178.0
-60,,<music21.note.Note E>,note,131054979284768,0.5,178.5
-60,,<music21.note.Rest eighth>,note,131054979646528,0.5,178.5
-60,,<music21.note.Rest eighth>,note,131054977184544,0.5,178.5
-60,,<music21.chord.Chord A3 C4>,note,131054977184880,0.5,178.5
-60,,<music21.note.Note E>,note,131054979645568,0.5,179.0
-60,,<music21.note.Rest quarter>,note,131054979646624,1.0,179.0
-60,,<music21.note.Rest quarter>,note,131054977184640,1.0,179.0
-60,,<music21.note.Note B>,note,131054977185312,1.0,179.0
-60,,<music21.note.Note F#>,note,131054979645808,0.5,179.5
-60,,<music21.note.Note D#>,note,131054979646000,0.5,180.0
-60,,<music21.note.Rest eighth>,note,131054979646720,0.5,180.0
-60,,<music21.note.Rest eighth>,note,131054977184736,0.5,180.0
-60,,<music21.chord.Chord B2 F#3>,note,131054977185504,0.5,180.0
-60,61,<music21.spanner.Slur <music21.note.Note G><music21.note.Note E>>,slur,131054981552496,3.0,0.0
-60,61,<music21.spanner.Slur <music21.note.Note E><music21.chord.Chord E2 B2 G3>>,slur,131054981552976,3.0,0.0
-61,,<music21.note.Note E>,note,131054981552784,0.25,180.5
-61,,<music21.chord.Chord E2 B2 G3>,note,131054981553264,1.5,180.5
-61,,<music21.note.Note F#>,note,131054979646912,0.25,180.75
-61,,<music21.note.Note G>,note,131054979647104,0.25,181.0
-61,,<music21.note.Note A>,note,131054979647296,0.25,181.25
-61,,<music21.note.Note B>,note,131054979647488,0.25,181.5
-61,,<music21.note.Note C#>,note,131054979647680,0.125,181.75
-61,,<music21.note.Note D#>,note,131054979647872,0.125,181.875
-61,,<music21.note.Note E>,note,131054981553984,1/6,182.0
-61,,<music21.chord.Chord E2 B2 G3>,note,131054977186080,1.5,182.0
-61,,<music21.note.Note F#>,note,131054979648208,1/6,1093/6
-61,,<music21.note.Note E>,note,131054979648688,1/6,547/3
-61,,<music21.note.Note B>,note,131054981554608,0.5,182.5
-61,,<music21.note.Note B>,note,131054979649120,0.5,183.0
-61,61,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,131054981553888,0.5,0.0
-61,,<music21.expressions.TextExpression 'rallentando'>,rallentando,131054979648064,0.0,182.0
-62,,<music21.note.Note E>,note,131054981554992,1/6,183.5
-62,,<music21.chord.Chord E2 B2 G3>,note,131054977186752,1.5,183.5
-62,,<music21.note.Note F#>,note,131054979649408,1/6,551/3
-62,,<music21.note.Note E>,note,131054979649840,1/6,1103/6
-62,,<music21.note.Note B>,note,131054981555424,0.5,184.0
-62,,<music21.note.Note B>,note,131054979650272,0.5,184.5
-62,,<music21.note.Note E>,note,131054981555808,1/6,185.0
-62,,<music21.chord.Chord E2 B2 G3>,note,131054977187376,1.5,185.0
-62,,<music21.note.Note F#>,note,131054979650512,1/6,1111/6
-62,,<music21.note.Note E>,note,131054979650944,1/6,556/3
-62,,<music21.note.Note B>,note,131054981556240,0.5,185.5
-62,,<music21.note.Note B>,note,131054979651376,0.5,186.0
-62,62,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,131054981554896,0.5,0.0
-62,62,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,131054981555712,0.5,0.0
-63,,<music21.chord.Chord G4 E5>,note,131054981556624,0.25,186.5
-63,,<music21.note.Note B>,note,131054981557776,0.25,186.5
-63,,<music21.note.Note E>,note,131054977567152,3.0,186.5
-63,,<music21.note.Note F#>,note,131054979651856,0.25,186.75
-63,,<music21.note.Note G>,note,131054977564992,0.25,186.75
-63,,<music21.chord.Chord B4 E5>,note,131054979652048,0.25,187.0
-63,,<music21.note.Note B>,note,131054977565184,0.25,187.0
-63,,<music21.note.Note F#>,note,131054979652480,0.25,187.25
-63,,<music21.note.Note G>,note,131054977565376,0.25,187.25
-63,,<music21.chord.Chord G4 E5>,note,131054979652672,0.25,187.5
-63,,<music21.note.Note B>,note,131054977565568,0.25,187.5
-63,,<music21.note.Note F#>,note,131054979653104,0.25,187.75
-63,,<music21.note.Note G>,note,131054977565760,0.25,187.75
-63,,<music21.chord.Chord G4 E5>,note,131054979653296,0.25,188.0
-63,,<music21.note.Note B>,note,131054977565952,0.25,188.0
-63,,<music21.note.Note F#>,note,131054979653728,0.25,188.25
-63,,<music21.note.Note G>,note,131054977566144,0.25,188.25
-63,,<music21.chord.Chord B4 E5>,note,131054979653920,0.25,188.5
-63,,<music21.note.Note B>,note,131054977566336,0.25,188.5
-63,,<music21.note.Note F#>,note,131054979654352,0.25,188.75
-63,,<music21.note.Note G>,note,131054977566528,0.25,188.75
-63,,<music21.chord.Chord G4 E5>,note,131054979654544,0.25,189.0
-63,,<music21.note.Note B>,note,131054977566720,0.25,189.0
-63,,<music21.note.Note F#>,note,131054979654976,0.25,189.25
-63,,<music21.note.Note G>,note,131054977566912,0.25,189.25
-63,64,<music21.spanner.Slur <music21.chord.Chord G4 E5><music21.chord.Chord G4 E5>>,slur,131054981556528,3.0,0.0
-63,64,<music21.spanner.Slur <music21.note.Note B><music21.chord.Chord E2 B2>>,slur,131054981557680,3.0,0.0
-63,,<music21.expressions.TextExpression 'a tempo'>,a tempo,131054979651664,0.0,186.5
-64,,<music21.chord.Chord G4 E5>,note,131054981557056,1.5,189.5
-64,,<music21.chord.Chord E2 B2>,note,131054981557968,1.5,189.5
-64,,<music21.chord.Chord G4 E5>,note,131054979655216,1.0,191.0
-64,,<music21.chord.Chord E2 B2>,note,131054977567440,1.0,191.0
+0,,<music21.note.Note B>,note,136957998441024,0.5,0.0
+0,,<music21.articulations.Staccato>,staccato,136957998440832,0.0,0.0
+0,,<music21.note.Rest eighth>,note,136958000042576,0.5,0.0
+0,,<music21.dynamics.Dynamic p>,p,136957998441456,,
+0,,<music21.expressions.TextExpression 'Allegretto'>,Allegretto,136957998442896,0.0,0.0
+0,,<music21.tempo.MetronomeMark Quarter=116 (playback only)>,None,136957998442224,0.0,0.0
+0,,<music21.tempo.MetronomeMark Quarter=116 (playback only)>,None None,136957998442224,0.0,0.0
+1,,<music21.note.Note E>,note,136957998440256,0.5,0.5
+1,,<music21.chord.Chord E4 G4 B4>,note,136957998438864,1.5,0.5
+1,,<music21.note.Note F#>,note,136957999516992,0.5,1.0
+1,,<music21.note.Note G>,note,136957999516464,0.5,1.5
+1,,<music21.note.Note F#>,note,136957999516224,0.5,2.0
+1,,<music21.chord.Chord D#4 F#4 B4>,note,136958000042336,1.5,2.0
+1,,<music21.note.Note B>,note,136957999516320,0.5,2.5
+1,,<music21.note.Note B>,note,136957999515840,0.5,3.0
+1,2,<music21.spanner.Slur <music21.note.Note E><music21.note.Note G>>,slur,136957998440112,3.0,0.0
+1,2,<music21.spanner.Slur <music21.chord.Chord E4 G4 B4><music21.note.Note E>>,slur,136957998439056,3.0,0.0
+2,,<music21.note.Note G>,note,136957998439776,1.5,3.5
+2,,<music21.note.Note E>,note,136957998438528,0.5,3.5
+2,,<music21.note.Note G>,note,136958000041760,0.5,4.0
+2,,<music21.note.Note B>,note,136958000041520,0.5,4.5
+2,,<music21.note.Note F#>,note,136957999516032,1.0,5.0
+2,,<music21.note.Note D>,note,136958000041040,0.5,5.0
+2,,<music21.note.Note G>,note,136958000040848,0.5,5.5
+2,,<music21.note.Note B>,note,136957999515552,0.5,6.0
+2,,<music21.note.Note B>,note,136958000040608,0.5,6.0
+2,3,<music21.spanner.Slur <music21.note.Note G><music21.note.Note A>>,slur,136957998437904,3.0,0.0
+2,3,<music21.spanner.Slur <music21.note.Note E><music21.chord.Chord C4 E4 A4>>,slur,136957998437520,3.0,0.0
+3,,<music21.note.Note A>,note,136957998437808,0.5,6.5
+3,,<music21.articulations.Staccato>,staccato,136957998437664,0.0,0.0
+3,,<music21.chord.Chord C4 E4 A4>,note,136957998437424,1.5,6.5
+3,,<music21.note.Note C>,note,136957998436992,0.25,7.0
+3,,<music21.note.Note B>,note,136957999515360,0.25,7.25
+3,,<music21.note.Note A>,note,136957999514832,0.25,7.5
+3,,<music21.note.Note G>,note,136957999514592,0.25,7.75
+3,,<music21.note.Note F#>,note,136957998436368,0.5,8.0
+3,,<music21.articulations.Staccato>,staccato,136957998436272,0.0,0.0
+3,,<music21.chord.Chord A3 E4 F#4 C5>,note,136957998435024,0.5,8.0
+3,,<music21.note.Note A>,note,136957998436128,0.25,8.5
+3,,<music21.note.Rest eighth>,note,136958000040368,0.5,8.5
+3,,<music21.note.Note G>,note,136957999514736,0.25,8.75
+3,,<music21.note.Note F#>,note,136957999514160,0.25,9.0
+3,,<music21.note.Rest eighth>,note,136958000040272,0.5,9.0
+3,,<music21.note.Note E>,note,136957999513920,0.25,9.25
+3,3,<music21.spanner.Slur <music21.note.Note C><music21.note.Note F#>>,slur,136957998436704,1.0,0.0
+3,4,<music21.spanner.Slur <music21.note.Note A><music21.note.Note D#>>,slur,136957998435888,2.5,0.0
+3,3,<music21.spanner.Slur <music21.chord.Chord C4 E4 A4><music21.chord.Chord A3 E4 F#4 C5>>,slur,136957998435168,1.5,0.0
+4,,<music21.note.Note E>,note,136957998433824,1.0,9.5
+4,,<music21.articulations.Accent>,accent,136957998433680,0.0,0.0
+4,,<music21.note.Note B>,note,136957998432768,0.5,9.5
+4,,<music21.note.Note F#>,note,136958000040320,0.5,10.0
+4,,<music21.note.Note D#>,note,136957999316816,0.5,10.5
+4,,<music21.note.Note B>,note,136957998432336,0.5,10.5
+4,,<music21.note.Note D#>,note,136957998435552,1.0,11.0
+4,,<music21.note.Note B>,note,136957998235328,0.25,11.0
+4,,<music21.note.Note A>,note,136958000039744,0.25,11.25
+4,,<music21.note.Note G>,note,136958000039504,0.25,11.5
+4,,<music21.note.Note F#>,note,136958000039312,0.25,11.75
+4,,<music21.note.Note B>,note,136957998433488,0.5,12.0
+4,,<music21.chord.Chord E4 G4>,note,136957998235520,0.5,12.0
+4,,<music21.articulations.Staccato>,staccato,136957998234608,0.0,0.0
+4,8,<music21.spanner.Slur <music21.note.Note B><music21.note.Note D>>,slur,136957998433056,9.5,0.0
+4,4,<music21.spanner.Slur <music21.note.Note B><music21.note.Note B>>,slur,136957998432672,1.0,0.0
+4,4,<music21.spanner.Slur <music21.note.Note B><music21.chord.Chord E4 G4>>,slur,136957998235424,1.0,0.0
+4,4,<music21.dynamics.Crescendo <music21.note.Note E><music21.note.Note B>>,diminuendo,136957998434064,,
+4,,<music21.expressions.TextExpression 'ten.'>,ten.,136957999513728,0.0,10.5
+5,,<music21.note.Note D>,note,136957999316048,0.5,12.5
+5,,<music21.note.Note B>,note,136957998234464,0.5,12.5
+5,,<music21.note.Note C>,note,136957999315808,0.5,13.0
+5,,<music21.note.Note A>,note,136958000039024,0.5,13.0
+5,,<music21.note.Note A>,note,136957999315568,0.5,13.5
+5,,<music21.note.Note D#>,note,136958000038784,0.5,13.5
+5,,<music21.note.Note C>,note,136957999315760,0.5,14.0
+5,,<music21.note.Note A>,note,136958000038592,0.5,14.0
+5,,<music21.note.Note B>,note,136957999315136,0.5,14.5
+5,,<music21.note.Note G>,note,136958000038352,0.5,14.5
+5,,<music21.note.Note G>,note,136957999314944,0.5,15.0
+5,,<music21.note.Note E>,note,136958000038112,0.5,15.0
+5,8,<music21.spanner.Slur <music21.note.Note B><music21.note.Note B>>,slur,136957998234560,9.0,0.0
+5,,<music21.dynamics.Dynamic p>,p,136957999316192,,
+5,,<music21.expressions.TextExpression 'tranquillo'>,tranquillo,136957999316384,0.0,12.5
+6,,<music21.note.Note B>,note,136957999314656,0.5,15.5
+6,,<music21.note.Note G>,note,136958000040752,0.5,15.5
+6,,<music21.note.Note A>,note,136957999315088,0.5,16.0
+6,,<music21.note.Note F#>,note,136957999857440,0.5,16.0
+6,,<music21.note.Note F#>,note,136957999314464,0.5,16.5
+6,,<music21.note.Note B>,note,136957999857392,0.5,16.5
+6,,<music21.note.Note A>,note,136957999314032,0.5,17.0
+6,,<music21.note.Note F#>,note,136957999857152,0.5,17.0
+6,,<music21.note.Note G>,note,136957999313792,0.5,17.5
+6,,<music21.note.Note E>,note,136957999856912,0.5,17.5
+6,,<music21.note.Note E>,note,136957999313552,0.5,18.0
+6,,<music21.note.Note C>,note,136957999856672,0.5,18.0
+7,,<music21.note.Note G>,note,136957999313216,0.5,18.5
+7,,<music21.note.Note E>,note,136957999856000,0.5,18.5
+7,,<music21.note.Note F#>,note,136957999313024,0.5,19.0
+7,,<music21.note.Note D>,note,136957999855760,0.5,19.0
+7,,<music21.note.Note D>,note,136957999312784,0.5,19.5
+7,,<music21.note.Note G>,note,136957999855520,0.5,19.5
+7,,<music21.note.Note F#>,note,136957998233840,0.5,20.0
+7,,<music21.note.Note D>,note,136957999855280,0.5,20.0
+7,,<music21.note.Note E>,note,136957998233648,0.5,20.5
+7,,<music21.note.Note C>,note,136957999855088,0.5,20.5
+7,,<music21.note.Note C>,note,136957999312544,0.5,21.0
+7,,<music21.note.Note A>,note,136957999855232,0.5,21.0
+7,7,<music21.spanner.Slur <music21.note.Note F#><music21.note.Note E>>,slur,136957998234368,0.5,0.0
+8,,<music21.note.Note D>,note,136957998432912,0.5,21.5
+8,,<music21.articulations.Staccato>,staccato,136957998432816,0.0,0.0
+8,,<music21.note.Note B>,note,136957998234224,0.5,21.5
+8,,<music21.articulations.Staccato>,staccato,136957998234128,0.0,0.0
+8,,<music21.note.Note E>,note,136957998233312,0.25,22.0
+8,,<music21.note.Note C>,note,136957998232736,0.25,22.0
+8,,<music21.note.Note F#>,note,136957999312256,0.25,22.25
+8,,<music21.note.Note D>,note,136957999854512,0.25,22.25
+8,,<music21.note.Note G>,note,136957999312016,0.25,22.5
+8,,<music21.note.Note E>,note,136957999854320,0.25,22.5
+8,,<music21.note.Note A>,note,136957999311776,0.25,22.75
+8,,<music21.note.Note F#>,note,136957999854080,0.25,22.75
+8,,<music21.note.Note B>,note,136957998233456,0.5,23.0
+8,,<music21.articulations.Staccato>,staccato,136957998232976,0.0,0.0
+8,,<music21.note.Note G>,note,136957998232496,0.5,23.0
+8,,<music21.articulations.Staccato>,staccato,136957998232352,0.0,0.0
+8,,<music21.note.Note A>,note,136957999311536,0.5,23.5
+8,,<music21.articulations.Staccato>,staccato,136957999311440,0.0,0.0
+8,,<music21.note.Note F#>,note,136957999853840,0.5,23.5
+8,,<music21.articulations.Staccato>,staccato,136957999853744,0.0,0.0
+8,,<music21.note.Note G>,note,136957999311392,0.5,24.0
+8,,<music21.articulations.Staccato>,staccato,136957999311152,0.0,0.0
+8,,<music21.note.Note E>,note,136957999853600,0.5,24.0
+8,,<music21.articulations.Staccato>,staccato,136957999853456,0.0,0.0
+8,8,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,136957998233552,1.0,0.0
+8,8,<music21.spanner.Slur <music21.note.Note C><music21.note.Note G>>,slur,136957998232832,1.0,0.0
+9,,<music21.note.Note F#>,note,136957998232064,0.25,24.5
+9,,<music21.note.Note D>,note,136957998231488,0.25,24.5
+9,,<music21.note.Note G>,note,136957999311296,0.25,24.75
+9,,<music21.note.Note E>,note,136957999853264,0.25,24.75
+9,,<music21.note.Note A>,note,136957999310960,0.25,25.0
+9,,<music21.note.Note F#>,note,136957999853024,0.25,25.0
+9,,<music21.note.Note B>,note,136957999310480,0.25,25.25
+9,,<music21.note.Note G>,note,136957999852784,0.25,25.25
+9,,<music21.note.Note C>,note,136957999310288,0.25,25.5
+9,,<music21.note.Note A>,note,136957999852880,0.25,25.5
+9,,<music21.note.Note D>,note,136957999310000,0.25,25.75
+9,,<music21.note.Note B>,note,136957999852352,0.25,25.75
+9,,<music21.note.Note E>,note,136957998231824,0.5,26.0
+9,,<music21.articulations.Staccato>,staccato,136957998231728,0.0,0.0
+9,,<music21.note.Note C>,note,136957998231248,0.5,26.0
+9,,<music21.articulations.Staccato>,staccato,136957998231584,0.0,0.0
+9,,<music21.note.Note D>,note,136957999309760,0.5,26.5
+9,,<music21.articulations.Staccato>,staccato,136957999309664,0.0,0.0
+9,,<music21.note.Note B>,note,136957999852112,0.5,26.5
+9,,<music21.articulations.Staccato>,staccato,136957999852016,0.0,0.0
+9,,<music21.note.Note C>,note,136957999309472,0.5,27.0
+9,,<music21.articulations.Staccato>,staccato,136957999309376,0.0,0.0
+9,,<music21.note.Note A>,note,136957999851872,0.5,27.0
+9,,<music21.articulations.Staccato>,staccato,136957999851728,0.0,0.0
+9,9,<music21.spanner.Slur <music21.note.Note F#><music21.note.Note E>>,slur,136957998232208,1.5,0.0
+9,9,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,136957998231776,1.5,0.0
+10,,<music21.note.Note B>,note,136957999309568,0.5,27.5
+10,,<music21.articulations.Staccato>,staccato,136957999308944,0.0,0.0
+10,,<music21.note.Note G>,note,136957999851632,0.5,27.5
+10,,<music21.articulations.Staccato>,staccato,136957999851248,0.0,0.0
+10,,<music21.note.Note C>,note,136957998230864,0.25,28.0
+10,,<music21.note.Note A>,note,136957998230192,0.25,28.0
+10,,<music21.note.Note D>,note,136957999308800,0.25,28.25
+10,,<music21.note.Note B>,note,136957999851056,0.25,28.25
+10,,<music21.note.Note E>,note,136957999314128,0.25,28.5
+10,,<music21.note.Note C>,note,136957999850816,0.25,28.5
+10,,<music21.note.Note F#>,note,136957999308368,0.25,28.75
+10,,<music21.note.Note D>,note,136957999850576,0.25,28.75
+10,,<music21.note.Note G>,note,136957998230624,0.5,29.0
+10,,<music21.articulations.Staccato>,staccato,136957998230480,0.0,0.0
+10,,<music21.note.Note E>,note,136957998229952,0.5,29.0
+10,,<music21.articulations.Staccato>,staccato,136957998230096,0.0,0.0
+10,,<music21.note.Note F#>,note,136957999308128,0.5,29.5
+10,,<music21.articulations.Staccato>,staccato,136957999308032,0.0,0.0
+10,,<music21.note.Note D>,note,136957999850336,0.5,29.5
+10,,<music21.articulations.Staccato>,staccato,136957999850240,0.0,0.0
+10,,<music21.note.Note E>,note,136957999307888,0.5,30.0
+10,,<music21.articulations.Staccato>,staccato,136957999307744,0.0,0.0
+10,,<music21.note.Note C>,note,136957999850048,0.5,30.0
+10,,<music21.articulations.Staccato>,staccato,136957999850192,0.0,0.0
+10,10,<music21.spanner.Slur <music21.note.Note C><music21.note.Note G>>,slur,136957998230960,1.0,0.0
+10,10,<music21.spanner.Slur <music21.note.Note A><music21.note.Note E>>,slur,136957998230576,1.0,0.0
+11,,<music21.note.Note D>,note,136957998229568,0.25,30.5
+11,,<music21.note.Note B>,note,136957998228944,0.25,30.5
+11,,<music21.note.Note E>,note,136957999307936,0.25,30.75
+11,,<music21.note.Note C>,note,136957999849952,0.25,30.75
+11,,<music21.note.Note F#>,note,136957999307312,0.25,31.0
+11,,<music21.note.Note D>,note,136957999849712,0.25,31.0
+11,,<music21.note.Note G>,note,136957999307072,0.25,31.25
+11,,<music21.note.Note E>,note,136957999849280,0.25,31.25
+11,,<music21.note.Note A>,note,136957999306832,0.25,31.5
+11,,<music21.note.Note F#>,note,136957999849472,0.25,31.5
+11,,<music21.note.Note B>,note,136957999306592,0.125,31.75
+11,,<music21.note.Note G>,note,136957999849040,0.125,31.75
+11,,<music21.note.Note C>,note,136957999306400,0.125,31.875
+11,,<music21.note.Note A>,note,136957999848656,0.125,31.875
+11,,<music21.note.Note D>,note,136957998229376,0.5,32.0
+11,,<music21.articulations.Staccato>,staccato,136957998229472,0.0,0.0
+11,,<music21.note.Note B>,note,136957998228704,0.5,32.0
+11,,<music21.articulations.Staccato>,staccato,136957998228608,0.0,0.0
+11,,<music21.note.Note C>,note,136957999306160,0.5,32.5
+11,,<music21.articulations.Staccato>,staccato,136957999306064,0.0,0.0
+11,,<music21.note.Note A>,note,136957999848464,0.5,32.5
+11,,<music21.articulations.Staccato>,staccato,136957999848608,0.0,0.0
+11,,<music21.note.Note B>,note,136957999305872,0.5,33.0
+11,,<music21.articulations.Staccato>,staccato,136957999306112,0.0,0.0
+11,,<music21.note.Note G>,note,136957999848176,0.5,33.0
+11,,<music21.articulations.Staccato>,staccato,136957999848080,0.0,0.0
+11,11,<music21.spanner.Slur <music21.note.Note D><music21.note.Note D>>,slur,136957998229712,1.5,0.0
+11,11,<music21.spanner.Slur <music21.note.Note B><music21.note.Note B>>,slur,136957998229280,1.5,0.0
+12,,<music21.note.Note A>,note,136957998228320,1.5,33.5
+12,,<music21.chord.Chord A4 F#5>,note,136957998227792,1.5,33.5
+12,,<music21.note.Note D>,note,136957999847744,3.0,33.5
+12,,<music21.note.Note A>,note,136957999305536,0.5,35.0
+12,,<music21.articulations.Staccato>,staccato,136957999305440,0.0,0.0
+12,,<music21.chord.Chord F#4 A4 D5>,note,136957998227648,1.5,35.0
+12,,<music21.note.Note D>,note,136957999305200,0.5,35.5
+12,,<music21.articulations.Staccato>,staccato,136957999305104,0.0,0.0
+12,,<music21.note.Note D>,note,136957999304960,0.5,36.0
+12,,<music21.articulations.Staccato>,staccato,136957999304816,0.0,0.0
+12,12,<music21.spanner.Slur <music21.chord.Chord A4 F#5><music21.chord.Chord F#4 A4 D5>>,slur,136957998228224,1.5,0.0
+13,,<music21.note.Note E>,note,136957998226640,1.0,36.5
+13,,<music21.chord.Chord G4 B4>,note,136957998225488,1.5,36.5
+13,,<music21.note.Note D>,note,136957999847264,3.0,36.5
+13,,<music21.note.Note D>,note,136957998226256,0.5,37.5
+13,,<music21.note.Note D>,note,136957998225920,0.5,38.0
+13,,<music21.articulations.Staccato>,staccato,136957998225824,0.0,0.0
+13,,<music21.chord.Chord F#4 A4>,note,136957998225440,1.5,38.0
+13,,<music21.note.Note D>,note,136957999304576,0.5,38.5
+13,,<music21.articulations.Staccato>,staccato,136957999304432,0.0,0.0
+13,,<music21.note.Note D>,note,136957999304240,0.5,39.0
+13,,<music21.articulations.Staccato>,staccato,136957999304144,0.0,0.0
+13,13,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D>>,slur,136957998226016,1.5,0.0
+13,13,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.chord.Chord F#4 A4>>,slur,136957998225584,1.5,0.0
+14,,<music21.note.Note E>,note,136957998224288,1.0,39.5
+14,,<music21.chord.Chord G4 B4>,note,136957999846880,1.5,39.5
+14,,<music21.note.Note D>,note,136957999845344,3.0,39.5
+14,,<music21.note.Note D>,note,136957998224240,0.5,40.5
+14,,<music21.note.Note D>,note,136957998223712,0.5,41.0
+14,,<music21.articulations.Staccato>,staccato,136957998223616,0.0,0.0
+14,,<music21.chord.Chord F#4 A4>,note,136957999846400,0.5,41.0
+14,,<music21.note.Note D>,note,136957998223664,0.5,41.5
+14,,<music21.note.Note E>,note,136957999845872,0.5,41.5
+14,,<music21.note.Note C>,note,136957999303904,0.5,42.0
+14,,<music21.note.Note F#>,note,136957999845632,0.5,42.0
+14,14,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D>>,slur,136957998223808,1.5,0.0
+14,16,<music21.spanner.Slur <music21.note.Note D><music21.chord.Chord B4 G5>>,slur,136957998223424,4.0,0.0
+15,,<music21.note.Note B>,note,136957999303856,0.0,42.5
+15,,<music21.note.Note C>,note,136957999303328,0.0,42.5
+15,,<music21.note.Note B>,note,136957999303136,0.5,42.5
+15,,<music21.note.Note B>,note,136957999845296,1.5,42.5
+15,,<music21.note.Note G>,note,136957998222416,1.0,42.5
+15,,<music21.note.Note A>,note,136957999302896,0.5,43.0
+15,,<music21.note.Note G>,note,136957999308608,0.5,43.5
+15,,<music21.note.Note C>,note,136957999844432,0.5,43.5
+15,,<music21.chord.Chord B4 G5>,note,136957999302464,0.5,44.0
+15,,<music21.note.Note D>,note,136957999844720,1.5,44.0
+15,,<music21.note.Note D>,note,136957998222608,1.5,44.0
+15,,<music21.chord.Chord C5 A5>,note,136957999301984,0.5,44.5
+15,,<music21.chord.Chord A4 F#5>,note,136957999301456,0.5,45.0
+15,15,<music21.spanner.Slur <music21.note.Note G><music21.note.Note D>>,slur,136957998222704,1.5,0.0
+16,,<music21.chord.Chord B4 G5>,note,136957998223088,0.25,45.5
+16,,<music21.chord.Chord D4 G4>,note,136957999844384,0.5,45.5
+16,,<music21.articulations.Staccato>,staccato,136957999843616,0.0,0.0
+16,,<music21.chord.Chord D5 A5>,note,136957999300976,0.25,45.75
+16,,<music21.chord.Chord B4 G5>,note,136957999136352,0.25,46.0
+16,,<music21.chord.Chord G3 D4>,note,136957999843760,0.5,46.0
+16,,<music21.articulations.Staccato>,staccato,136957999843088,0.0,0.0
+16,,<music21.chord.Chord D5 A5>,note,136957999135872,0.25,46.25
+16,,<music21.chord.Chord B4 G5>,note,136957999135392,0.25,46.5
+16,,<music21.chord.Chord D3 G3>,note,136957999843232,0.5,46.5
+16,,<music21.articulations.Staccato>,staccato,136957999842464,0.0,0.0
+16,,<music21.chord.Chord D5 A5>,note,136957999134864,0.25,46.75
+16,,<music21.chord.Chord B4 G5>,note,136957998221840,0.5,47.0
+16,,<music21.articulations.Staccato>,staccato,136957998221312,0.0,0.0
+16,,<music21.chord.Chord G2 D3>,note,136957999842416,1.5,47.0
+16,,<music21.articulations.Tenuto>,tenuto,136957999841840,0.0,0.0
+16,,<music21.chord.Chord C5 A5>,note,136957999134336,0.5,47.5
+16,,<music21.articulations.Staccato>,staccato,136957999133856,0.0,0.0
+16,,<music21.chord.Chord G4 D5>,note,136957999134192,0.5,48.0
+16,,<music21.articulations.Staccato>,staccato,136957999133328,0.0,0.0
+16,16,<music21.spanner.Slur <music21.chord.Chord B4 G5><music21.chord.Chord B4 G5>>,slur,136957998221936,1.5,0.0
+16,,<music21.dynamics.Dynamic p>,p,136957999300880,,
+17,,<music21.chord.Chord G5 B5>,note,136957998221168,0.25,48.5
+17,,<music21.chord.Chord D4 G4>,note,136957999841552,0.5,48.5
+17,,<music21.articulations.Staccato>,staccato,136958001741696,0.0,0.0
+17,,<music21.chord.Chord D5 A5>,note,136957999133424,0.25,48.75
+17,,<music21.chord.Chord G5 B5>,note,136957999132704,0.25,49.0
+17,,<music21.chord.Chord G3 D4>,note,136958001741648,0.5,49.0
+17,,<music21.articulations.Staccato>,staccato,136958001741120,0.0,0.0
+17,,<music21.chord.Chord D5 A5>,note,136957999132176,0.25,49.25
+17,,<music21.chord.Chord G5 B5>,note,136957999131984,0.25,49.5
+17,,<music21.chord.Chord D3 G3>,note,136958001740976,0.5,49.5
+17,,<music21.articulations.Staccato>,staccato,136958001740592,0.0,0.0
+17,,<music21.chord.Chord D5 A5>,note,136957999131216,0.25,49.75
+17,,<music21.note.Note G>,note,136957998220592,0.5,50.0
+17,,<music21.articulations.Staccato>,staccato,136957998220496,0.0,0.0
+17,,<music21.chord.Chord G2 D3>,note,136958001740496,1.5,50.0
+17,,<music21.articulations.Tenuto>,tenuto,136958001740256,0.0,0.0
+17,,<music21.chord.Chord D5 A5>,note,136957999130736,0.5,50.5
+17,,<music21.articulations.Staccato>,staccato,136957999130256,0.0,0.0
+17,,<music21.chord.Chord G4 D5>,note,136957999130160,0.5,51.0
+17,,<music21.articulations.Staccato>,staccato,136957999129680,0.0,0.0
+17,17,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.note.Note G>>,slur,136957998221504,1.5,0.0
+18,,<music21.chord.Chord G5 B5>,note,136957998220448,0.25,51.5
+18,,<music21.chord.Chord D4 G4>,note,136958001739728,0.5,51.5
+18,,<music21.articulations.Staccato>,staccato,136958001739200,0.0,0.0
+18,,<music21.chord.Chord D5 A5>,note,136957999129536,0.25,51.75
+18,,<music21.chord.Chord G5 B5>,note,136957999129056,0.25,52.0
+18,,<music21.chord.Chord G3 D4>,note,136958001739152,0.5,52.0
+18,,<music21.articulations.Staccato>,staccato,136958001738624,0.0,0.0
+18,,<music21.chord.Chord D5 A5>,note,136957999128576,0.25,52.25
+18,,<music21.chord.Chord G5 B5>,note,136957999128048,0.25,52.5
+18,,<music21.chord.Chord D3 G3>,note,136958001738432,0.5,52.5
+18,,<music21.articulations.Staccato>,staccato,136958001737856,0.0,0.0
+18,,<music21.chord.Chord D5 A5>,note,136957999127568,0.25,52.75
+18,,<music21.note.Note G>,note,136957998219632,0.5,53.0
+18,,<music21.articulations.Staccato>,staccato,136957998219536,0.0,0.0
+18,,<music21.chord.Chord G2 D3>,note,136958001737952,1.0,53.0
+18,,<music21.articulations.Tenuto>,tenuto,136958001737280,0.0,0.0
+18,,<music21.chord.Chord D5 A5>,note,136957999127040,0.5,53.5
+18,,<music21.articulations.Staccato>,staccato,136957999126560,0.0,0.0
+18,,<music21.note.Note D>,note,136957999126512,0.5,54.0
+18,,<music21.articulations.Staccato>,staccato,136957999126368,0.0,0.0
+18,,<music21.chord.Chord F#4 A4 C5>,note,136958001737040,0.5,54.0
+18,18,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.note.Note G>>,slur,136957998220304,1.5,0.0
+19,,<music21.chord.Chord G5 B5>,note,136957998039008,0.5,54.5
+19,,<music21.chord.Chord B4 D5>,note,136957998035696,1.5,54.5
+19,,<music21.chord.Chord A5 C6>,note,136957999126464,0.5,55.0
+19,,<music21.chord.Chord B5 D6>,note,136957998038432,0.5,55.5
+19,,<music21.note.Rest 16th>,note,136957999125600,0.25,55.75
+19,,<music21.note.Rest 16th>,note,136958001736176,0.25,55.75
+19,,<music21.chord.Chord B5 D6>,note,136957998036992,0.5,56.0
+19,,<music21.chord.Chord E4 G4 B4 D5>,note,136957998035168,1.5,56.0
+19,,<music21.chord.Chord A5 C6>,note,136957999125408,0.5,56.5
+19,,<music21.chord.Chord G5 B5>,note,136957998036368,0.5,57.0
+19,,<music21.note.Rest 16th>,note,136957999124928,0.25,57.25
+19,,<music21.note.Rest 16th>,note,136958001736368,0.25,57.25
+19,21,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord G4 B4>>,slur,136957998037760,6.0,0.0
+19,19,<music21.spanner.Slur <music21.chord.Chord B4 D5><music21.chord.Chord E4 G4 B4 D5>>,slur,136957998035792,1.5,0.0
+19,19,<music21.spanner.Slur <music21.chord.Chord B4 D5><music21.chord.Chord E4 G4 B4 D5>>,slur,136957998034112,1.5,0.0
+19,20,<music21.spanner.Slur <music21.chord.Chord B4 D5><music21.note.Note D>>,slur,136957998033968,4.5,0.0
+19,19,<music21.dynamics.Crescendo <music21.chord.Chord G5 B5><music21.chord.Chord B5 D6>>,diminuendo,136957998219344,,
+19,19,<music21.dynamics.Diminuendo <music21.chord.Chord B5 D6><music21.chord.Chord G5 B5>>,diminuendo,136957998037520,,
+20,,<music21.note.Note A>,note,136957999124880,0.25,57.5
+20,,<music21.chord.Chord F#4 A4 C5>,note,136958001735696,1.5,57.5
+20,,<music21.note.Note G>,note,136957998033440,0.25,57.75
+20,,<music21.note.Note F#>,note,136957999124448,0.25,58.0
+20,,<music21.note.Note E>,note,136957999124208,0.25,58.25
+20,,<music21.note.Note D>,note,136957999124016,0.25,58.5
+20,,<music21.note.Note C>,note,136957999123776,0.25,58.75
+20,,<music21.note.Note B>,note,136957999123536,0.25,59.0
+20,,<music21.note.Note D>,note,136957998033872,0.5,59.0
+20,,<music21.note.Note A>,note,136957999123296,0.25,59.25
+20,,<music21.note.Note G>,note,136957999123392,0.25,59.5
+20,,<music21.note.Rest eighth>,note,136958001734880,0.5,59.5
+20,,<music21.note.Note F#>,note,136957999122864,0.25,59.75
+20,,<music21.note.Note E>,note,136957999122768,0.25,60.0
+20,,<music21.note.Rest eighth>,note,136958001734736,0.5,60.0
+20,,<music21.note.Note D>,note,136957998033200,0.25,60.25
+20,20,<music21.dynamics.Diminuendo <music21.note.Note G><music21.note.Note D>>,diminuendo,136957998033632,,
+21,,<music21.chord.Chord G4 B4>,note,136957998037664,0.25,60.5
+21,,<music21.note.Note G>,note,136958001734592,0.5,60.5
+21,,<music21.articulations.Staccato>,staccato,136958001734544,0.0,0.0
+21,,<music21.chord.Chord D4 A4>,note,136957999122384,0.25,60.75
+21,,<music21.chord.Chord G4 B4>,note,136957999121856,0.25,61.0
+21,,<music21.note.Note D>,note,136958001734304,0.5,61.0
+21,,<music21.articulations.Staccato>,staccato,136958001734496,0.0,0.0
+21,,<music21.chord.Chord D4 A4>,note,136957999121328,0.25,61.25
+21,,<music21.chord.Chord G4 B4>,note,136957999120848,0.25,61.5
+21,,<music21.note.Note G>,note,136958001733968,0.5,61.5
+21,,<music21.articulations.Staccato>,staccato,136958001734208,0.0,0.0
+21,,<music21.chord.Chord D4 A4>,note,136957999120512,0.25,61.75
+21,,<music21.note.Note G>,note,136957998033104,0.5,62.0
+21,,<music21.articulations.Staccato>,staccato,136957998032720,0.0,0.0
+21,,<music21.note.Note D>,note,136958001733680,1.5,62.0
+21,,<music21.articulations.Tenuto>,tenuto,136958001733872,0.0,0.0
+21,,<music21.note.Note A>,note,136957998972464,0.5,62.5
+21,,<music21.articulations.Staccato>,staccato,136957998972704,0.0,0.0
+21,,<music21.note.Note D>,note,136957998972224,0.5,63.0
+21,,<music21.articulations.Staccato>,staccato,136957998972080,0.0,0.0
+21,21,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.note.Note G>>,slur,136957998032960,1.5,0.0
+22,,<music21.chord.Chord G4 B4>,note,136957998032480,0.25,63.5
+22,,<music21.note.Note G>,note,136958001733344,0.5,63.5
+22,,<music21.articulations.Staccato>,staccato,136958001733584,0.0,0.0
+22,,<music21.chord.Chord D4 A4>,note,136957998971840,0.25,63.75
+22,,<music21.chord.Chord G4 B4>,note,136957998971360,0.25,64.0
+22,,<music21.note.Note D>,note,136958001733056,0.5,64.0
+22,,<music21.articulations.Staccato>,staccato,136958001732960,0.0,0.0
+22,,<music21.chord.Chord D4 A4>,note,136957998970832,0.25,64.25
+22,,<music21.chord.Chord G4 B4>,note,136957998970640,0.25,64.5
+22,,<music21.note.Note G>,note,136958001732768,0.5,64.5
+22,,<music21.articulations.Staccato>,staccato,136958001732672,0.0,0.0
+22,,<music21.chord.Chord D4 A4>,note,136957998969872,0.25,64.75
+22,,<music21.note.Note G>,note,136957998032240,0.5,65.0
+22,,<music21.articulations.Staccato>,staccato,136957998031904,0.0,0.0
+22,,<music21.note.Note D>,note,136958001732480,1.5,65.0
+22,,<music21.articulations.Tenuto>,tenuto,136958001732384,0.0,0.0
+22,,<music21.note.Note A>,note,136957998969632,0.5,65.5
+22,,<music21.articulations.Staccato>,staccato,136957998969200,0.0,0.0
+22,,<music21.note.Note D>,note,136957998969056,0.5,66.0
+22,,<music21.articulations.Staccato>,staccato,136957998968960,0.0,0.0
+22,22,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.note.Note G>>,slur,136957998032576,1.5,0.0
+23,,<music21.chord.Chord G4 B4>,note,136957998031616,0.25,66.5
+23,,<music21.note.Note G>,note,136958001732144,0.5,66.5
+23,,<music21.articulations.Staccato>,staccato,136958001732048,0.0,0.0
+23,,<music21.chord.Chord D4 A4>,note,136957998968720,0.25,66.75
+23,,<music21.chord.Chord G4 B4>,note,136957998968144,0.25,67.0
+23,,<music21.note.Note D>,note,136958001732000,0.5,67.0
+23,,<music21.articulations.Staccato>,staccato,136958001731760,0.0,0.0
+23,,<music21.chord.Chord D4 A4>,note,136957998967712,0.25,67.25
+23,,<music21.chord.Chord G4 B4>,note,136957998967568,0.25,67.5
+23,,<music21.note.Note G>,note,136958001731616,0.5,67.5
+23,,<music21.articulations.Staccato>,staccato,136958001731472,0.0,0.0
+23,,<music21.chord.Chord D4 A4>,note,136957998966656,0.25,67.75
+23,,<music21.note.Note G>,note,136957998031136,0.5,68.0
+23,,<music21.articulations.Staccato>,staccato,136957998030992,0.0,0.0
+23,,<music21.note.Note D>,note,136958001731328,1.5,68.0
+23,,<music21.articulations.Tenuto>,tenuto,136958001731184,0.0,0.0
+23,,<music21.note.Note A>,note,136957998966176,0.5,68.5
+23,,<music21.articulations.Staccato>,staccato,136957998966080,0.0,0.0
+23,,<music21.note.Note D>,note,136957998966320,0.5,69.0
+23,,<music21.articulations.Staccato>,staccato,136957998965792,0.0,0.0
+23,23,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.note.Note G>>,slur,136957998031712,1.5,0.0
+24,,<music21.note.Note B>,note,136957998030752,0.5,69.5
+24,,<music21.note.Note G>,note,136957998964304,1.0,69.5
+24,,<music21.note.Note G>,note,136957998030128,1.0,69.5
+24,,<music21.note.Note A>,note,136957998965552,0.5,70.0
+24,,<music21.note.Note G>,note,136957998965264,0.5,70.5
+24,,<music21.note.Note E>,note,136957998964016,0.5,70.5
+24,,<music21.note.Note C>,note,136958001730896,0.5,70.5
+24,,<music21.note.Note B>,note,136957998965024,0.5,71.0
+24,,<music21.note.Note G>,note,136957998963872,0.5,71.0
+24,,<music21.note.Note D>,note,136958001730992,1.0,71.0
+24,,<music21.note.Note C>,note,136957998964784,0.5,71.5
+24,,<music21.note.Note A>,note,136957998963632,0.5,71.5
+24,,<music21.note.Note A>,note,136957998964592,0.5,72.0
+24,,<music21.note.Note F#>,note,136957998963392,0.5,72.0
+24,,<music21.note.Note D>,note,136958001730656,0.5,72.0
+24,25,<music21.spanner.Slur <music21.note.Note B><music21.note.Note G>>,slur,136957998030848,3.0,0.0
+24,25,<music21.spanner.Slur <music21.note.Note G><music21.chord.Chord G2 D3 B3>>,slur,136957998030272,3.0,0.0
+25,,<music21.note.Note G>,note,136957998030512,0.25,72.5
+25,,<music21.chord.Chord G2 D3 B3>,note,136957998029840,1.5,72.5
+25,,<music21.note.Note A>,note,136957998962912,0.125,72.75
+25,,<music21.note.Note B>,note,136957998967616,0.125,72.875
+25,,<music21.note.Note C>,note,136957998962480,1/6,73.0
+25,,<music21.note.Note D>,note,136957998962096,1/6,439/6
+25,,<music21.note.Note E>,note,136957998961712,1/6,220/3
+25,,<music21.note.Note F#>,note,136957998961328,1/6,73.5
+25,,<music21.note.Note G>,note,136957998960944,1/6,221/3
+25,,<music21.note.Note A>,note,136957998960560,1/6,443/6
+25,,<music21.chord.Chord G5 B5>,note,136957998029264,0.5,74.0
+25,,<music21.chord.Chord G2 D3 B3>,note,136958001730128,1.5,74.0
+25,,<music21.chord.Chord D5 B5 D6>,note,136957998028352,0.5,74.5
+25,,<music21.chord.Chord G4 D5>,note,136957998960032,0.5,75.0
+25,,<music21.articulations.Staccato>,staccato,136957998959840,0.0,0.0
+25,25,<music21.spanner.Slur <music21.note.Note G><music21.chord.Chord G5 B5>>,slur,136957998029120,1.5,0.0
+25,25,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord D5 B5 D6>>,slur,136957998028496,0.5,0.0
+25,,<music21.dynamics.Dynamic pp>,pp,136957998963152,,
+25,,<music21.expressions.TextExpression 'rallentando.'>,rallentando.,136957998960224,0.0,74.0
+26,,<music21.chord.Chord G5 B5>,note,136957998027728,0.5,75.5
+26,,<music21.chord.Chord G2 D3 B3>,note,136958001729408,1.5,75.5
+26,,<music21.chord.Chord D5 B5 D6>,note,136957998026912,0.5,76.0
+26,,<music21.chord.Chord G4 D5>,note,136957998959552,0.5,76.5
+26,,<music21.articulations.Staccato>,staccato,136957998958880,0.0,0.0
+26,,<music21.chord.Chord G5 B5>,note,136957998026528,0.5,77.0
+26,,<music21.chord.Chord G2 D3 B3>,note,136958001728352,1.5,77.0
+26,,<music21.chord.Chord D5 B5 D6>,note,136957998025904,0.5,77.5
+26,,<music21.chord.Chord G4 D5>,note,136957998958832,0.5,78.0
+26,,<music21.articulations.Staccato>,staccato,136957998958304,0.0,0.0
+26,26,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord D5 B5 D6>>,slur,136957998027584,0.5,0.0
+26,26,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord D5 B5 D6>>,slur,136957998026192,0.5,0.0
+27,,<music21.chord.Chord G5 B5>,note,136957998024848,0.25,78.5
+27,,<music21.note.Note D>,note,136957998023744,0.25,78.5
+27,,<music21.note.Note G>,note,136958001561472,3.0,78.5
+27,,<music21.chord.Chord A5 C6>,note,136957998958352,0.25,78.75
+27,,<music21.note.Note G>,note,136958001727536,0.25,78.75
+27,,<music21.chord.Chord G5 B5>,note,136957998957488,0.25,79.0
+27,,<music21.note.Note D>,note,136958001727296,0.25,79.0
+27,,<music21.chord.Chord A5 C6>,note,136957998962720,0.25,79.25
+27,,<music21.note.Note G>,note,136958001727104,0.25,79.25
+27,,<music21.chord.Chord G5 B5>,note,136957998957056,0.25,79.5
+27,,<music21.note.Note D>,note,136958001726816,0.25,79.5
+27,,<music21.chord.Chord A5 C6>,note,136957998808576,0.25,79.75
+27,,<music21.note.Note G>,note,136958001727056,0.25,79.75
+27,,<music21.chord.Chord G5 B5>,note,136957998807904,0.25,80.0
+27,,<music21.note.Note D>,note,136958001726384,0.25,80.0
+27,,<music21.chord.Chord A5 C6>,note,136957998807424,0.25,80.25
+27,,<music21.note.Note G>,note,136958001726144,0.25,80.25
+27,,<music21.chord.Chord G5 B5>,note,136957998806944,0.25,80.5
+27,,<music21.note.Note D>,note,136958001726000,0.25,80.5
+27,,<music21.chord.Chord A5 C6>,note,136957998806464,0.25,80.75
+27,,<music21.note.Note G>,note,136958001725712,0.25,80.75
+27,,<music21.chord.Chord G5 B5>,note,136957998805936,0.25,81.0
+27,,<music21.note.Note D>,note,136958001725664,0.25,81.0
+27,,<music21.chord.Chord A5 C6>,note,136957998805456,0.25,81.25
+27,,<music21.note.Note G>,note,136958001561520,0.25,81.25
+27,28,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.note.Note B>>,slur,136957998024944,3.0,0.0
+27,28,<music21.spanner.Slur <music21.note.Note D><music21.chord.Chord G2 D3>>,slur,136957998023840,3.0,0.0
+27,,<music21.dynamics.Dynamic pp>,pp,136957998808096,,
+27,,<music21.expressions.TextExpression 'a tempo ma...'>,a tempo ma sempre,136957998958160,0.0,78.5
+28,,<music21.note.Note B>,note,136957998024320,1.5,81.5
+28,,<music21.note.Note G>,note,136957998804448,1.5,81.5
+28,,<music21.chord.Chord G2 D3>,note,136957998023696,1.5,81.5
+28,,<music21.note.Note B>,note,136957998804784,1.0,83.0
+28,,<music21.note.Note G>,note,136957998804208,1.0,83.0
+28,,<music21.chord.Chord G2 D3>,note,136958001561184,1.0,83.0
+28,,<music21.note.Note D>,note,136957998803200,0.5,84.0
+28,,<music21.articulations.Staccato>,staccato,136957998803104,0.0,0.0
+28,,<music21.note.Rest eighth>,note,136958001559936,0.5,84.0
+29,,<music21.note.Note G>,note,136957998022736,0.5,84.5
+29,,<music21.note.Note D>,note,136957998801952,1.5,84.5
+29,,<music21.chord.Chord G3 B3>,note,136957997841104,1.5,84.5
+29,,<music21.note.Note A>,note,136957997841680,0.5,85.0
+29,,<music21.note.Note B>,note,136957998802960,0.5,85.5
+29,,<music21.note.Note A>,note,136957998802384,0.5,86.0
+29,,<music21.note.Note D>,note,136957998801424,1.5,86.0
+29,,<music21.chord.Chord F#3 A3>,note,136958001559744,1.5,86.0
+29,,<music21.note.Note B>,note,136957998802144,0.5,86.5
+29,,<music21.note.Note C>,note,136957998802336,0.5,87.0
+29,30,<music21.spanner.Slur <music21.note.Note G><music21.note.Note F>>,slur,136957998022784,5.5,0.0
+29,30,<music21.spanner.Slur <music21.chord.Chord G3 B3><music21.chord.Chord F3 A3 D4>>,slur,136957997841200,4.5,0.0
+29,30,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note E>>,diminuendo,136957997841872,,
+29,,<music21.expressions.TextExpression 'dolce'>,dolce,136957998802912,0.0,84.5
+30,,<music21.note.Note B>,note,136957998801136,0.5,87.5
+30,,<music21.note.Note D>,note,136957998800368,1.5,87.5
+30,,<music21.chord.Chord G3 B3>,note,136958001558880,1.5,87.5
+30,,<music21.note.Note C>,note,136957998800896,0.5,88.0
+30,,<music21.note.Note D>,note,136957998800704,0.5,88.5
+30,,<music21.note.Note D>,note,136957998800416,0.5,89.0
+30,,<music21.note.Rest quarter>,note,136957998799888,1.0,89.0
+30,,<music21.note.Rest quarter>,note,136958001559120,1.0,89.0
+30,,<music21.chord.Chord F3 A3 D4>,note,136957997840576,1.5,89.0
+30,,<music21.note.Note E>,note,136957997841440,0.5,89.5
+30,,<music21.note.Note F>,note,136957997842256,0.5,90.0
+30,,<music21.note.Rest eighth>,note,136957998799792,0.5,90.0
+30,,<music21.note.Rest eighth>,note,136958001559024,0.5,90.0
+31,,<music21.note.Note A>,note,136957997839664,0.5,90.5
+31,,<music21.note.Note E>,note,136957998798400,1.5,90.5
+31,,<music21.chord.Chord E3 B3>,note,136957997838944,1.5,90.5
+31,,<music21.note.Note G#>,note,136957998799552,0.5,91.0
+31,,<music21.note.Note A>,note,136957998799312,0.5,91.5
+31,,<music21.note.Note B>,note,136957998799072,0.5,92.0
+31,,<music21.note.Note E>,note,136957998798208,1.5,92.0
+31,,<music21.chord.Chord G#3 B3>,note,136958001558256,1.5,92.0
+31,,<music21.note.Note C>,note,136957998798880,0.5,92.5
+31,,<music21.note.Note D>,note,136957998798640,0.5,93.0
+31,32,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,136957997839232,5.5,0.0
+31,32,<music21.spanner.Slur <music21.chord.Chord E3 B3><music21.chord.Chord G3 B3 E4>>,slur,136957997839040,4.5,0.0
+31,32,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note G>>,diminuendo,136957997840048,,
+32,,<music21.note.Note C>,note,136957998797872,0.5,93.5
+32,,<music21.note.Note E>,note,136957998796480,1.5,93.5
+32,,<music21.chord.Chord A3 C4>,note,136958001557488,1.5,93.5
+32,,<music21.note.Note D>,note,136957998797632,0.5,94.0
+32,,<music21.note.Note E>,note,136957998797392,0.5,94.5
+32,,<music21.note.Note E>,note,136957998797056,0.5,95.0
+32,,<music21.note.Rest quarter>,note,136957998796240,1.0,95.0
+32,,<music21.note.Rest quarter>,note,136958001557584,1.0,95.0
+32,,<music21.chord.Chord G3 B3 E4>,note,136957997838464,1.5,95.0
+32,,<music21.note.Note F#>,note,136957998796816,0.5,95.5
+32,,<music21.note.Note G>,note,136957997839424,0.5,96.0
+32,,<music21.note.Rest eighth>,note,136957998796384,0.5,96.0
+32,,<music21.note.Rest eighth>,note,136958001557728,0.5,96.0
+33,,<music21.note.Note B>,note,136957997837984,0.5,96.5
+33,,<music21.note.Note F#>,note,136957998794608,1.5,96.5
+33,,<music21.chord.Chord F#3 C#4>,note,136958001556816,1.5,96.5
+33,,<music21.note.Note A#>,note,136957998795808,0.5,97.0
+33,,<music21.note.Note B>,note,136957998795568,0.5,97.5
+33,,<music21.note.Note C#>,note,136957998795520,0.5,98.0
+33,,<music21.note.Note F#>,note,136957998794368,1.5,98.0
+33,,<music21.chord.Chord A#3 C#4>,note,136958001556096,1.5,98.0
+33,,<music21.note.Note D#>,note,136957998795088,0.5,98.5
+33,,<music21.note.Note E>,note,136957998794848,0.5,99.0
+33,35,<music21.spanner.Slur <music21.note.Note B><music21.note.Note G>>,slur,136957997837120,6.0,0.0
+33,34,<music21.dynamics.Crescendo <music21.note.Note B><music21.note.Note A>>,diminuendo,136957997837744,,
+34,,<music21.note.Note D#>,note,136957998794464,0.5,99.5
+34,,<music21.note.Note F#>,note,136957998645216,1.5,99.5
+34,,<music21.note.Rest quarter>,note,136957998645072,1.0,99.5
+34,,<music21.note.Rest dotted-quarter>,note,136957998644400,1.5,99.5
+34,,<music21.chord.Chord B3 D#4>,note,136958001555424,1.5,99.5
+34,,<music21.note.Rest quarter>,note,136958001554320,1.0,99.5
+34,,<music21.note.Rest dotted-quarter>,note,136958001553504,1.5,99.5
+34,,<music21.note.Note E>,note,136957998793840,0.5,100.0
+34,,<music21.note.Note F#>,note,136957998793600,0.5,100.5
+34,,<music21.note.Rest eighth>,note,136957998644544,0.5,100.5
+34,,<music21.note.Rest eighth>,note,136958001554560,0.5,100.5
+34,,<music21.note.Note F#>,note,136957998793264,0.5,101.0
+34,,<music21.note.Rest quarter>,note,136957998644928,1.0,101.0
+34,,<music21.note.Rest quarter>,note,136958001555088,1.0,101.0
+34,,<music21.chord.Chord B3 F#4>,note,136958001554080,1.5,101.0
+34,,<music21.note.Note D#>,note,136958001553408,1.5,101.0
+34,,<music21.note.Note G>,note,136957998793024,0.5,101.5
+34,,<music21.note.Note A>,note,136957997837360,0.5,102.0
+34,,<music21.note.Rest eighth>,note,136957998644832,0.5,102.0
+34,,<music21.note.Rest eighth>,note,136958001554992,0.5,102.0
+34,,<music21.note.Rest 16th>,note,136957998792784,0.25,102.25
+34,,<music21.note.Rest 16th>,note,136958001555472,0.25,102.25
+35,,<music21.note.Note G>,note,136957997837024,0.0,102.5
+35,,<music21.note.Note A>,note,136957998644256,0.0,102.5
+35,,<music21.note.Note G>,note,136957997836640,0.5,102.5
+35,,<music21.chord.Chord B3 G4>,note,136958001553072,1.5,102.5
+35,,<music21.note.Note E>,note,136957997835728,1.0,102.5
+35,,<music21.note.Note F#>,note,136957998644016,0.5,103.0
+35,,<music21.note.Note E>,note,136957998643776,0.5,103.5
+35,,<music21.note.Note F#>,note,136958001552016,0.5,103.5
+35,,<music21.note.Note B>,note,136957998643584,0.5,104.0
+35,,<music21.chord.Chord B3 E4>,note,136958001552880,1.5,104.0
+35,,<music21.note.Note G>,note,136958001551776,1.5,104.0
+35,,<music21.note.Note A>,note,136957998643344,0.5,104.5
+35,,<music21.note.Note G>,note,136957998643104,0.5,105.0
+35,36,<music21.spanner.Slur <music21.note.Note G><music21.chord.Chord B4 F#5>>,slur,136957997836832,4.5,0.0
+35,36,<music21.spanner.Slur <music21.note.Note E><music21.chord.Chord B3 D#4>>,slur,136957997835824,3.0,0.0
+36,,<music21.chord.Chord B4 F#5>,note,136957997834672,0.25,105.5
+36,,<music21.chord.Chord B3 D#4>,note,136957997835488,0.5,105.5
+36,,<music21.articulations.Staccato>,staccato,136957997834960,0.0,0.0
+36,,<music21.note.Note G>,note,136957998642816,0.25,105.75
+36,,<music21.chord.Chord B4 F#5>,note,136957998642624,0.25,106.0
+36,,<music21.note.Note F#>,note,136958001551248,0.5,106.0
+36,,<music21.articulations.Staccato>,staccato,136958001551152,0.0,0.0
+36,,<music21.note.Note G>,note,136957998642096,0.25,106.25
+36,,<music21.chord.Chord B4 F#5>,note,136957998641904,0.25,106.5
+36,,<music21.note.Note D#>,note,136958001550960,0.5,106.5
+36,,<music21.articulations.Staccato>,staccato,136958001550864,0.0,0.0
+36,,<music21.note.Note G>,note,136957998641328,0.25,106.75
+36,,<music21.chord.Chord B4 F#5>,note,136957997836400,0.5,107.0
+36,,<music21.articulations.Staccato>,staccato,136957997836256,0.0,0.0
+36,,<music21.note.Note B>,note,136958001550720,0.5,107.0
+36,,<music21.articulations.Staccato>,staccato,136958001550576,0.0,0.0
+36,,<music21.note.Note B>,note,136957998641136,0.5,107.5
+36,,<music21.articulations.Staccato>,staccato,136957998641040,0.0,0.0
+36,,<music21.note.Rest eighth>,note,136958001550384,0.5,107.5
+36,,<music21.note.Note B>,note,136957997834096,0.5,108.0
+36,,<music21.articulations.Staccato>,staccato,136957997834480,0.0,0.0
+36,,<music21.note.Rest eighth>,note,136958001550480,0.5,108.0
+36,,<music21.note.Rest 16th>,note,136957998640992,0.25,108.25
+36,,<music21.note.Rest 16th>,note,136958001551680,0.25,108.25
+36,36,<music21.dynamics.Diminuendo <music21.chord.Chord B4 F#5><music21.note.Note B>>,diminuendo,136957997834912,,
+37,,<music21.note.Note C>,note,136957997833616,1.0,108.5
+37,,<music21.chord.Chord E4 G4>,note,136957997832944,1.5,108.5
+37,,<music21.note.Note B>,note,136958001549712,3.0,108.5
+37,,<music21.note.Note B>,note,136957998640464,0.5,109.5
+37,,<music21.note.Note B>,note,136957997833520,0.5,110.0
+37,,<music21.articulations.Staccato>,staccato,136957997833232,0.0,0.0
+37,,<music21.chord.Chord D#4 F#4>,note,136957997832416,1.5,110.0
+37,,<music21.note.Note B>,note,136957998640224,0.5,110.5
+37,,<music21.articulations.Staccato>,staccato,136957998640128,0.0,0.0
+37,,<music21.note.Note B>,note,136957998639936,0.5,111.0
+37,,<music21.articulations.Staccato>,staccato,136957998639840,0.0,0.0
+37,37,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,136957997833808,1.5,0.0
+37,37,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.chord.Chord D#4 F#4>>,slur,136957997833376,1.5,0.0
+37,,<music21.dynamics.Dynamic p>,p,136957998640608,,
+38,,<music21.note.Note C>,note,136957997831888,1.0,111.5
+38,,<music21.chord.Chord E4 G4>,note,136957997831264,1.5,111.5
+38,,<music21.note.Note B>,note,136958001549232,3.0,111.5
+38,,<music21.note.Note B>,note,136957998639648,0.5,112.5
+38,,<music21.note.Note B>,note,136957997839184,0.5,113.0
+38,,<music21.articulations.Staccato>,staccato,136957997831504,0.0,0.0
+38,,<music21.chord.Chord D4 F4>,note,136957997830736,1.5,113.0
+38,,<music21.note.Note B>,note,136957998639408,0.5,113.5
+38,,<music21.articulations.Staccato>,staccato,136957998639312,0.0,0.0
+38,,<music21.note.Note G#>,note,136957998639168,0.5,114.0
+38,,<music21.articulations.Staccato>,staccato,136957998639072,0.0,0.0
+38,38,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,136957997831984,1.5,0.0
+38,38,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.chord.Chord D4 F4>>,slur,136957997831360,1.5,0.0
+39,,<music21.note.Note A>,note,136957997830064,0.5,114.5
+39,,<music21.chord.Chord C4 E4 A4>,note,136957997828144,1.5,114.5
+39,,<music21.note.Note B>,note,136957998638832,0.5,115.0
+39,,<music21.note.Note C>,note,136957997829824,0.5,115.5
+39,,<music21.note.Rest 16th>,note,136957998639024,0.25,115.75
+39,,<music21.note.Rest 16th>,note,136958001548800,0.25,115.75
+39,,<music21.note.Note D>,note,136957997829152,0.0,116.0
+39,,<music21.note.Note C>,note,136957997829008,0.5,116.0
+39,,<music21.chord.Chord D4 F4 B4>,note,136958001548896,1.5,116.0
+39,,<music21.note.Note B>,note,136957997828480,0.5,116.5
+39,,<music21.note.Note A>,note,136957998638640,0.5,117.0
+39,40,<music21.spanner.Slur <music21.note.Note A><music21.note.Note D>>,slur,136957997829920,5.5,0.0
+39,39,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,136957997829296,0.0,0.0
+39,40,<music21.spanner.Slur <music21.chord.Chord C4 E4 A4><music21.chord.Chord G#3 D4 B4>>,slur,136957997828624,4.5,0.0
+39,39,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note C>>,diminuendo,136957997830256,,
+39,40,<music21.dynamics.Diminuendo <music21.note.Note B><music21.note.Note D>>,diminuendo,136957997828672,,
+40,,<music21.note.Note G#>,note,136957998638352,0.5,117.5
+40,,<music21.chord.Chord E4 B4>,note,136958001547888,1.5,117.5
+40,,<music21.note.Note A>,note,136957998638064,0.5,118.0
+40,,<music21.note.Note B>,note,136957998637824,0.5,118.5
+40,,<music21.note.Note G>,note,136957997826800,0.0,119.0
+40,,<music21.note.Note F>,note,136957997826560,0.5,119.0
+40,,<music21.chord.Chord G#3 D4 B4>,note,136957997827424,1.5,119.0
+40,,<music21.note.Note E>,note,136957998637632,0.5,119.5
+40,,<music21.note.Note D>,note,136957997829488,0.5,120.0
+40,40,<music21.spanner.Slur <music21.note.Note G><music21.note.Note F>>,slur,136957997826656,0.0,0.0
+41,,<music21.note.Note D>,note,136957997645696,0.5,120.5
+41,,<music21.chord.Chord E4 B4>,note,136958001547168,0.5,120.5
+41,,<music21.note.Note A>,note,136957997645168,0.5,120.5
+41,,<music21.note.Note C>,note,136957998637152,0.5,121.0
+41,,<music21.note.Rest eighth>,note,136957998635856,0.5,121.0
+41,,<music21.note.Note A>,note,136958001546640,0.5,121.0
+41,,<music21.note.Rest eighth>,note,136958001545632,0.5,121.0
+41,,<music21.note.Note A>,note,136957998637344,0.5,121.5
+41,,<music21.note.Rest eighth>,note,136957998635760,0.5,121.5
+41,,<music21.note.Note D#>,note,136958001546448,0.5,121.5
+41,,<music21.note.Rest eighth>,note,136958001545392,0.5,121.5
+41,,<music21.note.Note C>,note,136957998636624,0.5,122.0
+41,,<music21.note.Rest quarter>,note,136957998635664,1.0,122.0
+41,,<music21.note.Note A>,note,136958001546208,0.5,122.0
+41,,<music21.note.Rest quarter>,note,136958001545536,1.0,122.0
+41,,<music21.note.Note B>,note,136957998636336,0.5,122.5
+41,,<music21.note.Note G>,note,136958001546400,0.5,122.5
+41,,<music21.note.Note G>,note,136957998636144,0.5,123.0
+41,,<music21.note.Rest eighth>,note,136957998635520,0.5,123.0
+41,,<music21.note.Note E>,note,136958001545776,0.5,123.0
+41,,<music21.note.Rest eighth>,note,136958001547600,0.5,123.0
+41,45,<music21.spanner.Slur <music21.note.Note D><music21.note.Note B>>,slur,136957997831648,12.0,0.0
+41,44,<music21.spanner.Slur <music21.note.Note A><music21.note.Note B>>,slur,136957997645024,9.5,0.0
+42,,<music21.note.Note B>,note,136957998635376,0.5,123.5
+42,,<music21.note.Note G>,note,136958001397632,0.5,123.5
+42,,<music21.note.Note A>,note,136957998635088,0.5,124.0
+42,,<music21.note.Note F#>,note,136958001397344,0.5,124.0
+42,,<music21.note.Note F#>,note,136957998634896,0.5,124.5
+42,,<music21.note.Note B>,note,136958001397440,0.5,124.5
+42,,<music21.note.Note A>,note,136957998634656,0.5,125.0
+42,,<music21.note.Note F#>,note,136958001396912,0.5,125.0
+42,,<music21.note.Note G>,note,136957998634416,0.5,125.5
+42,,<music21.note.Note E>,note,136958001396672,0.5,125.5
+42,,<music21.note.Note E>,note,136957998634176,0.5,126.0
+42,,<music21.note.Note C>,note,136958001396432,0.5,126.0
+43,,<music21.note.Note G>,note,136957998633936,0.5,126.5
+43,,<music21.note.Note E>,note,136958001396144,0.5,126.5
+43,,<music21.note.Note F#>,note,136957998633648,0.5,127.0
+43,,<music21.note.Note D>,note,136958001395904,0.5,127.0
+43,,<music21.note.Note D>,note,136957998633456,0.5,127.5
+43,,<music21.note.Note G>,note,136958001396000,0.5,127.5
+43,,<music21.note.Note F#>,note,136957998633216,0.5,128.0
+43,,<music21.note.Note D>,note,136958001395472,0.5,128.0
+43,,<music21.note.Note E>,note,136957998632928,0.5,128.5
+43,,<music21.note.Note C>,note,136958001395280,0.5,128.5
+43,,<music21.note.Note C>,note,136957998633072,0.5,129.0
+43,,<music21.note.Note A>,note,136958001395376,0.5,129.0
+44,,<music21.note.Note E>,note,136957998632448,0.5,129.5
+44,,<music21.note.Note C>,note,136958001394608,0.5,129.5
+44,,<music21.note.Note D>,note,136957998632160,0.5,130.0
+44,,<music21.note.Note B>,note,136957997644688,0.5,130.0
+44,,<music21.note.Note B>,note,136957998631920,0.5,130.5
+44,,<music21.note.Rest eighth>,note,136958001394560,0.5,130.5
+44,,<music21.note.Note D>,note,136957998631728,0.5,131.0
+44,,<music21.note.Note B>,note,136957997644352,0.5,131.0
+44,,<music21.note.Note C>,note,136957998631440,0.5,131.5
+44,,<music21.note.Note A>,note,136957997644064,0.5,131.5
+44,,<music21.note.Note A>,note,136957998631248,0.5,132.0
+44,,<music21.note.Rest eighth>,note,136958001394224,0.5,132.0
+44,44,<music21.spanner.Slur <music21.note.Note B><music21.note.Note A>>,slur,136957997644928,0.5,0.0
+45,,<music21.note.Note B>,note,136957997645600,0.5,132.5
+45,,<music21.articulations.Staccato>,staccato,136957997645216,0.0,0.0
+45,,<music21.note.Note G>,note,136958001393264,0.5,132.5
+45,,<music21.articulations.Staccato>,staccato,136958001393456,0.0,0.0
+45,,<music21.note.Note C#>,note,136957997643728,0.25,133.0
+45,,<music21.note.Note A>,note,136957997642720,0.25,133.0
+45,,<music21.note.Note D#>,note,136957998630912,0.25,133.25
+45,,<music21.note.Note B>,note,136958001392976,0.25,133.25
+45,,<music21.note.Note E>,note,136957998630672,0.25,133.5
+45,,<music21.note.Note C#>,note,136958001392736,0.25,133.5
+45,,<music21.note.Note F#>,note,136957998630480,0.25,133.75
+45,,<music21.note.Note D#>,note,136958001392880,0.25,133.75
+45,,<music21.note.Note G>,note,136957997643536,0.5,134.0
+45,,<music21.articulations.Staccato>,staccato,136957997643392,0.0,0.0
+45,,<music21.note.Note E>,note,136957997643152,0.5,134.0
+45,,<music21.articulations.Staccato>,staccato,136957997643008,0.0,0.0
+45,,<music21.note.Note F#>,note,136957998630192,0.5,134.5
+45,,<music21.articulations.Staccato>,staccato,136957998630096,0.0,0.0
+45,,<music21.note.Note D#>,note,136958001394368,0.5,134.5
+45,,<music21.articulations.Staccato>,staccato,136958001393888,0.0,0.0
+45,,<music21.note.Note E>,note,136957998629952,0.5,135.0
+45,,<music21.articulations.Staccato>,staccato,136957998629760,0.0,0.0
+45,,<music21.note.Note C#>,note,136958001393600,0.5,135.0
+45,,<music21.articulations.Staccato>,staccato,136958001393504,0.0,0.0
+45,45,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note G>>,slur,136957997644256,1.0,0.0
+45,45,<music21.spanner.Slur <music21.note.Note E>>,slur,136957997643248,0.0,0.0
+45,50,<music21.spanner.Slur <music21.note.Note A><music21.chord.Chord E4 G4><music21.note.Note F#>>,slur,136957997643200,16.0,0.0
+46,,<music21.note.Note D#>,note,136957998629616,0.25,135.5
+46,,<music21.note.Note B>,note,136958001392256,0.25,135.5
+46,,<music21.note.Note E>,note,136957997641616,0.25,135.75
+46,,<music21.note.Note C#>,note,136957997641280,0.25,135.75
+46,,<music21.note.Note F#>,note,136957998630000,0.25,136.0
+46,,<music21.note.Note D#>,note,136958001392016,0.25,136.0
+46,,<music21.note.Note G>,note,136957998629184,0.25,136.25
+46,,<music21.note.Note E>,note,136958001391824,0.25,136.25
+46,,<music21.note.Note A>,note,136957998628944,0.25,136.5
+46,,<music21.note.Note F#>,note,136958001391632,0.25,136.5
+46,,<music21.note.Note B>,note,136958000594864,0.25,136.75
+46,,<music21.note.Note G>,note,136958001391392,0.25,136.75
+46,,<music21.note.Note C>,note,136957997641376,0.5,137.0
+46,,<music21.articulations.Staccato>,staccato,136957997641568,0.0,0.0
+46,,<music21.note.Note A>,note,136957997640944,0.5,137.0
+46,,<music21.articulations.Staccato>,staccato,136957997640560,0.0,0.0
+46,,<music21.note.Note B>,note,136958000594624,0.5,137.5
+46,,<music21.articulations.Staccato>,staccato,136958000594528,0.0,0.0
+46,,<music21.note.Note G>,note,136958001391152,0.5,137.5
+46,,<music21.articulations.Staccato>,staccato,136958001391056,0.0,0.0
+46,,<music21.note.Note A>,note,136958000594336,0.5,138.0
+46,,<music21.articulations.Staccato>,staccato,136958000594240,0.0,0.0
+46,,<music21.note.Note F#>,note,136958001390912,0.5,138.0
+46,,<music21.articulations.Staccato>,staccato,136958001390768,0.0,0.0
+46,46,<music21.spanner.Slur <music21.note.Note E><music21.note.Note C>>,slur,136957997641712,1.25,0.0
+46,46,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note A>>,slur,136957997641040,1.25,0.0
+47,,<music21.note.Note B>,note,136958000594048,0.5,138.5
+47,,<music21.articulations.Staccato>,staccato,136958000593952,0.0,0.0
+47,,<music21.note.Note G>,note,136958001390576,0.5,138.5
+47,,<music21.articulations.Staccato>,staccato,136958001390432,0.0,0.0
+47,,<music21.note.Note C#>,note,136957997640272,0.25,139.0
+47,,<music21.note.Note A>,note,136957997639648,0.25,139.0
+47,,<music21.note.Note D#>,note,136958000593808,0.25,139.25
+47,,<music21.note.Note B>,note,136958001390288,0.25,139.25
+47,,<music21.note.Note E>,note,136958000593568,0.25,139.5
+47,,<music21.note.Note C#>,note,136958001390096,0.25,139.5
+47,,<music21.note.Note F#>,note,136958000593424,0.25,139.75
+47,,<music21.note.Note D#>,note,136958001389856,0.25,139.75
+47,,<music21.note.Note G>,note,136957997640080,0.5,140.0
+47,,<music21.articulations.Staccato>,staccato,136957997639936,0.0,0.0
+47,,<music21.note.Note E>,note,136957997639360,0.5,140.0
+47,,<music21.articulations.Staccato>,staccato,136957997639264,0.0,0.0
+47,,<music21.note.Note F#>,note,136958000593520,0.5,140.5
+47,,<music21.articulations.Staccato>,staccato,136958000593040,0.0,0.0
+47,,<music21.note.Note D#>,note,136958001394416,0.5,140.5
+47,,<music21.articulations.Staccato>,staccato,136958001389568,0.0,0.0
+47,,<music21.note.Note E>,note,136958000592800,0.5,141.0
+47,,<music21.articulations.Staccato>,staccato,136958000593136,0.0,0.0
+47,,<music21.note.Note C#>,note,136958001389376,0.5,141.0
+47,,<music21.articulations.Staccato>,staccato,136958001389232,0.0,0.0
+47,47,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note G>>,slur,136957997640704,1.0,0.0
+47,47,<music21.spanner.Slur <music21.note.Note A><music21.note.Note E>>,slur,136957997640128,1.0,0.0
+48,,<music21.chord.Chord D#5 F#5>,note,136957997638880,1.5,141.5
+48,,<music21.note.Note B>,note,136958001388896,0.5,141.5
+48,,<music21.articulations.Staccato>,staccato,136958001388800,0.0,0.0
+48,,<music21.note.Note F#>,note,136958001389040,0.5,142.0
+48,,<music21.articulations.Staccato>,staccato,136958001388512,0.0,0.0
+48,,<music21.note.Note D#>,note,136958001388368,0.5,142.5
+48,,<music21.articulations.Staccato>,staccato,136958001388272,0.0,0.0
+48,,<music21.chord.Chord D#5 F#5>,note,136957997638160,0.5,143.0
+48,,<music21.articulations.Staccato>,staccato,136957997637632,0.0,0.0
+48,,<music21.note.Note B>,note,136957997637440,1.0,143.0
+48,,<music21.note.Note B>,note,136958000592320,0.5,143.5
+48,,<music21.articulations.Staccato>,staccato,136958000592224,0.0,0.0
+48,,<music21.note.Note B>,note,136958000592032,0.5,144.0
+48,,<music21.articulations.Staccato>,staccato,136958000591936,0.0,0.0
+48,,<music21.chord.Chord D#4 F#4>,note,136957997644304,0.5,144.0
+48,48,<music21.spanner.Slur <music21.chord.Chord D#5 F#5><music21.chord.Chord D#5 F#5>>,slur,136957997638544,1.5,0.0
+48,48,<music21.spanner.Slur <music21.note.Note B><music21.chord.Chord D#4 F#4>>,slur,136957997637536,1.0,0.0
+49,,<music21.note.Note C>,note,136957997636624,1.0,144.5
+49,,<music21.note.Rest quarter>,note,136958000590784,1.0,144.5
+49,,<music21.note.Rest dotted-quarter>,note,136958000590976,1.5,144.5
+49,,<music21.chord.Chord E4 G4>,note,136957997635856,1.5,144.5
+49,,<music21.note.Rest quarter>,note,136958001387984,1.0,144.5
+49,,<music21.note.Rest dotted-quarter>,note,136958001387600,1.5,144.5
+49,,<music21.note.Note B>,note,136958000591648,0.5,145.5
+49,,<music21.note.Rest eighth>,note,136958000590688,0.5,145.5
+49,,<music21.note.Rest eighth>,note,136958001387888,0.5,145.5
+49,,<music21.note.Note B>,note,136957997636240,0.5,146.0
+49,,<music21.articulations.Staccato>,staccato,136957997636432,0.0,0.0
+49,,<music21.note.Note F#>,note,136957997635328,1.0,146.0
+49,,<music21.note.Note D#>,note,136958001387504,1.0,146.0
+49,,<music21.note.Note B>,note,136958000591456,0.5,146.5
+49,,<music21.articulations.Staccato>,staccato,136958000591264,0.0,0.0
+49,,<music21.note.Note B>,note,136958000591120,0.5,147.0
+49,,<music21.articulations.Staccato>,staccato,136958000591024,0.0,0.0
+49,,<music21.note.Rest eighth>,note,136958001387792,0.5,147.0
+49,,<music21.note.Note B>,note,136958001387408,0.5,147.0
+49,,<music21.articulations.Staccato>,staccato,136958001387168,0.0,0.0
+49,49,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,136957997636336,1.5,0.0
+49,49,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note F#>>,slur,136957997635952,1.5,0.0
+50,,<music21.note.Note C>,note,136957997635232,1.0,147.5
+50,,<music21.note.Rest quarter>,note,136958000589824,1.0,147.5
+50,,<music21.note.Rest dotted-quarter>,note,136958000589536,1.5,147.5
+50,,<music21.chord.Chord E4 G4>,note,136957997642480,1.5,147.5
+50,,<music21.note.Rest quarter>,note,136958001386832,1.0,147.5
+50,,<music21.note.Rest dotted-quarter>,note,136958001386448,1.5,147.5
+50,,<music21.note.Note B>,note,136958000590304,0.5,148.5
+50,,<music21.note.Rest eighth>,note,136958000590160,0.5,148.5
+50,,<music21.note.Rest eighth>,note,136958001386736,0.5,148.5
+50,,<music21.note.Note B>,note,136957997634560,0.5,149.0
+50,,<music21.articulations.Staccato>,staccato,136957997634416,0.0,0.0
+50,,<music21.note.Note F#>,note,136957997642288,1.0,149.0
+50,,<music21.note.Note D#>,note,136958001386352,1.0,149.0
+50,,<music21.note.Note B>,note,136957997634176,0.5,149.5
+50,,<music21.note.Note A>,note,136958000590112,0.5,150.0
+50,,<music21.note.Rest eighth>,note,136958001386640,0.5,150.0
+50,,<music21.note.Note B>,note,136958001386064,0.5,150.0
+50,,<music21.articulations.Staccato>,staccato,136958001385968,0.0,0.0
+50,50,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,136957997634656,1.5,0.0
+50,52,<music21.spanner.Slur <music21.note.Note B><music21.chord.Chord G4 E5>>,slur,136957997634272,4.0,0.0
+51,,<music21.note.Note G>,note,136958000589392,0.0,150.5
+51,,<music21.note.Note A>,note,136958000589152,0.0,150.5
+51,,<music21.note.Note G>,note,136958000588960,0.5,150.5
+51,,<music21.note.Note G>,note,136958001385632,1.5,150.5
+51,,<music21.note.Note E>,note,136957997633264,1.0,150.5
+51,,<music21.note.Note F#>,note,136958000588864,0.5,151.0
+51,,<music21.note.Note E>,note,136958000588528,0.5,151.5
+51,,<music21.note.Note A>,note,136958001385200,0.5,151.5
+51,,<music21.chord.Chord G4 E5>,note,136958000588288,0.5,152.0
+51,,<music21.note.Rest quarter>,note,136958001385872,1.0,152.0
+51,,<music21.note.Note B>,note,136957997633360,1.5,152.0
+51,,<music21.chord.Chord A4 F#5>,note,136958000588144,0.5,152.5
+51,,<music21.chord.Chord F#4 D#5>,note,136958000587280,0.5,153.0
+51,,<music21.note.Rest eighth>,note,136958001385344,0.5,153.0
+51,51,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,136957997633408,1.5,0.0
+52,,<music21.chord.Chord G4 E5>,note,136957997633936,0.25,153.5
+52,,<music21.chord.Chord B3 E4>,note,136958001384720,0.5,153.5
+52,,<music21.articulations.Staccato>,staccato,136958001384240,0.0,0.0
+52,,<music21.note.Note F#>,note,136958000586704,0.25,153.75
+52,,<music21.chord.Chord B4 E5>,note,136958000586512,0.25,154.0
+52,,<music21.chord.Chord E3 B3>,note,136958001384192,0.5,154.0
+52,,<music21.articulations.Staccato>,staccato,136958001384096,0.0,0.0
+52,,<music21.note.Note F#>,note,136958000586032,0.25,154.25
+52,,<music21.chord.Chord G4 E5>,note,136958000585792,0.25,154.5
+52,,<music21.chord.Chord B2 E3>,note,136958001383664,0.5,154.5
+52,,<music21.articulations.Staccato>,staccato,136958001383184,0.0,0.0
+52,,<music21.note.Note F#>,note,136958000585312,0.25,154.75
+52,,<music21.chord.Chord B4 E5>,note,136957997632736,0.5,155.0
+52,,<music21.articulations.Staccato>,staccato,136957997632208,0.0,0.0
+52,,<music21.chord.Chord E2 B2>,note,136958001383088,1.5,155.0
+52,,<music21.articulations.Tenuto>,tenuto,136958001382560,0.0,0.0
+52,,<music21.chord.Chord B4 F#5>,note,136958000585600,0.5,155.5
+52,,<music21.articulations.Staccato>,staccato,136958000584592,0.0,0.0
+52,,<music21.chord.Chord E4 B4>,note,136958000584544,0.5,156.0
+52,,<music21.articulations.Staccato>,staccato,136958000584064,0.0,0.0
+52,52,<music21.spanner.Slur <music21.chord.Chord G4 E5><music21.chord.Chord B4 E5>>,slur,136957997632832,1.5,0.0
+53,,<music21.chord.Chord G4 E5>,note,136957997631968,0.25,156.5
+53,,<music21.chord.Chord B3 E4>,note,136958001382416,0.5,156.5
+53,,<music21.articulations.Staccato>,staccato,136958001381936,0.0,0.0
+53,,<music21.note.Note F#>,note,136958000583968,0.25,156.75
+53,,<music21.chord.Chord B4 E5>,note,136958000584160,0.25,157.0
+53,,<music21.chord.Chord E3 B3>,note,136958001381888,0.5,157.0
+53,,<music21.articulations.Staccato>,staccato,136958001381456,0.0,0.0
+53,,<music21.note.Note F#>,note,136958000583680,0.25,157.25
+53,,<music21.chord.Chord G4 E5>,note,136958000583056,0.25,157.5
+53,,<music21.chord.Chord B2 E3>,note,136958001385104,0.5,157.5
+53,,<music21.articulations.Staccato>,staccato,136958008688080,0.0,0.0
+53,,<music21.note.Note F#>,note,136958000582528,0.25,157.75
+53,,<music21.chord.Chord B4 E5>,note,136957997631392,0.5,158.0
+53,,<music21.articulations.Staccato>,staccato,136957997630864,0.0,0.0
+53,,<music21.chord.Chord E2 B2>,note,136958008687888,1.5,158.0
+53,,<music21.articulations.Tenuto>,tenuto,136958008687360,0.0,0.0
+53,,<music21.chord.Chord B4 F#5>,note,136958000582288,0.5,158.5
+53,,<music21.articulations.Staccato>,staccato,136958000581712,0.0,0.0
+53,,<music21.chord.Chord E4 B4>,note,136958000581664,0.5,159.0
+53,,<music21.articulations.Staccato>,staccato,136958000581184,0.0,0.0
+53,53,<music21.spanner.Slur <music21.chord.Chord G4 E5><music21.chord.Chord B4 E5>>,slur,136957997632064,1.5,0.0
+54,,<music21.chord.Chord G4 E5>,note,136957997630624,0.25,159.5
+54,,<music21.chord.Chord B3 E4>,note,136958008687408,0.5,159.5
+54,,<music21.articulations.Staccato>,staccato,136958008686688,0.0,0.0
+54,,<music21.note.Note F#>,note,136958000581280,0.25,159.75
+54,,<music21.chord.Chord B4 E5>,note,136958000580848,0.25,160.0
+54,,<music21.chord.Chord E3 B3>,note,136958008686640,0.5,160.0
+54,,<music21.articulations.Staccato>,staccato,136958008686160,0.0,0.0
+54,,<music21.note.Note F#>,note,136958000580368,0.25,160.25
+54,,<music21.chord.Chord G4 E5>,note,136958000580128,0.25,160.5
+54,,<music21.chord.Chord B2 E3>,note,136958008686112,0.5,160.5
+54,,<music21.articulations.Staccato>,staccato,136958008685584,0.0,0.0
+54,,<music21.note.Note F#>,note,136958000579648,0.25,160.75
+54,,<music21.chord.Chord B4 E5>,note,136957997630144,0.5,161.0
+54,,<music21.articulations.Staccato>,staccato,136957997629664,0.0,0.0
+54,,<music21.chord.Chord E2 B2>,note,136958008685824,1.5,161.0
+54,,<music21.articulations.Tenuto>,tenuto,136958008684960,0.0,0.0
+54,,<music21.chord.Chord B4 F#5>,note,136958000579456,0.5,161.5
+54,,<music21.articulations.Staccato>,staccato,136958000578928,0.0,0.0
+54,,<music21.chord.Chord E4 B4>,note,136958000578880,0.5,162.0
+54,,<music21.articulations.Staccato>,staccato,136958000217984,0.0,0.0
+54,54,<music21.spanner.Slur <music21.chord.Chord G4 E5><music21.chord.Chord B4 E5>>,slur,136957997630720,1.5,0.0
+55,,<music21.chord.Chord E5 G5>,note,136957997629856,0.5,162.5
+55,,<music21.chord.Chord E3 B3 G4>,note,136958008684528,1.5,162.5
+55,,<music21.chord.Chord F#5 A5>,note,136957999529424,0.5,163.0
+55,,<music21.chord.Chord G5 B5>,note,136958000217744,0.5,163.5
+55,,<music21.chord.Chord G5 B5>,note,136957999528272,0.5,164.0
+55,,<music21.chord.Chord A3 C4 E4>,note,136958008683808,1.5,164.0
+55,,<music21.chord.Chord F#5 A5>,note,136958000216976,0.5,164.5
+55,,<music21.chord.Chord E5 G5>,note,136957999527696,0.5,165.0
+55,,<music21.note.Rest 16th>,note,136958000216400,0.25,165.25
+55,,<music21.note.Rest 16th>,note,136958008684672,0.25,165.25
+55,57,<music21.spanner.Slur <music21.chord.Chord E5 G5><music21.chord.Chord E4 G4>>,slur,136957999528992,6.0,0.0
+55,55,<music21.dynamics.Crescendo <music21.chord.Chord E5 G5><music21.chord.Chord F#5 A5>>,diminuendo,136957997629568,,
+55,55,<music21.dynamics.Diminuendo <music21.chord.Chord G5 B5><music21.chord.Chord E5 G5>>,diminuendo,136957999528416,,
+56,,<music21.note.Note F#>,note,136958000216496,0.25,165.5
+56,,<music21.chord.Chord B3 D#4>,note,136957999526400,1.5,165.5
+56,,<music21.note.Note E>,note,136957999526976,0.25,165.75
+56,,<music21.chord.Chord D#5 F#5>,note,136958000216256,0.25,166.0
+56,,<music21.note.Note C#>,note,136958000215488,0.25,166.25
+56,,<music21.chord.Chord B4 D#5>,note,136958000215296,0.25,166.5
+56,,<music21.note.Note A>,note,136958000214768,0.25,166.75
+56,,<music21.chord.Chord G4 B4>,note,136958000214528,0.25,167.0
+56,,<music21.note.Note B>,note,136957999526256,0.5,167.0
+56,,<music21.note.Note F#>,note,136958000214048,0.25,167.25
+56,,<music21.note.Note E>,note,136958000213808,0.25,167.5
+56,,<music21.note.Rest eighth>,note,136958008683040,0.5,167.5
+56,,<music21.note.Note D#>,note,136958000213616,0.25,167.75
+56,,<music21.note.Note C#>,note,136957999526736,0.25,168.0
+56,,<music21.note.Rest eighth>,note,136958008682944,0.5,168.0
+56,,<music21.note.Note B>,note,136958000213376,0.25,168.25
+56,56,<music21.spanner.Slur <music21.chord.Chord B3 D#4><music21.note.Note B>>,slur,136957999526544,1.5,0.0
+56,56,<music21.dynamics.Diminuendo <music21.note.Note E><music21.note.Note C#>>,diminuendo,136957999527408,,
+57,,<music21.chord.Chord E4 G4>,note,136957999528896,0.25,168.5
+57,,<music21.note.Note E>,note,136958008682752,0.5,168.5
+57,,<music21.articulations.Staccato>,staccato,136958008682656,0.0,0.0
+57,,<music21.chord.Chord B3 F#4>,note,136958000213520,0.25,168.75
+57,,<music21.chord.Chord E4 G4>,note,136958000212752,0.25,169.0
+57,,<music21.note.Note B>,note,136958008682464,0.5,169.0
+57,,<music21.articulations.Staccato>,staccato,136958008682320,0.0,0.0
+57,,<music21.chord.Chord B3 F#4>,note,136958000212128,0.25,169.25
+57,,<music21.chord.Chord E4 G4>,note,136958000211600,0.25,169.5
+57,,<music21.note.Note E>,note,136958008682416,0.5,169.5
+57,,<music21.articulations.Staccato>,staccato,136958008682032,0.0,0.0
+57,,<music21.chord.Chord B3 F#4>,note,136958000211456,0.25,169.75
+57,,<music21.note.Note G>,note,136957999525488,0.5,170.0
+57,,<music21.articulations.Staccato>,staccato,136957999525680,0.0,0.0
+57,,<music21.note.Note B>,note,136958008681840,1.5,170.0
+57,,<music21.articulations.Tenuto>,tenuto,136958008681696,0.0,0.0
+57,,<music21.note.Note F#>,note,136958000210592,0.5,170.5
+57,,<music21.articulations.Staccato>,staccato,136958000210832,0.0,0.0
+57,,<music21.note.Note B>,note,136958000210256,0.5,171.0
+57,,<music21.articulations.Staccato>,staccato,136958000210160,0.0,0.0
+57,57,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note G>>,slur,136957999525632,1.5,0.0
+58,,<music21.chord.Chord E4 G4>,note,136957999525104,0.25,171.5
+58,,<music21.note.Note E>,note,136958008681312,0.5,171.5
+58,,<music21.articulations.Staccato>,staccato,136958008681216,0.0,0.0
+58,,<music21.chord.Chord B3 F#4>,note,136958000209728,0.25,171.75
+58,,<music21.chord.Chord E4 G4>,note,136958000209248,0.25,172.0
+58,,<music21.note.Note B>,note,136958008681072,0.5,172.0
+58,,<music21.articulations.Staccato>,staccato,136958008681168,0.0,0.0
+58,,<music21.chord.Chord B3 F#4>,note,136958000208720,0.25,172.25
+58,,<music21.chord.Chord E4 G4>,note,136958000208240,0.25,172.5
+58,,<music21.note.Note E>,note,136958008680784,0.5,172.5
+58,,<music21.articulations.Staccato>,staccato,136958008680688,0.0,0.0
+58,,<music21.chord.Chord B3 F#4>,note,136958000207760,0.25,172.75
+58,,<music21.note.Note G>,note,136957999524768,0.5,173.0
+58,,<music21.articulations.Staccato>,staccato,136957999524384,0.0,0.0
+58,,<music21.note.Note B>,note,136958008680496,1.5,173.0
+58,,<music21.articulations.Tenuto>,tenuto,136958008680400,0.0,0.0
+58,,<music21.note.Note F#>,note,136958000207280,0.5,173.5
+58,,<music21.articulations.Staccato>,staccato,136958000207568,0.0,0.0
+58,,<music21.note.Note B>,note,136958000206944,0.5,174.0
+58,,<music21.articulations.Staccato>,staccato,136958000206848,0.0,0.0
+58,58,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note G>>,slur,136957999525200,1.5,0.0
+59,,<music21.chord.Chord E4 G4>,note,136957999524096,0.25,174.5
+59,,<music21.note.Note E>,note,136958008680160,0.5,174.5
+59,,<music21.articulations.Staccato>,staccato,136958008680064,0.0,0.0
+59,,<music21.chord.Chord B3 F#4>,note,136958000206560,0.25,174.75
+59,,<music21.chord.Chord E4 G4>,note,136958000206080,0.25,175.0
+59,,<music21.note.Note B>,note,136958008679920,0.5,175.0
+59,,<music21.articulations.Staccato>,staccato,136958008679776,0.0,0.0
+59,,<music21.chord.Chord B3 F#4>,note,136958000206032,0.25,175.25
+59,,<music21.chord.Chord E4 G4>,note,136958000205072,0.25,175.5
+59,,<music21.note.Note E>,note,136958008679968,0.5,175.5
+59,,<music21.articulations.Staccato>,staccato,136958008679488,0.0,0.0
+59,,<music21.chord.Chord B3 F#4>,note,136958000204880,0.25,175.75
+59,,<music21.note.Note G>,note,136957999523664,0.5,176.0
+59,,<music21.articulations.Staccato>,staccato,136957999523568,0.0,0.0
+59,,<music21.note.Note B>,note,136958008679296,1.5,176.0
+59,,<music21.articulations.Tenuto>,tenuto,136958008679200,0.0,0.0
+59,,<music21.note.Note F#>,note,136958000204064,0.5,176.5
+59,,<music21.articulations.Staccato>,staccato,136958000204304,0.0,0.0
+59,,<music21.note.Note B>,note,136958000203728,0.5,177.0
+59,,<music21.articulations.Staccato>,staccato,136958000203632,0.0,0.0
+59,59,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note G>>,slur,136957999524576,1.5,0.0
+60,,<music21.note.Note G>,note,136957999523616,0.5,177.5
+60,,<music21.note.Note E>,note,136958000201856,0.5,177.5
+60,,<music21.note.Note E>,note,136957999522752,1.0,177.5
+60,,<music21.note.Note F#>,note,136958000203680,0.5,178.0
+60,,<music21.note.Rest eighth>,note,136958000053952,0.5,178.0
+60,,<music21.note.Rest eighth>,note,136958008678912,0.5,178.0
+60,,<music21.note.Note E>,note,136958000203296,0.5,178.5
+60,,<music21.note.Rest eighth>,note,136958000054240,0.5,178.5
+60,,<music21.note.Rest eighth>,note,136958008679152,0.5,178.5
+60,,<music21.chord.Chord A3 C4>,note,136958008678432,0.5,178.5
+60,,<music21.note.Note E>,note,136958000202768,0.5,179.0
+60,,<music21.note.Rest quarter>,note,136958000053520,1.0,179.0
+60,,<music21.note.Rest quarter>,note,136958008678672,1.0,179.0
+60,,<music21.note.Note B>,note,136958008677904,1.0,179.0
+60,,<music21.note.Note F#>,note,136958000202480,0.5,179.5
+60,,<music21.note.Note D#>,note,136958000202192,0.5,180.0
+60,,<music21.note.Rest eighth>,note,136958000053424,0.5,180.0
+60,,<music21.note.Rest eighth>,note,136958008678576,0.5,180.0
+60,,<music21.chord.Chord B2 F#3>,note,136958008677712,0.5,180.0
+60,61,<music21.spanner.Slur <music21.note.Note G><music21.note.Note E>>,slur,136957999523424,3.0,0.0
+60,61,<music21.spanner.Slur <music21.note.Note E><music21.chord.Chord E2 B2 G3>>,slur,136957999522848,3.0,0.0
+61,,<music21.note.Note E>,note,136957999523088,0.25,180.5
+61,,<music21.chord.Chord E2 B2 G3>,note,136957999522512,1.5,180.5
+61,,<music21.note.Note F#>,note,136958000053184,0.25,180.75
+61,,<music21.note.Note G>,note,136958000052944,0.25,181.0
+61,,<music21.note.Note A>,note,136958000052752,0.25,181.25
+61,,<music21.note.Note B>,note,136958000052512,0.25,181.5
+61,,<music21.note.Note C#>,note,136958000052320,0.125,181.75
+61,,<music21.note.Note D#>,note,136958000052368,0.125,181.875
+61,,<music21.note.Note E>,note,136957999521696,1/6,182.0
+61,,<music21.chord.Chord E2 B2 G3>,note,136958008676992,1.5,182.0
+61,,<music21.note.Note F#>,note,136958000051504,1/6,1093/6
+61,,<music21.note.Note E>,note,136958000051072,1/6,547/3
+61,,<music21.note.Note B>,note,136957999521120,0.5,182.5
+61,,<music21.articulations.Staccato>,staccato,136957999521024,0.0,0.0
+61,,<music21.note.Note B>,note,136958000050688,0.5,183.0
+61,,<music21.articulations.Staccato>,staccato,136958000050592,0.0,0.0
+61,61,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,136957999521792,0.5,0.0
+61,,<music21.expressions.TextExpression 'rallentando'>,rallentando,136958000051648,0.0,182.0
+62,,<music21.note.Note E>,note,136957999520688,1/6,183.5
+62,,<music21.chord.Chord E2 B2 G3>,note,136958008676176,1.5,183.5
+62,,<music21.note.Note F#>,note,136958000050400,1/6,551/3
+62,,<music21.note.Note E>,note,136958000049968,1/6,1103/6
+62,,<music21.note.Note B>,note,136957999520304,0.5,184.0
+62,,<music21.articulations.Staccato>,staccato,136957999520208,0.0,0.0
+62,,<music21.note.Note B>,note,136958000049584,0.5,184.5
+62,,<music21.articulations.Staccato>,staccato,136958000049824,0.0,0.0
+62,,<music21.note.Note E>,note,136957999519824,1/6,185.0
+62,,<music21.chord.Chord E2 B2 G3>,note,136958008675552,1.5,185.0
+62,,<music21.note.Note F#>,note,136958000049296,1/6,1111/6
+62,,<music21.note.Note E>,note,136958000049200,1/6,556/3
+62,,<music21.note.Note B>,note,136957999519440,0.5,185.5
+62,,<music21.articulations.Staccato>,staccato,136957999519344,0.0,0.0
+62,,<music21.note.Note B>,note,136958000048528,0.5,186.0
+62,,<music21.articulations.Staccato>,staccato,136958000048384,0.0,0.0
+62,62,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,136957999520784,0.5,0.0
+62,62,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,136957999524624,0.5,0.0
+63,,<music21.chord.Chord G4 E5>,note,136957999519056,0.25,186.5
+63,,<music21.note.Note B>,note,136957999517664,0.25,186.5
+63,,<music21.note.Note E>,note,136958038108128,3.0,186.5
+63,,<music21.note.Note F#>,note,136958000047952,0.25,186.75
+63,,<music21.note.Note G>,note,136958008674688,0.25,186.75
+63,,<music21.chord.Chord B4 E5>,note,136958000047712,0.25,187.0
+63,,<music21.note.Note B>,note,136958008674496,0.25,187.0
+63,,<music21.note.Note F#>,note,136958000047520,0.25,187.25
+63,,<music21.note.Note G>,note,136958008674592,0.25,187.25
+63,,<music21.chord.Chord G4 E5>,note,136958000046992,0.25,187.5
+63,,<music21.note.Note B>,note,136958008674256,0.25,187.5
+63,,<music21.note.Note F#>,note,136958000046560,0.25,187.75
+63,,<music21.note.Note G>,note,136958008674016,0.25,187.75
+63,,<music21.chord.Chord G4 E5>,note,136958000046320,0.25,188.0
+63,,<music21.note.Note B>,note,136958008673776,0.25,188.0
+63,,<music21.note.Note F#>,note,136958000045840,0.25,188.25
+63,,<music21.note.Note G>,note,136958008673536,0.25,188.25
+63,,<music21.chord.Chord B4 E5>,note,136958000045600,0.25,188.5
+63,,<music21.note.Note B>,note,136958008673056,0.25,188.5
+63,,<music21.note.Note F#>,note,136958000045456,0.25,188.75
+63,,<music21.note.Note G>,note,136958008672864,0.25,188.75
+63,,<music21.chord.Chord G4 E5>,note,136958000044880,0.25,189.0
+63,,<music21.note.Note B>,note,136958008672624,0.25,189.0
+63,,<music21.note.Note F#>,note,136958000044688,0.25,189.25
+63,,<music21.note.Note G>,note,136958008672384,0.25,189.25
+63,64,<music21.spanner.Slur <music21.chord.Chord G4 E5><music21.chord.Chord G4 E5>>,slur,136957999519152,3.0,0.0
+63,64,<music21.spanner.Slur <music21.note.Note B><music21.chord.Chord E2 B2>>,slur,136957999517808,3.0,0.0
+63,,<music21.expressions.TextExpression 'a tempo'>,a tempo,136958000048480,0.0,186.5
+64,,<music21.chord.Chord G4 E5>,note,136957999518528,1.5,189.5
+64,,<music21.chord.Chord E2 B2>,note,136957999517472,1.5,189.5
+64,,<music21.chord.Chord G4 E5>,note,136958000044112,1.0,191.0
+64,,<music21.chord.Chord E2 B2>,note,136958001975504,1.0,191.0
