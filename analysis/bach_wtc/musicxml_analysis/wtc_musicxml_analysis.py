@@ -8,7 +8,7 @@ I am not concerned to voicing and layout, thus I a m flattening all voices into 
 
 import os
 import music21 as m21
-import csv, json
+import csv, json, xml
 
 # Import MusicXML paths
 transcriptionsPath = "../../../encoded_music/project_transcriptions/"
@@ -57,6 +57,9 @@ def dict2csv(dict_list, out_filename):
 
 
 def m21stream2dict(score):
+    # assign static ids to
+    id_counter = 1
+    id_base = "N"
     score_dict = []
     score_statistics = {
         "measures": 0,
@@ -78,6 +81,8 @@ def m21stream2dict(score):
     # get general notes
     art_count = 0
     for el in score.flatten().getElementsByClass("GeneralNote"):
+        el.id = id_base + str(id_counter)
+        id_counter += 1
         score_dict.append(
             {
                 "measure_start": el.measureNumber,
@@ -87,12 +92,15 @@ def m21stream2dict(score):
                 "id": el.id,
                 "quarterlength": el.quarterLength,
                 "offset": el.offset,
+                "type": "GeneralNote",
             }
         )
         if len(el.articulations) > 0:
             for articulation in el.articulations:
                 # get Articulation
                 art_count += 1
+                articulation.id = id_base + str(id_counter)
+                id_counter += 1
                 score_dict.append(
                     {
                         "measure_start": el.measureNumber,
@@ -102,6 +110,7 @@ def m21stream2dict(score):
                         "id": articulation.id,
                         "quarterlength": articulation.quarterLength,
                         "offset": articulation.offset,
+                        "type": "Articulation",
                     }
                 )
     score_statistics["articulations"] = art_count
@@ -109,6 +118,8 @@ def m21stream2dict(score):
     slurLenghtSum = 0
     for el in score.flatten().getElementsByClass("Slur"):
         # length of slur = offset distance between extreme notes
+        el.id = id_base + str(id_counter)
+        id_counter += 1
         spanner_length = (
             el.getSpannedElements()[-1].offset - el.getSpannedElements()[0].offset
         )
@@ -122,10 +133,13 @@ def m21stream2dict(score):
                 "id": el.id,
                 "quarterlength": spanner_length,
                 "offset": el.offset,
+                "type": "Slur",
             }
         )
     # get dynamics
     for el in score.flatten().getElementsByClass("Dynamic"):
+        el.id = id_base + str(id_counter)
+        id_counter += 1
         score_dict.append(
             {
                 "measure_start": el.measureNumber,
@@ -135,6 +149,7 @@ def m21stream2dict(score):
                 "id": el.id,
                 "quarterlength": "",
                 "offset": "",
+                "type": "DynamicPoint",
             }
         )
 
@@ -143,6 +158,8 @@ def m21stream2dict(score):
         ("Crescendo", "Decrescendo", "Diminuendo")
     ):
         try:
+            el.id = id_base + str(id_counter)
+            id_counter += 1
             score_dict.append(
                 {
                     "measure_start": el.getSpannedElements()[0].measureNumber,
@@ -152,9 +169,12 @@ def m21stream2dict(score):
                     "id": el.id,
                     "quarterlength": "",
                     "offset": "",
+                    "type": "DynamicRegion",
                 }
             )
         except AttributeError:  # Diminuendo case
+            el.id = id_base + str(id_counter)
+            id_counter += 1
             score_dict.append(
                 {
                     "measure_start": el.getSpannedElements()[0].measureNumber,
@@ -164,10 +184,13 @@ def m21stream2dict(score):
                     "id": el.id,
                     "quarterlength": "",
                     "offset": "",
+                    "type": "DynamicRegion",
                 }
             )
     # get TextExpressions (rall. other instructions)
     for el in score.flatten().getElementsByClass("TextExpression"):
+        el.id = id_base + str(id_counter)
+        id_counter += 1
         score_dict.append(
             {
                 "measure_start": el.measureNumber,
@@ -177,10 +200,13 @@ def m21stream2dict(score):
                 "id": el.id,
                 "quarterlength": el.quarterLength,
                 "offset": el.offset,
+                "type": "TextExpression",
             }
         )
     # get Tempo and Metronome Marks
     for el in score.flatten().getElementsByClass("TempoIndication"):
+        el.id = id_base + str(id_counter)
+        id_counter += 1
         score_dict.append(
             {
                 "measure_start": el.measureNumber,
@@ -190,10 +216,13 @@ def m21stream2dict(score):
                 "id": el.id,
                 "quarterlength": el.quarterLength,
                 "offset": el.offset,
+                "type": "TempoIndication",
             }
         )
 
     for el in score.flatten().getElementsByClass("MetronomeMark"):
+        el.id = id_base + str(id_counter)
+        id_counter += 1
         score_dict.append(
             {
                 "measure_start": el.measureNumber,
@@ -203,6 +232,7 @@ def m21stream2dict(score):
                 "id": el.id,
                 "quarterlength": el.quarterLength,
                 "offset": el.offset,
+                "type": "MetronomeMark",
             }
         )
 
@@ -227,17 +257,74 @@ def m21stream2dict(score):
     b = float(score_statistics["slurs"]) * measureQuarterLength
     score_statistics["slurs_average_density"] = a / b
 
-    return score_dict, score_statistics
+    return score_dict, score_statistics, score
+
+
+def csv2dict(csv_filename):
+    f = open(csv_filename, "r")
+    reader = csv.DictReader(f)
+    d = {"items": []}
+    for row in reader:
+        d["items"].append(row)
+    return d
+
+
+def diff_streams(u, a):
+    # stores the differences in a list of Music21 IDs
+    # simple version, assuming len(a) > len(u)
+    diff_list = []
+    n = len(u)
+    m = len(a)
+    stay = True
+    i = j = 0
+    while stay:
+        if u[i]["object"] == a[j]["object"]:  # if streams are equal skip
+            i += 1
+            j += 1
+        else:  # if streams are different, append id to be colored
+            diff_list.append(
+                {
+                    "id": a[j]["id"],
+                    "object": a[j]["object"],
+                    "measure": a[j]["measure_start"],
+                    "type": a[j]["type"],
+                }
+            )
+            j += 1
+
+        if j >= m:
+            break
+        if i >= n:
+            break
+    return diff_list
+
+
+def m21color_objects(stream, id_list, color="red"):
+    # colors objects in a stream given a list of ids
+    for i in id_list:
+        # exclude notes
+        if i["type"] == "GeneralNote":
+            pass
+        else:
+            if stream.flatten().getElementById(i["id"]) != None:
+                stream.flatten().getElementById(i["id"]).style.color = color
+            else:  # articulation case
+                for note in stream.flatten().getElementsByClass("GeneralNote"):
+                    for articulation in note.articulations:
+                        if articulation.id == i["id"]:
+                            articulation.style.color = color
+
+    return stream
 
 
 # Urtext analysis
-urtextDictionary, urtextStatistics = m21stream2dict(urtextScore)
+urtextDictionary, urtextStatistics, urtextScore = m21stream2dict(urtextScore)
 urtextDictionary = sorted(urtextDictionary, key=lambda x: x["measure_start"])
 
-try:
-    os.makedirs(pieceName)
-except FileExistsError:
-    pass
+# Create subdirectories
+os.makedirs(pieceName, exist_ok=True)
+os.makedirs("./" + pieceName + "/diff", exist_ok=True)
+
 dict2csv(urtextDictionary, os.path.join(pieceName, "urtext.csv"))
 json_file = open(os.path.join(pieceName, "urtext_statistics.json"), "w")
 json.dump(urtextStatistics, json_file, indent=2)
@@ -245,16 +332,40 @@ json.dump(urtextStatistics, json_file, indent=2)
 # Arrangements analysis
 for a in arrangements:
     print("Current arrangement: ", a["name"])
-    arrangementDictionary, arrangementStatistics = m21stream2dict(a["score"])
+    arrangementDictionary, arrangementStatistics, a["score"] = m21stream2dict(
+        a["score"]
+    )
+    """ check if every object has a measure number
     for el in arrangementDictionary:
         if isinstance(el["measure_start"], int):
             pass
         else:
-            print(el)
+            print(el) """
 
     arrangementDictionary = sorted(
         arrangementDictionary, key=lambda x: x["measure_start"]
     )
+
     dict2csv(arrangementDictionary, os.path.join(pieceName, a["name"] + ".csv"))
     json_file = open(os.path.join(pieceName, a["name"] + "_statistics.json"), "w")
     json.dump(arrangementStatistics, json_file, indent=2)
+
+    # generate difference list
+    diff = diff_streams(urtextDictionary, arrangementDictionary)
+    diff_score = m21color_objects(a["score"], diff)
+
+    # the export to MusicXML is not working properly. Slurs are not colored.
+    diff_filename = "./" + pieceName + "/diff/" + a["name"] + "_diff.musicxml"
+    # diff_score.write(".musicxml", diff_filename)
+    xml_converter = m21.converter.subConverters.ConverterMusicXML()
+    xml_converter.write(
+        obj=diff_score,
+        fmt="musicxml",
+        makeNotation=True,
+        compress=False,
+        fp=diff_filename,
+    )
+
+    # export to CSV
+    diff_filename = "./" + pieceName + "/diff/" + a["name"] + "_diff.csv"
+    dict2csv(diff, diff_filename)
