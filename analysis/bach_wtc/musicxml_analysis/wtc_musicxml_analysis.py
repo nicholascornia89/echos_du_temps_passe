@@ -56,10 +56,10 @@ def dict2csv(dict_list, out_filename):
     f.close()
 
 
-def m21stream2dict(score):
+def m21stream2dict(score, id_name):
     # assign static ids to
     id_counter = 1
-    id_base = "N"
+    id_base = id_name
     score_dict = []
     score_statistics = {
         "measures": 0,
@@ -318,7 +318,7 @@ def m21color_objects(stream, id_list, color="red"):
 
 
 # Urtext analysis
-urtextDictionary, urtextStatistics, urtextScore = m21stream2dict(urtextScore)
+urtextDictionary, urtextStatistics, urtextScore = m21stream2dict(urtextScore, "urtext")
 urtextDictionary = sorted(urtextDictionary, key=lambda x: x["measure_start"])
 
 # Create subdirectories
@@ -333,7 +333,7 @@ json.dump(urtextStatistics, json_file, indent=2)
 for a in arrangements:
     print("Current arrangement: ", a["name"])
     arrangementDictionary, arrangementStatistics, a["score"] = m21stream2dict(
-        a["score"]
+        a["score"], a["name"]
     )
     """ check if every object has a measure number
     for el in arrangementDictionary:

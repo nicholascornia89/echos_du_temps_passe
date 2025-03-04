@@ -1,736 +1,736 @@
 id,object,measure,type
-N736,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note C->>,1,Slur
-N778,<music21.dynamics.Dynamic p>,1,DynamicPoint
-N804,<music21.expressions.TextExpression 'Lento mode...'>,1,TextExpression
-N805,<music21.expressions.TextExpression 'très soute...'>,1,TextExpression
-N810,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,1,TempoIndication
-N811,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,1,MetronomeMark
-N737,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D>>,2,Slur
-N738,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E->>,3,Slur
-N739,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note B->>,4,Slur
-N740,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note E->>,5,Slur
-N69,<music21.chord.Chord G-3 C-4>,6,GeneralNote
-N70,<music21.chord.Chord C-3 E-3>,6,GeneralNote
-N71,<music21.note.Note E->,6,GeneralNote
-N72,<music21.chord.Chord G-4 C-5>,6,GeneralNote
-N73,<music21.note.Rest half>,6,GeneralNote
-N74,<music21.note.Rest quarter>,6,GeneralNote
-N75,<music21.note.Rest half>,6,GeneralNote
-N76,<music21.note.Rest eighth>,6,GeneralNote
-N77,<music21.note.Note G->,6,GeneralNote
-N78,<music21.note.Note E->,6,GeneralNote
-N79,<music21.chord.Chord G-4 C-5>,6,GeneralNote
-N80,<music21.note.Rest half>,6,GeneralNote
-N81,<music21.note.Note E->,6,GeneralNote
-N82,<music21.note.Rest half>,6,GeneralNote
-N83,<music21.note.Note C->,6,GeneralNote
-N741,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note G>>,6,Slur
-N84,<music21.note.Note B->,7,GeneralNote
-N85,<music21.chord.Chord B-4 E-5>,7,GeneralNote
-N86,<music21.note.Note G>,7,GeneralNote
-N87,<music21.note.Rest quarter>,7,GeneralNote
-N88,<music21.note.Rest quarter>,7,GeneralNote
-N89,<music21.chord.Chord G2 B-2 E-3 G3>,7,GeneralNote
-N90,<music21.note.Rest quarter>,7,GeneralNote
-N91,<music21.note.Rest 16th>,7,GeneralNote
-N92,<music21.note.Note E->,7,GeneralNote
-N93,<music21.note.Note D->,7,GeneralNote
-N94,<music21.note.Note C->,7,GeneralNote
-N95,<music21.note.Rest quarter>,7,GeneralNote
-N96,<music21.note.Note D->,7,GeneralNote
-N97,<music21.chord.Chord G2 B-2 E-3 G3>,7,GeneralNote
-N98,<music21.note.Rest quarter>,7,GeneralNote
-N99,<music21.note.Note B->,7,GeneralNote
-N742,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note A->>,7,Slur
-N100,<music21.note.Rest half>,8,GeneralNote
-N101,<music21.note.Note C->,8,GeneralNote
-N102,<music21.chord.Chord A-2 C-3 E-3 A-3>,8,GeneralNote
-N103,<music21.note.Note B->,8,GeneralNote
-N104,<music21.note.Note A->,8,GeneralNote
-N105,<music21.articulations.Staccato>,8,Articulation
-N106,<music21.chord.Chord E-5 A-5 C-6>,8,GeneralNote
-N107,<music21.note.Rest quarter>,8,GeneralNote
-N108,<music21.note.Rest whole>,8,GeneralNote
-N109,<music21.note.Rest eighth>,8,GeneralNote
-N110,<music21.note.Note C->,8,GeneralNote
-N111,<music21.chord.Chord E-5 A-5 C-6>,8,GeneralNote
-N112,<music21.note.Note A->,8,GeneralNote
-N113,<music21.note.Note F>,8,GeneralNote
-N743,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,8,Slur
-N114,<music21.chord.Chord F5 A-5 C-6>,9,GeneralNote
-N115,<music21.note.Note D>,9,GeneralNote
-N116,<music21.note.Rest dotted-whole>,9,GeneralNote
-N117,<music21.note.Rest quarter>,9,GeneralNote
-N118,<music21.chord.Chord D4 F4 B-4>,9,GeneralNote
-N119,<music21.note.Rest 16th>,9,GeneralNote
-N120,<music21.note.Note B->,9,GeneralNote
-N121,<music21.note.Note A->,9,GeneralNote
-N122,<music21.note.Note G->,9,GeneralNote
-N123,<music21.note.Note F>,9,GeneralNote
-N124,<music21.chord.Chord D4 F4 B-4>,9,GeneralNote
-N125,<music21.note.Note G->,9,GeneralNote
-N126,<music21.note.Note F>,9,GeneralNote
-N127,<music21.note.Note G->,9,GeneralNote
-N128,<music21.note.Note A->,9,GeneralNote
-N129,<music21.note.Note G->,9,GeneralNote
-N130,<music21.note.Note A->,9,GeneralNote
-N131,<music21.note.Note F>,9,GeneralNote
-N744,<music21.spanner.Slur <music21.note.Note B-><music21.chord.Chord E-5 G-5 B-5>>,9,Slur
-N132,<music21.note.Note G->,10,GeneralNote
-N133,<music21.chord.Chord E-4 G-4 B-4>,10,GeneralNote
-N134,<music21.note.Rest dotted-whole>,10,GeneralNote
-N135,<music21.note.Note F>,10,GeneralNote
-N136,<music21.note.Note E->,10,GeneralNote
-N137,<music21.chord.Chord E-5 G-5 B-5>,10,GeneralNote
-N138,<music21.note.Rest quarter>,10,GeneralNote
-N139,<music21.note.Rest eighth>,10,GeneralNote
-N140,<music21.note.Note G->,10,GeneralNote
-N141,<music21.chord.Chord E-5 G-5 B-5>,10,GeneralNote
-N142,<music21.note.Note E->,10,GeneralNote
-N143,<music21.note.Note C>,10,GeneralNote
-N745,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note A>>,10,Slur
-N144,<music21.note.Note C>,11,GeneralNote
-N145,<music21.chord.Chord C5 E-5 G-5>,11,GeneralNote
-N146,<music21.note.Rest half>,11,GeneralNote
-N147,<music21.note.Rest half>,11,GeneralNote
-N148,<music21.note.Note A>,11,GeneralNote
-N149,<music21.note.Rest half>,11,GeneralNote
-N150,<music21.note.Rest half>,11,GeneralNote
-N151,<music21.note.Rest whole>,11,GeneralNote
-N152,<music21.note.Rest quarter>,11,GeneralNote
-N153,<music21.note.Note A>,11,GeneralNote
-N154,<music21.chord.Chord C4 F4>,11,GeneralNote
-N155,<music21.note.Rest 16th>,11,GeneralNote
-N156,<music21.note.Note F>,11,GeneralNote
-N157,<music21.note.Note E->,11,GeneralNote
-N158,<music21.note.Note D->,11,GeneralNote
-N159,<music21.note.Note C>,11,GeneralNote
-N160,<music21.note.Note A>,11,GeneralNote
-N161,<music21.chord.Chord C4 F4>,11,GeneralNote
-N162,<music21.note.Note D->,11,GeneralNote
-N163,<music21.note.Note C>,11,GeneralNote
-N164,<music21.note.Note D->,11,GeneralNote
-N165,<music21.note.Note E->,11,GeneralNote
-N166,<music21.note.Note D->,11,GeneralNote
-N167,<music21.note.Note E->,11,GeneralNote
-N168,<music21.note.Note C>,11,GeneralNote
-N746,<music21.spanner.Slur <music21.note.Note F><music21.note.Note B->>,11,Slur
-N169,<music21.note.Note D->,12,GeneralNote
-N170,<music21.chord.Chord D-4 F4>,12,GeneralNote
-N171,<music21.note.Note B->,12,GeneralNote
-N172,<music21.note.Note C>,12,GeneralNote
-N173,<music21.note.Note B->,12,GeneralNote
-N174,<music21.note.Note F>,12,GeneralNote
-N175,<music21.chord.Chord D-4 F4>,12,GeneralNote
-N176,<music21.note.Note B->,12,GeneralNote
-N177,<music21.note.Note F>,12,GeneralNote
-N178,<music21.note.Note G->,12,GeneralNote
-N179,<music21.note.Note F>,12,GeneralNote
-N180,<music21.note.Note E->,12,GeneralNote
-N181,<music21.note.Note D->,12,GeneralNote
-N182,<music21.chord.Chord D-4 F4>,12,GeneralNote
-N183,<music21.note.Note B->,12,GeneralNote
-N184,<music21.note.Note C>,12,GeneralNote
-N185,<music21.note.Note B->,12,GeneralNote
-N186,<music21.note.Note A->,12,GeneralNote
-N187,<music21.note.Note G->,12,GeneralNote
-N188,<music21.note.Note A->,12,GeneralNote
-N189,<music21.note.Note F>,12,GeneralNote
-N806,<music21.expressions.TextExpression 'cresc.'>,12,TextExpression
-N190,<music21.note.Note G->,13,GeneralNote
-N191,<music21.note.Note D->,13,GeneralNote
-N192,<music21.chord.Chord E-3 B-3>,13,GeneralNote
-N193,<music21.note.Note G->,13,GeneralNote
-N194,<music21.note.Note B->,13,GeneralNote
-N195,<music21.note.Note D->,13,GeneralNote
-N196,<music21.note.Note G->,13,GeneralNote
-N197,<music21.note.Note C>,13,GeneralNote
-N198,<music21.chord.Chord E-3 B-3>,13,GeneralNote
-N199,<music21.note.Note G->,13,GeneralNote
-N200,<music21.note.Note F>,13,GeneralNote
-N201,<music21.note.Note E->,13,GeneralNote
-N202,<music21.note.Note D->,13,GeneralNote
-N203,<music21.note.Note C>,13,GeneralNote
-N204,<music21.note.Note C>,13,GeneralNote
-N205,<music21.chord.Chord E-3 B-3>,13,GeneralNote
-N206,<music21.note.Note E->,13,GeneralNote
-N207,<music21.note.Note D->,13,GeneralNote
-N208,<music21.note.Note C>,13,GeneralNote
-N209,<music21.note.Note D->,13,GeneralNote
-N210,<music21.note.Note E->,13,GeneralNote
-N211,<music21.note.Note F>,14,GeneralNote
-N212,<music21.note.Rest half>,14,GeneralNote
-N213,<music21.note.Rest half>,14,GeneralNote
-N214,<music21.note.Rest half>,14,GeneralNote
-N215,<music21.note.Rest half>,14,GeneralNote
-N216,<music21.chord.Chord A3 C4>,14,GeneralNote
-N217,<music21.note.Note E->,14,GeneralNote
-N218,<music21.note.Note G>,14,GeneralNote
-N219,<music21.note.Note A>,14,GeneralNote
-N220,<music21.note.Note A>,14,GeneralNote
-N221,<music21.note.Note G>,14,GeneralNote
-N222,<music21.note.Note A>,14,GeneralNote
-N223,<music21.note.Note B->,14,GeneralNote
-N224,<music21.note.Rest quarter>,14,GeneralNote
-N225,<music21.chord.Chord F3 B-3>,14,GeneralNote
-N226,<music21.note.Note D->,14,GeneralNote
-N227,<music21.note.Rest eighth>,14,GeneralNote
-N228,<music21.note.Note F>,14,GeneralNote
-N229,<music21.note.Note G->,14,GeneralNote
-N230,<music21.note.Note B->,14,GeneralNote
-N231,<music21.note.Note E->,14,GeneralNote
-N232,<music21.note.Note E->,14,GeneralNote
-N747,<music21.spanner.Slur <music21.note.Note F><music21.note.Note D->>,14,Slur
-N779,<music21.dynamics.Dynamic mf>,14,DynamicPoint
-N233,<music21.note.Note B->,15,GeneralNote
-N234,<music21.note.Note C>,15,GeneralNote
-N235,<music21.note.Note F>,15,GeneralNote
-N236,<music21.note.Note F>,15,GeneralNote
-N237,<music21.note.Note C>,15,GeneralNote
-N238,<music21.note.Note D->,15,GeneralNote
-N239,<music21.note.Note C>,15,GeneralNote
-N240,<music21.note.Note D->,15,GeneralNote
-N241,<music21.note.Note E->,15,GeneralNote
-N242,<music21.note.Note F>,15,GeneralNote
-N243,<music21.note.Note F>,15,GeneralNote
-N244,<music21.note.Note D->,15,GeneralNote
-N245,<music21.note.Note C>,15,GeneralNote
-N246,<music21.note.Note D->,15,GeneralNote
-N247,<music21.note.Note E->,15,GeneralNote
-N248,<music21.note.Note F>,15,GeneralNote
-N249,<music21.note.Note E->,15,GeneralNote
-N250,<music21.note.Note F>,15,GeneralNote
-N251,<music21.note.Note A>,15,GeneralNote
-N252,<music21.note.Note G->,15,GeneralNote
-N253,<music21.note.Note F>,15,GeneralNote
-N254,<music21.note.Note F>,15,GeneralNote
-N255,<music21.note.Note F>,15,GeneralNote
-N256,<music21.note.Note E->,15,GeneralNote
-N789,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note A->>,15,DynamicRegion
-N257,<music21.note.Note B->,16,GeneralNote
-N258,<music21.note.Note D->,16,GeneralNote
-N259,<music21.note.Note B->,16,GeneralNote
-N260,<music21.chord.Chord F3 B-3>,16,GeneralNote
-N261,<music21.note.Note C>,16,GeneralNote
-N262,<music21.note.Note E->,16,GeneralNote
-N263,<music21.note.Note D->,16,GeneralNote
-N264,<music21.chord.Chord F4 B-4>,16,GeneralNote
-N265,<music21.note.Rest half>,16,GeneralNote
-N266,<music21.note.Rest quarter>,16,GeneralNote
-N267,<music21.note.Rest half>,16,GeneralNote
-N268,<music21.note.Rest eighth>,16,GeneralNote
-N269,<music21.note.Note B->,16,GeneralNote
-N270,<music21.note.Note D->,16,GeneralNote
-N271,<music21.chord.Chord F4 B-4>,16,GeneralNote
-N272,<music21.note.Rest half>,16,GeneralNote
-N273,<music21.note.Note D->,16,GeneralNote
-N274,<music21.note.Rest half>,16,GeneralNote
-N275,<music21.note.Note F>,16,GeneralNote
-N748,<music21.spanner.Slur <music21.note.Note C><music21.note.Note D->>,16,Slur
-N749,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note G>>,16,Slur
-N780,<music21.dynamics.Dynamic p>,16,DynamicPoint
-N276,<music21.note.Note D->,17,GeneralNote
-N277,<music21.chord.Chord F-4 B-4>,17,GeneralNote
-N278,<music21.note.Note G>,17,GeneralNote
-N279,<music21.note.Rest eighth>,17,GeneralNote
-N280,<music21.note.Rest eighth>,17,GeneralNote
-N281,<music21.note.Note C->,17,GeneralNote
-N282,<music21.note.Rest eighth>,17,GeneralNote
-N283,<music21.note.Rest eighth>,17,GeneralNote
-N284,<music21.note.Note B->,17,GeneralNote
-N285,<music21.note.Note F->,17,GeneralNote
-N286,<music21.chord.Chord B-4 D-5>,17,GeneralNote
-N287,<music21.note.Note G>,17,GeneralNote
-N288,<music21.note.Note G>,17,GeneralNote
-N289,<music21.note.Note B->,17,GeneralNote
-N290,<music21.note.Note A->,17,GeneralNote
-N291,<music21.note.Note G>,17,GeneralNote
-N292,<music21.chord.Chord D-5 F-5>,17,GeneralNote
-N293,<music21.chord.Chord B-4 D-5>,17,GeneralNote
-N294,<music21.note.Note D->,17,GeneralNote
-N295,<music21.note.Note E->,17,GeneralNote
-N296,<music21.note.Rest eighth>,17,GeneralNote
-N297,<music21.note.Rest eighth>,17,GeneralNote
-N298,<music21.note.Note D->,17,GeneralNote
-N750,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note F->>,17,Slur
-N751,<music21.spanner.Slur <music21.chord.Chord D-5 F-5><music21.note.Note G>>,17,Slur
-N752,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note D->>,17,Slur
-N807,<music21.expressions.TextExpression 'cresc.'>,17,TextExpression
-N299,<music21.note.Note G>,18,GeneralNote
-N300,<music21.chord.Chord B-4 D-5>,18,GeneralNote
-N301,<music21.note.Rest half>,18,GeneralNote
-N302,<music21.note.Rest whole>,18,GeneralNote
-N303,<music21.note.Rest half>,18,GeneralNote
-N304,<music21.note.Rest whole>,18,GeneralNote
-N305,<music21.note.Note D->,18,GeneralNote
-N306,<music21.note.Note C->,18,GeneralNote
-N307,<music21.note.Note B->,18,GeneralNote
-N308,<music21.note.Note G>,18,GeneralNote
-N309,<music21.chord.Chord B-4 D-5>,18,GeneralNote
-N310,<music21.note.Rest half>,18,GeneralNote
-N311,<music21.note.Rest half>,18,GeneralNote
-N312,<music21.note.Note F->,18,GeneralNote
-N313,<music21.note.Note E->,18,GeneralNote
-N314,<music21.note.Note F->,18,GeneralNote
-N315,<music21.note.Note F->,18,GeneralNote
-N316,<music21.note.Rest eighth>,18,GeneralNote
-N317,<music21.note.Rest eighth>,18,GeneralNote
-N318,<music21.note.Note D->,18,GeneralNote
-N319,<music21.note.Note E->,18,GeneralNote
-N320,<music21.note.Note A->,18,GeneralNote
-N321,<music21.note.Rest half>,18,GeneralNote
-N322,<music21.chord.Chord C-5 E-5>,18,GeneralNote
-N323,<music21.note.Rest half>,18,GeneralNote
-N324,<music21.note.Note C->,18,GeneralNote
-N325,<music21.note.Note B->,18,GeneralNote
-N326,<music21.note.Note A->,18,GeneralNote
-N327,<music21.note.Note B->,18,GeneralNote
-N328,<music21.note.Note C->,18,GeneralNote
-N329,<music21.note.Note A->,18,GeneralNote
-N330,<music21.note.Note B->,18,GeneralNote
-N331,<music21.note.Note C->,18,GeneralNote
-N753,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note E->>,18,Slur
-N754,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note F->>,18,Slur
-N332,<music21.note.Note A->,19,GeneralNote
-N333,<music21.note.Rest half>,19,GeneralNote
-N334,<music21.note.Rest half>,19,GeneralNote
-N335,<music21.note.Rest half>,19,GeneralNote
-N336,<music21.note.Rest half>,19,GeneralNote
-N337,<music21.note.Note F->,19,GeneralNote
-N338,<music21.note.Note G>,19,GeneralNote
-N339,<music21.note.Note A->,19,GeneralNote
-N340,<music21.note.Note F->,19,GeneralNote
-N341,<music21.note.Note F->,19,GeneralNote
-N342,<music21.note.Note B->,19,GeneralNote
-N343,<music21.note.Note E->,19,GeneralNote
-N344,<music21.note.Note D->,19,GeneralNote
-N345,<music21.note.Note C->,19,GeneralNote
-N346,<music21.chord.Chord E-5 A-5>,19,GeneralNote
-N347,<music21.note.Note E->,19,GeneralNote
-N348,<music21.note.Rest half>,19,GeneralNote
-N349,<music21.note.Rest half>,19,GeneralNote
-N350,<music21.note.Note D->,19,GeneralNote
-N351,<music21.chord.Chord D-5 G5>,19,GeneralNote
-N352,<music21.note.Note E->,19,GeneralNote
-N353,<music21.note.Note B->,19,GeneralNote
-N354,<music21.note.Note E->,19,GeneralNote
-N755,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note A->>,19,Slur
-N791,<music21.dynamics.Diminuendo <music21.note.Note B-><music21.note.Note G->>,19,DynamicRegion
-N355,<music21.note.Note A->,20,GeneralNote
-N356,<music21.chord.Chord C-5 E-5>,20,GeneralNote
-N357,<music21.note.Note A->,20,GeneralNote
-N358,<music21.note.Rest eighth>,20,GeneralNote
-N359,<music21.note.Rest eighth>,20,GeneralNote
-N360,<music21.note.Rest dotted-whole>,20,GeneralNote
-N361,<music21.note.Note C->,20,GeneralNote
-N362,<music21.note.Note F>,20,GeneralNote
-N363,<music21.note.Rest quarter>,20,GeneralNote
-N364,<music21.note.Rest eighth>,20,GeneralNote
-N365,<music21.note.Note G->,20,GeneralNote
-N366,<music21.note.Note C->,20,GeneralNote
-N367,<music21.note.Note A->,20,GeneralNote
-N368,<music21.note.Note D>,20,GeneralNote
-N369,<music21.note.Note F>,20,GeneralNote
-N370,<music21.note.Note E->,20,GeneralNote
-N371,<music21.note.Note G->,20,GeneralNote
-N372,<music21.note.Note F>,20,GeneralNote
-N373,<music21.note.Note A->,20,GeneralNote
-N756,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,20,Slur
-N757,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,20,Slur
-N781,<music21.dynamics.Dynamic mf>,20,DynamicPoint
-N374,<music21.note.Note B->,21,GeneralNote
-N375,<music21.note.Note D>,21,GeneralNote
-N376,<music21.note.Note A->,21,GeneralNote
-N377,<music21.note.Note E->,21,GeneralNote
-N378,<music21.note.Note F>,21,GeneralNote
-N379,<music21.note.Note D>,21,GeneralNote
-N380,<music21.note.Note B->,21,GeneralNote
-N381,<music21.note.Note E->,21,GeneralNote
-N382,<music21.note.Note A->,21,GeneralNote
-N383,<music21.note.Note F>,21,GeneralNote
-N384,<music21.note.Note B->,21,GeneralNote
-N385,<music21.note.Note D>,21,GeneralNote
-N386,<music21.note.Note C>,21,GeneralNote
-N387,<music21.note.Note E->,21,GeneralNote
-N388,<music21.note.Note D>,21,GeneralNote
-N389,<music21.note.Note F>,21,GeneralNote
-N758,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note D->>,21,Slur
-N759,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G>>,21,Slur
-N390,<music21.note.Note E->,22,GeneralNote
-N391,<music21.note.Note G->,22,GeneralNote
-N392,<music21.note.Note D->,22,GeneralNote
-N393,<music21.note.Note C->,22,GeneralNote
-N394,<music21.note.Note D->,22,GeneralNote
-N395,<music21.note.Note G>,22,GeneralNote
-N396,<music21.note.Note B->,22,GeneralNote
-N397,<music21.chord.Chord E-4 B-4 D-5>,22,GeneralNote
-N398,<music21.note.Note G>,22,GeneralNote
-N399,<music21.note.Note E->,22,GeneralNote
-N760,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A->>,22,Slur
-N400,<music21.chord.Chord E-4 B-4 D-5>,23,GeneralNote
-N401,<music21.note.Note A->,23,GeneralNote
-N402,<music21.note.Note C->,23,GeneralNote
-N403,<music21.note.Note B->,23,GeneralNote
-N404,<music21.note.Note C->,23,GeneralNote
-N405,<music21.note.Rest quarter>,23,GeneralNote
-N406,<music21.note.Rest eighth>,23,GeneralNote
-N407,<music21.note.Note C->,23,GeneralNote
-N408,<music21.chord.Chord E-4 A-4 C-5>,23,GeneralNote
-N409,<music21.note.Note A->,23,GeneralNote
-N410,<music21.note.Note F>,23,GeneralNote
-N761,<music21.spanner.Slur <music21.chord.Chord E-4 B-4 D-5><music21.note.Note C->>,23,Slur
-N762,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,23,Slur
-N411,<music21.note.Note C->,24,GeneralNote
-N412,<music21.chord.Chord F4 A-4>,24,GeneralNote
-N413,<music21.chord.Chord F3 A-3>,24,GeneralNote
-N414,<music21.note.Note D>,24,GeneralNote
-N415,<music21.note.Note B->,24,GeneralNote
-N416,<music21.note.Rest eighth>,24,GeneralNote
-N417,<music21.note.Rest eighth>,24,GeneralNote
-N418,<music21.note.Note A->,24,GeneralNote
-N419,<music21.note.Note F>,24,GeneralNote
-N420,<music21.note.Rest half>,24,GeneralNote
-N421,<music21.note.Rest half>,24,GeneralNote
-N422,<music21.chord.Chord F3 B-3>,24,GeneralNote
-N423,<music21.note.Note D>,24,GeneralNote
-N424,<music21.note.Note C->,24,GeneralNote
-N425,<music21.note.Note B->,24,GeneralNote
-N426,<music21.note.Rest half>,24,GeneralNote
-N427,<music21.note.Rest half>,24,GeneralNote
-N428,<music21.chord.Chord F3 B-3>,24,GeneralNote
-N429,<music21.note.Note D>,24,GeneralNote
-N430,<music21.note.Note C->,24,GeneralNote
-N431,<music21.note.Note A->,24,GeneralNote
-N763,<music21.spanner.Slur <music21.chord.Chord F4 A-4><music21.note.Note G->>,24,Slur
-N432,<music21.note.Note G->,25,GeneralNote
-N433,<music21.note.Note E->,25,GeneralNote
-N434,<music21.chord.Chord G-3 B-3>,25,GeneralNote
-N435,<music21.note.Note E->,25,GeneralNote
-N436,<music21.note.Note G->,25,GeneralNote
-N437,<music21.note.Rest half>,25,GeneralNote
-N438,<music21.note.Rest half>,25,GeneralNote
-N439,<music21.chord.Chord G-3 B-3>,25,GeneralNote
-N440,<music21.note.Note E->,25,GeneralNote
-N441,<music21.note.Note E->,25,GeneralNote
-N442,<music21.note.Note F>,25,GeneralNote
-N443,<music21.note.Note G->,25,GeneralNote
-N444,<music21.note.Note A->,25,GeneralNote
-N445,<music21.note.Note B->,25,GeneralNote
-N446,<music21.note.Note C>,25,GeneralNote
-N447,<music21.note.Note D>,25,GeneralNote
-N448,<music21.note.Note E->,25,GeneralNote
-N449,<music21.note.Rest half>,25,GeneralNote
-N450,<music21.note.Rest half>,25,GeneralNote
-N451,<music21.chord.Chord G-3 B-3>,25,GeneralNote
-N452,<music21.chord.Chord E-3 G-3>,25,GeneralNote
-N453,<music21.note.Note F>,25,GeneralNote
-N454,<music21.note.Note G->,25,GeneralNote
-N455,<music21.note.Note A->,25,GeneralNote
-N456,<music21.note.Note G->,25,GeneralNote
-N457,<music21.note.Note F>,25,GeneralNote
-N458,<music21.note.Note G->,25,GeneralNote
-N459,<music21.note.Note E->,25,GeneralNote
-N793,<music21.dynamics.Crescendo <music21.note.Note A-><music21.note.Note D>>,25,DynamicRegion
-N460,<music21.note.Note F->,26,GeneralNote
-N461,<music21.chord.Chord F-4 A-4 C-5>,26,GeneralNote
-N462,<music21.chord.Chord C-3 F-3 A-3>,26,GeneralNote
-N463,<music21.note.Note A->,26,GeneralNote
-N464,<music21.note.Note C->,26,GeneralNote
-N465,<music21.note.Rest eighth>,26,GeneralNote
-N466,<music21.note.Rest eighth>,26,GeneralNote
-N467,<music21.note.Note B-->,26,GeneralNote
-N468,<music21.note.Note A->,26,GeneralNote
-N469,<music21.note.Rest half>,26,GeneralNote
-N470,<music21.note.Rest half>,26,GeneralNote
-N471,<music21.note.Rest half>,26,GeneralNote
-N472,<music21.note.Rest half>,26,GeneralNote
-N473,<music21.note.Note B-->,26,GeneralNote
-N474,<music21.note.Note C->,26,GeneralNote
-N475,<music21.note.Note F->,26,GeneralNote
-N476,<music21.note.Rest half>,26,GeneralNote
-N477,<music21.note.Rest half>,26,GeneralNote
-N478,<music21.note.Rest half>,26,GeneralNote
-N479,<music21.note.Rest half>,26,GeneralNote
-N480,<music21.note.Note G->,26,GeneralNote
-N481,<music21.note.Note A->,26,GeneralNote
-N764,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note E->>,26,Slur
-N782,<music21.dynamics.Dynamic f>,26,DynamicPoint
-N482,<music21.note.Note D>,27,GeneralNote
-N483,<music21.note.Note B->,27,GeneralNote
-N484,<music21.chord.Chord A-2 F3>,27,GeneralNote
-N485,<music21.note.Note F>,27,GeneralNote
-N486,<music21.note.Note A->,27,GeneralNote
-N487,<music21.note.Note C->,27,GeneralNote
-N488,<music21.note.Rest half>,27,GeneralNote
-N489,<music21.note.Rest half>,27,GeneralNote
-N490,<music21.note.Note B->,27,GeneralNote
-N491,<music21.note.Note A->,27,GeneralNote
-N492,<music21.note.Note F>,27,GeneralNote
-N493,<music21.note.Rest half>,27,GeneralNote
-N494,<music21.note.Rest half>,27,GeneralNote
-N495,<music21.note.Note E->,27,GeneralNote
-N496,<music21.note.Note D>,27,GeneralNote
-N783,<music21.dynamics.Dynamic fz>,27,DynamicPoint
-N795,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note A>>,27,DynamicRegion
-N497,<music21.note.Note C->,28,GeneralNote
-N498,<music21.note.Rest half>,28,GeneralNote
-N499,<music21.note.Rest half>,28,GeneralNote
-N500,<music21.note.Rest half>,28,GeneralNote
-N501,<music21.note.Rest half>,28,GeneralNote
-N502,<music21.note.Rest half>,28,GeneralNote
-N503,<music21.note.Rest half>,28,GeneralNote
-N504,<music21.note.Note A>,28,GeneralNote
-N505,<music21.note.Note B->,28,GeneralNote
-N506,<music21.note.Note E->,28,GeneralNote
-N507,<music21.chord.Chord G-4 B-4>,28,GeneralNote
-N508,<music21.chord.Chord E-3 G-3 B-3>,28,GeneralNote
-N509,<music21.note.Note B->,28,GeneralNote
-N510,<music21.note.Note D>,28,GeneralNote
-N511,<music21.chord.Chord F4 B-4>,28,GeneralNote
-N512,<music21.chord.Chord F3 A-3 B-3>,28,GeneralNote
-N513,<music21.note.Note B->,28,GeneralNote
-N514,<music21.note.Note E->,28,GeneralNote
-N765,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A>>,28,Slur
-N797,<music21.dynamics.Diminuendo <music21.note.Note C-><music21.note.Note E->>,28,DynamicRegion
-N799,<music21.dynamics.Diminuendo <music21.note.Note D><music21.note.Note D>>,28,DynamicRegion
-N515,<music21.note.Note E->,29,GeneralNote
-N516,<music21.note.Note B->,29,GeneralNote
-N517,<music21.note.Note E->,29,GeneralNote
-N518,<music21.chord.Chord C-3 C-4>,29,GeneralNote
-N519,<music21.note.Note B->,29,GeneralNote
-N520,<music21.note.Note A->,29,GeneralNote
-N521,<music21.note.Note G>,29,GeneralNote
-N522,<music21.note.Note A->,29,GeneralNote
-N523,<music21.note.Note A->,29,GeneralNote
-N524,<music21.note.Note E->,29,GeneralNote
-N525,<music21.note.Note C->,29,GeneralNote
-N526,<music21.note.Note A->,29,GeneralNote
-N527,<music21.note.Note E->,29,GeneralNote
-N528,<music21.note.Note C->,29,GeneralNote
-N529,<music21.note.Note G>,29,GeneralNote
-N530,<music21.note.Note A->,29,GeneralNote
-N784,<music21.dynamics.Dynamic p>,29,DynamicPoint
-N531,<music21.note.Note E->,30,GeneralNote
-N532,<music21.note.Note B->,30,GeneralNote
-N533,<music21.chord.Chord B-3 E-4>,30,GeneralNote
-N534,<music21.note.Note G>,30,GeneralNote
-N535,<music21.note.Note E->,30,GeneralNote
-N536,<music21.chord.Chord B-3 E-4>,30,GeneralNote
-N537,<music21.note.Note G>,30,GeneralNote
-N538,<music21.note.Note E->,30,GeneralNote
-N539,<music21.note.Note E->,30,GeneralNote
-N540,<music21.note.Note D->,30,GeneralNote
-N541,<music21.note.Note C->,30,GeneralNote
-N542,<music21.note.Note D->,30,GeneralNote
-N543,<music21.chord.Chord B-3 E-4>,30,GeneralNote
-N544,<music21.note.Note G>,30,GeneralNote
-N545,<music21.note.Note B->,30,GeneralNote
-N766,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,30,Slur
-N546,<music21.note.Note C->,31,GeneralNote
-N547,<music21.note.Note A->,31,GeneralNote
-N548,<music21.chord.Chord C-4 E-4>,31,GeneralNote
-N549,<music21.note.Note A->,31,GeneralNote
-N550,<music21.note.Note C->,31,GeneralNote
-N551,<music21.note.Note A->,31,GeneralNote
-N552,<music21.note.Note E->,31,GeneralNote
-N553,<music21.note.Note F->,31,GeneralNote
-N554,<music21.note.Note C->,31,GeneralNote
-N555,<music21.note.Note E->,31,GeneralNote
-N556,<music21.note.Note C->,31,GeneralNote
-N557,<music21.note.Note E->,31,GeneralNote
-N558,<music21.note.Note B->,31,GeneralNote
-N559,<music21.note.Rest eighth>,31,GeneralNote
-N560,<music21.note.Rest eighth>,31,GeneralNote
-N561,<music21.note.Note D->,31,GeneralNote
-N562,<music21.note.Note A->,31,GeneralNote
-N563,<music21.note.Note C->,31,GeneralNote
-N564,<music21.note.Note B->,31,GeneralNote
-N565,<music21.note.Rest half>,31,GeneralNote
-N566,<music21.note.Rest half>,31,GeneralNote
-N567,<music21.note.Note D->,31,GeneralNote
-N568,<music21.note.Note F->,31,GeneralNote
-N569,<music21.note.Note G>,31,GeneralNote
-N570,<music21.note.Note B->,31,GeneralNote
-N767,<music21.spanner.Slur <music21.note.Note C-><music21.chord.Chord D4 A-4>>,31,Slur
-N768,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,31,Slur
-N571,<music21.chord.Chord D4 A-4>,32,GeneralNote
-N572,<music21.note.Note C->,32,GeneralNote
-N573,<music21.note.Note F>,32,GeneralNote
-N574,<music21.note.Note A->,32,GeneralNote
-N575,<music21.chord.Chord C-4 D4>,32,GeneralNote
-N576,<music21.note.Note F>,32,GeneralNote
-N577,<music21.note.Note F>,32,GeneralNote
-N578,<music21.note.Note G->,32,GeneralNote
-N579,<music21.note.Note F>,32,GeneralNote
-N580,<music21.note.Note E->,32,GeneralNote
-N581,<music21.note.Note A->,32,GeneralNote
-N582,<music21.chord.Chord C-4 D4>,32,GeneralNote
-N583,<music21.note.Note F>,32,GeneralNote
-N584,<music21.note.Note G->,32,GeneralNote
-N585,<music21.note.Note A->,32,GeneralNote
-N586,<music21.note.Note F>,32,GeneralNote
-N587,<music21.note.Note G->,32,GeneralNote
-N588,<music21.note.Note A->,32,GeneralNote
-N769,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note D>>,32,Slur
-N589,<music21.note.Note A->,33,GeneralNote
-N590,<music21.chord.Chord C-4 F4>,33,GeneralNote
-N591,<music21.note.Note D>,33,GeneralNote
-N592,<music21.note.Note A->,33,GeneralNote
-N593,<music21.chord.Chord C-4 F4>,33,GeneralNote
-N594,<music21.note.Note D>,33,GeneralNote
-N595,<music21.note.Note D>,33,GeneralNote
-N596,<music21.note.Note E->,33,GeneralNote
-N597,<music21.note.Note D>,33,GeneralNote
-N598,<music21.note.Note C>,33,GeneralNote
-N599,<music21.note.Note A->,33,GeneralNote
-N600,<music21.chord.Chord C-4 F4>,33,GeneralNote
-N601,<music21.note.Note D>,33,GeneralNote
-N602,<music21.note.Note E->,33,GeneralNote
-N603,<music21.note.Note F>,33,GeneralNote
-N604,<music21.note.Note D>,33,GeneralNote
-N605,<music21.note.Note E->,33,GeneralNote
-N606,<music21.note.Note F>,33,GeneralNote
-N770,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,33,Slur
-N808,<music21.expressions.TextExpression 'cresc.'>,33,TextExpression
-N607,<music21.note.Note A->,34,GeneralNote
-N608,<music21.chord.Chord D4 F4>,34,GeneralNote
-N609,<music21.note.Note C->,34,GeneralNote
-N610,<music21.note.Note A->,34,GeneralNote
-N611,<music21.chord.Chord D4 F4>,34,GeneralNote
-N612,<music21.note.Note C->,34,GeneralNote
-N613,<music21.note.Note C->,34,GeneralNote
-N614,<music21.note.Note D->,34,GeneralNote
-N615,<music21.note.Note C->,34,GeneralNote
-N616,<music21.note.Note B->,34,GeneralNote
-N617,<music21.note.Note A->,34,GeneralNote
-N618,<music21.chord.Chord D4 F4>,34,GeneralNote
-N619,<music21.note.Note C->,34,GeneralNote
-N620,<music21.note.Note B->,34,GeneralNote
-N621,<music21.note.Note A->,34,GeneralNote
-N622,<music21.note.Note B->,34,GeneralNote
-N623,<music21.note.Note C->,34,GeneralNote
-N624,<music21.note.Note A->,34,GeneralNote
-N625,<music21.note.Note B->,34,GeneralNote
-N626,<music21.note.Note C->,34,GeneralNote
-N771,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note D>>,34,Slur
-N627,<music21.note.Note C->,35,GeneralNote
-N628,<music21.chord.Chord D4 F4 A-4>,35,GeneralNote
-N629,<music21.note.Note D>,35,GeneralNote
-N630,<music21.note.Note C->,35,GeneralNote
-N631,<music21.note.Rest half>,35,GeneralNote
-N632,<music21.note.Rest half>,35,GeneralNote
-N633,<music21.note.Rest half>,35,GeneralNote
-N634,<music21.note.Note B->,35,GeneralNote
-N635,<music21.note.Note A->,35,GeneralNote
-N636,<music21.note.Note G->,35,GeneralNote
-N637,<music21.note.Note F>,35,GeneralNote
-N638,<music21.note.Note E->,35,GeneralNote
-N639,<music21.note.Note D>,35,GeneralNote
-N640,<music21.note.Note F>,35,GeneralNote
-N641,<music21.note.Note A->,35,GeneralNote
-N642,<music21.note.Rest half>,35,GeneralNote
-N643,<music21.note.Rest half>,35,GeneralNote
-N644,<music21.note.Rest half>,35,GeneralNote
-N645,<music21.note.Note C->,35,GeneralNote
-N646,<music21.note.Note D>,35,GeneralNote
-N647,<music21.note.Note F>,35,GeneralNote
-N648,<music21.note.Note A->,35,GeneralNote
-N649,<music21.note.Note C->,35,GeneralNote
-N650,<music21.note.Note B->,35,GeneralNote
-N651,<music21.note.Note D>,35,GeneralNote
-N772,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note E->>,35,Slur
-N785,<music21.dynamics.Dynamic f>,35,DynamicPoint
-N801,<music21.dynamics.Diminuendo <music21.note.Note A-><music21.note.Note F>>,35,DynamicRegion
-N652,<music21.note.Note E->,36,GeneralNote
-N653,<music21.note.Rest half>,36,GeneralNote
-N654,<music21.note.Rest half>,36,GeneralNote
-N655,<music21.note.Rest half>,36,GeneralNote
-N656,<music21.note.Rest half>,36,GeneralNote
-N657,<music21.note.Rest half>,36,GeneralNote
-N658,<music21.note.Rest half>,36,GeneralNote
-N659,<music21.note.Rest quarter>,36,GeneralNote
-N660,<music21.note.Rest half>,36,GeneralNote
-N661,<music21.note.Rest half>,36,GeneralNote
-N662,<music21.note.Rest eighth>,36,GeneralNote
-N663,<music21.chord.Chord G-4 B-4>,36,GeneralNote
-N664,<music21.chord.Chord E-2 E-3>,36,GeneralNote
-N665,<music21.note.Note A->,36,GeneralNote
-N666,<music21.note.Note E->,36,GeneralNote
-N667,<music21.chord.Chord E-3 G-3>,36,GeneralNote
-N668,<music21.note.Note B->,36,GeneralNote
-N669,<music21.note.Note G->,36,GeneralNote
-N670,<music21.note.Note F>,36,GeneralNote
-N671,<music21.note.Note D>,36,GeneralNote
-N672,<music21.chord.Chord F3 A-3>,36,GeneralNote
-N673,<music21.note.Note B->,36,GeneralNote
-N674,<music21.note.Note E->,36,GeneralNote
-N675,<music21.note.Note F>,36,GeneralNote
-N773,<music21.spanner.Slur <music21.chord.Chord G-4 B-4><music21.note.Note E->>,36,Slur
-N774,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G->>,36,Slur
-N775,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,36,Slur
-N803,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note D>>,36,DynamicRegion
-N676,<music21.note.Note E->,37,GeneralNote
-N677,<music21.chord.Chord G3 B-3 D-4>,37,GeneralNote
-N678,<music21.note.Note E->,37,GeneralNote
-N679,<music21.note.Note E->,37,GeneralNote
-N680,<music21.chord.Chord G3 B-3 D-4>,37,GeneralNote
-N681,<music21.note.Note E->,37,GeneralNote
-N682,<music21.note.Note E->,37,GeneralNote
-N683,<music21.note.Note F>,37,GeneralNote
-N684,<music21.note.Note G>,37,GeneralNote
-N685,<music21.note.Note A->,37,GeneralNote
-N686,<music21.note.Note B->,37,GeneralNote
-N687,<music21.chord.Chord G3 B-3 D-4>,37,GeneralNote
-N688,<music21.note.Note E->,37,GeneralNote
-N689,<music21.note.Note B->,37,GeneralNote
-N690,<music21.note.Note F->,37,GeneralNote
-N691,<music21.note.Note E->,37,GeneralNote
-N692,<music21.note.Note D->,37,GeneralNote
-N776,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C->>,37,Slur
-N786,<music21.dynamics.Dynamic p>,37,DynamicPoint
-N693,<music21.note.Note C->,38,GeneralNote
-N694,<music21.note.Note A->,38,GeneralNote
-N695,<music21.note.Note E->,38,GeneralNote
-N696,<music21.note.Note C->,38,GeneralNote
-N697,<music21.note.Note A->,38,GeneralNote
-N698,<music21.note.Note E->,38,GeneralNote
-N699,<music21.note.Note E->,38,GeneralNote
-N700,<music21.note.Note F>,38,GeneralNote
-N701,<music21.note.Note G>,38,GeneralNote
-N702,<music21.note.Note A->,38,GeneralNote
-N703,<music21.note.Note B->,38,GeneralNote
-N704,<music21.note.Note C->,38,GeneralNote
-N705,<music21.note.Note A->,38,GeneralNote
-N706,<music21.note.Note E->,38,GeneralNote
-N707,<music21.note.Note C->,38,GeneralNote
-N708,<music21.note.Note B->,38,GeneralNote
-N709,<music21.note.Note A->,38,GeneralNote
-N710,<music21.note.Note G->,38,GeneralNote
-N711,<music21.note.Note F>,38,GeneralNote
-N712,<music21.note.Note G->,38,GeneralNote
-N713,<music21.note.Note A->,38,GeneralNote
-N714,<music21.note.Note F>,38,GeneralNote
-N777,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D>>,38,Slur
-N715,<music21.note.Note D>,39,GeneralNote
-N716,<music21.note.Rest quarter>,39,GeneralNote
-N717,<music21.note.Note F>,39,GeneralNote
-N718,<music21.note.Note E->,39,GeneralNote
-N719,<music21.note.Rest eighth>,39,GeneralNote
-N720,<music21.note.Note C->,39,GeneralNote
-N721,<music21.note.Note B->,39,GeneralNote
-N722,<music21.note.Note C->,39,GeneralNote
-N723,<music21.note.Note F>,39,GeneralNote
-N724,<music21.note.Note E->,39,GeneralNote
-N725,<music21.note.Rest quarter>,39,GeneralNote
-N726,<music21.note.Rest quarter>,39,GeneralNote
-N727,<music21.note.Note A->,39,GeneralNote
-N728,<music21.note.Note D>,39,GeneralNote
-N729,<music21.note.Rest half>,39,GeneralNote
-N730,<music21.note.Rest half>,39,GeneralNote
-N731,<music21.note.Note F>,39,GeneralNote
-N732,<music21.note.Note E->,39,GeneralNote
-N733,<music21.note.Note D>,39,GeneralNote
-N787,<music21.dynamics.Dynamic pp>,39,DynamicPoint
-N809,<music21.expressions.TextExpression 'rall.'>,39,TextExpression
-N734,<music21.chord.Chord G3 B-3 E-4>,40,GeneralNote
-N735,<music21.chord.Chord E-2 B-2 E-3>,40,GeneralNote
+selva736,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note C->>,1,Slur
+selva778,<music21.dynamics.Dynamic p>,1,DynamicPoint
+selva804,<music21.expressions.TextExpression 'Lento mode...'>,1,TextExpression
+selva805,<music21.expressions.TextExpression 'très soute...'>,1,TextExpression
+selva810,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,1,TempoIndication
+selva811,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,1,MetronomeMark
+selva737,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D>>,2,Slur
+selva738,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E->>,3,Slur
+selva739,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note B->>,4,Slur
+selva740,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note E->>,5,Slur
+selva69,<music21.chord.Chord G-3 C-4>,6,GeneralNote
+selva70,<music21.chord.Chord C-3 E-3>,6,GeneralNote
+selva71,<music21.note.Note E->,6,GeneralNote
+selva72,<music21.chord.Chord G-4 C-5>,6,GeneralNote
+selva73,<music21.note.Rest half>,6,GeneralNote
+selva74,<music21.note.Rest quarter>,6,GeneralNote
+selva75,<music21.note.Rest half>,6,GeneralNote
+selva76,<music21.note.Rest eighth>,6,GeneralNote
+selva77,<music21.note.Note G->,6,GeneralNote
+selva78,<music21.note.Note E->,6,GeneralNote
+selva79,<music21.chord.Chord G-4 C-5>,6,GeneralNote
+selva80,<music21.note.Rest half>,6,GeneralNote
+selva81,<music21.note.Note E->,6,GeneralNote
+selva82,<music21.note.Rest half>,6,GeneralNote
+selva83,<music21.note.Note C->,6,GeneralNote
+selva741,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note G>>,6,Slur
+selva84,<music21.note.Note B->,7,GeneralNote
+selva85,<music21.chord.Chord B-4 E-5>,7,GeneralNote
+selva86,<music21.note.Note G>,7,GeneralNote
+selva87,<music21.note.Rest quarter>,7,GeneralNote
+selva88,<music21.note.Rest quarter>,7,GeneralNote
+selva89,<music21.chord.Chord G2 B-2 E-3 G3>,7,GeneralNote
+selva90,<music21.note.Rest quarter>,7,GeneralNote
+selva91,<music21.note.Rest 16th>,7,GeneralNote
+selva92,<music21.note.Note E->,7,GeneralNote
+selva93,<music21.note.Note D->,7,GeneralNote
+selva94,<music21.note.Note C->,7,GeneralNote
+selva95,<music21.note.Rest quarter>,7,GeneralNote
+selva96,<music21.note.Note D->,7,GeneralNote
+selva97,<music21.chord.Chord G2 B-2 E-3 G3>,7,GeneralNote
+selva98,<music21.note.Rest quarter>,7,GeneralNote
+selva99,<music21.note.Note B->,7,GeneralNote
+selva742,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note A->>,7,Slur
+selva100,<music21.note.Rest half>,8,GeneralNote
+selva101,<music21.note.Note C->,8,GeneralNote
+selva102,<music21.chord.Chord A-2 C-3 E-3 A-3>,8,GeneralNote
+selva103,<music21.note.Note B->,8,GeneralNote
+selva104,<music21.note.Note A->,8,GeneralNote
+selva105,<music21.articulations.Staccato>,8,Articulation
+selva106,<music21.chord.Chord E-5 A-5 C-6>,8,GeneralNote
+selva107,<music21.note.Rest quarter>,8,GeneralNote
+selva108,<music21.note.Rest whole>,8,GeneralNote
+selva109,<music21.note.Rest eighth>,8,GeneralNote
+selva110,<music21.note.Note C->,8,GeneralNote
+selva111,<music21.chord.Chord E-5 A-5 C-6>,8,GeneralNote
+selva112,<music21.note.Note A->,8,GeneralNote
+selva113,<music21.note.Note F>,8,GeneralNote
+selva743,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,8,Slur
+selva114,<music21.chord.Chord F5 A-5 C-6>,9,GeneralNote
+selva115,<music21.note.Note D>,9,GeneralNote
+selva116,<music21.note.Rest dotted-whole>,9,GeneralNote
+selva117,<music21.note.Rest quarter>,9,GeneralNote
+selva118,<music21.chord.Chord D4 F4 B-4>,9,GeneralNote
+selva119,<music21.note.Rest 16th>,9,GeneralNote
+selva120,<music21.note.Note B->,9,GeneralNote
+selva121,<music21.note.Note A->,9,GeneralNote
+selva122,<music21.note.Note G->,9,GeneralNote
+selva123,<music21.note.Note F>,9,GeneralNote
+selva124,<music21.chord.Chord D4 F4 B-4>,9,GeneralNote
+selva125,<music21.note.Note G->,9,GeneralNote
+selva126,<music21.note.Note F>,9,GeneralNote
+selva127,<music21.note.Note G->,9,GeneralNote
+selva128,<music21.note.Note A->,9,GeneralNote
+selva129,<music21.note.Note G->,9,GeneralNote
+selva130,<music21.note.Note A->,9,GeneralNote
+selva131,<music21.note.Note F>,9,GeneralNote
+selva744,<music21.spanner.Slur <music21.note.Note B-><music21.chord.Chord E-5 G-5 B-5>>,9,Slur
+selva132,<music21.note.Note G->,10,GeneralNote
+selva133,<music21.chord.Chord E-4 G-4 B-4>,10,GeneralNote
+selva134,<music21.note.Rest dotted-whole>,10,GeneralNote
+selva135,<music21.note.Note F>,10,GeneralNote
+selva136,<music21.note.Note E->,10,GeneralNote
+selva137,<music21.chord.Chord E-5 G-5 B-5>,10,GeneralNote
+selva138,<music21.note.Rest quarter>,10,GeneralNote
+selva139,<music21.note.Rest eighth>,10,GeneralNote
+selva140,<music21.note.Note G->,10,GeneralNote
+selva141,<music21.chord.Chord E-5 G-5 B-5>,10,GeneralNote
+selva142,<music21.note.Note E->,10,GeneralNote
+selva143,<music21.note.Note C>,10,GeneralNote
+selva745,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note A>>,10,Slur
+selva144,<music21.note.Note C>,11,GeneralNote
+selva145,<music21.chord.Chord C5 E-5 G-5>,11,GeneralNote
+selva146,<music21.note.Rest half>,11,GeneralNote
+selva147,<music21.note.Rest half>,11,GeneralNote
+selva148,<music21.note.Note A>,11,GeneralNote
+selva149,<music21.note.Rest half>,11,GeneralNote
+selva150,<music21.note.Rest half>,11,GeneralNote
+selva151,<music21.note.Rest whole>,11,GeneralNote
+selva152,<music21.note.Rest quarter>,11,GeneralNote
+selva153,<music21.note.Note A>,11,GeneralNote
+selva154,<music21.chord.Chord C4 F4>,11,GeneralNote
+selva155,<music21.note.Rest 16th>,11,GeneralNote
+selva156,<music21.note.Note F>,11,GeneralNote
+selva157,<music21.note.Note E->,11,GeneralNote
+selva158,<music21.note.Note D->,11,GeneralNote
+selva159,<music21.note.Note C>,11,GeneralNote
+selva160,<music21.note.Note A>,11,GeneralNote
+selva161,<music21.chord.Chord C4 F4>,11,GeneralNote
+selva162,<music21.note.Note D->,11,GeneralNote
+selva163,<music21.note.Note C>,11,GeneralNote
+selva164,<music21.note.Note D->,11,GeneralNote
+selva165,<music21.note.Note E->,11,GeneralNote
+selva166,<music21.note.Note D->,11,GeneralNote
+selva167,<music21.note.Note E->,11,GeneralNote
+selva168,<music21.note.Note C>,11,GeneralNote
+selva746,<music21.spanner.Slur <music21.note.Note F><music21.note.Note B->>,11,Slur
+selva169,<music21.note.Note D->,12,GeneralNote
+selva170,<music21.chord.Chord D-4 F4>,12,GeneralNote
+selva171,<music21.note.Note B->,12,GeneralNote
+selva172,<music21.note.Note C>,12,GeneralNote
+selva173,<music21.note.Note B->,12,GeneralNote
+selva174,<music21.note.Note F>,12,GeneralNote
+selva175,<music21.chord.Chord D-4 F4>,12,GeneralNote
+selva176,<music21.note.Note B->,12,GeneralNote
+selva177,<music21.note.Note F>,12,GeneralNote
+selva178,<music21.note.Note G->,12,GeneralNote
+selva179,<music21.note.Note F>,12,GeneralNote
+selva180,<music21.note.Note E->,12,GeneralNote
+selva181,<music21.note.Note D->,12,GeneralNote
+selva182,<music21.chord.Chord D-4 F4>,12,GeneralNote
+selva183,<music21.note.Note B->,12,GeneralNote
+selva184,<music21.note.Note C>,12,GeneralNote
+selva185,<music21.note.Note B->,12,GeneralNote
+selva186,<music21.note.Note A->,12,GeneralNote
+selva187,<music21.note.Note G->,12,GeneralNote
+selva188,<music21.note.Note A->,12,GeneralNote
+selva189,<music21.note.Note F>,12,GeneralNote
+selva806,<music21.expressions.TextExpression 'cresc.'>,12,TextExpression
+selva190,<music21.note.Note G->,13,GeneralNote
+selva191,<music21.note.Note D->,13,GeneralNote
+selva192,<music21.chord.Chord E-3 B-3>,13,GeneralNote
+selva193,<music21.note.Note G->,13,GeneralNote
+selva194,<music21.note.Note B->,13,GeneralNote
+selva195,<music21.note.Note D->,13,GeneralNote
+selva196,<music21.note.Note G->,13,GeneralNote
+selva197,<music21.note.Note C>,13,GeneralNote
+selva198,<music21.chord.Chord E-3 B-3>,13,GeneralNote
+selva199,<music21.note.Note G->,13,GeneralNote
+selva200,<music21.note.Note F>,13,GeneralNote
+selva201,<music21.note.Note E->,13,GeneralNote
+selva202,<music21.note.Note D->,13,GeneralNote
+selva203,<music21.note.Note C>,13,GeneralNote
+selva204,<music21.note.Note C>,13,GeneralNote
+selva205,<music21.chord.Chord E-3 B-3>,13,GeneralNote
+selva206,<music21.note.Note E->,13,GeneralNote
+selva207,<music21.note.Note D->,13,GeneralNote
+selva208,<music21.note.Note C>,13,GeneralNote
+selva209,<music21.note.Note D->,13,GeneralNote
+selva210,<music21.note.Note E->,13,GeneralNote
+selva211,<music21.note.Note F>,14,GeneralNote
+selva212,<music21.note.Rest half>,14,GeneralNote
+selva213,<music21.note.Rest half>,14,GeneralNote
+selva214,<music21.note.Rest half>,14,GeneralNote
+selva215,<music21.note.Rest half>,14,GeneralNote
+selva216,<music21.chord.Chord A3 C4>,14,GeneralNote
+selva217,<music21.note.Note E->,14,GeneralNote
+selva218,<music21.note.Note G>,14,GeneralNote
+selva219,<music21.note.Note A>,14,GeneralNote
+selva220,<music21.note.Note A>,14,GeneralNote
+selva221,<music21.note.Note G>,14,GeneralNote
+selva222,<music21.note.Note A>,14,GeneralNote
+selva223,<music21.note.Note B->,14,GeneralNote
+selva224,<music21.note.Rest quarter>,14,GeneralNote
+selva225,<music21.chord.Chord F3 B-3>,14,GeneralNote
+selva226,<music21.note.Note D->,14,GeneralNote
+selva227,<music21.note.Rest eighth>,14,GeneralNote
+selva228,<music21.note.Note F>,14,GeneralNote
+selva229,<music21.note.Note G->,14,GeneralNote
+selva230,<music21.note.Note B->,14,GeneralNote
+selva231,<music21.note.Note E->,14,GeneralNote
+selva232,<music21.note.Note E->,14,GeneralNote
+selva747,<music21.spanner.Slur <music21.note.Note F><music21.note.Note D->>,14,Slur
+selva779,<music21.dynamics.Dynamic mf>,14,DynamicPoint
+selva233,<music21.note.Note B->,15,GeneralNote
+selva234,<music21.note.Note C>,15,GeneralNote
+selva235,<music21.note.Note F>,15,GeneralNote
+selva236,<music21.note.Note F>,15,GeneralNote
+selva237,<music21.note.Note C>,15,GeneralNote
+selva238,<music21.note.Note D->,15,GeneralNote
+selva239,<music21.note.Note C>,15,GeneralNote
+selva240,<music21.note.Note D->,15,GeneralNote
+selva241,<music21.note.Note E->,15,GeneralNote
+selva242,<music21.note.Note F>,15,GeneralNote
+selva243,<music21.note.Note F>,15,GeneralNote
+selva244,<music21.note.Note D->,15,GeneralNote
+selva245,<music21.note.Note C>,15,GeneralNote
+selva246,<music21.note.Note D->,15,GeneralNote
+selva247,<music21.note.Note E->,15,GeneralNote
+selva248,<music21.note.Note F>,15,GeneralNote
+selva249,<music21.note.Note E->,15,GeneralNote
+selva250,<music21.note.Note F>,15,GeneralNote
+selva251,<music21.note.Note A>,15,GeneralNote
+selva252,<music21.note.Note G->,15,GeneralNote
+selva253,<music21.note.Note F>,15,GeneralNote
+selva254,<music21.note.Note F>,15,GeneralNote
+selva255,<music21.note.Note F>,15,GeneralNote
+selva256,<music21.note.Note E->,15,GeneralNote
+selva789,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note A->>,15,DynamicRegion
+selva257,<music21.note.Note B->,16,GeneralNote
+selva258,<music21.note.Note D->,16,GeneralNote
+selva259,<music21.note.Note B->,16,GeneralNote
+selva260,<music21.chord.Chord F3 B-3>,16,GeneralNote
+selva261,<music21.note.Note C>,16,GeneralNote
+selva262,<music21.note.Note E->,16,GeneralNote
+selva263,<music21.note.Note D->,16,GeneralNote
+selva264,<music21.chord.Chord F4 B-4>,16,GeneralNote
+selva265,<music21.note.Rest half>,16,GeneralNote
+selva266,<music21.note.Rest quarter>,16,GeneralNote
+selva267,<music21.note.Rest half>,16,GeneralNote
+selva268,<music21.note.Rest eighth>,16,GeneralNote
+selva269,<music21.note.Note B->,16,GeneralNote
+selva270,<music21.note.Note D->,16,GeneralNote
+selva271,<music21.chord.Chord F4 B-4>,16,GeneralNote
+selva272,<music21.note.Rest half>,16,GeneralNote
+selva273,<music21.note.Note D->,16,GeneralNote
+selva274,<music21.note.Rest half>,16,GeneralNote
+selva275,<music21.note.Note F>,16,GeneralNote
+selva748,<music21.spanner.Slur <music21.note.Note C><music21.note.Note D->>,16,Slur
+selva749,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note G>>,16,Slur
+selva780,<music21.dynamics.Dynamic p>,16,DynamicPoint
+selva276,<music21.note.Note D->,17,GeneralNote
+selva277,<music21.chord.Chord F-4 B-4>,17,GeneralNote
+selva278,<music21.note.Note G>,17,GeneralNote
+selva279,<music21.note.Rest eighth>,17,GeneralNote
+selva280,<music21.note.Rest eighth>,17,GeneralNote
+selva281,<music21.note.Note C->,17,GeneralNote
+selva282,<music21.note.Rest eighth>,17,GeneralNote
+selva283,<music21.note.Rest eighth>,17,GeneralNote
+selva284,<music21.note.Note B->,17,GeneralNote
+selva285,<music21.note.Note F->,17,GeneralNote
+selva286,<music21.chord.Chord B-4 D-5>,17,GeneralNote
+selva287,<music21.note.Note G>,17,GeneralNote
+selva288,<music21.note.Note G>,17,GeneralNote
+selva289,<music21.note.Note B->,17,GeneralNote
+selva290,<music21.note.Note A->,17,GeneralNote
+selva291,<music21.note.Note G>,17,GeneralNote
+selva292,<music21.chord.Chord D-5 F-5>,17,GeneralNote
+selva293,<music21.chord.Chord B-4 D-5>,17,GeneralNote
+selva294,<music21.note.Note D->,17,GeneralNote
+selva295,<music21.note.Note E->,17,GeneralNote
+selva296,<music21.note.Rest eighth>,17,GeneralNote
+selva297,<music21.note.Rest eighth>,17,GeneralNote
+selva298,<music21.note.Note D->,17,GeneralNote
+selva750,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note F->>,17,Slur
+selva751,<music21.spanner.Slur <music21.chord.Chord D-5 F-5><music21.note.Note G>>,17,Slur
+selva752,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note D->>,17,Slur
+selva807,<music21.expressions.TextExpression 'cresc.'>,17,TextExpression
+selva299,<music21.note.Note G>,18,GeneralNote
+selva300,<music21.chord.Chord B-4 D-5>,18,GeneralNote
+selva301,<music21.note.Rest half>,18,GeneralNote
+selva302,<music21.note.Rest whole>,18,GeneralNote
+selva303,<music21.note.Rest half>,18,GeneralNote
+selva304,<music21.note.Rest whole>,18,GeneralNote
+selva305,<music21.note.Note D->,18,GeneralNote
+selva306,<music21.note.Note C->,18,GeneralNote
+selva307,<music21.note.Note B->,18,GeneralNote
+selva308,<music21.note.Note G>,18,GeneralNote
+selva309,<music21.chord.Chord B-4 D-5>,18,GeneralNote
+selva310,<music21.note.Rest half>,18,GeneralNote
+selva311,<music21.note.Rest half>,18,GeneralNote
+selva312,<music21.note.Note F->,18,GeneralNote
+selva313,<music21.note.Note E->,18,GeneralNote
+selva314,<music21.note.Note F->,18,GeneralNote
+selva315,<music21.note.Note F->,18,GeneralNote
+selva316,<music21.note.Rest eighth>,18,GeneralNote
+selva317,<music21.note.Rest eighth>,18,GeneralNote
+selva318,<music21.note.Note D->,18,GeneralNote
+selva319,<music21.note.Note E->,18,GeneralNote
+selva320,<music21.note.Note A->,18,GeneralNote
+selva321,<music21.note.Rest half>,18,GeneralNote
+selva322,<music21.chord.Chord C-5 E-5>,18,GeneralNote
+selva323,<music21.note.Rest half>,18,GeneralNote
+selva324,<music21.note.Note C->,18,GeneralNote
+selva325,<music21.note.Note B->,18,GeneralNote
+selva326,<music21.note.Note A->,18,GeneralNote
+selva327,<music21.note.Note B->,18,GeneralNote
+selva328,<music21.note.Note C->,18,GeneralNote
+selva329,<music21.note.Note A->,18,GeneralNote
+selva330,<music21.note.Note B->,18,GeneralNote
+selva331,<music21.note.Note C->,18,GeneralNote
+selva753,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note E->>,18,Slur
+selva754,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note F->>,18,Slur
+selva332,<music21.note.Note A->,19,GeneralNote
+selva333,<music21.note.Rest half>,19,GeneralNote
+selva334,<music21.note.Rest half>,19,GeneralNote
+selva335,<music21.note.Rest half>,19,GeneralNote
+selva336,<music21.note.Rest half>,19,GeneralNote
+selva337,<music21.note.Note F->,19,GeneralNote
+selva338,<music21.note.Note G>,19,GeneralNote
+selva339,<music21.note.Note A->,19,GeneralNote
+selva340,<music21.note.Note F->,19,GeneralNote
+selva341,<music21.note.Note F->,19,GeneralNote
+selva342,<music21.note.Note B->,19,GeneralNote
+selva343,<music21.note.Note E->,19,GeneralNote
+selva344,<music21.note.Note D->,19,GeneralNote
+selva345,<music21.note.Note C->,19,GeneralNote
+selva346,<music21.chord.Chord E-5 A-5>,19,GeneralNote
+selva347,<music21.note.Note E->,19,GeneralNote
+selva348,<music21.note.Rest half>,19,GeneralNote
+selva349,<music21.note.Rest half>,19,GeneralNote
+selva350,<music21.note.Note D->,19,GeneralNote
+selva351,<music21.chord.Chord D-5 G5>,19,GeneralNote
+selva352,<music21.note.Note E->,19,GeneralNote
+selva353,<music21.note.Note B->,19,GeneralNote
+selva354,<music21.note.Note E->,19,GeneralNote
+selva755,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note A->>,19,Slur
+selva791,<music21.dynamics.Diminuendo <music21.note.Note B-><music21.note.Note G->>,19,DynamicRegion
+selva355,<music21.note.Note A->,20,GeneralNote
+selva356,<music21.chord.Chord C-5 E-5>,20,GeneralNote
+selva357,<music21.note.Note A->,20,GeneralNote
+selva358,<music21.note.Rest eighth>,20,GeneralNote
+selva359,<music21.note.Rest eighth>,20,GeneralNote
+selva360,<music21.note.Rest dotted-whole>,20,GeneralNote
+selva361,<music21.note.Note C->,20,GeneralNote
+selva362,<music21.note.Note F>,20,GeneralNote
+selva363,<music21.note.Rest quarter>,20,GeneralNote
+selva364,<music21.note.Rest eighth>,20,GeneralNote
+selva365,<music21.note.Note G->,20,GeneralNote
+selva366,<music21.note.Note C->,20,GeneralNote
+selva367,<music21.note.Note A->,20,GeneralNote
+selva368,<music21.note.Note D>,20,GeneralNote
+selva369,<music21.note.Note F>,20,GeneralNote
+selva370,<music21.note.Note E->,20,GeneralNote
+selva371,<music21.note.Note G->,20,GeneralNote
+selva372,<music21.note.Note F>,20,GeneralNote
+selva373,<music21.note.Note A->,20,GeneralNote
+selva756,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,20,Slur
+selva757,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,20,Slur
+selva781,<music21.dynamics.Dynamic mf>,20,DynamicPoint
+selva374,<music21.note.Note B->,21,GeneralNote
+selva375,<music21.note.Note D>,21,GeneralNote
+selva376,<music21.note.Note A->,21,GeneralNote
+selva377,<music21.note.Note E->,21,GeneralNote
+selva378,<music21.note.Note F>,21,GeneralNote
+selva379,<music21.note.Note D>,21,GeneralNote
+selva380,<music21.note.Note B->,21,GeneralNote
+selva381,<music21.note.Note E->,21,GeneralNote
+selva382,<music21.note.Note A->,21,GeneralNote
+selva383,<music21.note.Note F>,21,GeneralNote
+selva384,<music21.note.Note B->,21,GeneralNote
+selva385,<music21.note.Note D>,21,GeneralNote
+selva386,<music21.note.Note C>,21,GeneralNote
+selva387,<music21.note.Note E->,21,GeneralNote
+selva388,<music21.note.Note D>,21,GeneralNote
+selva389,<music21.note.Note F>,21,GeneralNote
+selva758,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note D->>,21,Slur
+selva759,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G>>,21,Slur
+selva390,<music21.note.Note E->,22,GeneralNote
+selva391,<music21.note.Note G->,22,GeneralNote
+selva392,<music21.note.Note D->,22,GeneralNote
+selva393,<music21.note.Note C->,22,GeneralNote
+selva394,<music21.note.Note D->,22,GeneralNote
+selva395,<music21.note.Note G>,22,GeneralNote
+selva396,<music21.note.Note B->,22,GeneralNote
+selva397,<music21.chord.Chord E-4 B-4 D-5>,22,GeneralNote
+selva398,<music21.note.Note G>,22,GeneralNote
+selva399,<music21.note.Note E->,22,GeneralNote
+selva760,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A->>,22,Slur
+selva400,<music21.chord.Chord E-4 B-4 D-5>,23,GeneralNote
+selva401,<music21.note.Note A->,23,GeneralNote
+selva402,<music21.note.Note C->,23,GeneralNote
+selva403,<music21.note.Note B->,23,GeneralNote
+selva404,<music21.note.Note C->,23,GeneralNote
+selva405,<music21.note.Rest quarter>,23,GeneralNote
+selva406,<music21.note.Rest eighth>,23,GeneralNote
+selva407,<music21.note.Note C->,23,GeneralNote
+selva408,<music21.chord.Chord E-4 A-4 C-5>,23,GeneralNote
+selva409,<music21.note.Note A->,23,GeneralNote
+selva410,<music21.note.Note F>,23,GeneralNote
+selva761,<music21.spanner.Slur <music21.chord.Chord E-4 B-4 D-5><music21.note.Note C->>,23,Slur
+selva762,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,23,Slur
+selva411,<music21.note.Note C->,24,GeneralNote
+selva412,<music21.chord.Chord F4 A-4>,24,GeneralNote
+selva413,<music21.chord.Chord F3 A-3>,24,GeneralNote
+selva414,<music21.note.Note D>,24,GeneralNote
+selva415,<music21.note.Note B->,24,GeneralNote
+selva416,<music21.note.Rest eighth>,24,GeneralNote
+selva417,<music21.note.Rest eighth>,24,GeneralNote
+selva418,<music21.note.Note A->,24,GeneralNote
+selva419,<music21.note.Note F>,24,GeneralNote
+selva420,<music21.note.Rest half>,24,GeneralNote
+selva421,<music21.note.Rest half>,24,GeneralNote
+selva422,<music21.chord.Chord F3 B-3>,24,GeneralNote
+selva423,<music21.note.Note D>,24,GeneralNote
+selva424,<music21.note.Note C->,24,GeneralNote
+selva425,<music21.note.Note B->,24,GeneralNote
+selva426,<music21.note.Rest half>,24,GeneralNote
+selva427,<music21.note.Rest half>,24,GeneralNote
+selva428,<music21.chord.Chord F3 B-3>,24,GeneralNote
+selva429,<music21.note.Note D>,24,GeneralNote
+selva430,<music21.note.Note C->,24,GeneralNote
+selva431,<music21.note.Note A->,24,GeneralNote
+selva763,<music21.spanner.Slur <music21.chord.Chord F4 A-4><music21.note.Note G->>,24,Slur
+selva432,<music21.note.Note G->,25,GeneralNote
+selva433,<music21.note.Note E->,25,GeneralNote
+selva434,<music21.chord.Chord G-3 B-3>,25,GeneralNote
+selva435,<music21.note.Note E->,25,GeneralNote
+selva436,<music21.note.Note G->,25,GeneralNote
+selva437,<music21.note.Rest half>,25,GeneralNote
+selva438,<music21.note.Rest half>,25,GeneralNote
+selva439,<music21.chord.Chord G-3 B-3>,25,GeneralNote
+selva440,<music21.note.Note E->,25,GeneralNote
+selva441,<music21.note.Note E->,25,GeneralNote
+selva442,<music21.note.Note F>,25,GeneralNote
+selva443,<music21.note.Note G->,25,GeneralNote
+selva444,<music21.note.Note A->,25,GeneralNote
+selva445,<music21.note.Note B->,25,GeneralNote
+selva446,<music21.note.Note C>,25,GeneralNote
+selva447,<music21.note.Note D>,25,GeneralNote
+selva448,<music21.note.Note E->,25,GeneralNote
+selva449,<music21.note.Rest half>,25,GeneralNote
+selva450,<music21.note.Rest half>,25,GeneralNote
+selva451,<music21.chord.Chord G-3 B-3>,25,GeneralNote
+selva452,<music21.chord.Chord E-3 G-3>,25,GeneralNote
+selva453,<music21.note.Note F>,25,GeneralNote
+selva454,<music21.note.Note G->,25,GeneralNote
+selva455,<music21.note.Note A->,25,GeneralNote
+selva456,<music21.note.Note G->,25,GeneralNote
+selva457,<music21.note.Note F>,25,GeneralNote
+selva458,<music21.note.Note G->,25,GeneralNote
+selva459,<music21.note.Note E->,25,GeneralNote
+selva793,<music21.dynamics.Crescendo <music21.note.Note A-><music21.note.Note D>>,25,DynamicRegion
+selva460,<music21.note.Note F->,26,GeneralNote
+selva461,<music21.chord.Chord F-4 A-4 C-5>,26,GeneralNote
+selva462,<music21.chord.Chord C-3 F-3 A-3>,26,GeneralNote
+selva463,<music21.note.Note A->,26,GeneralNote
+selva464,<music21.note.Note C->,26,GeneralNote
+selva465,<music21.note.Rest eighth>,26,GeneralNote
+selva466,<music21.note.Rest eighth>,26,GeneralNote
+selva467,<music21.note.Note B-->,26,GeneralNote
+selva468,<music21.note.Note A->,26,GeneralNote
+selva469,<music21.note.Rest half>,26,GeneralNote
+selva470,<music21.note.Rest half>,26,GeneralNote
+selva471,<music21.note.Rest half>,26,GeneralNote
+selva472,<music21.note.Rest half>,26,GeneralNote
+selva473,<music21.note.Note B-->,26,GeneralNote
+selva474,<music21.note.Note C->,26,GeneralNote
+selva475,<music21.note.Note F->,26,GeneralNote
+selva476,<music21.note.Rest half>,26,GeneralNote
+selva477,<music21.note.Rest half>,26,GeneralNote
+selva478,<music21.note.Rest half>,26,GeneralNote
+selva479,<music21.note.Rest half>,26,GeneralNote
+selva480,<music21.note.Note G->,26,GeneralNote
+selva481,<music21.note.Note A->,26,GeneralNote
+selva764,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note E->>,26,Slur
+selva782,<music21.dynamics.Dynamic f>,26,DynamicPoint
+selva482,<music21.note.Note D>,27,GeneralNote
+selva483,<music21.note.Note B->,27,GeneralNote
+selva484,<music21.chord.Chord A-2 F3>,27,GeneralNote
+selva485,<music21.note.Note F>,27,GeneralNote
+selva486,<music21.note.Note A->,27,GeneralNote
+selva487,<music21.note.Note C->,27,GeneralNote
+selva488,<music21.note.Rest half>,27,GeneralNote
+selva489,<music21.note.Rest half>,27,GeneralNote
+selva490,<music21.note.Note B->,27,GeneralNote
+selva491,<music21.note.Note A->,27,GeneralNote
+selva492,<music21.note.Note F>,27,GeneralNote
+selva493,<music21.note.Rest half>,27,GeneralNote
+selva494,<music21.note.Rest half>,27,GeneralNote
+selva495,<music21.note.Note E->,27,GeneralNote
+selva496,<music21.note.Note D>,27,GeneralNote
+selva783,<music21.dynamics.Dynamic fz>,27,DynamicPoint
+selva795,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note A>>,27,DynamicRegion
+selva497,<music21.note.Note C->,28,GeneralNote
+selva498,<music21.note.Rest half>,28,GeneralNote
+selva499,<music21.note.Rest half>,28,GeneralNote
+selva500,<music21.note.Rest half>,28,GeneralNote
+selva501,<music21.note.Rest half>,28,GeneralNote
+selva502,<music21.note.Rest half>,28,GeneralNote
+selva503,<music21.note.Rest half>,28,GeneralNote
+selva504,<music21.note.Note A>,28,GeneralNote
+selva505,<music21.note.Note B->,28,GeneralNote
+selva506,<music21.note.Note E->,28,GeneralNote
+selva507,<music21.chord.Chord G-4 B-4>,28,GeneralNote
+selva508,<music21.chord.Chord E-3 G-3 B-3>,28,GeneralNote
+selva509,<music21.note.Note B->,28,GeneralNote
+selva510,<music21.note.Note D>,28,GeneralNote
+selva511,<music21.chord.Chord F4 B-4>,28,GeneralNote
+selva512,<music21.chord.Chord F3 A-3 B-3>,28,GeneralNote
+selva513,<music21.note.Note B->,28,GeneralNote
+selva514,<music21.note.Note E->,28,GeneralNote
+selva765,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A>>,28,Slur
+selva797,<music21.dynamics.Diminuendo <music21.note.Note C-><music21.note.Note E->>,28,DynamicRegion
+selva799,<music21.dynamics.Diminuendo <music21.note.Note D><music21.note.Note D>>,28,DynamicRegion
+selva515,<music21.note.Note E->,29,GeneralNote
+selva516,<music21.note.Note B->,29,GeneralNote
+selva517,<music21.note.Note E->,29,GeneralNote
+selva518,<music21.chord.Chord C-3 C-4>,29,GeneralNote
+selva519,<music21.note.Note B->,29,GeneralNote
+selva520,<music21.note.Note A->,29,GeneralNote
+selva521,<music21.note.Note G>,29,GeneralNote
+selva522,<music21.note.Note A->,29,GeneralNote
+selva523,<music21.note.Note A->,29,GeneralNote
+selva524,<music21.note.Note E->,29,GeneralNote
+selva525,<music21.note.Note C->,29,GeneralNote
+selva526,<music21.note.Note A->,29,GeneralNote
+selva527,<music21.note.Note E->,29,GeneralNote
+selva528,<music21.note.Note C->,29,GeneralNote
+selva529,<music21.note.Note G>,29,GeneralNote
+selva530,<music21.note.Note A->,29,GeneralNote
+selva784,<music21.dynamics.Dynamic p>,29,DynamicPoint
+selva531,<music21.note.Note E->,30,GeneralNote
+selva532,<music21.note.Note B->,30,GeneralNote
+selva533,<music21.chord.Chord B-3 E-4>,30,GeneralNote
+selva534,<music21.note.Note G>,30,GeneralNote
+selva535,<music21.note.Note E->,30,GeneralNote
+selva536,<music21.chord.Chord B-3 E-4>,30,GeneralNote
+selva537,<music21.note.Note G>,30,GeneralNote
+selva538,<music21.note.Note E->,30,GeneralNote
+selva539,<music21.note.Note E->,30,GeneralNote
+selva540,<music21.note.Note D->,30,GeneralNote
+selva541,<music21.note.Note C->,30,GeneralNote
+selva542,<music21.note.Note D->,30,GeneralNote
+selva543,<music21.chord.Chord B-3 E-4>,30,GeneralNote
+selva544,<music21.note.Note G>,30,GeneralNote
+selva545,<music21.note.Note B->,30,GeneralNote
+selva766,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,30,Slur
+selva546,<music21.note.Note C->,31,GeneralNote
+selva547,<music21.note.Note A->,31,GeneralNote
+selva548,<music21.chord.Chord C-4 E-4>,31,GeneralNote
+selva549,<music21.note.Note A->,31,GeneralNote
+selva550,<music21.note.Note C->,31,GeneralNote
+selva551,<music21.note.Note A->,31,GeneralNote
+selva552,<music21.note.Note E->,31,GeneralNote
+selva553,<music21.note.Note F->,31,GeneralNote
+selva554,<music21.note.Note C->,31,GeneralNote
+selva555,<music21.note.Note E->,31,GeneralNote
+selva556,<music21.note.Note C->,31,GeneralNote
+selva557,<music21.note.Note E->,31,GeneralNote
+selva558,<music21.note.Note B->,31,GeneralNote
+selva559,<music21.note.Rest eighth>,31,GeneralNote
+selva560,<music21.note.Rest eighth>,31,GeneralNote
+selva561,<music21.note.Note D->,31,GeneralNote
+selva562,<music21.note.Note A->,31,GeneralNote
+selva563,<music21.note.Note C->,31,GeneralNote
+selva564,<music21.note.Note B->,31,GeneralNote
+selva565,<music21.note.Rest half>,31,GeneralNote
+selva566,<music21.note.Rest half>,31,GeneralNote
+selva567,<music21.note.Note D->,31,GeneralNote
+selva568,<music21.note.Note F->,31,GeneralNote
+selva569,<music21.note.Note G>,31,GeneralNote
+selva570,<music21.note.Note B->,31,GeneralNote
+selva767,<music21.spanner.Slur <music21.note.Note C-><music21.chord.Chord D4 A-4>>,31,Slur
+selva768,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,31,Slur
+selva571,<music21.chord.Chord D4 A-4>,32,GeneralNote
+selva572,<music21.note.Note C->,32,GeneralNote
+selva573,<music21.note.Note F>,32,GeneralNote
+selva574,<music21.note.Note A->,32,GeneralNote
+selva575,<music21.chord.Chord C-4 D4>,32,GeneralNote
+selva576,<music21.note.Note F>,32,GeneralNote
+selva577,<music21.note.Note F>,32,GeneralNote
+selva578,<music21.note.Note G->,32,GeneralNote
+selva579,<music21.note.Note F>,32,GeneralNote
+selva580,<music21.note.Note E->,32,GeneralNote
+selva581,<music21.note.Note A->,32,GeneralNote
+selva582,<music21.chord.Chord C-4 D4>,32,GeneralNote
+selva583,<music21.note.Note F>,32,GeneralNote
+selva584,<music21.note.Note G->,32,GeneralNote
+selva585,<music21.note.Note A->,32,GeneralNote
+selva586,<music21.note.Note F>,32,GeneralNote
+selva587,<music21.note.Note G->,32,GeneralNote
+selva588,<music21.note.Note A->,32,GeneralNote
+selva769,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note D>>,32,Slur
+selva589,<music21.note.Note A->,33,GeneralNote
+selva590,<music21.chord.Chord C-4 F4>,33,GeneralNote
+selva591,<music21.note.Note D>,33,GeneralNote
+selva592,<music21.note.Note A->,33,GeneralNote
+selva593,<music21.chord.Chord C-4 F4>,33,GeneralNote
+selva594,<music21.note.Note D>,33,GeneralNote
+selva595,<music21.note.Note D>,33,GeneralNote
+selva596,<music21.note.Note E->,33,GeneralNote
+selva597,<music21.note.Note D>,33,GeneralNote
+selva598,<music21.note.Note C>,33,GeneralNote
+selva599,<music21.note.Note A->,33,GeneralNote
+selva600,<music21.chord.Chord C-4 F4>,33,GeneralNote
+selva601,<music21.note.Note D>,33,GeneralNote
+selva602,<music21.note.Note E->,33,GeneralNote
+selva603,<music21.note.Note F>,33,GeneralNote
+selva604,<music21.note.Note D>,33,GeneralNote
+selva605,<music21.note.Note E->,33,GeneralNote
+selva606,<music21.note.Note F>,33,GeneralNote
+selva770,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,33,Slur
+selva808,<music21.expressions.TextExpression 'cresc.'>,33,TextExpression
+selva607,<music21.note.Note A->,34,GeneralNote
+selva608,<music21.chord.Chord D4 F4>,34,GeneralNote
+selva609,<music21.note.Note C->,34,GeneralNote
+selva610,<music21.note.Note A->,34,GeneralNote
+selva611,<music21.chord.Chord D4 F4>,34,GeneralNote
+selva612,<music21.note.Note C->,34,GeneralNote
+selva613,<music21.note.Note C->,34,GeneralNote
+selva614,<music21.note.Note D->,34,GeneralNote
+selva615,<music21.note.Note C->,34,GeneralNote
+selva616,<music21.note.Note B->,34,GeneralNote
+selva617,<music21.note.Note A->,34,GeneralNote
+selva618,<music21.chord.Chord D4 F4>,34,GeneralNote
+selva619,<music21.note.Note C->,34,GeneralNote
+selva620,<music21.note.Note B->,34,GeneralNote
+selva621,<music21.note.Note A->,34,GeneralNote
+selva622,<music21.note.Note B->,34,GeneralNote
+selva623,<music21.note.Note C->,34,GeneralNote
+selva624,<music21.note.Note A->,34,GeneralNote
+selva625,<music21.note.Note B->,34,GeneralNote
+selva626,<music21.note.Note C->,34,GeneralNote
+selva771,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note D>>,34,Slur
+selva627,<music21.note.Note C->,35,GeneralNote
+selva628,<music21.chord.Chord D4 F4 A-4>,35,GeneralNote
+selva629,<music21.note.Note D>,35,GeneralNote
+selva630,<music21.note.Note C->,35,GeneralNote
+selva631,<music21.note.Rest half>,35,GeneralNote
+selva632,<music21.note.Rest half>,35,GeneralNote
+selva633,<music21.note.Rest half>,35,GeneralNote
+selva634,<music21.note.Note B->,35,GeneralNote
+selva635,<music21.note.Note A->,35,GeneralNote
+selva636,<music21.note.Note G->,35,GeneralNote
+selva637,<music21.note.Note F>,35,GeneralNote
+selva638,<music21.note.Note E->,35,GeneralNote
+selva639,<music21.note.Note D>,35,GeneralNote
+selva640,<music21.note.Note F>,35,GeneralNote
+selva641,<music21.note.Note A->,35,GeneralNote
+selva642,<music21.note.Rest half>,35,GeneralNote
+selva643,<music21.note.Rest half>,35,GeneralNote
+selva644,<music21.note.Rest half>,35,GeneralNote
+selva645,<music21.note.Note C->,35,GeneralNote
+selva646,<music21.note.Note D>,35,GeneralNote
+selva647,<music21.note.Note F>,35,GeneralNote
+selva648,<music21.note.Note A->,35,GeneralNote
+selva649,<music21.note.Note C->,35,GeneralNote
+selva650,<music21.note.Note B->,35,GeneralNote
+selva651,<music21.note.Note D>,35,GeneralNote
+selva772,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note E->>,35,Slur
+selva785,<music21.dynamics.Dynamic f>,35,DynamicPoint
+selva801,<music21.dynamics.Diminuendo <music21.note.Note A-><music21.note.Note F>>,35,DynamicRegion
+selva652,<music21.note.Note E->,36,GeneralNote
+selva653,<music21.note.Rest half>,36,GeneralNote
+selva654,<music21.note.Rest half>,36,GeneralNote
+selva655,<music21.note.Rest half>,36,GeneralNote
+selva656,<music21.note.Rest half>,36,GeneralNote
+selva657,<music21.note.Rest half>,36,GeneralNote
+selva658,<music21.note.Rest half>,36,GeneralNote
+selva659,<music21.note.Rest quarter>,36,GeneralNote
+selva660,<music21.note.Rest half>,36,GeneralNote
+selva661,<music21.note.Rest half>,36,GeneralNote
+selva662,<music21.note.Rest eighth>,36,GeneralNote
+selva663,<music21.chord.Chord G-4 B-4>,36,GeneralNote
+selva664,<music21.chord.Chord E-2 E-3>,36,GeneralNote
+selva665,<music21.note.Note A->,36,GeneralNote
+selva666,<music21.note.Note E->,36,GeneralNote
+selva667,<music21.chord.Chord E-3 G-3>,36,GeneralNote
+selva668,<music21.note.Note B->,36,GeneralNote
+selva669,<music21.note.Note G->,36,GeneralNote
+selva670,<music21.note.Note F>,36,GeneralNote
+selva671,<music21.note.Note D>,36,GeneralNote
+selva672,<music21.chord.Chord F3 A-3>,36,GeneralNote
+selva673,<music21.note.Note B->,36,GeneralNote
+selva674,<music21.note.Note E->,36,GeneralNote
+selva675,<music21.note.Note F>,36,GeneralNote
+selva773,<music21.spanner.Slur <music21.chord.Chord G-4 B-4><music21.note.Note E->>,36,Slur
+selva774,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G->>,36,Slur
+selva775,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,36,Slur
+selva803,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note D>>,36,DynamicRegion
+selva676,<music21.note.Note E->,37,GeneralNote
+selva677,<music21.chord.Chord G3 B-3 D-4>,37,GeneralNote
+selva678,<music21.note.Note E->,37,GeneralNote
+selva679,<music21.note.Note E->,37,GeneralNote
+selva680,<music21.chord.Chord G3 B-3 D-4>,37,GeneralNote
+selva681,<music21.note.Note E->,37,GeneralNote
+selva682,<music21.note.Note E->,37,GeneralNote
+selva683,<music21.note.Note F>,37,GeneralNote
+selva684,<music21.note.Note G>,37,GeneralNote
+selva685,<music21.note.Note A->,37,GeneralNote
+selva686,<music21.note.Note B->,37,GeneralNote
+selva687,<music21.chord.Chord G3 B-3 D-4>,37,GeneralNote
+selva688,<music21.note.Note E->,37,GeneralNote
+selva689,<music21.note.Note B->,37,GeneralNote
+selva690,<music21.note.Note F->,37,GeneralNote
+selva691,<music21.note.Note E->,37,GeneralNote
+selva692,<music21.note.Note D->,37,GeneralNote
+selva776,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C->>,37,Slur
+selva786,<music21.dynamics.Dynamic p>,37,DynamicPoint
+selva693,<music21.note.Note C->,38,GeneralNote
+selva694,<music21.note.Note A->,38,GeneralNote
+selva695,<music21.note.Note E->,38,GeneralNote
+selva696,<music21.note.Note C->,38,GeneralNote
+selva697,<music21.note.Note A->,38,GeneralNote
+selva698,<music21.note.Note E->,38,GeneralNote
+selva699,<music21.note.Note E->,38,GeneralNote
+selva700,<music21.note.Note F>,38,GeneralNote
+selva701,<music21.note.Note G>,38,GeneralNote
+selva702,<music21.note.Note A->,38,GeneralNote
+selva703,<music21.note.Note B->,38,GeneralNote
+selva704,<music21.note.Note C->,38,GeneralNote
+selva705,<music21.note.Note A->,38,GeneralNote
+selva706,<music21.note.Note E->,38,GeneralNote
+selva707,<music21.note.Note C->,38,GeneralNote
+selva708,<music21.note.Note B->,38,GeneralNote
+selva709,<music21.note.Note A->,38,GeneralNote
+selva710,<music21.note.Note G->,38,GeneralNote
+selva711,<music21.note.Note F>,38,GeneralNote
+selva712,<music21.note.Note G->,38,GeneralNote
+selva713,<music21.note.Note A->,38,GeneralNote
+selva714,<music21.note.Note F>,38,GeneralNote
+selva777,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D>>,38,Slur
+selva715,<music21.note.Note D>,39,GeneralNote
+selva716,<music21.note.Rest quarter>,39,GeneralNote
+selva717,<music21.note.Note F>,39,GeneralNote
+selva718,<music21.note.Note E->,39,GeneralNote
+selva719,<music21.note.Rest eighth>,39,GeneralNote
+selva720,<music21.note.Note C->,39,GeneralNote
+selva721,<music21.note.Note B->,39,GeneralNote
+selva722,<music21.note.Note C->,39,GeneralNote
+selva723,<music21.note.Note F>,39,GeneralNote
+selva724,<music21.note.Note E->,39,GeneralNote
+selva725,<music21.note.Rest quarter>,39,GeneralNote
+selva726,<music21.note.Rest quarter>,39,GeneralNote
+selva727,<music21.note.Note A->,39,GeneralNote
+selva728,<music21.note.Note D>,39,GeneralNote
+selva729,<music21.note.Rest half>,39,GeneralNote
+selva730,<music21.note.Rest half>,39,GeneralNote
+selva731,<music21.note.Note F>,39,GeneralNote
+selva732,<music21.note.Note E->,39,GeneralNote
+selva733,<music21.note.Note D>,39,GeneralNote
+selva787,<music21.dynamics.Dynamic pp>,39,DynamicPoint
+selva809,<music21.expressions.TextExpression 'rall.'>,39,TextExpression
+selva734,<music21.chord.Chord G3 B-3 E-4>,40,GeneralNote
+selva735,<music21.chord.Chord E-2 B-2 E-3>,40,GeneralNote
