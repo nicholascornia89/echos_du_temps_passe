@@ -28,7 +28,8 @@ Computational and Statistical analysis of the corpus, including scripts and quan
 ### [Encoded Music](/encoded_music)
 : Digitally readable transcriptions of the pieces from our own and related projects.
 
-- [ ] Finish Transcriptions of BWV 853
+- [ X] Finish Transcriptions of BWV 853 
+- [ ] BWV 853 check + transcription to MEI
 
 ## Useful links
 
