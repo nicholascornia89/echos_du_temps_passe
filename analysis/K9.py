@@ -13,8 +13,8 @@ from model import *
 
 # Import MusicXML paths
 transcriptionsPath = "../encoded_music/project_transcriptions/"
-sonataPath = os.path.join(transcriptionsPath, "scarlatti_sonatas/K9/musicxml/")
 pieceName = "K9"
+piecePath = os.path.join(transcriptionsPath, pieceName, "musicxml")
 urtextName = pieceName + "_gilbert"
 arrangements = [
     {"name": "buonamici"},
@@ -30,12 +30,12 @@ arrangements = [
 
 
 # Import Urtext as Music21 object
-urtextFilename = os.path.join(sonataPath, urtextName + ".musicxml")
+urtextFilename = os.path.join(piecePath, urtextName + ".musicxml")
 urtextScore = m21.converter.parse(urtextFilename)
 arrangementsFilename = []
 arrangementsScore = []
 for a in arrangements:
-    a["filename"] = os.path.join(sonataPath, pieceName + "_" + a["name"] + ".musicxml")
+    a["filename"] = os.path.join(piecePath, pieceName + "_" + a["name"] + ".musicxml")
     a["score"] = m21.converter.parse(a["filename"])
 
 
