@@ -1,0 +1,1530 @@
+measure_start,measure_end,object,value,id,quarterlength,offset,type
+0,,<music21.note.Note B>,note,tausig1,0.5,0.0,GeneralNote
+0,,<music21.articulations.Staccato>,staccato,tausig2,0.0,0.0,Articulation
+0,,<music21.note.Rest eighth>,note,tausig3,0.5,0.0,GeneralNote
+0,,<music21.dynamics.Dynamic p>,p,tausig1500,,,DynamicPoint
+0,,<music21.expressions.TextExpression 'Allegretto'>,Allegretto,tausig1533,0.0,0.0,TextExpression
+0,,<music21.tempo.MetronomeMark Quarter=116 (playback only)>,None,tausig1541,0.0,0.0,TempoIndication
+0,,<music21.tempo.MetronomeMark Quarter=116 (playback only)>,None None,tausig1542,0.0,0.0,MetronomeMark
+1,,<music21.note.Note E>,note,tausig4,0.5,0.5,GeneralNote
+1,,<music21.articulations.Fingering 2>,fingering,tausig5,0.0,0.0,Fingering
+1,,<music21.chord.Chord E4 G4 B4>,note,tausig6,1.5,0.5,GeneralNote
+1,,<music21.articulations.Fingering 4>,fingering,tausig7,0.0,0.0,Fingering
+1,,<music21.note.Note F#>,note,tausig8,0.5,1.0,GeneralNote
+1,,<music21.note.Note G>,note,tausig9,0.5,1.5,GeneralNote
+1,,<music21.note.Note F#>,note,tausig10,0.5,2.0,GeneralNote
+1,,<music21.chord.Chord D#4 F#4 B4>,note,tausig11,1.5,2.0,GeneralNote
+1,,<music21.note.Note B>,note,tausig12,0.5,2.5,GeneralNote
+1,,<music21.note.Note B>,note,tausig13,0.5,3.0,GeneralNote
+1,2,<music21.spanner.Slur <music21.note.Note E><music21.note.Note G>>,slur,tausig1407,3.0,0.0,Slur
+1,2,<music21.spanner.Slur <music21.chord.Chord E4 G4 B4><music21.note.Note E>>,slur,tausig1408,3.0,0.0,Slur
+2,,<music21.note.Note G>,note,tausig14,1.5,3.5,GeneralNote
+2,,<music21.articulations.Fingering 3>,fingering,tausig15,0.0,0.0,Fingering
+2,,<music21.note.Note E>,note,tausig16,0.5,3.5,GeneralNote
+2,,<music21.note.Note G>,note,tausig17,0.5,4.0,GeneralNote
+2,,<music21.note.Note B>,note,tausig18,0.5,4.5,GeneralNote
+2,,<music21.note.Note F#>,note,tausig19,1.0,5.0,GeneralNote
+2,,<music21.note.Note D>,note,tausig20,0.5,5.0,GeneralNote
+2,,<music21.articulations.Fingering 4>,fingering,tausig21,0.0,0.0,Fingering
+2,,<music21.note.Note G>,note,tausig22,0.5,5.5,GeneralNote
+2,,<music21.note.Note B>,note,tausig23,0.5,6.0,GeneralNote
+2,,<music21.note.Note B>,note,tausig24,0.5,6.0,GeneralNote
+2,3,<music21.spanner.Slur <music21.note.Note G><music21.note.Note A>>,slur,tausig1409,3.0,0.0,Slur
+2,3,<music21.spanner.Slur <music21.note.Note E><music21.chord.Chord C4 E4 A4>>,slur,tausig1410,3.0,0.0,Slur
+3,,<music21.note.Note A>,note,tausig25,0.5,6.5,GeneralNote
+3,,<music21.articulations.Fingering 3>,fingering,tausig26,0.0,0.0,Fingering
+3,,<music21.articulations.Staccato>,staccato,tausig27,0.0,0.0,Articulation
+3,,<music21.chord.Chord C4 E4 A4>,note,tausig28,1.5,6.5,GeneralNote
+3,,<music21.note.Note C>,note,tausig29,0.25,7.0,GeneralNote
+3,,<music21.articulations.Fingering 5>,fingering,tausig30,0.0,0.0,Fingering
+3,,<music21.note.Note B>,note,tausig31,0.25,7.25,GeneralNote
+3,,<music21.note.Note A>,note,tausig32,0.25,7.5,GeneralNote
+3,,<music21.note.Note G>,note,tausig33,0.25,7.75,GeneralNote
+3,,<music21.articulations.Fingering 1>,fingering,tausig34,0.0,0.0,Fingering
+3,,<music21.note.Note F#>,note,tausig35,0.5,8.0,GeneralNote
+3,,<music21.articulations.Fingering 3>,fingering,tausig36,0.0,0.0,Fingering
+3,,<music21.articulations.Staccato>,staccato,tausig37,0.0,0.0,Articulation
+3,,<music21.chord.Chord A3 E4 F#4 C5>,note,tausig38,0.5,8.0,GeneralNote
+3,,<music21.note.Note A>,note,tausig39,0.25,8.5,GeneralNote
+3,,<music21.articulations.Fingering 5>,fingering,tausig40,0.0,0.0,Fingering
+3,,<music21.note.Rest eighth>,note,tausig41,0.5,8.5,GeneralNote
+3,,<music21.note.Note G>,note,tausig42,0.25,8.75,GeneralNote
+3,,<music21.note.Note F#>,note,tausig43,0.25,9.0,GeneralNote
+3,,<music21.note.Rest eighth>,note,tausig44,0.5,9.0,GeneralNote
+3,,<music21.note.Note E>,note,tausig45,0.25,9.25,GeneralNote
+3,,<music21.articulations.Fingering 2>,fingering,tausig46,0.0,0.0,Fingering
+3,3,<music21.spanner.Slur <music21.note.Note C><music21.note.Note F#>>,slur,tausig1411,1.0,0.0,Slur
+3,4,<music21.spanner.Slur <music21.note.Note A><music21.note.Note D#>>,slur,tausig1412,2.5,0.0,Slur
+3,3,<music21.spanner.Slur <music21.chord.Chord C4 E4 A4><music21.chord.Chord A3 E4 F#4 C5>>,slur,tausig1413,1.5,0.0,Slur
+4,,<music21.note.Note E>,note,tausig47,1.0,9.5,GeneralNote
+4,,<music21.articulations.Fingering 3>,fingering,tausig48,0.0,0.0,Fingering
+4,,<music21.articulations.Accent>,accent,tausig49,0.0,0.0,Articulation
+4,,<music21.note.Note B>,note,tausig50,0.5,9.5,GeneralNote
+4,,<music21.articulations.Fingering 5>,fingering,tausig51,0.0,0.0,Fingering
+4,,<music21.note.Note F#>,note,tausig52,0.5,10.0,GeneralNote
+4,,<music21.articulations.Fingering 2>,fingering,tausig53,0.0,0.0,Fingering
+4,,<music21.note.Note D#>,note,tausig54,0.5,10.5,GeneralNote
+4,,<music21.note.Note B>,note,tausig55,0.5,10.5,GeneralNote
+4,,<music21.articulations.Fingering 1>,fingering,tausig56,0.0,0.0,Fingering
+4,,<music21.note.Note D#>,note,tausig57,1.0,11.0,GeneralNote
+4,,<music21.note.Note B>,note,tausig58,0.25,11.0,GeneralNote
+4,,<music21.articulations.Fingering 2>,fingering,tausig59,0.0,0.0,Fingering
+4,,<music21.note.Note A>,note,tausig60,0.25,11.25,GeneralNote
+4,,<music21.articulations.Fingering 1>,fingering,tausig61,0.0,0.0,Fingering
+4,,<music21.note.Note G>,note,tausig62,0.25,11.5,GeneralNote
+4,,<music21.articulations.Fingering 2>,fingering,tausig63,0.0,0.0,Fingering
+4,,<music21.note.Note F#>,note,tausig64,0.25,11.75,GeneralNote
+4,,<music21.articulations.Fingering 3>,fingering,tausig65,0.0,0.0,Fingering
+4,,<music21.note.Note B>,note,tausig66,0.5,12.0,GeneralNote
+4,,<music21.chord.Chord E4 G4>,note,tausig67,0.5,12.0,GeneralNote
+4,,<music21.articulations.Fingering 4>,fingering,tausig68,0.0,0.0,Fingering
+4,,<music21.articulations.Staccato>,staccato,tausig69,0.0,0.0,Articulation
+4,,<music21.articulations.Fingering 2>,fingering,tausig70,0.0,0.0,Fingering
+4,8,<music21.spanner.Slur <music21.note.Note B><music21.note.Note D>>,slur,tausig1414,9.5,0.0,Slur
+4,4,<music21.spanner.Slur <music21.note.Note B><music21.note.Note B>>,slur,tausig1415,1.0,0.0,Slur
+4,4,<music21.spanner.Slur <music21.note.Note B><music21.chord.Chord E4 G4>>,slur,tausig1416,1.0,0.0,Slur
+4,4,<music21.dynamics.Crescendo <music21.note.Note E><music21.note.Note B>>,diminuendo,tausig1508,,,DynamicRegion
+4,,<music21.expressions.TextExpression 'ten.'>,ten.,tausig1534,0.0,10.5,TextExpression
+5,,<music21.note.Note D>,note,tausig71,0.5,12.5,GeneralNote
+5,,<music21.articulations.Fingering 2>,fingering,tausig72,0.0,0.0,Fingering
+5,,<music21.note.Note B>,note,tausig73,0.5,12.5,GeneralNote
+5,,<music21.articulations.Fingering 1>,fingering,tausig74,0.0,0.0,Fingering
+5,,<music21.note.Note C>,note,tausig75,0.5,13.0,GeneralNote
+5,,<music21.note.Note A>,note,tausig76,0.5,13.0,GeneralNote
+5,,<music21.note.Note A>,note,tausig77,0.5,13.5,GeneralNote
+5,,<music21.note.Note D#>,note,tausig78,0.5,13.5,GeneralNote
+5,,<music21.articulations.Fingering 5>,fingering,tausig79,0.0,0.0,Fingering
+5,,<music21.note.Note C>,note,tausig80,0.5,14.0,GeneralNote
+5,,<music21.articulations.Fingering 2>,fingering,tausig81,0.0,0.0,Fingering
+5,,<music21.note.Note A>,note,tausig82,0.5,14.0,GeneralNote
+5,,<music21.articulations.Fingering 1>,fingering,tausig83,0.0,0.0,Fingering
+5,,<music21.note.Note B>,note,tausig84,0.5,14.5,GeneralNote
+5,,<music21.note.Note G>,note,tausig85,0.5,14.5,GeneralNote
+5,,<music21.note.Note G>,note,tausig86,0.5,15.0,GeneralNote
+5,,<music21.note.Note E>,note,tausig87,0.5,15.0,GeneralNote
+5,,<music21.articulations.Fingering 4>,fingering,tausig88,0.0,0.0,Fingering
+5,8,<music21.spanner.Slur <music21.note.Note B><music21.note.Note B>>,slur,tausig1417,9.0,0.0,Slur
+5,,<music21.dynamics.Dynamic p>,p,tausig1501,,,DynamicPoint
+5,,<music21.expressions.TextExpression 'tranquillo'>,tranquillo,tausig1535,0.0,12.5,TextExpression
+6,,<music21.note.Note B>,note,tausig89,0.5,15.5,GeneralNote
+6,,<music21.articulations.Fingering 2>,fingering,tausig90,0.0,0.0,Fingering
+6,,<music21.note.Note G>,note,tausig91,0.5,15.5,GeneralNote
+6,,<music21.articulations.Fingering 1>,fingering,tausig92,0.0,0.0,Fingering
+6,,<music21.note.Note A>,note,tausig93,0.5,16.0,GeneralNote
+6,,<music21.note.Note F#>,note,tausig94,0.5,16.0,GeneralNote
+6,,<music21.note.Note F#>,note,tausig95,0.5,16.5,GeneralNote
+6,,<music21.note.Note B>,note,tausig96,0.5,16.5,GeneralNote
+6,,<music21.note.Note A>,note,tausig97,0.5,17.0,GeneralNote
+6,,<music21.articulations.Fingering 2>,fingering,tausig98,0.0,0.0,Fingering
+6,,<music21.note.Note F#>,note,tausig99,0.5,17.0,GeneralNote
+6,,<music21.articulations.Fingering 1>,fingering,tausig100,0.0,0.0,Fingering
+6,,<music21.note.Note G>,note,tausig101,0.5,17.5,GeneralNote
+6,,<music21.note.Note E>,note,tausig102,0.5,17.5,GeneralNote
+6,,<music21.note.Note E>,note,tausig103,0.5,18.0,GeneralNote
+6,,<music21.note.Note C>,note,tausig104,0.5,18.0,GeneralNote
+6,,<music21.articulations.Fingering 4>,fingering,tausig105,0.0,0.0,Fingering
+7,,<music21.note.Note G>,note,tausig106,0.5,18.5,GeneralNote
+7,,<music21.articulations.Fingering 2>,fingering,tausig107,0.0,0.0,Fingering
+7,,<music21.note.Note E>,note,tausig108,0.5,18.5,GeneralNote
+7,,<music21.articulations.Fingering 1>,fingering,tausig109,0.0,0.0,Fingering
+7,,<music21.note.Note F#>,note,tausig110,0.5,19.0,GeneralNote
+7,,<music21.note.Note D>,note,tausig111,0.5,19.0,GeneralNote
+7,,<music21.note.Note D>,note,tausig112,0.5,19.5,GeneralNote
+7,,<music21.note.Note G>,note,tausig113,0.5,19.5,GeneralNote
+7,,<music21.note.Note F#>,note,tausig114,0.5,20.0,GeneralNote
+7,,<music21.articulations.Fingering 2>,fingering,tausig115,0.0,0.0,Fingering
+7,,<music21.note.Note D>,note,tausig116,0.5,20.0,GeneralNote
+7,,<music21.articulations.Fingering 1>,fingering,tausig117,0.0,0.0,Fingering
+7,,<music21.note.Note E>,note,tausig118,0.5,20.5,GeneralNote
+7,,<music21.note.Note C>,note,tausig119,0.5,20.5,GeneralNote
+7,,<music21.note.Note C>,note,tausig120,0.5,21.0,GeneralNote
+7,,<music21.note.Note A>,note,tausig121,0.5,21.0,GeneralNote
+7,,<music21.articulations.Fingering 4>,fingering,tausig122,0.0,0.0,Fingering
+8,,<music21.note.Note D>,note,tausig123,0.5,21.5,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,tausig124,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,tausig125,0.0,0.0,Articulation
+8,,<music21.note.Note B>,note,tausig126,0.5,21.5,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,tausig127,0.0,0.0,Articulation
+8,,<music21.note.Note E>,note,tausig128,0.25,22.0,GeneralNote
+8,,<music21.note.Note C>,note,tausig129,0.25,22.0,GeneralNote
+8,,<music21.note.Note F#>,note,tausig130,0.25,22.25,GeneralNote
+8,,<music21.note.Note D>,note,tausig131,0.25,22.25,GeneralNote
+8,,<music21.note.Note G>,note,tausig132,0.25,22.5,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,tausig133,0.0,0.0,Fingering
+8,,<music21.note.Note E>,note,tausig134,0.25,22.5,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,tausig135,0.0,0.0,Fingering
+8,,<music21.note.Note A>,note,tausig136,0.25,22.75,GeneralNote
+8,,<music21.note.Note F#>,note,tausig137,0.25,22.75,GeneralNote
+8,,<music21.note.Note B>,note,tausig138,0.5,23.0,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,tausig139,0.0,0.0,Articulation
+8,,<music21.note.Note G>,note,tausig140,0.5,23.0,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,tausig141,0.0,0.0,Articulation
+8,,<music21.note.Note A>,note,tausig142,0.5,23.5,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,tausig143,0.0,0.0,Articulation
+8,,<music21.note.Note F#>,note,tausig144,0.5,23.5,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,tausig145,0.0,0.0,Articulation
+8,,<music21.note.Note G>,note,tausig146,0.5,24.0,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,tausig147,0.0,0.0,Articulation
+8,,<music21.note.Note E>,note,tausig148,0.5,24.0,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,tausig149,0.0,0.0,Articulation
+8,8,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,tausig1418,1.0,0.0,Slur
+8,8,<music21.spanner.Slur <music21.note.Note C><music21.note.Note G>>,slur,tausig1419,1.0,0.0,Slur
+9,,<music21.note.Note F#>,note,tausig150,0.25,24.5,GeneralNote
+9,,<music21.articulations.Fingering 2>,fingering,tausig151,0.0,0.0,Fingering
+9,,<music21.note.Note D>,note,tausig152,0.25,24.5,GeneralNote
+9,,<music21.articulations.Fingering 5>,fingering,tausig153,0.0,0.0,Fingering
+9,,<music21.note.Note G>,note,tausig154,0.25,24.75,GeneralNote
+9,,<music21.articulations.Fingering 3>,fingering,tausig155,0.0,0.0,Fingering
+9,,<music21.note.Note E>,note,tausig156,0.25,24.75,GeneralNote
+9,,<music21.note.Note A>,note,tausig157,0.25,25.0,GeneralNote
+9,,<music21.articulations.Fingering 1>,fingering,tausig158,0.0,0.0,Fingering
+9,,<music21.note.Note F#>,note,tausig159,0.25,25.0,GeneralNote
+9,,<music21.note.Note B>,note,tausig160,0.25,25.25,GeneralNote
+9,,<music21.note.Note G>,note,tausig161,0.25,25.25,GeneralNote
+9,,<music21.note.Note C>,note,tausig162,0.25,25.5,GeneralNote
+9,,<music21.note.Note A>,note,tausig163,0.25,25.5,GeneralNote
+9,,<music21.note.Note D>,note,tausig164,0.25,25.75,GeneralNote
+9,,<music21.note.Note B>,note,tausig165,0.25,25.75,GeneralNote
+9,,<music21.articulations.Fingering 3>,fingering,tausig166,0.0,0.0,Fingering
+9,,<music21.note.Note E>,note,tausig167,0.5,26.0,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,tausig168,0.0,0.0,Articulation
+9,,<music21.note.Note C>,note,tausig169,0.5,26.0,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,tausig170,0.0,0.0,Articulation
+9,,<music21.note.Note D>,note,tausig171,0.5,26.5,GeneralNote
+9,,<music21.articulations.Fingering 4>,fingering,tausig172,0.0,0.0,Fingering
+9,,<music21.articulations.Staccato>,staccato,tausig173,0.0,0.0,Articulation
+9,,<music21.note.Note B>,note,tausig174,0.5,26.5,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,tausig175,0.0,0.0,Articulation
+9,,<music21.note.Note C>,note,tausig176,0.5,27.0,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,tausig177,0.0,0.0,Articulation
+9,,<music21.note.Note A>,note,tausig178,0.5,27.0,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,tausig179,0.0,0.0,Articulation
+9,9,<music21.spanner.Slur <music21.note.Note F#><music21.note.Note E>>,slur,tausig1420,1.5,0.0,Slur
+9,9,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,tausig1421,1.5,0.0,Slur
+10,,<music21.note.Note B>,note,tausig180,0.5,27.5,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,tausig181,0.0,0.0,Articulation
+10,,<music21.note.Note G>,note,tausig182,0.5,27.5,GeneralNote
+10,,<music21.articulations.Fingering 5>,fingering,tausig183,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,tausig184,0.0,0.0,Articulation
+10,,<music21.note.Note C>,note,tausig185,0.25,28.0,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,tausig186,0.0,0.0,Fingering
+10,,<music21.note.Note A>,note,tausig187,0.25,28.0,GeneralNote
+10,,<music21.note.Note D>,note,tausig188,0.25,28.25,GeneralNote
+10,,<music21.note.Note B>,note,tausig189,0.25,28.25,GeneralNote
+10,,<music21.note.Note E>,note,tausig190,0.25,28.5,GeneralNote
+10,,<music21.note.Note C>,note,tausig191,0.25,28.5,GeneralNote
+10,,<music21.note.Note F#>,note,tausig192,0.25,28.75,GeneralNote
+10,,<music21.note.Note D>,note,tausig193,0.25,28.75,GeneralNote
+10,,<music21.note.Note G>,note,tausig194,0.5,29.0,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,tausig195,0.0,0.0,Articulation
+10,,<music21.note.Note E>,note,tausig196,0.5,29.0,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,tausig197,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,tausig198,0.0,0.0,Articulation
+10,,<music21.note.Note F#>,note,tausig199,0.5,29.5,GeneralNote
+10,,<music21.articulations.Fingering 3>,fingering,tausig200,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,tausig201,0.0,0.0,Articulation
+10,,<music21.note.Note D>,note,tausig202,0.5,29.5,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,tausig203,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,tausig204,0.0,0.0,Articulation
+10,,<music21.note.Note E>,note,tausig205,0.5,30.0,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,tausig206,0.0,0.0,Articulation
+10,,<music21.note.Note C>,note,tausig207,0.5,30.0,GeneralNote
+10,,<music21.articulations.Fingering 3>,fingering,tausig208,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,tausig209,0.0,0.0,Articulation
+10,10,<music21.spanner.Slur <music21.note.Note C><music21.note.Note G>>,slur,tausig1422,1.0,0.0,Slur
+10,10,<music21.spanner.Slur <music21.note.Note A><music21.note.Note E>>,slur,tausig1423,1.0,0.0,Slur
+11,,<music21.note.Note D>,note,tausig210,0.25,30.5,GeneralNote
+11,,<music21.articulations.Fingering 1>,fingering,tausig211,0.0,0.0,Fingering
+11,,<music21.note.Note B>,note,tausig212,0.25,30.5,GeneralNote
+11,,<music21.articulations.Fingering 4>,fingering,tausig213,0.0,0.0,Fingering
+11,,<music21.note.Note E>,note,tausig214,0.25,30.75,GeneralNote
+11,,<music21.note.Note C>,note,tausig215,0.25,30.75,GeneralNote
+11,,<music21.note.Note F#>,note,tausig216,0.25,31.0,GeneralNote
+11,,<music21.note.Note D>,note,tausig217,0.25,31.0,GeneralNote
+11,,<music21.note.Note G>,note,tausig218,0.25,31.25,GeneralNote
+11,,<music21.articulations.Fingering 1>,fingering,tausig219,0.0,0.0,Fingering
+11,,<music21.note.Note E>,note,tausig220,0.25,31.25,GeneralNote
+11,,<music21.note.Note A>,note,tausig221,0.25,31.5,GeneralNote
+11,,<music21.note.Note F#>,note,tausig222,0.25,31.5,GeneralNote
+11,,<music21.articulations.Fingering 4>,fingering,tausig223,0.0,0.0,Fingering
+11,,<music21.note.Note B>,note,tausig224,0.125,31.75,GeneralNote
+11,,<music21.note.Note G>,note,tausig225,0.125,31.75,GeneralNote
+11,,<music21.note.Note C>,note,tausig226,0.125,31.875,GeneralNote
+11,,<music21.note.Note A>,note,tausig227,0.125,31.875,GeneralNote
+11,,<music21.note.Note D>,note,tausig228,0.5,32.0,GeneralNote
+11,,<music21.articulations.Fingering 5>,fingering,tausig229,0.0,0.0,Fingering
+11,,<music21.articulations.Staccato>,staccato,tausig230,0.0,0.0,Articulation
+11,,<music21.note.Note B>,note,tausig231,0.5,32.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,tausig232,0.0,0.0,Articulation
+11,,<music21.note.Note C>,note,tausig233,0.5,32.5,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,tausig234,0.0,0.0,Articulation
+11,,<music21.note.Note A>,note,tausig235,0.5,32.5,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,tausig236,0.0,0.0,Articulation
+11,,<music21.note.Note B>,note,tausig237,0.5,33.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,tausig238,0.0,0.0,Articulation
+11,,<music21.note.Note G>,note,tausig239,0.5,33.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,tausig240,0.0,0.0,Articulation
+11,11,<music21.spanner.Slur <music21.note.Note D><music21.note.Note D>>,slur,tausig1424,1.5,0.0,Slur
+11,11,<music21.spanner.Slur <music21.note.Note B><music21.note.Note B>>,slur,tausig1425,1.5,0.0,Slur
+12,,<music21.note.Note A>,note,tausig241,1.5,33.5,GeneralNote
+12,,<music21.chord.Chord A4 F#5>,note,tausig242,1.5,33.5,GeneralNote
+12,,<music21.articulations.Fingering 2>,fingering,tausig243,0.0,0.0,Fingering
+12,,<music21.note.Note D>,note,tausig244,3.0,33.5,GeneralNote
+12,,<music21.note.Note A>,note,tausig245,0.5,35.0,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,tausig246,0.0,0.0,Articulation
+12,,<music21.chord.Chord F#4 A4 D5>,note,tausig247,1.5,35.0,GeneralNote
+12,,<music21.articulations.Fingering 3>,fingering,tausig248,0.0,0.0,Fingering
+12,,<music21.note.Note D>,note,tausig249,0.5,35.5,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,tausig250,0.0,0.0,Articulation
+12,,<music21.note.Note D>,note,tausig251,0.5,36.0,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,tausig252,0.0,0.0,Articulation
+12,12,<music21.spanner.Slur <music21.chord.Chord A4 F#5><music21.chord.Chord F#4 A4 D5>>,slur,tausig1426,1.5,0.0,Slur
+13,,<music21.note.Note E>,note,tausig253,1.0,36.5,GeneralNote
+13,,<music21.articulations.Fingering 2>,fingering,tausig254,0.0,0.0,Fingering
+13,,<music21.chord.Chord G4 B4>,note,tausig255,1.5,36.5,GeneralNote
+13,,<music21.articulations.Fingering 2>,fingering,tausig256,0.0,0.0,Fingering
+13,,<music21.articulations.Fingering 1>,fingering,tausig257,0.0,0.0,Fingering
+13,,<music21.note.Note D>,note,tausig258,3.0,36.5,GeneralNote
+13,,<music21.note.Note D>,note,tausig259,0.5,37.5,GeneralNote
+13,,<music21.articulations.Fingering 1>,fingering,tausig260,0.0,0.0,Fingering
+13,,<music21.note.Note D>,note,tausig261,0.5,38.0,GeneralNote
+13,,<music21.articulations.Fingering 2>,fingering,tausig262,0.0,0.0,Fingering
+13,,<music21.articulations.Staccato>,staccato,tausig263,0.0,0.0,Articulation
+13,,<music21.chord.Chord F#4 A4>,note,tausig264,1.5,38.0,GeneralNote
+13,,<music21.articulations.Fingering 3>,fingering,tausig265,0.0,0.0,Fingering
+13,,<music21.articulations.Fingering 1>,fingering,tausig266,0.0,0.0,Fingering
+13,,<music21.note.Note D>,note,tausig267,0.5,38.5,GeneralNote
+13,,<music21.articulations.Staccato>,staccato,tausig268,0.0,0.0,Articulation
+13,,<music21.note.Note D>,note,tausig269,0.5,39.0,GeneralNote
+13,,<music21.articulations.Fingering 1>,fingering,tausig270,0.0,0.0,Fingering
+13,,<music21.articulations.Staccato>,staccato,tausig271,0.0,0.0,Articulation
+13,13,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D>>,slur,tausig1427,1.5,0.0,Slur
+13,13,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.chord.Chord F#4 A4>>,slur,tausig1428,1.5,0.0,Slur
+14,,<music21.note.Note E>,note,tausig272,1.0,39.5,GeneralNote
+14,,<music21.chord.Chord G4 B4>,note,tausig273,1.5,39.5,GeneralNote
+14,,<music21.note.Note D>,note,tausig274,3.0,39.5,GeneralNote
+14,,<music21.note.Note D>,note,tausig275,0.5,40.5,GeneralNote
+14,,<music21.note.Note D>,note,tausig276,0.5,41.0,GeneralNote
+14,,<music21.articulations.Staccato>,staccato,tausig277,0.0,0.0,Articulation
+14,,<music21.chord.Chord F#4 A4>,note,tausig278,0.5,41.0,GeneralNote
+14,,<music21.note.Note D>,note,tausig279,0.5,41.5,GeneralNote
+14,,<music21.note.Note E>,note,tausig280,0.5,41.5,GeneralNote
+14,,<music21.note.Note C>,note,tausig281,0.5,42.0,GeneralNote
+14,,<music21.note.Note F#>,note,tausig282,0.5,42.0,GeneralNote
+14,14,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D>>,slur,tausig1429,1.5,0.0,Slur
+14,16,<music21.spanner.Slur <music21.note.Note D><music21.chord.Chord B4 G5>>,slur,tausig1430,4.0,0.0,Slur
+15,,<music21.note.Note B>,note,tausig283,0.0,42.5,GeneralNote
+15,,<music21.note.Note C>,note,tausig284,0.0,42.5,GeneralNote
+15,,<music21.note.Note B>,note,tausig285,0.5,42.5,GeneralNote
+15,,<music21.note.Note B>,note,tausig286,1.5,42.5,GeneralNote
+15,,<music21.note.Note G>,note,tausig287,1.0,42.5,GeneralNote
+15,,<music21.note.Note A>,note,tausig288,0.5,43.0,GeneralNote
+15,,<music21.note.Note G>,note,tausig289,0.5,43.5,GeneralNote
+15,,<music21.note.Note C>,note,tausig290,0.5,43.5,GeneralNote
+15,,<music21.chord.Chord B4 G5>,note,tausig291,0.5,44.0,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,tausig292,0.0,0.0,Fingering
+15,,<music21.articulations.Fingering 4>,fingering,tausig293,0.0,0.0,Fingering
+15,,<music21.note.Note D>,note,tausig294,1.5,44.0,GeneralNote
+15,,<music21.note.Note D>,note,tausig295,1.5,44.0,GeneralNote
+15,,<music21.chord.Chord C5 A5>,note,tausig296,0.5,44.5,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,tausig297,0.0,0.0,Fingering
+15,,<music21.articulations.Fingering 5>,fingering,tausig298,0.0,0.0,Fingering
+15,,<music21.chord.Chord A4 F#5>,note,tausig299,0.5,45.0,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,tausig300,0.0,0.0,Fingering
+15,,<music21.articulations.Fingering 3>,fingering,tausig301,0.0,0.0,Fingering
+15,15,<music21.spanner.Slur <music21.note.Note G><music21.note.Note D>>,slur,tausig1431,1.5,0.0,Slur
+16,,<music21.chord.Chord B4 G5>,note,tausig302,0.25,45.5,GeneralNote
+16,,<music21.articulations.Fingering 1>,fingering,tausig303,0.0,0.0,Fingering
+16,,<music21.articulations.Fingering 4>,fingering,tausig304,0.0,0.0,Fingering
+16,,<music21.chord.Chord D4 G4>,note,tausig305,0.5,45.5,GeneralNote
+16,,<music21.articulations.Fingering 2>,fingering,tausig306,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,tausig307,0.0,0.0,Articulation
+16,,<music21.chord.Chord D5 A5>,note,tausig308,0.25,45.75,GeneralNote
+16,,<music21.articulations.Fingering 2>,fingering,tausig309,0.0,0.0,Fingering
+16,,<music21.articulations.Fingering 5>,fingering,tausig310,0.0,0.0,Fingering
+16,,<music21.chord.Chord B4 G5>,note,tausig311,0.25,46.0,GeneralNote
+16,,<music21.chord.Chord G3 D4>,note,tausig312,0.5,46.0,GeneralNote
+16,,<music21.articulations.Fingering 5>,fingering,tausig313,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,tausig314,0.0,0.0,Articulation
+16,,<music21.articulations.Fingering 2>,fingering,tausig315,0.0,0.0,Fingering
+16,,<music21.chord.Chord D5 A5>,note,tausig316,0.25,46.25,GeneralNote
+16,,<music21.chord.Chord B4 G5>,note,tausig317,0.25,46.5,GeneralNote
+16,,<music21.chord.Chord D3 G3>,note,tausig318,0.5,46.5,GeneralNote
+16,,<music21.articulations.Fingering 2>,fingering,tausig319,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,tausig320,0.0,0.0,Articulation
+16,,<music21.articulations.Fingering 1>,fingering,tausig321,0.0,0.0,Fingering
+16,,<music21.chord.Chord D5 A5>,note,tausig322,0.25,46.75,GeneralNote
+16,,<music21.chord.Chord B4 G5>,note,tausig323,0.5,47.0,GeneralNote
+16,,<music21.articulations.Staccato>,staccato,tausig324,0.0,0.0,Articulation
+16,,<music21.chord.Chord G2 D3>,note,tausig325,1.5,47.0,GeneralNote
+16,,<music21.articulations.Tenuto>,tenuto,tausig326,0.0,0.0,Articulation
+16,,<music21.chord.Chord C5 A5>,note,tausig327,0.5,47.5,GeneralNote
+16,,<music21.articulations.Fingering 2>,fingering,tausig328,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,tausig329,0.0,0.0,Articulation
+16,,<music21.articulations.Fingering 5>,fingering,tausig330,0.0,0.0,Fingering
+16,,<music21.chord.Chord G4 D5>,note,tausig331,0.5,48.0,GeneralNote
+16,,<music21.articulations.Fingering 1>,fingering,tausig332,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,tausig333,0.0,0.0,Articulation
+16,,<music21.articulations.Fingering 2>,fingering,tausig334,0.0,0.0,Fingering
+16,16,<music21.spanner.Slur <music21.chord.Chord B4 G5><music21.chord.Chord B4 G5>>,slur,tausig1432,1.5,0.0,Slur
+16,,<music21.dynamics.Dynamic p>,p,tausig1502,,,DynamicPoint
+17,,<music21.chord.Chord G5 B5>,note,tausig335,0.25,48.5,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,tausig336,0.0,0.0,Fingering
+17,,<music21.articulations.Fingering 4>,fingering,tausig337,0.0,0.0,Fingering
+17,,<music21.chord.Chord D4 G4>,note,tausig338,0.5,48.5,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,tausig339,0.0,0.0,Fingering
+17,,<music21.articulations.Staccato>,staccato,tausig340,0.0,0.0,Articulation
+17,,<music21.articulations.Fingering 1>,fingering,tausig341,0.0,0.0,Fingering
+17,,<music21.chord.Chord D5 A5>,note,tausig342,0.25,48.75,GeneralNote
+17,,<music21.articulations.Fingering 1>,fingering,tausig343,0.0,0.0,Fingering
+17,,<music21.articulations.Fingering 3>,fingering,tausig344,0.0,0.0,Fingering
+17,,<music21.chord.Chord G5 B5>,note,tausig345,0.25,49.0,GeneralNote
+17,,<music21.chord.Chord G3 D4>,note,tausig346,0.5,49.0,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,tausig347,0.0,0.0,Articulation
+17,,<music21.chord.Chord D5 A5>,note,tausig348,0.25,49.25,GeneralNote
+17,,<music21.chord.Chord G5 B5>,note,tausig349,0.25,49.5,GeneralNote
+17,,<music21.chord.Chord D3 G3>,note,tausig350,0.5,49.5,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,tausig351,0.0,0.0,Fingering
+17,,<music21.articulations.Staccato>,staccato,tausig352,0.0,0.0,Articulation
+17,,<music21.articulations.Fingering 1>,fingering,tausig353,0.0,0.0,Fingering
+17,,<music21.chord.Chord D5 A5>,note,tausig354,0.25,49.75,GeneralNote
+17,,<music21.note.Note G>,note,tausig355,0.5,50.0,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,tausig356,0.0,0.0,Articulation
+17,,<music21.chord.Chord G2 D3>,note,tausig357,1.5,50.0,GeneralNote
+17,,<music21.articulations.Tenuto>,tenuto,tausig358,0.0,0.0,Articulation
+17,,<music21.chord.Chord D5 A5>,note,tausig359,0.5,50.5,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,tausig360,0.0,0.0,Fingering
+17,,<music21.articulations.Staccato>,staccato,tausig361,0.0,0.0,Articulation
+17,,<music21.articulations.Fingering 5>,fingering,tausig362,0.0,0.0,Fingering
+17,,<music21.chord.Chord G4 D5>,note,tausig363,0.5,51.0,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,tausig364,0.0,0.0,Articulation
+17,17,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.note.Note G>>,slur,tausig1433,1.5,0.0,Slur
+18,,<music21.chord.Chord G5 B5>,note,tausig365,0.25,51.5,GeneralNote
+18,,<music21.chord.Chord D4 G4>,note,tausig366,0.5,51.5,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,tausig367,0.0,0.0,Articulation
+18,,<music21.chord.Chord D5 A5>,note,tausig368,0.25,51.75,GeneralNote
+18,,<music21.chord.Chord G5 B5>,note,tausig369,0.25,52.0,GeneralNote
+18,,<music21.chord.Chord G3 D4>,note,tausig370,0.5,52.0,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,tausig371,0.0,0.0,Articulation
+18,,<music21.chord.Chord D5 A5>,note,tausig372,0.25,52.25,GeneralNote
+18,,<music21.chord.Chord G5 B5>,note,tausig373,0.25,52.5,GeneralNote
+18,,<music21.chord.Chord D3 G3>,note,tausig374,0.5,52.5,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,tausig375,0.0,0.0,Articulation
+18,,<music21.chord.Chord D5 A5>,note,tausig376,0.25,52.75,GeneralNote
+18,,<music21.note.Note G>,note,tausig377,0.5,53.0,GeneralNote
+18,,<music21.articulations.Fingering 2>,fingering,tausig378,0.0,0.0,Fingering
+18,,<music21.articulations.Staccato>,staccato,tausig379,0.0,0.0,Articulation
+18,,<music21.chord.Chord G2 D3>,note,tausig380,1.0,53.0,GeneralNote
+18,,<music21.articulations.Tenuto>,tenuto,tausig381,0.0,0.0,Articulation
+18,,<music21.chord.Chord D5 A5>,note,tausig382,0.5,53.5,GeneralNote
+18,,<music21.articulations.Fingering 1>,fingering,tausig383,0.0,0.0,Fingering
+18,,<music21.articulations.Staccato>,staccato,tausig384,0.0,0.0,Articulation
+18,,<music21.articulations.Fingering 3>,fingering,tausig385,0.0,0.0,Fingering
+18,,<music21.note.Note D>,note,tausig386,0.5,54.0,GeneralNote
+18,,<music21.articulations.Fingering 2>,fingering,tausig387,0.0,0.0,Fingering
+18,,<music21.articulations.Staccato>,staccato,tausig388,0.0,0.0,Articulation
+18,,<music21.chord.Chord F#4 A4 C5>,note,tausig389,0.5,54.0,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,tausig390,0.0,0.0,Articulation
+18,18,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.note.Note G>>,slur,tausig1434,1.5,0.0,Slur
+19,,<music21.chord.Chord G5 B5>,note,tausig391,0.5,54.5,GeneralNote
+19,,<music21.articulations.Fingering 1>,fingering,tausig392,0.0,0.0,Fingering
+19,,<music21.articulations.Fingering 3>,fingering,tausig393,0.0,0.0,Fingering
+19,,<music21.chord.Chord B4 D5>,note,tausig394,1.5,54.5,GeneralNote
+19,,<music21.articulations.Fingering 2>,fingering,tausig395,0.0,0.0,Fingering
+19,,<music21.chord.Chord A5 C6>,note,tausig396,0.5,55.0,GeneralNote
+19,,<music21.articulations.Fingering 2>,fingering,tausig397,0.0,0.0,Fingering
+19,,<music21.articulations.Fingering 4>,fingering,tausig398,0.0,0.0,Fingering
+19,,<music21.chord.Chord B5 D6>,note,tausig399,0.5,55.5,GeneralNote
+19,,<music21.articulations.Fingering 3>,fingering,tausig400,0.0,0.0,Fingering
+19,,<music21.articulations.Fingering 5>,fingering,tausig401,0.0,0.0,Fingering
+19,,<music21.note.Rest 16th>,note,tausig402,0.25,55.75,GeneralNote
+19,,<music21.note.Rest 16th>,note,tausig403,0.25,55.75,GeneralNote
+19,,<music21.chord.Chord B5 D6>,note,tausig404,0.5,56.0,GeneralNote
+19,,<music21.chord.Chord E4 G4 B4 D5>,note,tausig405,1.5,56.0,GeneralNote
+19,,<music21.articulations.Fingering 5>,fingering,tausig406,0.0,0.0,Fingering
+19,,<music21.articulations.Fingering 3>,fingering,tausig407,0.0,0.0,Fingering
+19,,<music21.chord.Chord A5 C6>,note,tausig408,0.5,56.5,GeneralNote
+19,,<music21.chord.Chord G5 B5>,note,tausig409,0.5,57.0,GeneralNote
+19,,<music21.note.Rest 16th>,note,tausig410,0.25,57.25,GeneralNote
+19,,<music21.note.Rest 16th>,note,tausig411,0.25,57.25,GeneralNote
+19,21,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord G4 B4>>,slur,tausig1435,6.0,0.0,Slur
+19,19,<music21.spanner.Slur <music21.chord.Chord B4 D5><music21.chord.Chord E4 G4 B4 D5>>,slur,tausig1436,1.5,0.0,Slur
+19,19,<music21.spanner.Slur <music21.chord.Chord B4 D5><music21.chord.Chord E4 G4 B4 D5>>,slur,tausig1437,1.5,0.0,Slur
+19,20,<music21.spanner.Slur <music21.chord.Chord B4 D5><music21.note.Note D>>,slur,tausig1438,4.5,0.0,Slur
+19,19,<music21.dynamics.Crescendo <music21.chord.Chord G5 B5><music21.chord.Chord B5 D6>>,diminuendo,tausig1510,,,DynamicRegion
+19,19,<music21.dynamics.Diminuendo <music21.chord.Chord B5 D6><music21.chord.Chord G5 B5>>,diminuendo,tausig1512,,,DynamicRegion
+20,,<music21.note.Note A>,note,tausig412,0.25,57.5,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,tausig413,0.0,0.0,Fingering
+20,,<music21.chord.Chord F#4 A4 C5>,note,tausig414,1.5,57.5,GeneralNote
+20,,<music21.note.Note G>,note,tausig415,0.25,57.75,GeneralNote
+20,,<music21.articulations.Fingering 1>,fingering,tausig416,0.0,0.0,Fingering
+20,,<music21.chord.Chord F#5 A5>,note,tausig417,0.25,58.0,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,tausig418,0.0,0.0,Fingering
+20,,<music21.articulations.Fingering 4>,fingering,tausig419,0.0,0.0,Fingering
+20,,<music21.note.Note E>,note,tausig420,0.25,58.25,GeneralNote
+20,,<music21.articulations.Fingering 1>,fingering,tausig421,0.0,0.0,Fingering
+20,,<music21.chord.Chord D5 F#5>,note,tausig422,0.25,58.5,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,tausig423,0.0,0.0,Fingering
+20,,<music21.articulations.Fingering 4>,fingering,tausig424,0.0,0.0,Fingering
+20,,<music21.note.Note C>,note,tausig425,0.25,58.75,GeneralNote
+20,,<music21.articulations.Fingering 1>,fingering,tausig426,0.0,0.0,Fingering
+20,,<music21.chord.Chord B4 D5>,note,tausig427,0.25,59.0,GeneralNote
+20,,<music21.articulations.Fingering 3>,fingering,tausig428,0.0,0.0,Fingering
+20,,<music21.articulations.Fingering 5>,fingering,tausig429,0.0,0.0,Fingering
+20,,<music21.note.Note D>,note,tausig430,0.5,59.0,GeneralNote
+20,,<music21.note.Note A>,note,tausig431,0.25,59.25,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,tausig432,0.0,0.0,Fingering
+20,,<music21.note.Note G>,note,tausig433,0.25,59.5,GeneralNote
+20,,<music21.articulations.Fingering 1>,fingering,tausig434,0.0,0.0,Fingering
+20,,<music21.note.Rest eighth>,note,tausig435,0.5,59.5,GeneralNote
+20,,<music21.note.Note F#>,note,tausig436,0.25,59.75,GeneralNote
+20,,<music21.articulations.Fingering 3>,fingering,tausig437,0.0,0.0,Fingering
+20,,<music21.note.Note E>,note,tausig438,0.25,60.0,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,tausig439,0.0,0.0,Fingering
+20,,<music21.note.Rest eighth>,note,tausig440,0.5,60.0,GeneralNote
+20,,<music21.note.Note D>,note,tausig441,0.25,60.25,GeneralNote
+20,,<music21.articulations.Fingering 1>,fingering,tausig442,0.0,0.0,Fingering
+20,20,<music21.dynamics.Diminuendo <music21.note.Note G><music21.note.Note D>>,diminuendo,tausig1514,,,DynamicRegion
+21,,<music21.chord.Chord G4 B4>,note,tausig443,0.25,60.5,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,tausig444,0.0,0.0,Fingering
+21,,<music21.articulations.Fingering 4>,fingering,tausig445,0.0,0.0,Fingering
+21,,<music21.note.Note G>,note,tausig446,0.5,60.5,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,tausig447,0.0,0.0,Fingering
+21,,<music21.articulations.Staccato>,staccato,tausig448,0.0,0.0,Articulation
+21,,<music21.chord.Chord D4 A4>,note,tausig449,0.25,60.75,GeneralNote
+21,,<music21.articulations.Fingering 1>,fingering,tausig450,0.0,0.0,Fingering
+21,,<music21.articulations.Fingering 3>,fingering,tausig451,0.0,0.0,Fingering
+21,,<music21.chord.Chord G4 B4>,note,tausig452,0.25,61.0,GeneralNote
+21,,<music21.note.Note D>,note,tausig453,0.5,61.0,GeneralNote
+21,,<music21.articulations.Fingering 1>,fingering,tausig454,0.0,0.0,Fingering
+21,,<music21.articulations.Staccato>,staccato,tausig455,0.0,0.0,Articulation
+21,,<music21.chord.Chord D4 A4>,note,tausig456,0.25,61.25,GeneralNote
+21,,<music21.chord.Chord G4 B4>,note,tausig457,0.25,61.5,GeneralNote
+21,,<music21.note.Note G>,note,tausig458,0.5,61.5,GeneralNote
+21,,<music21.articulations.Fingering 3>,fingering,tausig459,0.0,0.0,Fingering
+21,,<music21.articulations.Staccato>,staccato,tausig460,0.0,0.0,Articulation
+21,,<music21.chord.Chord D4 A4>,note,tausig461,0.25,61.75,GeneralNote
+21,,<music21.note.Note G>,note,tausig462,0.5,62.0,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,tausig463,0.0,0.0,Articulation
+21,,<music21.note.Note D>,note,tausig464,1.5,62.0,GeneralNote
+21,,<music21.articulations.Tenuto>,tenuto,tausig465,0.0,0.0,Articulation
+21,,<music21.note.Note A>,note,tausig466,0.5,62.5,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,tausig467,0.0,0.0,Articulation
+21,,<music21.note.Note D>,note,tausig468,0.5,63.0,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,tausig469,0.0,0.0,Articulation
+21,21,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.note.Note G>>,slur,tausig1439,1.5,0.0,Slur
+22,,<music21.chord.Chord G4 B4>,note,tausig470,0.25,63.5,GeneralNote
+22,,<music21.note.Note G>,note,tausig471,0.5,63.5,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,tausig472,0.0,0.0,Articulation
+22,,<music21.chord.Chord D4 A4>,note,tausig473,0.25,63.75,GeneralNote
+22,,<music21.chord.Chord G4 B4>,note,tausig474,0.25,64.0,GeneralNote
+22,,<music21.note.Note D>,note,tausig475,0.5,64.0,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,tausig476,0.0,0.0,Articulation
+22,,<music21.chord.Chord D4 A4>,note,tausig477,0.25,64.25,GeneralNote
+22,,<music21.chord.Chord G4 B4>,note,tausig478,0.25,64.5,GeneralNote
+22,,<music21.note.Note G>,note,tausig479,0.5,64.5,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,tausig480,0.0,0.0,Articulation
+22,,<music21.chord.Chord D4 A4>,note,tausig481,0.25,64.75,GeneralNote
+22,,<music21.note.Note G>,note,tausig482,0.5,65.0,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,tausig483,0.0,0.0,Articulation
+22,,<music21.note.Note D>,note,tausig484,1.5,65.0,GeneralNote
+22,,<music21.articulations.Tenuto>,tenuto,tausig485,0.0,0.0,Articulation
+22,,<music21.note.Note A>,note,tausig486,0.5,65.5,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,tausig487,0.0,0.0,Articulation
+22,,<music21.note.Note D>,note,tausig488,0.5,66.0,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,tausig489,0.0,0.0,Articulation
+22,22,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.note.Note G>>,slur,tausig1440,1.5,0.0,Slur
+23,,<music21.chord.Chord G4 B4>,note,tausig490,0.25,66.5,GeneralNote
+23,,<music21.note.Note G>,note,tausig491,0.5,66.5,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,tausig492,0.0,0.0,Articulation
+23,,<music21.chord.Chord D4 A4>,note,tausig493,0.25,66.75,GeneralNote
+23,,<music21.chord.Chord G4 B4>,note,tausig494,0.25,67.0,GeneralNote
+23,,<music21.note.Note D>,note,tausig495,0.5,67.0,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,tausig496,0.0,0.0,Articulation
+23,,<music21.chord.Chord D4 A4>,note,tausig497,0.25,67.25,GeneralNote
+23,,<music21.chord.Chord G4 B4>,note,tausig498,0.25,67.5,GeneralNote
+23,,<music21.note.Note G>,note,tausig499,0.5,67.5,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,tausig500,0.0,0.0,Articulation
+23,,<music21.chord.Chord D4 A4>,note,tausig501,0.25,67.75,GeneralNote
+23,,<music21.note.Note G>,note,tausig502,0.5,68.0,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,tausig503,0.0,0.0,Articulation
+23,,<music21.note.Note D>,note,tausig504,1.5,68.0,GeneralNote
+23,,<music21.articulations.Tenuto>,tenuto,tausig505,0.0,0.0,Articulation
+23,,<music21.note.Note A>,note,tausig506,0.5,68.5,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,tausig507,0.0,0.0,Articulation
+23,,<music21.note.Note D>,note,tausig508,0.5,69.0,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,tausig509,0.0,0.0,Articulation
+23,23,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.note.Note G>>,slur,tausig1441,1.5,0.0,Slur
+24,,<music21.note.Note B>,note,tausig510,0.5,69.5,GeneralNote
+24,,<music21.articulations.Fingering 4>,fingering,tausig511,0.0,0.0,Fingering
+24,,<music21.note.Note G>,note,tausig512,1.0,69.5,GeneralNote
+24,,<music21.articulations.Fingering 2>,fingering,tausig513,0.0,0.0,Fingering
+24,,<music21.note.Note G>,note,tausig514,1.0,69.5,GeneralNote
+24,,<music21.articulations.Fingering 5>,fingering,tausig515,0.0,0.0,Fingering
+24,,<music21.note.Note A>,note,tausig516,0.5,70.0,GeneralNote
+24,,<music21.note.Note G>,note,tausig517,0.5,70.5,GeneralNote
+24,,<music21.note.Note E>,note,tausig518,0.5,70.5,GeneralNote
+24,,<music21.note.Note C>,note,tausig519,0.5,70.5,GeneralNote
+24,,<music21.note.Note B>,note,tausig520,0.5,71.0,GeneralNote
+24,,<music21.note.Note G>,note,tausig521,0.5,71.0,GeneralNote
+24,,<music21.note.Note D>,note,tausig522,1.0,71.0,GeneralNote
+24,,<music21.note.Note C>,note,tausig523,0.5,71.5,GeneralNote
+24,,<music21.note.Note A>,note,tausig524,0.5,71.5,GeneralNote
+24,,<music21.note.Note A>,note,tausig525,0.5,72.0,GeneralNote
+24,,<music21.note.Note F#>,note,tausig526,0.5,72.0,GeneralNote
+24,,<music21.note.Note D>,note,tausig527,0.5,72.0,GeneralNote
+24,25,<music21.spanner.Slur <music21.note.Note B><music21.note.Note G>>,slur,tausig1442,3.0,0.0,Slur
+24,25,<music21.spanner.Slur <music21.note.Note G><music21.chord.Chord G2 D3 B3>>,slur,tausig1443,3.0,0.0,Slur
+25,,<music21.note.Note G>,note,tausig528,0.25,72.5,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,tausig529,0.0,0.0,Fingering
+25,,<music21.chord.Chord G2 D3 B3>,note,tausig530,1.5,72.5,GeneralNote
+25,,<music21.note.Note A>,note,tausig531,0.125,72.75,GeneralNote
+25,,<music21.note.Note B>,note,tausig532,0.125,72.875,GeneralNote
+25,,<music21.note.Note C>,note,tausig533,1/6,73.0,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,tausig534,0.0,0.0,Fingering
+25,,<music21.note.Note D>,note,tausig535,1/6,439/6,GeneralNote
+25,,<music21.note.Note E>,note,tausig536,1/6,220/3,GeneralNote
+25,,<music21.note.Note F#>,note,tausig537,1/6,73.5,GeneralNote
+25,,<music21.note.Note G>,note,tausig538,1/6,221/3,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,tausig539,0.0,0.0,Fingering
+25,,<music21.note.Note A>,note,tausig540,1/6,443/6,GeneralNote
+25,,<music21.articulations.Fingering 3>,fingering,tausig541,0.0,0.0,Fingering
+25,,<music21.chord.Chord G5 B5>,note,tausig542,0.5,74.0,GeneralNote
+25,,<music21.articulations.Fingering 2>,fingering,tausig543,0.0,0.0,Fingering
+25,,<music21.articulations.Fingering 4>,fingering,tausig544,0.0,0.0,Fingering
+25,,<music21.chord.Chord G2 D3 B3>,note,tausig545,1.5,74.0,GeneralNote
+25,,<music21.chord.Chord D5 B5 D6>,note,tausig546,0.5,74.5,GeneralNote
+25,,<music21.chord.Chord G4 D5>,note,tausig547,0.5,75.0,GeneralNote
+25,,<music21.articulations.Fingering 2>,fingering,tausig548,0.0,0.0,Fingering
+25,,<music21.articulations.Staccato>,staccato,tausig549,0.0,0.0,Articulation
+25,,<music21.articulations.Fingering 5>,fingering,tausig550,0.0,0.0,Fingering
+25,25,<music21.spanner.Slur <music21.note.Note G><music21.chord.Chord G5 B5>>,slur,tausig1444,1.5,0.0,Slur
+25,25,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord D5 B5 D6>>,slur,tausig1445,0.5,0.0,Slur
+25,,<music21.dynamics.Dynamic pp>,pp,tausig1503,,,DynamicPoint
+25,,<music21.expressions.TextExpression 'rallentando'>,rallentando,tausig1536,0.0,74.0,TextExpression
+26,,<music21.chord.Chord G5 B5>,note,tausig551,0.5,75.5,GeneralNote
+26,,<music21.articulations.Fingering 2>,fingering,tausig552,0.0,0.0,Fingering
+26,,<music21.articulations.Fingering 4>,fingering,tausig553,0.0,0.0,Fingering
+26,,<music21.chord.Chord G2 D3 B3>,note,tausig554,1.5,75.5,GeneralNote
+26,,<music21.chord.Chord D5 B5 D6>,note,tausig555,0.5,76.0,GeneralNote
+26,,<music21.chord.Chord G4 D5>,note,tausig556,0.5,76.5,GeneralNote
+26,,<music21.articulations.Fingering 2>,fingering,tausig557,0.0,0.0,Fingering
+26,,<music21.articulations.Staccato>,staccato,tausig558,0.0,0.0,Articulation
+26,,<music21.articulations.Fingering 5>,fingering,tausig559,0.0,0.0,Fingering
+26,,<music21.chord.Chord G5 B5>,note,tausig560,0.5,77.0,GeneralNote
+26,,<music21.chord.Chord G2 D3 B3>,note,tausig561,1.5,77.0,GeneralNote
+26,,<music21.chord.Chord D5 B5 D6>,note,tausig562,0.5,77.5,GeneralNote
+26,,<music21.chord.Chord G4 D5>,note,tausig563,0.5,78.0,GeneralNote
+26,,<music21.articulations.Staccato>,staccato,tausig564,0.0,0.0,Articulation
+26,26,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord D5 B5 D6>>,slur,tausig1446,0.5,0.0,Slur
+26,26,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord D5 B5 D6>>,slur,tausig1447,0.5,0.0,Slur
+27,,<music21.chord.Chord G5 B5>,note,tausig565,0.25,78.5,GeneralNote
+27,,<music21.articulations.Fingering 1>,fingering,tausig566,0.0,0.0,Fingering
+27,,<music21.articulations.Fingering 3>,fingering,tausig567,0.0,0.0,Fingering
+27,,<music21.note.Note D>,note,tausig568,0.25,78.5,GeneralNote
+27,,<music21.note.Note G>,note,tausig569,3.0,78.5,GeneralNote
+27,,<music21.chord.Chord A5 C6>,note,tausig570,0.25,78.75,GeneralNote
+27,,<music21.note.Note G>,note,tausig571,0.25,78.75,GeneralNote
+27,,<music21.chord.Chord G5 B5>,note,tausig572,0.25,79.0,GeneralNote
+27,,<music21.note.Note D>,note,tausig573,0.25,79.0,GeneralNote
+27,,<music21.chord.Chord A5 C6>,note,tausig574,0.25,79.25,GeneralNote
+27,,<music21.note.Note G>,note,tausig575,0.25,79.25,GeneralNote
+27,,<music21.chord.Chord G5 B5>,note,tausig576,0.25,79.5,GeneralNote
+27,,<music21.note.Note D>,note,tausig577,0.25,79.5,GeneralNote
+27,,<music21.chord.Chord A5 C6>,note,tausig578,0.25,79.75,GeneralNote
+27,,<music21.note.Note G>,note,tausig579,0.25,79.75,GeneralNote
+27,,<music21.chord.Chord G5 B5>,note,tausig580,0.25,80.0,GeneralNote
+27,,<music21.note.Note D>,note,tausig581,0.25,80.0,GeneralNote
+27,,<music21.chord.Chord A5 C6>,note,tausig582,0.25,80.25,GeneralNote
+27,,<music21.note.Note G>,note,tausig583,0.25,80.25,GeneralNote
+27,,<music21.chord.Chord G5 B5>,note,tausig584,0.25,80.5,GeneralNote
+27,,<music21.note.Note D>,note,tausig585,0.25,80.5,GeneralNote
+27,,<music21.chord.Chord A5 C6>,note,tausig586,0.25,80.75,GeneralNote
+27,,<music21.note.Note G>,note,tausig587,0.25,80.75,GeneralNote
+27,,<music21.chord.Chord G5 B5>,note,tausig588,0.25,81.0,GeneralNote
+27,,<music21.note.Note D>,note,tausig589,0.25,81.0,GeneralNote
+27,,<music21.chord.Chord A5 C6>,note,tausig590,0.25,81.25,GeneralNote
+27,,<music21.note.Note G>,note,tausig591,0.25,81.25,GeneralNote
+27,28,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.note.Note B>>,slur,tausig1448,3.0,0.0,Slur
+27,28,<music21.spanner.Slur <music21.note.Note D><music21.note.Note G>>,slur,tausig1449,3.0,0.0,Slur
+27,,<music21.dynamics.Dynamic pp>,pp,tausig1504,,,DynamicPoint
+27,,<music21.expressions.TextExpression 'a tempo ma...'>,a tempo ma sempre,tausig1537,0.0,78.5,TextExpression
+28,,<music21.note.Note B>,note,tausig592,1.5,81.5,GeneralNote
+28,,<music21.note.Note G>,note,tausig593,1.5,81.5,GeneralNote
+28,,<music21.note.Note G>,note,tausig594,1.5,81.5,GeneralNote
+28,,<music21.note.Note D>,note,tausig595,1.5,81.5,GeneralNote
+28,,<music21.note.Note B>,note,tausig596,1.0,83.0,GeneralNote
+28,,<music21.note.Note G>,note,tausig597,1.0,83.0,GeneralNote
+28,,<music21.note.Note G>,note,tausig598,1.0,83.0,GeneralNote
+28,,<music21.note.Note D>,note,tausig599,1.0,83.0,GeneralNote
+28,,<music21.note.Note D>,note,tausig600,0.5,84.0,GeneralNote
+28,,<music21.articulations.Fingering 1>,fingering,tausig601,0.0,0.0,Fingering
+28,,<music21.articulations.Staccato>,staccato,tausig602,0.0,0.0,Articulation
+28,,<music21.note.Rest eighth>,note,tausig603,0.5,84.0,GeneralNote
+29,,<music21.note.Note G>,note,tausig604,0.5,84.5,GeneralNote
+29,,<music21.articulations.Fingering 3>,fingering,tausig605,0.0,0.0,Fingering
+29,,<music21.note.Note D>,note,tausig606,1.5,84.5,GeneralNote
+29,,<music21.chord.Chord G3 B3>,note,tausig607,1.5,84.5,GeneralNote
+29,,<music21.articulations.Fingering 3>,fingering,tausig608,0.0,0.0,Fingering
+29,,<music21.articulations.Fingering 1>,fingering,tausig609,0.0,0.0,Fingering
+29,,<music21.note.Note A>,note,tausig610,0.5,85.0,GeneralNote
+29,,<music21.note.Note B>,note,tausig611,0.5,85.5,GeneralNote
+29,,<music21.note.Note A>,note,tausig612,0.5,86.0,GeneralNote
+29,,<music21.articulations.Fingering 3>,fingering,tausig613,0.0,0.0,Fingering
+29,,<music21.note.Note D>,note,tausig614,1.5,86.0,GeneralNote
+29,,<music21.chord.Chord F#3 A3>,note,tausig615,1.5,86.0,GeneralNote
+29,,<music21.note.Note B>,note,tausig616,0.5,86.5,GeneralNote
+29,,<music21.note.Note C>,note,tausig617,0.5,87.0,GeneralNote
+29,30,<music21.spanner.Slur <music21.note.Note G><music21.note.Note F>>,slur,tausig1450,5.5,0.0,Slur
+29,30,<music21.spanner.Slur <music21.chord.Chord G3 B3><music21.chord.Chord F3 A3 D4>>,slur,tausig1451,4.5,0.0,Slur
+29,30,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note E>>,diminuendo,tausig1516,,,DynamicRegion
+29,,<music21.expressions.TextExpression 'dolce'>,dolce,tausig1538,0.0,84.5,TextExpression
+30,,<music21.note.Note B>,note,tausig618,0.5,87.5,GeneralNote
+30,,<music21.articulations.Fingering 3>,fingering,tausig619,0.0,0.0,Fingering
+30,,<music21.note.Note D>,note,tausig620,1.5,87.5,GeneralNote
+30,,<music21.chord.Chord G3 B3>,note,tausig621,1.5,87.5,GeneralNote
+30,,<music21.note.Note C>,note,tausig622,0.5,88.0,GeneralNote
+30,,<music21.note.Note D>,note,tausig623,0.5,88.5,GeneralNote
+30,,<music21.note.Note D>,note,tausig624,0.5,89.0,GeneralNote
+30,,<music21.note.Rest quarter>,note,tausig625,1.0,89.0,GeneralNote
+30,,<music21.note.Rest quarter>,note,tausig626,1.0,89.0,GeneralNote
+30,,<music21.chord.Chord F3 A3 D4>,note,tausig627,1.5,89.0,GeneralNote
+30,,<music21.articulations.Fingering 4>,fingering,tausig628,0.0,0.0,Fingering
+30,,<music21.note.Note E>,note,tausig629,0.5,89.5,GeneralNote
+30,,<music21.articulations.Fingering 3>,fingering,tausig630,0.0,0.0,Fingering
+30,,<music21.note.Note F>,note,tausig631,0.5,90.0,GeneralNote
+30,,<music21.articulations.Fingering 5>,fingering,tausig632,0.0,0.0,Fingering
+30,,<music21.note.Rest eighth>,note,tausig633,0.5,90.0,GeneralNote
+30,,<music21.note.Rest eighth>,note,tausig634,0.5,90.0,GeneralNote
+31,,<music21.note.Note A>,note,tausig635,0.5,90.5,GeneralNote
+31,,<music21.articulations.Fingering 3>,fingering,tausig636,0.0,0.0,Fingering
+31,,<music21.note.Note E>,note,tausig637,1.5,90.5,GeneralNote
+31,,<music21.chord.Chord E3 B3>,note,tausig638,1.5,90.5,GeneralNote
+31,,<music21.articulations.Fingering 5>,fingering,tausig639,0.0,0.0,Fingering
+31,,<music21.articulations.Fingering 1>,fingering,tausig640,0.0,0.0,Fingering
+31,,<music21.note.Note G#>,note,tausig641,0.5,91.0,GeneralNote
+31,,<music21.note.Note A>,note,tausig642,0.5,91.5,GeneralNote
+31,,<music21.note.Note B>,note,tausig643,0.5,92.0,GeneralNote
+31,,<music21.note.Note E>,note,tausig644,1.5,92.0,GeneralNote
+31,,<music21.chord.Chord G#3 B3>,note,tausig645,1.5,92.0,GeneralNote
+31,,<music21.articulations.Fingering 4>,fingering,tausig646,0.0,0.0,Fingering
+31,,<music21.articulations.Fingering 2>,fingering,tausig647,0.0,0.0,Fingering
+31,,<music21.note.Note C>,note,tausig648,0.5,92.5,GeneralNote
+31,,<music21.articulations.Fingering 5>,fingering,tausig649,0.0,0.0,Fingering
+31,,<music21.note.Note D>,note,tausig650,0.5,93.0,GeneralNote
+31,,<music21.articulations.Fingering 4>,fingering,tausig651,0.0,0.0,Fingering
+31,32,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,tausig1452,5.5,0.0,Slur
+31,32,<music21.spanner.Slur <music21.chord.Chord E3 B3><music21.chord.Chord G3 B3 E4>>,slur,tausig1453,4.5,0.0,Slur
+31,32,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note G>>,diminuendo,tausig1518,,,DynamicRegion
+32,,<music21.note.Note C>,note,tausig652,0.5,93.5,GeneralNote
+32,,<music21.articulations.Fingering 3>,fingering,tausig653,0.0,0.0,Fingering
+32,,<music21.note.Note E>,note,tausig654,1.5,93.5,GeneralNote
+32,,<music21.chord.Chord A3 C4>,note,tausig655,1.5,93.5,GeneralNote
+32,,<music21.note.Note D>,note,tausig656,0.5,94.0,GeneralNote
+32,,<music21.note.Note E>,note,tausig657,0.5,94.5,GeneralNote
+32,,<music21.note.Note E>,note,tausig658,0.5,95.0,GeneralNote
+32,,<music21.note.Rest quarter>,note,tausig659,1.0,95.0,GeneralNote
+32,,<music21.note.Rest quarter>,note,tausig660,1.0,95.0,GeneralNote
+32,,<music21.chord.Chord G3 B3 E4>,note,tausig661,1.5,95.0,GeneralNote
+32,,<music21.articulations.Fingering 4>,fingering,tausig662,0.0,0.0,Fingering
+32,,<music21.note.Note F#>,note,tausig663,0.5,95.5,GeneralNote
+32,,<music21.articulations.Fingering 3>,fingering,tausig664,0.0,0.0,Fingering
+32,,<music21.note.Note G>,note,tausig665,0.5,96.0,GeneralNote
+32,,<music21.articulations.Fingering 5>,fingering,tausig666,0.0,0.0,Fingering
+32,,<music21.note.Rest eighth>,note,tausig667,0.5,96.0,GeneralNote
+32,,<music21.note.Rest eighth>,note,tausig668,0.5,96.0,GeneralNote
+33,,<music21.note.Note B>,note,tausig669,0.5,96.5,GeneralNote
+33,,<music21.articulations.Fingering 3>,fingering,tausig670,0.0,0.0,Fingering
+33,,<music21.note.Note F#>,note,tausig671,1.5,96.5,GeneralNote
+33,,<music21.chord.Chord F#3 C#4>,note,tausig672,1.5,96.5,GeneralNote
+33,,<music21.articulations.Fingering 5>,fingering,tausig673,0.0,0.0,Fingering
+33,,<music21.articulations.Fingering 1>,fingering,tausig674,0.0,0.0,Fingering
+33,,<music21.note.Note A#>,note,tausig675,0.5,97.0,GeneralNote
+33,,<music21.note.Note B>,note,tausig676,0.5,97.5,GeneralNote
+33,,<music21.note.Note C#>,note,tausig677,0.5,98.0,GeneralNote
+33,,<music21.note.Note F#>,note,tausig678,1.5,98.0,GeneralNote
+33,,<music21.chord.Chord A#3 C#4>,note,tausig679,1.5,98.0,GeneralNote
+33,,<music21.articulations.Fingering 4>,fingering,tausig680,0.0,0.0,Fingering
+33,,<music21.articulations.Fingering 2>,fingering,tausig681,0.0,0.0,Fingering
+33,,<music21.note.Note D#>,note,tausig682,0.5,98.5,GeneralNote
+33,,<music21.articulations.Fingering 5>,fingering,tausig683,0.0,0.0,Fingering
+33,,<music21.note.Note E>,note,tausig684,0.5,99.0,GeneralNote
+33,,<music21.articulations.Fingering 4>,fingering,tausig685,0.0,0.0,Fingering
+33,35,<music21.spanner.Slur <music21.note.Note B><music21.note.Note G>>,slur,tausig1454,6.0,0.0,Slur
+33,34,<music21.spanner.Slur <music21.chord.Chord F#3 C#4><music21.chord.Chord B3 F#4>>,slur,tausig1455,4.5,0.0,Slur
+33,34,<music21.dynamics.Crescendo <music21.note.Note B><music21.note.Note A>>,diminuendo,tausig1520,,,DynamicRegion
+34,,<music21.note.Note D#>,note,tausig686,0.5,99.5,GeneralNote
+34,,<music21.articulations.Fingering 3>,fingering,tausig687,0.0,0.0,Fingering
+34,,<music21.note.Note F#>,note,tausig688,1.5,99.5,GeneralNote
+34,,<music21.note.Rest quarter>,note,tausig689,1.0,99.5,GeneralNote
+34,,<music21.note.Rest dotted-quarter>,note,tausig690,1.5,99.5,GeneralNote
+34,,<music21.chord.Chord B3 D#4>,note,tausig691,1.5,99.5,GeneralNote
+34,,<music21.articulations.Fingering 3>,fingering,tausig692,0.0,0.0,Fingering
+34,,<music21.articulations.Fingering 1>,fingering,tausig693,0.0,0.0,Fingering
+34,,<music21.note.Rest quarter>,note,tausig694,1.0,99.5,GeneralNote
+34,,<music21.note.Rest dotted-quarter>,note,tausig695,1.5,99.5,GeneralNote
+34,,<music21.note.Note E>,note,tausig696,0.5,100.0,GeneralNote
+34,,<music21.note.Note F#>,note,tausig697,0.5,100.5,GeneralNote
+34,,<music21.note.Rest eighth>,note,tausig698,0.5,100.5,GeneralNote
+34,,<music21.note.Rest eighth>,note,tausig699,0.5,100.5,GeneralNote
+34,,<music21.note.Note F#>,note,tausig700,0.5,101.0,GeneralNote
+34,,<music21.note.Rest quarter>,note,tausig701,1.0,101.0,GeneralNote
+34,,<music21.note.Rest quarter>,note,tausig702,1.0,101.0,GeneralNote
+34,,<music21.chord.Chord B3 F#4>,note,tausig703,1.5,101.0,GeneralNote
+34,,<music21.note.Note D#>,note,tausig704,1.5,101.0,GeneralNote
+34,,<music21.note.Note G>,note,tausig705,0.5,101.5,GeneralNote
+34,,<music21.articulations.Fingering 3>,fingering,tausig706,0.0,0.0,Fingering
+34,,<music21.note.Note A>,note,tausig707,0.5,102.0,GeneralNote
+34,,<music21.note.Rest eighth>,note,tausig708,0.5,102.0,GeneralNote
+34,,<music21.note.Rest eighth>,note,tausig709,0.5,102.0,GeneralNote
+34,,<music21.note.Rest 16th>,note,tausig710,0.25,102.25,GeneralNote
+34,,<music21.note.Rest 16th>,note,tausig711,0.25,102.25,GeneralNote
+35,,<music21.note.Note G>,note,tausig712,0.0,102.5,GeneralNote
+35,,<music21.articulations.Fingering 2>,fingering,tausig713,0.0,0.0,Fingering
+35,,<music21.note.Note A>,note,tausig714,0.0,102.5,GeneralNote
+35,,<music21.articulations.Fingering 4>,fingering,tausig715,0.0,0.0,Fingering
+35,,<music21.note.Note G>,note,tausig716,0.5,102.5,GeneralNote
+35,,<music21.articulations.Fingering 3>,fingering,tausig717,0.0,0.0,Fingering
+35,,<music21.chord.Chord B3 G4>,note,tausig718,1.5,102.5,GeneralNote
+35,,<music21.note.Note E>,note,tausig719,1.0,102.5,GeneralNote
+35,,<music21.note.Note F#>,note,tausig720,0.5,103.0,GeneralNote
+35,,<music21.note.Note E>,note,tausig721,0.5,103.5,GeneralNote
+35,,<music21.note.Note F#>,note,tausig722,0.5,103.5,GeneralNote
+35,,<music21.articulations.Fingering 4>,fingering,tausig723,0.0,0.0,Fingering
+35,,<music21.note.Note B>,note,tausig724,0.5,104.0,GeneralNote
+35,,<music21.chord.Chord B3 E4>,note,tausig725,1.5,104.0,GeneralNote
+35,,<music21.note.Note G>,note,tausig726,1.5,104.0,GeneralNote
+35,,<music21.articulations.Fingering 3>,fingering,tausig727,0.0,0.0,Fingering
+35,,<music21.note.Note A>,note,tausig728,0.5,104.5,GeneralNote
+35,,<music21.note.Note G>,note,tausig729,0.5,105.0,GeneralNote
+35,36,<music21.spanner.Slur <music21.note.Note G><music21.chord.Chord B4 F#5>>,slur,tausig1456,3.0,0.0,Slur
+35,36,<music21.spanner.Slur <music21.note.Note E><music21.chord.Chord B3 D#4>>,slur,tausig1457,3.0,0.0,Slur
+36,,<music21.chord.Chord B4 F#5>,note,tausig730,0.25,105.5,GeneralNote
+36,,<music21.articulations.Fingering 2>,fingering,tausig731,0.0,0.0,Fingering
+36,,<music21.chord.Chord B3 D#4>,note,tausig732,0.5,105.5,GeneralNote
+36,,<music21.articulations.Fingering 2>,fingering,tausig733,0.0,0.0,Fingering
+36,,<music21.articulations.Staccato>,staccato,tausig734,0.0,0.0,Articulation
+36,,<music21.articulations.Fingering 1>,fingering,tausig735,0.0,0.0,Fingering
+36,,<music21.note.Note G>,note,tausig736,0.25,105.75,GeneralNote
+36,,<music21.chord.Chord B4 F#5>,note,tausig737,0.25,106.0,GeneralNote
+36,,<music21.note.Note F#>,note,tausig738,0.5,106.0,GeneralNote
+36,,<music21.articulations.Fingering 4>,fingering,tausig739,0.0,0.0,Fingering
+36,,<music21.articulations.Staccato>,staccato,tausig740,0.0,0.0,Articulation
+36,,<music21.note.Note G>,note,tausig741,0.25,106.25,GeneralNote
+36,,<music21.chord.Chord B4 F#5>,note,tausig742,0.25,106.5,GeneralNote
+36,,<music21.note.Note D#>,note,tausig743,0.5,106.5,GeneralNote
+36,,<music21.articulations.Fingering 3>,fingering,tausig744,0.0,0.0,Fingering
+36,,<music21.articulations.Staccato>,staccato,tausig745,0.0,0.0,Articulation
+36,,<music21.note.Note G>,note,tausig746,0.25,106.75,GeneralNote
+36,,<music21.chord.Chord B4 F#5>,note,tausig747,0.5,107.0,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,tausig748,0.0,0.0,Articulation
+36,,<music21.note.Note B>,note,tausig749,0.5,107.0,GeneralNote
+36,,<music21.articulations.Fingering 5>,fingering,tausig750,0.0,0.0,Fingering
+36,,<music21.articulations.Staccato>,staccato,tausig751,0.0,0.0,Articulation
+36,,<music21.note.Note B>,note,tausig752,0.5,107.5,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,tausig753,0.0,0.0,Articulation
+36,,<music21.note.Rest eighth>,note,tausig754,0.5,107.5,GeneralNote
+36,,<music21.note.Note B>,note,tausig755,0.5,108.0,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,tausig756,0.0,0.0,Articulation
+36,,<music21.note.Rest eighth>,note,tausig757,0.5,108.0,GeneralNote
+36,,<music21.note.Rest 16th>,note,tausig758,0.25,108.25,GeneralNote
+36,,<music21.note.Rest 16th>,note,tausig759,0.25,108.25,GeneralNote
+36,36,<music21.spanner.Slur <music21.chord.Chord B4 F#5><music21.chord.Chord B4 F#5>>,slur,tausig1458,1.5,0.0,Slur
+36,36,<music21.dynamics.Diminuendo <music21.chord.Chord B4 F#5><music21.note.Note B>>,diminuendo,tausig1522,,,DynamicRegion
+37,,<music21.note.Note C>,note,tausig760,1.0,108.5,GeneralNote
+37,,<music21.articulations.Fingering 2>,fingering,tausig761,0.0,0.0,Fingering
+37,,<music21.chord.Chord E4 G4>,note,tausig762,1.5,108.5,GeneralNote
+37,,<music21.articulations.Fingering 2>,fingering,tausig763,0.0,0.0,Fingering
+37,,<music21.articulations.Fingering 1>,fingering,tausig764,0.0,0.0,Fingering
+37,,<music21.note.Note B>,note,tausig765,3.0,108.5,GeneralNote
+37,,<music21.note.Note B>,note,tausig766,0.5,109.5,GeneralNote
+37,,<music21.articulations.Fingering 1>,fingering,tausig767,0.0,0.0,Fingering
+37,,<music21.note.Note B>,note,tausig768,0.5,110.0,GeneralNote
+37,,<music21.articulations.Fingering 2>,fingering,tausig769,0.0,0.0,Fingering
+37,,<music21.articulations.Staccato>,staccato,tausig770,0.0,0.0,Articulation
+37,,<music21.chord.Chord D#4 F#4>,note,tausig771,1.5,110.0,GeneralNote
+37,,<music21.articulations.Fingering 3>,fingering,tausig772,0.0,0.0,Fingering
+37,,<music21.articulations.Fingering 1>,fingering,tausig773,0.0,0.0,Fingering
+37,,<music21.note.Note B>,note,tausig774,0.5,110.5,GeneralNote
+37,,<music21.articulations.Staccato>,staccato,tausig775,0.0,0.0,Articulation
+37,,<music21.note.Note B>,note,tausig776,0.5,111.0,GeneralNote
+37,,<music21.articulations.Fingering 1>,fingering,tausig777,0.0,0.0,Fingering
+37,,<music21.articulations.Staccato>,staccato,tausig778,0.0,0.0,Articulation
+37,37,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,tausig1459,1.5,0.0,Slur
+37,37,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.chord.Chord D#4 F#4>>,slur,tausig1460,1.5,0.0,Slur
+37,,<music21.dynamics.Dynamic p>,p,tausig1505,,,DynamicPoint
+38,,<music21.note.Note C>,note,tausig779,1.0,111.5,GeneralNote
+38,,<music21.articulations.Fingering 2>,fingering,tausig780,0.0,0.0,Fingering
+38,,<music21.chord.Chord E4 G4>,note,tausig781,1.5,111.5,GeneralNote
+38,,<music21.note.Note B>,note,tausig782,3.0,111.5,GeneralNote
+38,,<music21.note.Note B>,note,tausig783,0.5,112.5,GeneralNote
+38,,<music21.articulations.Fingering 1>,fingering,tausig784,0.0,0.0,Fingering
+38,,<music21.note.Note B>,note,tausig785,0.5,113.0,GeneralNote
+38,,<music21.articulations.Fingering 2>,fingering,tausig786,0.0,0.0,Fingering
+38,,<music21.articulations.Staccato>,staccato,tausig787,0.0,0.0,Articulation
+38,,<music21.chord.Chord D4 F4>,note,tausig788,1.5,113.0,GeneralNote
+38,,<music21.note.Note B>,note,tausig789,0.5,113.5,GeneralNote
+38,,<music21.articulations.Fingering 4>,fingering,tausig790,0.0,0.0,Fingering
+38,,<music21.articulations.Staccato>,staccato,tausig791,0.0,0.0,Articulation
+38,,<music21.note.Note G#>,note,tausig792,0.5,114.0,GeneralNote
+38,,<music21.articulations.Fingering 2>,fingering,tausig793,0.0,0.0,Fingering
+38,,<music21.articulations.Staccato>,staccato,tausig794,0.0,0.0,Articulation
+38,38,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,tausig1461,1.5,0.0,Slur
+38,38,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.chord.Chord D4 F4>>,slur,tausig1462,1.5,0.0,Slur
+39,,<music21.note.Note A>,note,tausig795,0.5,114.5,GeneralNote
+39,,<music21.articulations.Fingering 1>,fingering,tausig796,0.0,0.0,Fingering
+39,,<music21.chord.Chord C4 E4 A4>,note,tausig797,1.5,114.5,GeneralNote
+39,,<music21.articulations.Fingering 5>,fingering,tausig798,0.0,0.0,Fingering
+39,,<music21.note.Note B>,note,tausig799,0.5,115.0,GeneralNote
+39,,<music21.note.Note C>,note,tausig800,0.5,115.5,GeneralNote
+39,,<music21.note.Rest 16th>,note,tausig801,0.25,115.75,GeneralNote
+39,,<music21.note.Rest 16th>,note,tausig802,0.25,115.75,GeneralNote
+39,,<music21.note.Note D>,note,tausig803,0.0,116.0,GeneralNote
+39,,<music21.note.Note C>,note,tausig804,0.5,116.0,GeneralNote
+39,,<music21.chord.Chord D4 F4 B4>,note,tausig805,1.5,116.0,GeneralNote
+39,,<music21.articulations.Fingering 4>,fingering,tausig806,0.0,0.0,Fingering
+39,,<music21.note.Note B>,note,tausig807,0.5,116.5,GeneralNote
+39,,<music21.note.Note A>,note,tausig808,0.5,117.0,GeneralNote
+39,40,<music21.spanner.Slur <music21.note.Note A><music21.note.Note D>>,slur,tausig1463,5.5,0.0,Slur
+39,39,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,tausig1464,0.0,0.0,Slur
+39,40,<music21.spanner.Slur <music21.chord.Chord C4 E4 A4><music21.chord.Chord G#3 D4 B4>>,slur,tausig1465,4.5,0.0,Slur
+39,39,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note C>>,diminuendo,tausig1524,,,DynamicRegion
+39,40,<music21.dynamics.Diminuendo <music21.note.Note B><music21.note.Note D>>,diminuendo,tausig1526,,,DynamicRegion
+40,,<music21.note.Note G#>,note,tausig809,0.5,117.5,GeneralNote
+40,,<music21.articulations.Fingering 2>,fingering,tausig810,0.0,0.0,Fingering
+40,,<music21.chord.Chord E4 B4>,note,tausig811,1.5,117.5,GeneralNote
+40,,<music21.articulations.Fingering 32>,fingering,tausig812,0.0,0.0,Fingering
+40,,<music21.note.Note A>,note,tausig813,0.5,118.0,GeneralNote
+40,,<music21.note.Note B>,note,tausig814,0.5,118.5,GeneralNote
+40,,<music21.note.Note G>,note,tausig815,0.0,119.0,GeneralNote
+40,,<music21.articulations.Fingering 2>,fingering,tausig816,0.0,0.0,Fingering
+40,,<music21.note.Note F>,note,tausig817,0.5,119.0,GeneralNote
+40,,<music21.articulations.Fingering 1>,fingering,tausig818,0.0,0.0,Fingering
+40,,<music21.chord.Chord G#3 D4 B4>,note,tausig819,1.5,119.0,GeneralNote
+40,,<music21.articulations.Fingering 3>,fingering,tausig820,0.0,0.0,Fingering
+40,,<music21.note.Note E>,note,tausig821,0.5,119.5,GeneralNote
+40,,<music21.articulations.Fingering 2>,fingering,tausig822,0.0,0.0,Fingering
+40,,<music21.note.Note D>,note,tausig823,0.5,120.0,GeneralNote
+40,,<music21.articulations.Fingering 1>,fingering,tausig824,0.0,0.0,Fingering
+40,40,<music21.spanner.Slur <music21.note.Note G><music21.note.Note F>>,slur,tausig1466,0.0,0.0,Slur
+41,,<music21.note.Note D>,note,tausig825,0.5,120.5,GeneralNote
+41,,<music21.articulations.Fingering 2>,fingering,tausig826,0.0,0.0,Fingering
+41,,<music21.chord.Chord E4 B4>,note,tausig827,0.5,120.5,GeneralNote
+41,,<music21.articulations.Fingering 1>,fingering,tausig828,0.0,0.0,Fingering
+41,,<music21.note.Note A>,note,tausig829,0.5,120.5,GeneralNote
+41,,<music21.note.Note C>,note,tausig830,0.5,121.0,GeneralNote
+41,,<music21.note.Rest eighth>,note,tausig831,0.5,121.0,GeneralNote
+41,,<music21.note.Note A>,note,tausig832,0.5,121.0,GeneralNote
+41,,<music21.articulations.Fingering 2>,fingering,tausig833,0.0,0.0,Fingering
+41,,<music21.note.Rest eighth>,note,tausig834,0.5,121.0,GeneralNote
+41,,<music21.note.Note A>,note,tausig835,0.5,121.5,GeneralNote
+41,,<music21.note.Rest eighth>,note,tausig836,0.5,121.5,GeneralNote
+41,,<music21.note.Note D#>,note,tausig837,0.5,121.5,GeneralNote
+41,,<music21.articulations.Fingering 5>,fingering,tausig838,0.0,0.0,Fingering
+41,,<music21.note.Rest eighth>,note,tausig839,0.5,121.5,GeneralNote
+41,,<music21.note.Note C>,note,tausig840,0.5,122.0,GeneralNote
+41,,<music21.articulations.Fingering 2>,fingering,tausig841,0.0,0.0,Fingering
+41,,<music21.note.Rest quarter>,note,tausig842,1.0,122.0,GeneralNote
+41,,<music21.note.Note A>,note,tausig843,0.5,122.0,GeneralNote
+41,,<music21.articulations.Fingering 1>,fingering,tausig844,0.0,0.0,Fingering
+41,,<music21.note.Rest quarter>,note,tausig845,1.0,122.0,GeneralNote
+41,,<music21.note.Note B>,note,tausig846,0.5,122.5,GeneralNote
+41,,<music21.note.Note G>,note,tausig847,0.5,122.5,GeneralNote
+41,,<music21.articulations.Fingering 2>,fingering,tausig848,0.0,0.0,Fingering
+41,,<music21.note.Note G>,note,tausig849,0.5,123.0,GeneralNote
+41,,<music21.note.Rest eighth>,note,tausig850,0.5,123.0,GeneralNote
+41,,<music21.note.Note E>,note,tausig851,0.5,123.0,GeneralNote
+41,,<music21.articulations.Fingering 4>,fingering,tausig852,0.0,0.0,Fingering
+41,,<music21.note.Rest eighth>,note,tausig853,0.5,123.0,GeneralNote
+41,45,<music21.spanner.Slur <music21.note.Note D><music21.note.Note B>>,slur,tausig1467,12.0,0.0,Slur
+41,44,<music21.spanner.Slur <music21.note.Note A><music21.note.Note B>>,slur,tausig1468,9.5,0.0,Slur
+41,,<music21.dynamics.Dynamic pp>,pp,tausig1506,,,DynamicPoint
+42,,<music21.note.Note B>,note,tausig854,0.5,123.5,GeneralNote
+42,,<music21.articulations.Fingering 2>,fingering,tausig855,0.0,0.0,Fingering
+42,,<music21.note.Note G>,note,tausig856,0.5,123.5,GeneralNote
+42,,<music21.articulations.Fingering 1>,fingering,tausig857,0.0,0.0,Fingering
+42,,<music21.note.Note A>,note,tausig858,0.5,124.0,GeneralNote
+42,,<music21.note.Note F#>,note,tausig859,0.5,124.0,GeneralNote
+42,,<music21.note.Note F#>,note,tausig860,0.5,124.5,GeneralNote
+42,,<music21.note.Note B>,note,tausig861,0.5,124.5,GeneralNote
+42,,<music21.note.Note A>,note,tausig862,0.5,125.0,GeneralNote
+42,,<music21.articulations.Fingering 2>,fingering,tausig863,0.0,0.0,Fingering
+42,,<music21.note.Note F#>,note,tausig864,0.5,125.0,GeneralNote
+42,,<music21.articulations.Fingering 1>,fingering,tausig865,0.0,0.0,Fingering
+42,,<music21.note.Note G>,note,tausig866,0.5,125.5,GeneralNote
+42,,<music21.note.Note E>,note,tausig867,0.5,125.5,GeneralNote
+42,,<music21.note.Note E>,note,tausig868,0.5,126.0,GeneralNote
+42,,<music21.note.Note C>,note,tausig869,0.5,126.0,GeneralNote
+42,,<music21.articulations.Fingering 4>,fingering,tausig870,0.0,0.0,Fingering
+43,,<music21.note.Note G>,note,tausig871,0.5,126.5,GeneralNote
+43,,<music21.articulations.Fingering 2>,fingering,tausig872,0.0,0.0,Fingering
+43,,<music21.note.Note E>,note,tausig873,0.5,126.5,GeneralNote
+43,,<music21.articulations.Fingering 1>,fingering,tausig874,0.0,0.0,Fingering
+43,,<music21.note.Note F#>,note,tausig875,0.5,127.0,GeneralNote
+43,,<music21.note.Note D>,note,tausig876,0.5,127.0,GeneralNote
+43,,<music21.note.Note D>,note,tausig877,0.5,127.5,GeneralNote
+43,,<music21.note.Note G>,note,tausig878,0.5,127.5,GeneralNote
+43,,<music21.note.Note F#>,note,tausig879,0.5,128.0,GeneralNote
+43,,<music21.articulations.Fingering 2>,fingering,tausig880,0.0,0.0,Fingering
+43,,<music21.note.Note D>,note,tausig881,0.5,128.0,GeneralNote
+43,,<music21.articulations.Fingering 1>,fingering,tausig882,0.0,0.0,Fingering
+43,,<music21.note.Note E>,note,tausig883,0.5,128.5,GeneralNote
+43,,<music21.note.Note C>,note,tausig884,0.5,128.5,GeneralNote
+43,,<music21.note.Note C>,note,tausig885,0.5,129.0,GeneralNote
+43,,<music21.note.Note A>,note,tausig886,0.5,129.0,GeneralNote
+43,,<music21.articulations.Fingering 4>,fingering,tausig887,0.0,0.0,Fingering
+44,,<music21.note.Note E>,note,tausig888,0.5,129.5,GeneralNote
+44,,<music21.articulations.Fingering 2>,fingering,tausig889,0.0,0.0,Fingering
+44,,<music21.note.Note C>,note,tausig890,0.5,129.5,GeneralNote
+44,,<music21.note.Note D>,note,tausig891,0.5,130.0,GeneralNote
+44,,<music21.note.Note B>,note,tausig892,0.5,130.0,GeneralNote
+44,,<music21.note.Note B>,note,tausig893,0.5,130.5,GeneralNote
+44,,<music21.note.Rest eighth>,note,tausig894,0.5,130.5,GeneralNote
+44,,<music21.note.Note D>,note,tausig895,0.5,131.0,GeneralNote
+44,,<music21.articulations.Fingering 2>,fingering,tausig896,0.0,0.0,Fingering
+44,,<music21.note.Note B>,note,tausig897,0.5,131.0,GeneralNote
+44,,<music21.articulations.Fingering 2>,fingering,tausig898,0.0,0.0,Fingering
+44,,<music21.note.Note C>,note,tausig899,0.5,131.5,GeneralNote
+44,,<music21.note.Note A>,note,tausig900,0.5,131.5,GeneralNote
+44,,<music21.note.Note A>,note,tausig901,0.5,132.0,GeneralNote
+44,,<music21.note.Rest eighth>,note,tausig902,0.5,132.0,GeneralNote
+44,44,<music21.spanner.Slur <music21.note.Note B><music21.note.Note A>>,slur,tausig1469,0.5,0.0,Slur
+45,,<music21.note.Note B>,note,tausig903,0.5,132.5,GeneralNote
+45,,<music21.articulations.Fingering 1>,fingering,tausig904,0.0,0.0,Fingering
+45,,<music21.articulations.Staccato>,staccato,tausig905,0.0,0.0,Articulation
+45,,<music21.note.Note G>,note,tausig906,0.5,132.5,GeneralNote
+45,,<music21.articulations.Fingering 4>,fingering,tausig907,0.0,0.0,Fingering
+45,,<music21.articulations.Staccato>,staccato,tausig908,0.0,0.0,Articulation
+45,,<music21.note.Note C#>,note,tausig909,0.25,133.0,GeneralNote
+45,,<music21.note.Note A>,note,tausig910,0.25,133.0,GeneralNote
+45,,<music21.articulations.Fingering 3>,fingering,tausig911,0.0,0.0,Fingering
+45,,<music21.note.Note D#>,note,tausig912,0.25,133.25,GeneralNote
+45,,<music21.note.Note B>,note,tausig913,0.25,133.25,GeneralNote
+45,,<music21.articulations.Fingering 1>,fingering,tausig914,0.0,0.0,Fingering
+45,,<music21.note.Note E>,note,tausig915,0.25,133.5,GeneralNote
+45,,<music21.articulations.Fingering 1>,fingering,tausig916,0.0,0.0,Fingering
+45,,<music21.note.Note C#>,note,tausig917,0.25,133.5,GeneralNote
+45,,<music21.articulations.Fingering 3>,fingering,tausig918,0.0,0.0,Fingering
+45,,<music21.note.Note F#>,note,tausig919,0.25,133.75,GeneralNote
+45,,<music21.note.Note D#>,note,tausig920,0.25,133.75,GeneralNote
+45,,<music21.note.Note G>,note,tausig921,0.5,134.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,tausig922,0.0,0.0,Articulation
+45,,<music21.note.Note E>,note,tausig923,0.5,134.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,tausig924,0.0,0.0,Articulation
+45,,<music21.note.Note F#>,note,tausig925,0.5,134.5,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,tausig926,0.0,0.0,Articulation
+45,,<music21.note.Note D#>,note,tausig927,0.5,134.5,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,tausig928,0.0,0.0,Articulation
+45,,<music21.note.Note E>,note,tausig929,0.5,135.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,tausig930,0.0,0.0,Articulation
+45,,<music21.note.Note C#>,note,tausig931,0.5,135.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,tausig932,0.0,0.0,Articulation
+45,45,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note G>>,slur,tausig1470,1.0,0.0,Slur
+45,45,<music21.spanner.Slur <music21.note.Note E>>,slur,tausig1471,0.0,0.0,Slur
+45,50,<music21.spanner.Slur <music21.note.Note A><music21.chord.Chord E4 G4><music21.note.Note F#>>,slur,tausig1472,16.0,0.0,Slur
+46,,<music21.note.Note D#>,note,tausig933,0.25,135.5,GeneralNote
+46,,<music21.articulations.Fingering 2>,fingering,tausig934,0.0,0.0,Fingering
+46,,<music21.note.Note B>,note,tausig935,0.25,135.5,GeneralNote
+46,,<music21.articulations.Fingering 4>,fingering,tausig936,0.0,0.0,Fingering
+46,,<music21.note.Note E>,note,tausig937,0.25,135.75,GeneralNote
+46,,<music21.articulations.Fingering 3>,fingering,tausig938,0.0,0.0,Fingering
+46,,<music21.note.Note C#>,note,tausig939,0.25,135.75,GeneralNote
+46,,<music21.note.Note F#>,note,tausig940,0.25,136.0,GeneralNote
+46,,<music21.articulations.Fingering 4>,fingering,tausig941,0.0,0.0,Fingering
+46,,<music21.note.Note D#>,note,tausig942,0.25,136.0,GeneralNote
+46,,<music21.note.Note G>,note,tausig943,0.25,136.25,GeneralNote
+46,,<music21.articulations.Fingering 1>,fingering,tausig944,0.0,0.0,Fingering
+46,,<music21.note.Note E>,note,tausig945,0.25,136.25,GeneralNote
+46,,<music21.note.Note A>,note,tausig946,0.25,136.5,GeneralNote
+46,,<music21.note.Note F#>,note,tausig947,0.25,136.5,GeneralNote
+46,,<music21.articulations.Fingering 3>,fingering,tausig948,0.0,0.0,Fingering
+46,,<music21.note.Note B>,note,tausig949,0.25,136.75,GeneralNote
+46,,<music21.note.Note G>,note,tausig950,0.25,136.75,GeneralNote
+46,,<music21.note.Note C>,note,tausig951,0.5,137.0,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,tausig952,0.0,0.0,Articulation
+46,,<music21.note.Note A>,note,tausig953,0.5,137.0,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,tausig954,0.0,0.0,Articulation
+46,,<music21.note.Note B>,note,tausig955,0.5,137.5,GeneralNote
+46,,<music21.articulations.Fingering 3>,fingering,tausig956,0.0,0.0,Fingering
+46,,<music21.articulations.Staccato>,staccato,tausig957,0.0,0.0,Articulation
+46,,<music21.note.Note G>,note,tausig958,0.5,137.5,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,tausig959,0.0,0.0,Articulation
+46,,<music21.note.Note A>,note,tausig960,0.5,138.0,GeneralNote
+46,,<music21.articulations.Fingering 2>,fingering,tausig961,0.0,0.0,Fingering
+46,,<music21.articulations.Staccato>,staccato,tausig962,0.0,0.0,Articulation
+46,,<music21.note.Note F#>,note,tausig963,0.5,138.0,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,tausig964,0.0,0.0,Articulation
+46,46,<music21.spanner.Slur <music21.note.Note E><music21.note.Note C>>,slur,tausig1473,1.25,0.0,Slur
+46,46,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note A>>,slur,tausig1474,1.25,0.0,Slur
+47,,<music21.note.Note B>,note,tausig965,0.5,138.5,GeneralNote
+47,,<music21.articulations.Fingering 1>,fingering,tausig966,0.0,0.0,Fingering
+47,,<music21.articulations.Staccato>,staccato,tausig967,0.0,0.0,Articulation
+47,,<music21.note.Note G>,note,tausig968,0.5,138.5,GeneralNote
+47,,<music21.articulations.Fingering 1>,fingering,tausig969,0.0,0.0,Fingering
+47,,<music21.articulations.Staccato>,staccato,tausig970,0.0,0.0,Articulation
+47,,<music21.note.Note C#>,note,tausig971,0.25,139.0,GeneralNote
+47,,<music21.note.Note A>,note,tausig972,0.25,139.0,GeneralNote
+47,,<music21.articulations.Fingering 2>,fingering,tausig973,0.0,0.0,Fingering
+47,,<music21.note.Note D#>,note,tausig974,0.25,139.25,GeneralNote
+47,,<music21.note.Note B>,note,tausig975,0.25,139.25,GeneralNote
+47,,<music21.note.Note E>,note,tausig976,0.25,139.5,GeneralNote
+47,,<music21.articulations.Fingering 1>,fingering,tausig977,0.0,0.0,Fingering
+47,,<music21.note.Note C#>,note,tausig978,0.25,139.5,GeneralNote
+47,,<music21.articulations.Fingering 1>,fingering,tausig979,0.0,0.0,Fingering
+47,,<music21.note.Note F#>,note,tausig980,0.25,139.75,GeneralNote
+47,,<music21.note.Note D#>,note,tausig981,0.25,139.75,GeneralNote
+47,,<music21.note.Note G>,note,tausig982,0.5,140.0,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,tausig983,0.0,0.0,Articulation
+47,,<music21.note.Note E>,note,tausig984,0.5,140.0,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,tausig985,0.0,0.0,Articulation
+47,,<music21.note.Note F#>,note,tausig986,0.5,140.5,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,tausig987,0.0,0.0,Articulation
+47,,<music21.note.Note D#>,note,tausig988,0.5,140.5,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,tausig989,0.0,0.0,Articulation
+47,,<music21.note.Note E>,note,tausig990,0.5,141.0,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,tausig991,0.0,0.0,Articulation
+47,,<music21.note.Note C#>,note,tausig992,0.5,141.0,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,tausig993,0.0,0.0,Articulation
+47,47,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note G>>,slur,tausig1475,1.0,0.0,Slur
+47,47,<music21.spanner.Slur <music21.note.Note A><music21.note.Note E>>,slur,tausig1476,1.0,0.0,Slur
+48,,<music21.chord.Chord D#5 F#5>,note,tausig994,1.5,141.5,GeneralNote
+48,,<music21.articulations.Fingering 2>,fingering,tausig995,0.0,0.0,Fingering
+48,,<music21.articulations.Fingering 3>,fingering,tausig996,0.0,0.0,Fingering
+48,,<music21.note.Note B>,note,tausig997,0.5,141.5,GeneralNote
+48,,<music21.articulations.Fingering 1>,fingering,tausig998,0.0,0.0,Fingering
+48,,<music21.articulations.Staccato>,staccato,tausig999,0.0,0.0,Articulation
+48,,<music21.note.Note F#>,note,tausig1000,0.5,142.0,GeneralNote
+48,,<music21.articulations.Fingering 2>,fingering,tausig1001,0.0,0.0,Fingering
+48,,<music21.articulations.Staccato>,staccato,tausig1002,0.0,0.0,Articulation
+48,,<music21.note.Note D#>,note,tausig1003,0.5,142.5,GeneralNote
+48,,<music21.articulations.Fingering 3>,fingering,tausig1004,0.0,0.0,Fingering
+48,,<music21.articulations.Staccato>,staccato,tausig1005,0.0,0.0,Articulation
+48,,<music21.chord.Chord D#5 F#5>,note,tausig1006,0.5,143.0,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,tausig1007,0.0,0.0,Articulation
+48,,<music21.note.Note B>,note,tausig1008,1.0,143.0,GeneralNote
+48,,<music21.note.Note B>,note,tausig1009,0.5,143.5,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,tausig1010,0.0,0.0,Articulation
+48,,<music21.note.Note B>,note,tausig1011,0.5,144.0,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,tausig1012,0.0,0.0,Articulation
+48,,<music21.chord.Chord D#4 F#4>,note,tausig1013,0.5,144.0,GeneralNote
+48,,<music21.articulations.Fingering 3>,fingering,tausig1014,0.0,0.0,Fingering
+48,,<music21.articulations.Fingering 1>,fingering,tausig1015,0.0,0.0,Fingering
+48,48,<music21.spanner.Slur <music21.chord.Chord D#5 F#5><music21.chord.Chord D#5 F#5>>,slur,tausig1477,1.5,0.0,Slur
+48,48,<music21.spanner.Slur <music21.note.Note B><music21.chord.Chord D#4 F#4>>,slur,tausig1478,1.0,0.0,Slur
+49,,<music21.note.Note C>,note,tausig1016,1.0,144.5,GeneralNote
+49,,<music21.articulations.Fingering 2>,fingering,tausig1017,0.0,0.0,Fingering
+49,,<music21.note.Rest quarter>,note,tausig1018,1.0,144.5,GeneralNote
+49,,<music21.note.Rest dotted-quarter>,note,tausig1019,1.5,144.5,GeneralNote
+49,,<music21.chord.Chord E4 G4>,note,tausig1020,1.5,144.5,GeneralNote
+49,,<music21.articulations.Fingering 2>,fingering,tausig1021,0.0,0.0,Fingering
+49,,<music21.articulations.Fingering 1>,fingering,tausig1022,0.0,0.0,Fingering
+49,,<music21.note.Rest quarter>,note,tausig1023,1.0,144.5,GeneralNote
+49,,<music21.note.Rest dotted-quarter>,note,tausig1024,1.5,144.5,GeneralNote
+49,,<music21.note.Note B>,note,tausig1025,0.5,145.5,GeneralNote
+49,,<music21.articulations.Fingering 1>,fingering,tausig1026,0.0,0.0,Fingering
+49,,<music21.note.Rest eighth>,note,tausig1027,0.5,145.5,GeneralNote
+49,,<music21.note.Rest eighth>,note,tausig1028,0.5,145.5,GeneralNote
+49,,<music21.note.Note B>,note,tausig1029,0.5,146.0,GeneralNote
+49,,<music21.articulations.Fingering 2>,fingering,tausig1030,0.0,0.0,Fingering
+49,,<music21.articulations.Staccato>,staccato,tausig1031,0.0,0.0,Articulation
+49,,<music21.note.Note F#>,note,tausig1032,1.0,146.0,GeneralNote
+49,,<music21.note.Note D#>,note,tausig1033,1.0,146.0,GeneralNote
+49,,<music21.articulations.Fingering 3>,fingering,tausig1034,0.0,0.0,Fingering
+49,,<music21.note.Note B>,note,tausig1035,0.5,146.5,GeneralNote
+49,,<music21.articulations.Staccato>,staccato,tausig1036,0.0,0.0,Articulation
+49,,<music21.note.Note B>,note,tausig1037,0.5,147.0,GeneralNote
+49,,<music21.articulations.Fingering 1>,fingering,tausig1038,0.0,0.0,Fingering
+49,,<music21.articulations.Staccato>,staccato,tausig1039,0.0,0.0,Articulation
+49,,<music21.note.Rest eighth>,note,tausig1040,0.5,147.0,GeneralNote
+49,,<music21.note.Note B>,note,tausig1041,0.5,147.0,GeneralNote
+49,,<music21.articulations.Staccato>,staccato,tausig1042,0.0,0.0,Articulation
+49,49,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,tausig1479,1.5,0.0,Slur
+49,49,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note F#>>,slur,tausig1480,1.5,0.0,Slur
+50,,<music21.note.Note C>,note,tausig1043,1.0,147.5,GeneralNote
+50,,<music21.articulations.Fingering 2>,fingering,tausig1044,0.0,0.0,Fingering
+50,,<music21.note.Rest quarter>,note,tausig1045,1.0,147.5,GeneralNote
+50,,<music21.note.Rest dotted-quarter>,note,tausig1046,1.5,147.5,GeneralNote
+50,,<music21.chord.Chord E4 G4>,note,tausig1047,1.5,147.5,GeneralNote
+50,,<music21.note.Rest quarter>,note,tausig1048,1.0,147.5,GeneralNote
+50,,<music21.note.Rest dotted-quarter>,note,tausig1049,1.5,147.5,GeneralNote
+50,,<music21.note.Note B>,note,tausig1050,0.5,148.5,GeneralNote
+50,,<music21.articulations.Fingering 1>,fingering,tausig1051,0.0,0.0,Fingering
+50,,<music21.note.Rest eighth>,note,tausig1052,0.5,148.5,GeneralNote
+50,,<music21.note.Rest eighth>,note,tausig1053,0.5,148.5,GeneralNote
+50,,<music21.note.Note B>,note,tausig1054,0.5,149.0,GeneralNote
+50,,<music21.articulations.Fingering 2>,fingering,tausig1055,0.0,0.0,Fingering
+50,,<music21.articulations.Staccato>,staccato,tausig1056,0.0,0.0,Articulation
+50,,<music21.note.Note F#>,note,tausig1057,1.0,149.0,GeneralNote
+50,,<music21.note.Note D#>,note,tausig1058,1.0,149.0,GeneralNote
+50,,<music21.note.Note B>,note,tausig1059,0.5,149.5,GeneralNote
+50,,<music21.articulations.Fingering 5>,fingering,tausig1060,0.0,0.0,Fingering
+50,,<music21.note.Note A>,note,tausig1061,0.5,150.0,GeneralNote
+50,,<music21.articulations.Fingering 3>,fingering,tausig1062,0.0,0.0,Fingering
+50,,<music21.note.Rest eighth>,note,tausig1063,0.5,150.0,GeneralNote
+50,,<music21.note.Note B>,note,tausig1064,0.5,150.0,GeneralNote
+50,,<music21.articulations.Staccato>,staccato,tausig1065,0.0,0.0,Articulation
+50,50,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,tausig1481,1.5,0.0,Slur
+50,52,<music21.spanner.Slur <music21.note.Note B><music21.chord.Chord G4 E5>>,slur,tausig1482,4.0,0.0,Slur
+51,,<music21.note.Note G>,note,tausig1066,0.0,150.5,GeneralNote
+51,,<music21.articulations.Fingering 2>,fingering,tausig1067,0.0,0.0,Fingering
+51,,<music21.note.Note A>,note,tausig1068,0.0,150.5,GeneralNote
+51,,<music21.articulations.Fingering 4>,fingering,tausig1069,0.0,0.0,Fingering
+51,,<music21.note.Note G>,note,tausig1070,0.5,150.5,GeneralNote
+51,,<music21.articulations.Fingering 3>,fingering,tausig1071,0.0,0.0,Fingering
+51,,<music21.note.Note G>,note,tausig1072,1.5,150.5,GeneralNote
+51,,<music21.note.Note E>,note,tausig1073,1.0,150.5,GeneralNote
+51,,<music21.note.Note F#>,note,tausig1074,0.5,151.0,GeneralNote
+51,,<music21.note.Note E>,note,tausig1075,0.5,151.5,GeneralNote
+51,,<music21.note.Note A>,note,tausig1076,0.5,151.5,GeneralNote
+51,,<music21.articulations.Fingering 5>,fingering,tausig1077,0.0,0.0,Fingering
+51,,<music21.chord.Chord G4 E5>,note,tausig1078,0.5,152.0,GeneralNote
+51,,<music21.articulations.Fingering 1>,fingering,tausig1079,0.0,0.0,Fingering
+51,,<music21.articulations.Fingering 4>,fingering,tausig1080,0.0,0.0,Fingering
+51,,<music21.note.Rest quarter>,note,tausig1081,1.0,152.0,GeneralNote
+51,,<music21.note.Note B>,note,tausig1082,1.5,152.0,GeneralNote
+51,,<music21.articulations.Fingering 4>,fingering,tausig1083,0.0,0.0,Fingering
+51,,<music21.chord.Chord A4 F#5>,note,tausig1084,0.5,152.5,GeneralNote
+51,,<music21.articulations.Fingering 2>,fingering,tausig1085,0.0,0.0,Fingering
+51,,<music21.articulations.Fingering 5>,fingering,tausig1086,0.0,0.0,Fingering
+51,,<music21.chord.Chord F#4 D#5>,note,tausig1087,0.5,153.0,GeneralNote
+51,,<music21.articulations.Fingering 4>,fingering,tausig1088,0.0,0.0,Fingering
+51,,<music21.note.Rest eighth>,note,tausig1089,0.5,153.0,GeneralNote
+51,51,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,tausig1483,1.5,0.0,Slur
+52,,<music21.chord.Chord G4 E5>,note,tausig1090,0.25,153.5,GeneralNote
+52,,<music21.articulations.Fingering 1>,fingering,tausig1091,0.0,0.0,Fingering
+52,,<music21.articulations.Fingering 5>,fingering,tausig1092,0.0,0.0,Fingering
+52,,<music21.chord.Chord B3 E4>,note,tausig1093,0.5,153.5,GeneralNote
+52,,<music21.articulations.Fingering 2>,fingering,tausig1094,0.0,0.0,Fingering
+52,,<music21.articulations.Staccato>,staccato,tausig1095,0.0,0.0,Articulation
+52,,<music21.articulations.Fingering 1>,fingering,tausig1096,0.0,0.0,Fingering
+52,,<music21.note.Note F#>,note,tausig1097,0.25,153.75,GeneralNote
+52,,<music21.articulations.Fingering 4>,fingering,tausig1098,0.0,0.0,Fingering
+52,,<music21.chord.Chord B4 E5>,note,tausig1099,0.25,154.0,GeneralNote
+52,,<music21.articulations.Fingering 1>,fingering,tausig1100,0.0,0.0,Fingering
+52,,<music21.articulations.Fingering 3>,fingering,tausig1101,0.0,0.0,Fingering
+52,,<music21.chord.Chord E3 B3>,note,tausig1102,0.5,154.0,GeneralNote
+52,,<music21.articulations.Fingering 5>,fingering,tausig1103,0.0,0.0,Fingering
+52,,<music21.articulations.Staccato>,staccato,tausig1104,0.0,0.0,Articulation
+52,,<music21.articulations.Fingering 2>,fingering,tausig1105,0.0,0.0,Fingering
+52,,<music21.note.Note F#>,note,tausig1106,0.25,154.25,GeneralNote
+52,,<music21.articulations.Fingering 4>,fingering,tausig1107,0.0,0.0,Fingering
+52,,<music21.chord.Chord G4 E5>,note,tausig1108,0.25,154.5,GeneralNote
+52,,<music21.articulations.Fingering 1>,fingering,tausig1109,0.0,0.0,Fingering
+52,,<music21.articulations.Fingering 3>,fingering,tausig1110,0.0,0.0,Fingering
+52,,<music21.chord.Chord B2 E3>,note,tausig1111,0.5,154.5,GeneralNote
+52,,<music21.articulations.Fingering 2>,fingering,tausig1112,0.0,0.0,Fingering
+52,,<music21.articulations.Staccato>,staccato,tausig1113,0.0,0.0,Articulation
+52,,<music21.articulations.Fingering 1>,fingering,tausig1114,0.0,0.0,Fingering
+52,,<music21.note.Note F#>,note,tausig1115,0.25,154.75,GeneralNote
+52,,<music21.articulations.Fingering 4>,fingering,tausig1116,0.0,0.0,Fingering
+52,,<music21.chord.Chord B4 E5>,note,tausig1117,0.5,155.0,GeneralNote
+52,,<music21.articulations.Fingering 1>,fingering,tausig1118,0.0,0.0,Fingering
+52,,<music21.articulations.Staccato>,staccato,tausig1119,0.0,0.0,Articulation
+52,,<music21.articulations.Fingering 3>,fingering,tausig1120,0.0,0.0,Fingering
+52,,<music21.chord.Chord E2 B2>,note,tausig1121,1.5,155.0,GeneralNote
+52,,<music21.articulations.Fingering 5>,fingering,tausig1122,0.0,0.0,Fingering
+52,,<music21.articulations.Tenuto>,tenuto,tausig1123,0.0,0.0,Articulation
+52,,<music21.articulations.Fingering 2>,fingering,tausig1124,0.0,0.0,Fingering
+52,,<music21.chord.Chord B4 F#5>,note,tausig1125,0.5,155.5,GeneralNote
+52,,<music21.articulations.Fingering 2>,fingering,tausig1126,0.0,0.0,Fingering
+52,,<music21.articulations.Staccato>,staccato,tausig1127,0.0,0.0,Articulation
+52,,<music21.articulations.Fingering 5>,fingering,tausig1128,0.0,0.0,Fingering
+52,,<music21.chord.Chord E4 B4>,note,tausig1129,0.5,156.0,GeneralNote
+52,,<music21.articulations.Fingering 1>,fingering,tausig1130,0.0,0.0,Fingering
+52,,<music21.articulations.Staccato>,staccato,tausig1131,0.0,0.0,Articulation
+52,,<music21.articulations.Fingering 2>,fingering,tausig1132,0.0,0.0,Fingering
+52,52,<music21.spanner.Slur <music21.chord.Chord G4 E5><music21.chord.Chord B4 E5>>,slur,tausig1484,1.5,0.0,Slur
+53,,<music21.chord.Chord E5 G5>,note,tausig1133,0.25,156.5,GeneralNote
+53,,<music21.articulations.Fingering 2>,fingering,tausig1134,0.0,0.0,Fingering
+53,,<music21.articulations.Fingering 4>,fingering,tausig1135,0.0,0.0,Fingering
+53,,<music21.chord.Chord B3 E4>,note,tausig1136,0.5,156.5,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,tausig1137,0.0,0.0,Articulation
+53,,<music21.chord.Chord B4 F#5>,note,tausig1138,0.25,156.75,GeneralNote
+53,,<music21.articulations.Fingering 1>,fingering,tausig1139,0.0,0.0,Fingering
+53,,<music21.articulations.Fingering 3>,fingering,tausig1140,0.0,0.0,Fingering
+53,,<music21.chord.Chord E5 G5>,note,tausig1141,0.25,157.0,GeneralNote
+53,,<music21.chord.Chord E3 B3>,note,tausig1142,0.5,157.0,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,tausig1143,0.0,0.0,Articulation
+53,,<music21.chord.Chord B4 F#5>,note,tausig1144,0.25,157.25,GeneralNote
+53,,<music21.chord.Chord E5 G5>,note,tausig1145,0.25,157.5,GeneralNote
+53,,<music21.chord.Chord B2 E3>,note,tausig1146,0.5,157.5,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,tausig1147,0.0,0.0,Articulation
+53,,<music21.chord.Chord B4 F#5>,note,tausig1148,0.25,157.75,GeneralNote
+53,,<music21.note.Note E>,note,tausig1149,0.5,158.0,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,tausig1150,0.0,0.0,Articulation
+53,,<music21.chord.Chord E2 B2>,note,tausig1151,1.5,158.0,GeneralNote
+53,,<music21.articulations.Tenuto>,tenuto,tausig1152,0.0,0.0,Articulation
+53,,<music21.chord.Chord B4 F#5>,note,tausig1153,0.5,158.5,GeneralNote
+53,,<music21.articulations.Fingering 2>,fingering,tausig1154,0.0,0.0,Fingering
+53,,<music21.articulations.Staccato>,staccato,tausig1155,0.0,0.0,Articulation
+53,,<music21.articulations.Fingering 5>,fingering,tausig1156,0.0,0.0,Fingering
+53,,<music21.chord.Chord E4 B4>,note,tausig1157,0.5,159.0,GeneralNote
+53,,<music21.articulations.Fingering 1>,fingering,tausig1158,0.0,0.0,Fingering
+53,,<music21.articulations.Staccato>,staccato,tausig1159,0.0,0.0,Articulation
+53,,<music21.articulations.Fingering 2>,fingering,tausig1160,0.0,0.0,Fingering
+53,53,<music21.spanner.Slur <music21.chord.Chord E5 G5><music21.note.Note E>>,slur,tausig1485,1.5,0.0,Slur
+54,,<music21.chord.Chord E5 G5>,note,tausig1161,0.25,159.5,GeneralNote
+54,,<music21.chord.Chord B3 E4>,note,tausig1162,0.5,159.5,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,tausig1163,0.0,0.0,Articulation
+54,,<music21.chord.Chord B4 F#5>,note,tausig1164,0.25,159.75,GeneralNote
+54,,<music21.chord.Chord E5 G5>,note,tausig1165,0.25,160.0,GeneralNote
+54,,<music21.chord.Chord E3 B3>,note,tausig1166,0.5,160.0,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,tausig1167,0.0,0.0,Articulation
+54,,<music21.chord.Chord B4 F#5>,note,tausig1168,0.25,160.25,GeneralNote
+54,,<music21.chord.Chord E5 G5>,note,tausig1169,0.25,160.5,GeneralNote
+54,,<music21.chord.Chord B2 E3>,note,tausig1170,0.5,160.5,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,tausig1171,0.0,0.0,Articulation
+54,,<music21.chord.Chord B4 F#5>,note,tausig1172,0.25,160.75,GeneralNote
+54,,<music21.note.Note E>,note,tausig1173,0.5,161.0,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,tausig1174,0.0,0.0,Articulation
+54,,<music21.chord.Chord E2 B2>,note,tausig1175,1.5,161.0,GeneralNote
+54,,<music21.articulations.Tenuto>,tenuto,tausig1176,0.0,0.0,Articulation
+54,,<music21.chord.Chord B4 F#5>,note,tausig1177,0.5,161.5,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,tausig1178,0.0,0.0,Articulation
+54,,<music21.note.Note B>,note,tausig1179,0.5,162.0,GeneralNote
+54,,<music21.articulations.Fingering 2>,fingering,tausig1180,0.0,0.0,Fingering
+54,,<music21.articulations.Staccato>,staccato,tausig1181,0.0,0.0,Articulation
+54,54,<music21.spanner.Slur <music21.chord.Chord E5 G5><music21.note.Note E>>,slur,tausig1486,1.5,0.0,Slur
+55,,<music21.chord.Chord E5 G5>,note,tausig1182,0.5,162.5,GeneralNote
+55,,<music21.articulations.Fingering 1>,fingering,tausig1183,0.0,0.0,Fingering
+55,,<music21.articulations.Fingering 3>,fingering,tausig1184,0.0,0.0,Fingering
+55,,<music21.chord.Chord E3 B3 G4>,note,tausig1185,1.5,162.5,GeneralNote
+55,,<music21.chord.Chord F#5 A5>,note,tausig1186,0.5,163.0,GeneralNote
+55,,<music21.chord.Chord G5 B5>,note,tausig1187,0.5,163.5,GeneralNote
+55,,<music21.chord.Chord G5 B5>,note,tausig1188,0.5,164.0,GeneralNote
+55,,<music21.chord.Chord A3 C4 E4>,note,tausig1189,1.5,164.0,GeneralNote
+55,,<music21.articulations.Fingering 4>,fingering,tausig1190,0.0,0.0,Fingering
+55,,<music21.chord.Chord F#5 A5>,note,tausig1191,0.5,164.5,GeneralNote
+55,,<music21.chord.Chord E5 G5>,note,tausig1192,0.5,165.0,GeneralNote
+55,,<music21.note.Rest 16th>,note,tausig1193,0.25,165.25,GeneralNote
+55,,<music21.note.Rest 16th>,note,tausig1194,0.25,165.25,GeneralNote
+55,57,<music21.spanner.Slur <music21.chord.Chord E5 G5><music21.chord.Chord E4 G4>>,slur,tausig1487,6.0,0.0,Slur
+55,55,<music21.dynamics.Crescendo <music21.chord.Chord E5 G5><music21.chord.Chord F#5 A5>>,diminuendo,tausig1528,,,DynamicRegion
+55,55,<music21.dynamics.Diminuendo <music21.chord.Chord G5 B5><music21.chord.Chord E5 G5>>,diminuendo,tausig1530,,,DynamicRegion
+56,,<music21.note.Note F#>,note,tausig1195,0.25,165.5,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,tausig1196,0.0,0.0,Fingering
+56,,<music21.chord.Chord B3 D#4>,note,tausig1197,1.5,165.5,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,tausig1198,0.0,0.0,Fingering
+56,,<music21.articulations.Fingering 1>,fingering,tausig1199,0.0,0.0,Fingering
+56,,<music21.note.Note E>,note,tausig1200,0.25,165.75,GeneralNote
+56,,<music21.articulations.Fingering 1>,fingering,tausig1201,0.0,0.0,Fingering
+56,,<music21.chord.Chord D#5 F#5>,note,tausig1202,0.25,166.0,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,tausig1203,0.0,0.0,Fingering
+56,,<music21.articulations.Fingering 4>,fingering,tausig1204,0.0,0.0,Fingering
+56,,<music21.note.Note C#>,note,tausig1205,0.25,166.25,GeneralNote
+56,,<music21.articulations.Fingering 1>,fingering,tausig1206,0.0,0.0,Fingering
+56,,<music21.chord.Chord B4 D#5>,note,tausig1207,0.25,166.5,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,tausig1208,0.0,0.0,Fingering
+56,,<music21.articulations.Fingering 4>,fingering,tausig1209,0.0,0.0,Fingering
+56,,<music21.note.Note A>,note,tausig1210,0.25,166.75,GeneralNote
+56,,<music21.articulations.Fingering 1>,fingering,tausig1211,0.0,0.0,Fingering
+56,,<music21.chord.Chord G4 B4>,note,tausig1212,0.25,167.0,GeneralNote
+56,,<music21.articulations.Fingering 3>,fingering,tausig1213,0.0,0.0,Fingering
+56,,<music21.articulations.Fingering 5>,fingering,tausig1214,0.0,0.0,Fingering
+56,,<music21.note.Note B>,note,tausig1215,0.5,167.0,GeneralNote
+56,,<music21.note.Note F#>,note,tausig1216,0.25,167.25,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,tausig1217,0.0,0.0,Fingering
+56,,<music21.note.Note E>,note,tausig1218,0.25,167.5,GeneralNote
+56,,<music21.articulations.Fingering 1>,fingering,tausig1219,0.0,0.0,Fingering
+56,,<music21.note.Rest eighth>,note,tausig1220,0.5,167.5,GeneralNote
+56,,<music21.note.Note D#>,note,tausig1221,0.25,167.75,GeneralNote
+56,,<music21.articulations.Fingering 3>,fingering,tausig1222,0.0,0.0,Fingering
+56,,<music21.note.Note C#>,note,tausig1223,0.25,168.0,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,tausig1224,0.0,0.0,Fingering
+56,,<music21.note.Rest eighth>,note,tausig1225,0.5,168.0,GeneralNote
+56,,<music21.note.Note B>,note,tausig1226,0.25,168.25,GeneralNote
+56,,<music21.articulations.Fingering 1>,fingering,tausig1227,0.0,0.0,Fingering
+56,56,<music21.spanner.Slur <music21.chord.Chord B3 D#4><music21.note.Note B>>,slur,tausig1488,1.5,0.0,Slur
+56,56,<music21.dynamics.Diminuendo <music21.note.Note E><music21.note.Note C#>>,diminuendo,tausig1532,,,DynamicRegion
+57,,<music21.chord.Chord E4 G4>,note,tausig1228,0.25,168.5,GeneralNote
+57,,<music21.articulations.Fingering 2>,fingering,tausig1229,0.0,0.0,Fingering
+57,,<music21.articulations.Fingering 4>,fingering,tausig1230,0.0,0.0,Fingering
+57,,<music21.note.Note E>,note,tausig1231,0.5,168.5,GeneralNote
+57,,<music21.articulations.Fingering 2>,fingering,tausig1232,0.0,0.0,Fingering
+57,,<music21.articulations.Staccato>,staccato,tausig1233,0.0,0.0,Articulation
+57,,<music21.chord.Chord B3 F#4>,note,tausig1234,0.25,168.75,GeneralNote
+57,,<music21.articulations.Fingering 1>,fingering,tausig1235,0.0,0.0,Fingering
+57,,<music21.articulations.Fingering 3>,fingering,tausig1236,0.0,0.0,Fingering
+57,,<music21.chord.Chord E4 G4>,note,tausig1237,0.25,169.0,GeneralNote
+57,,<music21.note.Note B>,note,tausig1238,0.5,169.0,GeneralNote
+57,,<music21.articulations.Fingering 1>,fingering,tausig1239,0.0,0.0,Fingering
+57,,<music21.articulations.Staccato>,staccato,tausig1240,0.0,0.0,Articulation
+57,,<music21.chord.Chord B3 F#4>,note,tausig1241,0.25,169.25,GeneralNote
+57,,<music21.chord.Chord E4 G4>,note,tausig1242,0.25,169.5,GeneralNote
+57,,<music21.note.Note E>,note,tausig1243,0.5,169.5,GeneralNote
+57,,<music21.articulations.Fingering 3>,fingering,tausig1244,0.0,0.0,Fingering
+57,,<music21.articulations.Staccato>,staccato,tausig1245,0.0,0.0,Articulation
+57,,<music21.chord.Chord B3 F#4>,note,tausig1246,0.25,169.75,GeneralNote
+57,,<music21.note.Note G>,note,tausig1247,0.5,170.0,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,tausig1248,0.0,0.0,Articulation
+57,,<music21.note.Note B>,note,tausig1249,1.5,170.0,GeneralNote
+57,,<music21.articulations.Tenuto>,tenuto,tausig1250,0.0,0.0,Articulation
+57,,<music21.note.Note F#>,note,tausig1251,0.5,170.5,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,tausig1252,0.0,0.0,Articulation
+57,,<music21.note.Note B>,note,tausig1253,0.5,171.0,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,tausig1254,0.0,0.0,Articulation
+57,57,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note G>>,slur,tausig1489,1.5,0.0,Slur
+58,,<music21.chord.Chord E4 G4>,note,tausig1255,0.25,171.5,GeneralNote
+58,,<music21.note.Note E>,note,tausig1256,0.5,171.5,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,tausig1257,0.0,0.0,Articulation
+58,,<music21.chord.Chord B3 F#4>,note,tausig1258,0.25,171.75,GeneralNote
+58,,<music21.chord.Chord E4 G4>,note,tausig1259,0.25,172.0,GeneralNote
+58,,<music21.note.Note B>,note,tausig1260,0.5,172.0,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,tausig1261,0.0,0.0,Articulation
+58,,<music21.chord.Chord B3 F#4>,note,tausig1262,0.25,172.25,GeneralNote
+58,,<music21.chord.Chord E4 G4>,note,tausig1263,0.25,172.5,GeneralNote
+58,,<music21.note.Note E>,note,tausig1264,0.5,172.5,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,tausig1265,0.0,0.0,Articulation
+58,,<music21.chord.Chord B3 F#4>,note,tausig1266,0.25,172.75,GeneralNote
+58,,<music21.note.Note G>,note,tausig1267,0.5,173.0,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,tausig1268,0.0,0.0,Articulation
+58,,<music21.note.Note B>,note,tausig1269,1.5,173.0,GeneralNote
+58,,<music21.articulations.Tenuto>,tenuto,tausig1270,0.0,0.0,Articulation
+58,,<music21.note.Note F#>,note,tausig1271,0.5,173.5,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,tausig1272,0.0,0.0,Articulation
+58,,<music21.note.Note B>,note,tausig1273,0.5,174.0,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,tausig1274,0.0,0.0,Articulation
+58,58,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note G>>,slur,tausig1490,1.5,0.0,Slur
+59,,<music21.chord.Chord E4 G4>,note,tausig1275,0.25,174.5,GeneralNote
+59,,<music21.note.Note E>,note,tausig1276,0.5,174.5,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,tausig1277,0.0,0.0,Articulation
+59,,<music21.chord.Chord B3 F#4>,note,tausig1278,0.25,174.75,GeneralNote
+59,,<music21.chord.Chord E4 G4>,note,tausig1279,0.25,175.0,GeneralNote
+59,,<music21.note.Note B>,note,tausig1280,0.5,175.0,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,tausig1281,0.0,0.0,Articulation
+59,,<music21.chord.Chord B3 F#4>,note,tausig1282,0.25,175.25,GeneralNote
+59,,<music21.chord.Chord E4 G4>,note,tausig1283,0.25,175.5,GeneralNote
+59,,<music21.note.Note E>,note,tausig1284,0.5,175.5,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,tausig1285,0.0,0.0,Articulation
+59,,<music21.chord.Chord B3 F#4>,note,tausig1286,0.25,175.75,GeneralNote
+59,,<music21.note.Note G>,note,tausig1287,0.5,176.0,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,tausig1288,0.0,0.0,Articulation
+59,,<music21.note.Note B>,note,tausig1289,1.5,176.0,GeneralNote
+59,,<music21.articulations.Tenuto>,tenuto,tausig1290,0.0,0.0,Articulation
+59,,<music21.note.Note F#>,note,tausig1291,0.5,176.5,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,tausig1292,0.0,0.0,Articulation
+59,,<music21.note.Note B>,note,tausig1293,0.5,177.0,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,tausig1294,0.0,0.0,Articulation
+59,59,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note G>>,slur,tausig1491,1.5,0.0,Slur
+60,,<music21.note.Note G>,note,tausig1295,0.5,177.5,GeneralNote
+60,,<music21.articulations.Fingering 4>,fingering,tausig1296,0.0,0.0,Fingering
+60,,<music21.note.Note E>,note,tausig1297,0.5,177.5,GeneralNote
+60,,<music21.articulations.Fingering 2>,fingering,tausig1298,0.0,0.0,Fingering
+60,,<music21.note.Note E>,note,tausig1299,1.0,177.5,GeneralNote
+60,,<music21.articulations.Fingering 5>,fingering,tausig1300,0.0,0.0,Fingering
+60,,<music21.note.Note F#>,note,tausig1301,0.5,178.0,GeneralNote
+60,,<music21.note.Rest eighth>,note,tausig1302,0.5,178.0,GeneralNote
+60,,<music21.note.Rest eighth>,note,tausig1303,0.5,178.0,GeneralNote
+60,,<music21.note.Note E>,note,tausig1304,0.5,178.5,GeneralNote
+60,,<music21.note.Rest eighth>,note,tausig1305,0.5,178.5,GeneralNote
+60,,<music21.note.Rest eighth>,note,tausig1306,0.5,178.5,GeneralNote
+60,,<music21.chord.Chord A3 C4>,note,tausig1307,0.5,178.5,GeneralNote
+60,,<music21.articulations.Fingering 3>,fingering,tausig1308,0.0,0.0,Fingering
+60,,<music21.articulations.Fingering 2>,fingering,tausig1309,0.0,0.0,Fingering
+60,,<music21.note.Note E>,note,tausig1310,0.5,179.0,GeneralNote
+60,,<music21.articulations.Fingering 1>,fingering,tausig1311,0.0,0.0,Fingering
+60,,<music21.note.Rest quarter>,note,tausig1312,1.0,179.0,GeneralNote
+60,,<music21.note.Rest quarter>,note,tausig1313,1.0,179.0,GeneralNote
+60,,<music21.note.Note B>,note,tausig1314,1.0,179.0,GeneralNote
+60,,<music21.articulations.Fingering 1>,fingering,tausig1315,0.0,0.0,Fingering
+60,,<music21.note.Note F#>,note,tausig1316,0.5,179.5,GeneralNote
+60,,<music21.articulations.Fingering 4>,fingering,tausig1317,0.0,0.0,Fingering
+60,,<music21.note.Note D#>,note,tausig1318,0.5,180.0,GeneralNote
+60,,<music21.articulations.Fingering 2>,fingering,tausig1319,0.0,0.0,Fingering
+60,,<music21.note.Rest eighth>,note,tausig1320,0.5,180.0,GeneralNote
+60,,<music21.note.Rest eighth>,note,tausig1321,0.5,180.0,GeneralNote
+60,,<music21.chord.Chord B2 F#3>,note,tausig1322,0.5,180.0,GeneralNote
+60,61,<music21.spanner.Slur <music21.note.Note G><music21.note.Note E>>,slur,tausig1492,3.0,0.0,Slur
+60,61,<music21.spanner.Slur <music21.note.Note E><music21.chord.Chord E2 B2 G3>>,slur,tausig1493,3.0,0.0,Slur
+61,,<music21.note.Note E>,note,tausig1323,0.25,180.5,GeneralNote
+61,,<music21.articulations.Fingering 1>,fingering,tausig1324,0.0,0.0,Fingering
+61,,<music21.chord.Chord E2 B2 G3>,note,tausig1325,1.5,180.5,GeneralNote
+61,,<music21.note.Note F#>,note,tausig1326,0.25,180.75,GeneralNote
+61,,<music21.note.Note G>,note,tausig1327,0.25,181.0,GeneralNote
+61,,<music21.note.Note A>,note,tausig1328,0.25,181.25,GeneralNote
+61,,<music21.articulations.Fingering 1>,fingering,tausig1329,0.0,0.0,Fingering
+61,,<music21.note.Note B>,note,tausig1330,0.25,181.5,GeneralNote
+61,,<music21.note.Note C#>,note,tausig1331,0.125,181.75,GeneralNote
+61,,<music21.note.Note D#>,note,tausig1332,0.125,181.875,GeneralNote
+61,,<music21.note.Note E>,note,tausig1333,1/6,182.0,GeneralNote
+61,,<music21.articulations.Fingering 1>,fingering,tausig1334,0.0,0.0,Fingering
+61,,<music21.chord.Chord E2 B2 G3>,note,tausig1335,1.5,182.0,GeneralNote
+61,,<music21.note.Note F#>,note,tausig1336,1/6,1093/6,GeneralNote
+61,,<music21.articulations.Fingering 3>,fingering,tausig1337,0.0,0.0,Fingering
+61,,<music21.note.Note E>,note,tausig1338,1/6,547/3,GeneralNote
+61,,<music21.articulations.Fingering 2>,fingering,tausig1339,0.0,0.0,Fingering
+61,,<music21.note.Note B>,note,tausig1340,0.5,182.5,GeneralNote
+61,,<music21.articulations.Staccato>,staccato,tausig1341,0.0,0.0,Articulation
+61,,<music21.note.Note B>,note,tausig1342,0.5,183.0,GeneralNote
+61,,<music21.articulations.Fingering 2>,fingering,tausig1343,0.0,0.0,Fingering
+61,,<music21.articulations.Staccato>,staccato,tausig1344,0.0,0.0,Articulation
+61,61,<music21.spanner.Slur <music21.note.Note E><music21.note.Note E>>,slur,tausig1494,1.5,0.0,Slur
+61,61,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,tausig1495,0.5,0.0,Slur
+61,,<music21.expressions.TextExpression 'rallentando'>,rallentando,tausig1539,0.0,182.0,TextExpression
+62,,<music21.note.Note E>,note,tausig1345,1/6,183.5,GeneralNote
+62,,<music21.articulations.Fingering 1>,fingering,tausig1346,0.0,0.0,Fingering
+62,,<music21.chord.Chord E2 B2 G3>,note,tausig1347,1.5,183.5,GeneralNote
+62,,<music21.note.Note F#>,note,tausig1348,1/6,551/3,GeneralNote
+62,,<music21.articulations.Fingering 3>,fingering,tausig1349,0.0,0.0,Fingering
+62,,<music21.note.Note E>,note,tausig1350,1/6,1103/6,GeneralNote
+62,,<music21.articulations.Fingering 2>,fingering,tausig1351,0.0,0.0,Fingering
+62,,<music21.note.Note B>,note,tausig1352,0.5,184.0,GeneralNote
+62,,<music21.articulations.Staccato>,staccato,tausig1353,0.0,0.0,Articulation
+62,,<music21.note.Note B>,note,tausig1354,0.5,184.5,GeneralNote
+62,,<music21.articulations.Fingering 2>,fingering,tausig1355,0.0,0.0,Fingering
+62,,<music21.articulations.Staccato>,staccato,tausig1356,0.0,0.0,Articulation
+62,,<music21.note.Note E>,note,tausig1357,1/6,185.0,GeneralNote
+62,,<music21.chord.Chord E2 B2 G3>,note,tausig1358,1.5,185.0,GeneralNote
+62,,<music21.note.Note F#>,note,tausig1359,1/6,1111/6,GeneralNote
+62,,<music21.note.Note E>,note,tausig1360,1/6,556/3,GeneralNote
+62,,<music21.note.Note B>,note,tausig1361,0.5,185.5,GeneralNote
+62,,<music21.articulations.Staccato>,staccato,tausig1362,0.0,0.0,Articulation
+62,,<music21.note.Note B>,note,tausig1363,0.5,186.0,GeneralNote
+62,,<music21.articulations.Fingering 2>,fingering,tausig1364,0.0,0.0,Fingering
+62,,<music21.articulations.Staccato>,staccato,tausig1365,0.0,0.0,Articulation
+62,62,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,tausig1496,0.5,0.0,Slur
+62,62,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,tausig1497,0.5,0.0,Slur
+63,,<music21.chord.Chord G4 E5>,note,tausig1366,0.25,186.5,GeneralNote
+63,,<music21.articulations.Fingering 1>,fingering,tausig1367,0.0,0.0,Fingering
+63,,<music21.articulations.Fingering 3>,fingering,tausig1368,0.0,0.0,Fingering
+63,,<music21.note.Note B>,note,tausig1369,0.25,186.5,GeneralNote
+63,,<music21.articulations.Fingering 2>,fingering,tausig1370,0.0,0.0,Fingering
+63,,<music21.note.Note E>,note,tausig1371,3.0,186.5,GeneralNote
+63,,<music21.note.Note F#>,note,tausig1372,0.25,186.75,GeneralNote
+63,,<music21.articulations.Fingering 4>,fingering,tausig1373,0.0,0.0,Fingering
+63,,<music21.note.Note G>,note,tausig1374,0.25,186.75,GeneralNote
+63,,<music21.chord.Chord B4 E5>,note,tausig1375,0.25,187.0,GeneralNote
+63,,<music21.articulations.Fingering 1>,fingering,tausig1376,0.0,0.0,Fingering
+63,,<music21.articulations.Fingering 3>,fingering,tausig1377,0.0,0.0,Fingering
+63,,<music21.note.Note B>,note,tausig1378,0.25,187.0,GeneralNote
+63,,<music21.note.Note F#>,note,tausig1379,0.25,187.25,GeneralNote
+63,,<music21.articulations.Fingering 4>,fingering,tausig1380,0.0,0.0,Fingering
+63,,<music21.note.Note G>,note,tausig1381,0.25,187.25,GeneralNote
+63,,<music21.chord.Chord G4 E5>,note,tausig1382,0.25,187.5,GeneralNote
+63,,<music21.articulations.Fingering 1>,fingering,tausig1383,0.0,0.0,Fingering
+63,,<music21.articulations.Fingering 3>,fingering,tausig1384,0.0,0.0,Fingering
+63,,<music21.note.Note B>,note,tausig1385,0.25,187.5,GeneralNote
+63,,<music21.note.Note F#>,note,tausig1386,0.25,187.75,GeneralNote
+63,,<music21.articulations.Fingering 4>,fingering,tausig1387,0.0,0.0,Fingering
+63,,<music21.note.Note G>,note,tausig1388,0.25,187.75,GeneralNote
+63,,<music21.chord.Chord G4 E5>,note,tausig1389,0.25,188.0,GeneralNote
+63,,<music21.note.Note B>,note,tausig1390,0.25,188.0,GeneralNote
+63,,<music21.note.Note F#>,note,tausig1391,0.25,188.25,GeneralNote
+63,,<music21.note.Note G>,note,tausig1392,0.25,188.25,GeneralNote
+63,,<music21.chord.Chord B4 E5>,note,tausig1393,0.25,188.5,GeneralNote
+63,,<music21.note.Note B>,note,tausig1394,0.25,188.5,GeneralNote
+63,,<music21.note.Note F#>,note,tausig1395,0.25,188.75,GeneralNote
+63,,<music21.note.Note G>,note,tausig1396,0.25,188.75,GeneralNote
+63,,<music21.chord.Chord G4 E5>,note,tausig1397,0.25,189.0,GeneralNote
+63,,<music21.note.Note B>,note,tausig1398,0.25,189.0,GeneralNote
+63,,<music21.note.Note F#>,note,tausig1399,0.25,189.25,GeneralNote
+63,,<music21.note.Note G>,note,tausig1400,0.25,189.25,GeneralNote
+63,64,<music21.spanner.Slur <music21.chord.Chord G4 E5><music21.chord.Chord G4 E5>>,slur,tausig1498,3.0,0.0,Slur
+63,64,<music21.spanner.Slur <music21.note.Note B><music21.note.Note E>>,slur,tausig1499,3.0,0.0,Slur
+63,,<music21.expressions.TextExpression 'a tempo'>,a tempo,tausig1540,0.0,186.5,TextExpression
+64,,<music21.chord.Chord G4 E5>,note,tausig1401,1.5,189.5,GeneralNote
+64,,<music21.note.Note E>,note,tausig1402,1.5,189.5,GeneralNote
+64,,<music21.note.Note B>,note,tausig1403,1.5,189.5,GeneralNote
+64,,<music21.chord.Chord G4 E5>,note,tausig1404,1.0,191.0,GeneralNote
+64,,<music21.note.Note E>,note,tausig1405,1.0,191.0,GeneralNote
+64,,<music21.note.Note B>,note,tausig1406,1.0,191.0,GeneralNote

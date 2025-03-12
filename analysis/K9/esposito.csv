@@ -1,0 +1,1438 @@
+measure_start,measure_end,object,value,id,quarterlength,offset,type
+0,,<music21.note.Rest eighth>,note,esposito1,0.5,0.0,GeneralNote
+0,,<music21.note.Note A>,note,esposito2,0.5,0.0,GeneralNote
+0,,<music21.note.Rest eighth>,note,esposito3,0.5,0.0,GeneralNote
+0,,<music21.note.Rest eighth>,note,esposito4,0.5,0.0,GeneralNote
+0,1,<music21.spanner.Slur <music21.note.Note A><music21.note.Note A>>,slur,esposito1284,3.0,0.0,Slur
+0,,<music21.dynamics.Dynamic p>,p,esposito1366,,,DynamicPoint
+0,,<music21.expressions.TextExpression 'Allegretto...'>,Allegretto tranquillo,esposito1438,0.0,0.0,TextExpression
+0,,<music21.tempo.MetronomeMark Quarter=144 (playback only)>,None,esposito1462,0.0,0.0,TempoIndication
+0,,<music21.tempo.MetronomeMark adagietto Dotted Quarter=66>,adagietto,esposito1463,0.0,0.0,TempoIndication
+0,,<music21.tempo.MetronomeMark Quarter=144 (playback only)>,None None,esposito1464,0.0,0.0,MetronomeMark
+0,,<music21.tempo.MetronomeMark adagietto Dotted Quarter=66>,adagietto 66,esposito1465,0.0,0.0,MetronomeMark
+1,,<music21.note.Rest dotted-half>,note,esposito5,3.0,0.5,GeneralNote
+1,,<music21.note.Note D>,note,esposito6,0.5,0.5,GeneralNote
+1,,<music21.articulations.Fingering 2>,fingering,esposito7,0.0,0.0,Fingering
+1,,<music21.chord.Chord D4 F4>,note,esposito8,1.5,0.5,GeneralNote
+1,,<music21.articulations.Fingering 4>,fingering,esposito9,0.0,0.0,Fingering
+1,,<music21.articulations.Fingering 2>,fingering,esposito10,0.0,0.0,Fingering
+1,,<music21.note.Rest dotted-half>,note,esposito11,3.0,0.5,GeneralNote
+1,,<music21.note.Rest dotted-half>,note,esposito12,3.0,0.5,GeneralNote
+1,,<music21.note.Note E>,note,esposito13,0.5,1.0,GeneralNote
+1,,<music21.note.Note F>,note,esposito14,0.5,1.5,GeneralNote
+1,,<music21.note.Note E>,note,esposito15,0.5,2.0,GeneralNote
+1,,<music21.chord.Chord C#4 E4>,note,esposito16,1.5,2.0,GeneralNote
+1,,<music21.note.Note A>,note,esposito17,0.5,2.5,GeneralNote
+1,,<music21.note.Note A>,note,esposito18,0.5,3.0,GeneralNote
+1,1,<music21.spanner.Slur <music21.chord.Chord D4 F4><music21.chord.Chord C#4 E4>>,slur,esposito1285,1.5,0.0,Slur
+1,,<music21.expressions.TextExpression 'dolce'>,dolce,esposito1439,0.0,0.5,TextExpression
+2,,<music21.note.Note F>,note,esposito19,3/26,3.5,GeneralNote
+2,,<music21.note.Note F>,note,esposito20,1.5,3.5,GeneralNote
+2,,<music21.articulations.Fingering 3>,fingering,esposito21,0.0,0.0,Fingering
+2,,<music21.note.Note D>,note,esposito22,0.5,3.5,GeneralNote
+2,,<music21.note.Rest dotted-half>,note,esposito23,3.0,3.5,GeneralNote
+2,,<music21.note.Rest dotted-half>,note,esposito24,3.0,3.5,GeneralNote
+2,,<music21.note.Note G>,note,esposito25,3/26,47/13,GeneralNote
+2,,<music21.note.Note F>,note,esposito26,3/26,97/26,GeneralNote
+2,,<music21.note.Note G>,note,esposito27,3/26,50/13,GeneralNote
+2,,<music21.note.Note F>,note,esposito28,3/26,103/26,GeneralNote
+2,,<music21.note.Note F>,note,esposito29,0.5,4.0,GeneralNote
+2,,<music21.note.Note G>,note,esposito30,3/26,53/13,GeneralNote
+2,,<music21.note.Note F>,note,esposito31,3/26,109/26,GeneralNote
+2,,<music21.note.Note G>,note,esposito32,3/26,56/13,GeneralNote
+2,,<music21.note.Note F>,note,esposito33,3/26,115/26,GeneralNote
+2,,<music21.note.Note A>,note,esposito34,0.5,4.5,GeneralNote
+2,,<music21.note.Note G>,note,esposito35,3/26,59/13,GeneralNote
+2,,<music21.note.Note F>,note,esposito36,3/26,121/26,GeneralNote
+2,,<music21.note.Note G>,note,esposito37,3/26,62/13,GeneralNote
+2,,<music21.note.Note F>,note,esposito38,3/26,127/26,GeneralNote
+2,,<music21.note.Rest quarter>,note,esposito39,1.0,5.0,GeneralNote
+2,,<music21.note.Note E>,note,esposito40,1.0,5.0,GeneralNote
+2,,<music21.note.Note C>,note,esposito41,0.5,5.0,GeneralNote
+2,,<music21.note.Note F>,note,esposito42,0.5,5.5,GeneralNote
+2,,<music21.note.Rest eighth>,note,esposito43,0.5,6.0,GeneralNote
+2,,<music21.note.Note A>,note,esposito44,0.5,6.0,GeneralNote
+2,,<music21.articulations.Fingering 4>,fingering,esposito45,0.0,0.0,Fingering
+2,,<music21.note.Note A>,note,esposito46,0.5,6.0,GeneralNote
+2,2,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,esposito1278,1.384615384615385,0.0,Slur
+2,2,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,esposito1286,1.5,0.0,Slur
+2,3,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,esposito1287,0.5,0.0,Slur
+2,2,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,esposito1288,1.0,0.0,Slur
+2,2,<music21.spanner.Slur <music21.note.Note C><music21.note.Note A>>,slur,esposito1289,1.0,0.0,Slur
+3,,<music21.note.Rest dotted-half>,note,esposito47,3.0,6.5,GeneralNote
+3,,<music21.note.Note G>,note,esposito48,0.5,6.5,GeneralNote
+3,,<music21.note.Note D>,note,esposito49,1.5,6.5,GeneralNote
+3,,<music21.articulations.Fingering 2>,fingering,esposito50,0.0,0.0,Fingering
+3,,<music21.note.Note B->,note,esposito51,1.5,6.5,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,esposito52,0.0,0.0,Fingering
+3,,<music21.note.Rest dotted-half>,note,esposito53,3.0,6.5,GeneralNote
+3,,<music21.note.Note B->,note,esposito54,0.25,7.0,GeneralNote
+3,,<music21.articulations.Fingering 5>,fingering,esposito55,0.0,0.0,Fingering
+3,,<music21.note.Note A>,note,esposito56,0.25,7.25,GeneralNote
+3,,<music21.note.Note G>,note,esposito57,0.25,7.5,GeneralNote
+3,,<music21.note.Note F>,note,esposito58,0.25,7.75,GeneralNote
+3,,<music21.note.Note E>,note,esposito59,0.5,8.0,GeneralNote
+3,,<music21.chord.Chord D4 E4>,note,esposito60,1.5,8.0,GeneralNote
+3,,<music21.note.Note G>,note,esposito61,1.5,8.0,GeneralNote
+3,,<music21.note.Note G>,note,esposito62,0.25,8.5,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,esposito63,0.0,0.0,Fingering
+3,,<music21.note.Note F>,note,esposito64,0.25,8.75,GeneralNote
+3,,<music21.note.Note E>,note,esposito65,0.25,9.0,GeneralNote
+3,,<music21.note.Note D>,note,esposito66,0.25,9.25,GeneralNote
+3,3,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note E>>,slur,esposito1290,1.0,0.0,Slur
+3,3,<music21.spanner.Slur <music21.note.Note G><music21.note.Note D>>,slur,esposito1291,0.75,0.0,Slur
+3,3,<music21.dynamics.Crescendo <music21.note.Note G><music21.note.Note D>>,diminuendo,esposito1383,,,DynamicRegion
+4,,<music21.note.Rest dotted-half>,note,esposito67,3.0,9.5,GeneralNote
+4,,<music21.note.Note D>,note,esposito68,1.0,9.5,GeneralNote
+4,,<music21.articulations.Fingering 3>,fingering,esposito69,0.0,0.0,Fingering
+4,,<music21.note.Note A>,note,esposito70,0.5,9.5,GeneralNote
+4,,<music21.articulations.Fingering 5>,fingering,esposito71,0.0,0.0,Fingering
+4,,<music21.note.Rest dotted-half>,note,esposito72,3.0,9.5,GeneralNote
+4,,<music21.note.Rest dotted-eighth>,note,esposito73,0.75,9.75,GeneralNote
+4,,<music21.note.Rest dotted-eighth>,note,esposito74,0.75,9.75,GeneralNote
+4,,<music21.note.Note C#>,note,esposito75,0.5,10.0,GeneralNote
+4,,<music21.note.Note C#>,note,esposito76,0.5,10.5,GeneralNote
+4,,<music21.note.Note E>,note,esposito77,0.5,10.5,GeneralNote
+4,,<music21.note.Rest quarter>,note,esposito78,1.0,11.0,GeneralNote
+4,,<music21.note.Note A>,note,esposito79,0.25,11.0,GeneralNote
+4,,<music21.note.Note G>,note,esposito80,0.25,11.25,GeneralNote
+4,,<music21.note.Note F>,note,esposito81,0.25,11.5,GeneralNote
+4,,<music21.note.Note E>,note,esposito82,0.25,11.75,GeneralNote
+4,,<music21.note.Note A>,note,esposito83,0.5,12.0,GeneralNote
+4,,<music21.note.Note D>,note,esposito84,0.5,12.0,GeneralNote
+4,4,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C#>>,slur,esposito1292,1.0,0.0,Slur
+4,4,<music21.spanner.Slur <music21.note.Note A><music21.note.Note D>>,slur,esposito1293,2.5,0.0,Slur
+4,4,<music21.dynamics.Diminuendo <music21.note.Note C#><music21.note.Note A>>,diminuendo,esposito1385,,,DynamicRegion
+5,,<music21.note.Rest dotted-half>,note,esposito85,3.0,12.5,GeneralNote
+5,,<music21.note.Note C>,note,esposito86,0.5,12.5,GeneralNote
+5,,<music21.articulations.Fingering 2>,fingering,esposito87,0.0,0.0,Fingering
+5,,<music21.note.Note A>,note,esposito88,0.5,12.5,GeneralNote
+5,,<music21.articulations.Fingering 1>,fingering,esposito89,0.0,0.0,Fingering
+5,,<music21.note.Note G>,note,esposito90,1.0,12.5,GeneralNote
+5,,<music21.note.Note B->,note,esposito91,0.5,13.0,GeneralNote
+5,,<music21.note.Note G>,note,esposito92,0.5,13.0,GeneralNote
+5,,<music21.note.Note G>,note,esposito93,0.5,13.5,GeneralNote
+5,,<music21.note.Note E>,note,esposito94,0.5,13.5,GeneralNote
+5,,<music21.note.Note G>,note,esposito95,0.5,13.5,GeneralNote
+5,,<music21.note.Note B->,note,esposito96,0.5,14.0,GeneralNote
+5,,<music21.articulations.Fingering 2>,fingering,esposito97,0.0,0.0,Fingering
+5,,<music21.note.Note G>,note,esposito98,0.5,14.0,GeneralNote
+5,,<music21.articulations.Fingering 1>,fingering,esposito99,0.0,0.0,Fingering
+5,,<music21.note.Note F>,note,esposito100,1.0,14.0,GeneralNote
+5,,<music21.note.Note A>,note,esposito101,0.5,14.5,GeneralNote
+5,,<music21.note.Note F>,note,esposito102,0.5,14.5,GeneralNote
+5,,<music21.note.Note F>,note,esposito103,0.5,15.0,GeneralNote
+5,,<music21.note.Note D>,note,esposito104,0.5,15.0,GeneralNote
+5,,<music21.note.Note F>,note,esposito105,0.5,15.0,GeneralNote
+5,7,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B->>,slur,esposito1294,8.5,0.0,Slur
+5,7,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,esposito1295,8.5,0.0,Slur
+5,,<music21.dynamics.Dynamic p>,p,esposito1367,,,DynamicPoint
+5,,<music21.expressions.TextExpression 'Orig.'>,Orig.,esposito1440,0.0,12.5,TextExpression
+6,,<music21.note.Rest dotted-half>,note,esposito106,3.0,15.5,GeneralNote
+6,,<music21.note.Note A>,note,esposito107,0.5,15.5,GeneralNote
+6,,<music21.note.Note F>,note,esposito108,0.5,15.5,GeneralNote
+6,,<music21.note.Note E>,note,esposito109,1.0,15.5,GeneralNote
+6,,<music21.note.Note G>,note,esposito110,0.5,16.0,GeneralNote
+6,,<music21.note.Note E>,note,esposito111,0.5,16.0,GeneralNote
+6,,<music21.note.Note E>,note,esposito112,0.5,16.5,GeneralNote
+6,,<music21.note.Note C>,note,esposito113,0.5,16.5,GeneralNote
+6,,<music21.note.Note E>,note,esposito114,0.5,16.5,GeneralNote
+6,,<music21.note.Note G>,note,esposito115,0.5,17.0,GeneralNote
+6,,<music21.note.Note E>,note,esposito116,0.5,17.0,GeneralNote
+6,,<music21.note.Note D>,note,esposito117,1.0,17.0,GeneralNote
+6,,<music21.note.Note F>,note,esposito118,0.5,17.5,GeneralNote
+6,,<music21.note.Note D>,note,esposito119,0.5,17.5,GeneralNote
+6,,<music21.note.Note D>,note,esposito120,0.5,18.0,GeneralNote
+6,,<music21.note.Note B->,note,esposito121,0.5,18.0,GeneralNote
+6,,<music21.note.Note D>,note,esposito122,0.5,18.0,GeneralNote
+7,,<music21.note.Rest dotted-half>,note,esposito123,3.0,18.5,GeneralNote
+7,,<music21.note.Note F>,note,esposito124,0.5,18.5,GeneralNote
+7,,<music21.note.Note D>,note,esposito125,0.5,18.5,GeneralNote
+7,,<music21.note.Note C>,note,esposito126,1.0,18.5,GeneralNote
+7,,<music21.note.Note E>,note,esposito127,0.5,19.0,GeneralNote
+7,,<music21.note.Note C>,note,esposito128,0.5,19.0,GeneralNote
+7,,<music21.note.Note C>,note,esposito129,0.5,19.5,GeneralNote
+7,,<music21.note.Note A>,note,esposito130,0.5,19.5,GeneralNote
+7,,<music21.note.Note C>,note,esposito131,0.5,19.5,GeneralNote
+7,,<music21.note.Note E>,note,esposito132,0.5,20.0,GeneralNote
+7,,<music21.note.Note C>,note,esposito133,0.5,20.0,GeneralNote
+7,,<music21.note.Note B->,note,esposito134,1.0,20.0,GeneralNote
+7,,<music21.note.Note D>,note,esposito135,0.5,20.5,GeneralNote
+7,,<music21.note.Note B->,note,esposito136,0.5,20.5,GeneralNote
+7,,<music21.note.Note B->,note,esposito137,0.5,21.0,GeneralNote
+7,,<music21.note.Note G>,note,esposito138,0.5,21.0,GeneralNote
+7,,<music21.note.Note B->,note,esposito139,0.5,21.0,GeneralNote
+7,7,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note B->>,diminuendo,esposito1387,,,DynamicRegion
+8,,<music21.note.Rest dotted-half>,note,esposito140,3.0,21.5,GeneralNote
+8,,<music21.note.Note C>,note,esposito141,0.5,21.5,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,esposito142,0.0,0.0,Fingering
+8,,<music21.note.Note A>,note,esposito143,0.5,21.5,GeneralNote
+8,,<music21.articulations.Fingering 5>,fingering,esposito144,0.0,0.0,Fingering
+8,,<music21.note.Rest dotted-half>,note,esposito145,3.0,21.5,GeneralNote
+8,,<music21.note.Note D>,note,esposito146,0.25,22.0,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,esposito147,0.0,0.0,Fingering
+8,,<music21.note.Note B->,note,esposito148,0.25,22.0,GeneralNote
+8,,<music21.note.Note E>,note,esposito149,0.25,22.25,GeneralNote
+8,,<music21.note.Note C>,note,esposito150,0.25,22.25,GeneralNote
+8,,<music21.note.Note F>,note,esposito151,0.25,22.5,GeneralNote
+8,,<music21.note.Note D>,note,esposito152,0.25,22.5,GeneralNote
+8,,<music21.note.Note G>,note,esposito153,0.25,22.75,GeneralNote
+8,,<music21.note.Note E>,note,esposito154,0.25,22.75,GeneralNote
+8,,<music21.note.Note A>,note,esposito155,0.5,23.0,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,esposito156,0.0,0.0,Articulation
+8,,<music21.note.Note F>,note,esposito157,0.5,23.0,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,esposito158,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,esposito159,0.0,0.0,Articulation
+8,,<music21.note.Note G>,note,esposito160,0.5,23.5,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,esposito161,0.0,0.0,Articulation
+8,,<music21.note.Note E>,note,esposito162,0.5,23.5,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,esposito163,0.0,0.0,Articulation
+8,,<music21.note.Note F>,note,esposito164,0.5,24.0,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,esposito165,0.0,0.0,Articulation
+8,,<music21.note.Note D>,note,esposito166,0.5,24.0,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,esposito167,0.0,0.0,Articulation
+8,8,<music21.spanner.Slur <music21.note.Note C><music21.note.Note A>>,slur,esposito1296,1.5,0.0,Slur
+8,8,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,esposito1297,1.5,0.0,Slur
+8,,<music21.dynamics.Dynamic pp>,pp,esposito1368,,,DynamicPoint
+9,,<music21.note.Rest dotted-half>,note,esposito168,3.0,24.5,GeneralNote
+9,,<music21.note.Note E>,note,esposito169,0.25,24.5,GeneralNote
+9,,<music21.articulations.Fingering 2>,fingering,esposito170,0.0,0.0,Fingering
+9,,<music21.note.Note C>,note,esposito171,0.25,24.5,GeneralNote
+9,,<music21.articulations.Fingering 5>,fingering,esposito172,0.0,0.0,Fingering
+9,,<music21.note.Rest dotted-half>,note,esposito173,3.0,24.5,GeneralNote
+9,,<music21.note.Rest dotted-half>,note,esposito174,3.0,24.5,GeneralNote
+9,,<music21.note.Note F>,note,esposito175,0.25,24.75,GeneralNote
+9,,<music21.note.Note D>,note,esposito176,0.25,24.75,GeneralNote
+9,,<music21.note.Note G>,note,esposito177,0.25,25.0,GeneralNote
+9,,<music21.articulations.Fingering 1>,fingering,esposito178,0.0,0.0,Fingering
+9,,<music21.note.Note E>,note,esposito179,0.25,25.0,GeneralNote
+9,,<music21.note.Note A>,note,esposito180,0.25,25.25,GeneralNote
+9,,<music21.note.Note F>,note,esposito181,0.25,25.25,GeneralNote
+9,,<music21.note.Note B->,note,esposito182,0.25,25.5,GeneralNote
+9,,<music21.note.Note G>,note,esposito183,0.25,25.5,GeneralNote
+9,,<music21.note.Note C>,note,esposito184,0.25,25.75,GeneralNote
+9,,<music21.note.Note A>,note,esposito185,0.25,25.75,GeneralNote
+9,,<music21.articulations.Fingering 3>,fingering,esposito186,0.0,0.0,Fingering
+9,,<music21.note.Note D>,note,esposito187,0.5,26.0,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,esposito188,0.0,0.0,Articulation
+9,,<music21.note.Note B->,note,esposito189,0.5,26.0,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,esposito190,0.0,0.0,Articulation
+9,,<music21.note.Note C>,note,esposito191,0.5,26.5,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,esposito192,0.0,0.0,Articulation
+9,,<music21.note.Note A>,note,esposito193,0.5,26.5,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,esposito194,0.0,0.0,Articulation
+9,,<music21.note.Note B->,note,esposito195,0.5,27.0,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,esposito196,0.0,0.0,Articulation
+9,,<music21.note.Note G>,note,esposito197,0.5,27.0,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,esposito198,0.0,0.0,Articulation
+9,9,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D>>,slur,esposito1298,1.5,0.0,Slur
+9,9,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B->>,slur,esposito1299,1.5,0.0,Slur
+10,,<music21.note.Rest dotted-half>,note,esposito199,3.0,27.5,GeneralNote
+10,,<music21.note.Note A>,note,esposito200,0.5,27.5,GeneralNote
+10,,<music21.note.Note F>,note,esposito201,0.5,27.5,GeneralNote
+10,,<music21.note.Rest dotted-half>,note,esposito202,3.0,27.5,GeneralNote
+10,,<music21.note.Rest dotted-half>,note,esposito203,3.0,27.5,GeneralNote
+10,,<music21.note.Note B->,note,esposito204,0.25,28.0,GeneralNote
+10,,<music21.note.Note G>,note,esposito205,0.25,28.0,GeneralNote
+10,,<music21.note.Note C>,note,esposito206,0.25,28.25,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,esposito207,0.0,0.0,Fingering
+10,,<music21.note.Note A>,note,esposito208,0.25,28.25,GeneralNote
+10,,<music21.note.Note D>,note,esposito209,0.25,28.5,GeneralNote
+10,,<music21.note.Note B->,note,esposito210,0.25,28.5,GeneralNote
+10,,<music21.note.Note E>,note,esposito211,0.25,28.75,GeneralNote
+10,,<music21.note.Note C>,note,esposito212,0.25,28.75,GeneralNote
+10,,<music21.note.Note F>,note,esposito213,0.5,29.0,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,esposito214,0.0,0.0,Articulation
+10,,<music21.note.Note D>,note,esposito215,0.5,29.0,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,esposito216,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,esposito217,0.0,0.0,Articulation
+10,,<music21.note.Note E>,note,esposito218,0.5,29.5,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,esposito219,0.0,0.0,Articulation
+10,,<music21.note.Note C>,note,esposito220,0.5,29.5,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,esposito221,0.0,0.0,Articulation
+10,,<music21.note.Note D>,note,esposito222,0.5,30.0,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,esposito223,0.0,0.0,Articulation
+10,,<music21.note.Note B->,note,esposito224,0.5,30.0,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,esposito225,0.0,0.0,Articulation
+10,10,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,esposito1300,1.5,0.0,Slur
+10,10,<music21.spanner.Slur <music21.note.Note F><music21.note.Note D>>,slur,esposito1301,1.5,0.0,Slur
+10,11,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note B->>,diminuendo,esposito1389,,,DynamicRegion
+11,,<music21.note.Rest dotted-half>,note,esposito226,3.0,30.5,GeneralNote
+11,,<music21.note.Note C>,note,esposito227,0.25,30.5,GeneralNote
+11,,<music21.note.Note A>,note,esposito228,0.25,30.5,GeneralNote
+11,,<music21.note.Rest dotted-half>,note,esposito229,3.0,30.5,GeneralNote
+11,,<music21.note.Rest dotted-half>,note,esposito230,3.0,30.5,GeneralNote
+11,,<music21.note.Note D>,note,esposito231,0.25,30.75,GeneralNote
+11,,<music21.note.Note B->,note,esposito232,0.25,30.75,GeneralNote
+11,,<music21.note.Note E>,note,esposito233,0.25,31.0,GeneralNote
+11,,<music21.note.Note C>,note,esposito234,0.25,31.0,GeneralNote
+11,,<music21.note.Note F>,note,esposito235,0.25,31.25,GeneralNote
+11,,<music21.articulations.Fingering 1>,fingering,esposito236,0.0,0.0,Fingering
+11,,<music21.note.Note D>,note,esposito237,0.25,31.25,GeneralNote
+11,,<music21.note.Note G>,note,esposito238,0.25,31.5,GeneralNote
+11,,<music21.note.Note E>,note,esposito239,0.25,31.5,GeneralNote
+11,,<music21.note.Note A>,note,esposito240,0.125,31.75,GeneralNote
+11,,<music21.note.Note F>,note,esposito241,0.125,31.75,GeneralNote
+11,,<music21.articulations.Fingering 3>,fingering,esposito242,0.0,0.0,Fingering
+11,,<music21.note.Note B->,note,esposito243,0.125,31.875,GeneralNote
+11,,<music21.note.Note G>,note,esposito244,0.125,31.875,GeneralNote
+11,,<music21.note.Note C>,note,esposito245,0.5,32.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,esposito246,0.0,0.0,Articulation
+11,,<music21.note.Note A>,note,esposito247,0.5,32.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,esposito248,0.0,0.0,Articulation
+11,,<music21.note.Note B->,note,esposito249,0.5,32.5,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,esposito250,0.0,0.0,Articulation
+11,,<music21.note.Note G>,note,esposito251,0.5,32.5,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,esposito252,0.0,0.0,Articulation
+11,,<music21.note.Note A>,note,esposito253,0.5,33.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,esposito254,0.0,0.0,Articulation
+11,,<music21.note.Note F>,note,esposito255,0.5,33.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,esposito256,0.0,0.0,Articulation
+11,11,<music21.spanner.Slur <music21.note.Note C><music21.note.Note C>>,slur,esposito1302,1.5,0.0,Slur
+11,11,<music21.spanner.Slur <music21.note.Note A><music21.note.Note A>>,slur,esposito1303,1.5,0.0,Slur
+11,11,<music21.dynamics.Diminuendo <music21.note.Note C><music21.note.Note A>>,diminuendo,esposito1391,,,DynamicRegion
+12,,<music21.note.Note G>,note,esposito257,0.125,33.5,GeneralNote
+12,,<music21.note.Note G>,note,esposito258,1.5,33.5,GeneralNote
+12,,<music21.note.Note C>,note,esposito259,1.5,33.5,GeneralNote
+12,,<music21.note.Rest dotted-half>,note,esposito260,3.0,33.5,GeneralNote
+12,,<music21.note.Rest dotted-half>,note,esposito261,3.0,33.5,GeneralNote
+12,,<music21.note.Note A>,note,esposito262,0.125,33.625,GeneralNote
+12,,<music21.note.Note G>,note,esposito263,0.125,33.75,GeneralNote
+12,,<music21.note.Note A>,note,esposito264,0.125,33.875,GeneralNote
+12,,<music21.note.Note G>,note,esposito265,0.125,34.0,GeneralNote
+12,,<music21.note.Note A>,note,esposito266,0.125,34.125,GeneralNote
+12,,<music21.note.Note G>,note,esposito267,0.125,34.25,GeneralNote
+12,,<music21.note.Note A>,note,esposito268,0.125,34.375,GeneralNote
+12,,<music21.note.Note G>,note,esposito269,0.5,34.5,GeneralNote
+12,,<music21.note.Rest quarter>,note,esposito270,1.0,35.0,GeneralNote
+12,,<music21.note.Rest eighth>,note,esposito271,0.5,35.0,GeneralNote
+12,,<music21.chord.Chord E4 G4>,note,esposito272,1.5,35.0,GeneralNote
+12,,<music21.articulations.Fingering 4>,fingering,esposito273,0.0,0.0,Fingering
+12,,<music21.articulations.Fingering 2>,fingering,esposito274,0.0,0.0,Fingering
+12,,<music21.note.Note C>,note,esposito275,0.5,35.5,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,esposito276,0.0,0.0,Articulation
+12,,<music21.note.Rest eighth>,note,esposito277,0.5,36.0,GeneralNote
+12,,<music21.note.Note C>,note,esposito278,0.5,36.0,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,esposito279,0.0,0.0,Articulation
+12,12,<music21.spanner.Slur <music21.note.Note G><music21.note.Note G>>,slur,esposito1279,1.0,0.0,Slur
+12,14,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note E>>,slur,esposito1304,6.0,0.0,Slur
+12,,<music21.dynamics.Dynamic p>,p,esposito1369,,,DynamicPoint
+12,12,<music21.dynamics.Crescendo <music21.note.Note C><music21.note.Note C>>,diminuendo,esposito1393,,,DynamicRegion
+13,,<music21.note.Note D>,note,esposito280,1/6,36.5,GeneralNote
+13,,<music21.note.Note D>,note,esposito281,1.0,36.5,GeneralNote
+13,,<music21.chord.Chord F4 A4>,note,esposito282,1.5,36.5,GeneralNote
+13,,<music21.note.Rest dotted-half>,note,esposito283,3.0,36.5,GeneralNote
+13,,<music21.note.Rest dotted-half>,note,esposito284,3.0,36.5,GeneralNote
+13,,<music21.note.Note E>,note,esposito285,1/6,110/3,GeneralNote
+13,,<music21.note.Note D>,note,esposito286,1/6,221/6,GeneralNote
+13,,<music21.note.Note E>,note,esposito287,1/6,37.0,GeneralNote
+13,,<music21.note.Note D>,note,esposito288,1/6,223/6,GeneralNote
+13,,<music21.note.Note E>,note,esposito289,1/6,112/3,GeneralNote
+13,,<music21.note.Note D>,note,esposito290,1/6,37.5,GeneralNote
+13,,<music21.note.Note C>,note,esposito291,0.5,37.5,GeneralNote
+13,,<music21.articulations.Fingering 1>,fingering,esposito292,0.0,0.0,Fingering
+13,,<music21.note.Note E>,note,esposito293,1/6,113/3,GeneralNote
+13,,<music21.note.Note D>,note,esposito294,1/6,227/6,GeneralNote
+13,,<music21.note.Rest quarter>,note,esposito295,1.0,38.0,GeneralNote
+13,,<music21.note.Note C>,note,esposito296,0.5,38.0,GeneralNote
+13,,<music21.articulations.Fingering 2>,fingering,esposito297,0.0,0.0,Fingering
+13,,<music21.articulations.Staccato>,staccato,esposito298,0.0,0.0,Articulation
+13,,<music21.chord.Chord E4 G4>,note,esposito299,1.5,38.0,GeneralNote
+13,,<music21.note.Note C>,note,esposito300,0.5,38.5,GeneralNote
+13,,<music21.articulations.Staccato>,staccato,esposito301,0.0,0.0,Articulation
+13,,<music21.note.Rest eighth>,note,esposito302,0.5,39.0,GeneralNote
+13,,<music21.note.Note C>,note,esposito303,0.5,39.0,GeneralNote
+13,,<music21.articulations.Fingering 1>,fingering,esposito304,0.0,0.0,Fingering
+13,,<music21.articulations.Staccato>,staccato,esposito305,0.0,0.0,Articulation
+13,13,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,esposito1305,1.0,0.0,Slur
+13,13,<music21.dynamics.Diminuendo <music21.note.Note D>>,diminuendo,esposito1395,,,DynamicRegion
+13,13,<music21.dynamics.Crescendo <music21.note.Note C><music21.note.Note C>>,diminuendo,esposito1397,,,DynamicRegion
+14,,<music21.note.Rest dotted-half>,note,esposito306,3.0,39.5,GeneralNote
+14,,<music21.note.Note D>,note,esposito307,1.0,39.5,GeneralNote
+14,,<music21.chord.Chord F4 A4>,note,esposito308,1.5,39.5,GeneralNote
+14,,<music21.note.Rest dotted-quarter>,note,esposito309,1.5,39.5,GeneralNote
+14,,<music21.note.Rest dotted-half>,note,esposito310,3.0,39.5,GeneralNote
+14,,<music21.note.Note C>,note,esposito311,0.5,40.5,GeneralNote
+14,,<music21.note.Note C>,note,esposito312,0.5,41.0,GeneralNote
+14,,<music21.note.Note G>,note,esposito313,1.5,41.0,GeneralNote
+14,,<music21.note.Note E>,note,esposito314,1.5,41.0,GeneralNote
+14,,<music21.note.Note C>,note,esposito315,0.5,41.5,GeneralNote
+14,,<music21.note.Note B->,note,esposito316,0.5,42.0,GeneralNote
+14,14,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,esposito1306,1.0,0.0,Slur
+14,15,<music21.spanner.Slur <music21.note.Note C><music21.note.Note F>>,slur,esposito1307,2.0,0.0,Slur
+14,14,<music21.dynamics.Diminuendo <music21.note.Note D>>,diminuendo,esposito1399,,,DynamicRegion
+14,15,<music21.dynamics.Crescendo <music21.note.Note C><music21.note.Note F>>,diminuendo,esposito1401,,,DynamicRegion
+15,,<music21.note.Rest dotted-half>,note,esposito317,3.0,42.5,GeneralNote
+15,,<music21.note.Note A>,note,esposito318,0.5,42.5,GeneralNote
+15,,<music21.note.Note A>,note,esposito319,1.5,42.5,GeneralNote
+15,,<music21.note.Note D>,note,esposito320,1.0,42.5,GeneralNote
+15,,<music21.note.Rest dotted-half>,note,esposito321,3.0,42.5,GeneralNote
+15,,<music21.note.Note G>,note,esposito322,0.5,43.0,GeneralNote
+15,,<music21.note.Note F>,note,esposito323,0.5,43.5,GeneralNote
+15,,<music21.note.Note B->,note,esposito324,0.5,43.5,GeneralNote
+15,,<music21.note.Note F>,note,esposito325,0.5,44.0,GeneralNote
+15,,<music21.note.Note A>,note,esposito326,1.0,44.0,GeneralNote
+15,,<music21.note.Note C>,note,esposito327,1.5,44.0,GeneralNote
+15,,<music21.articulations.Fingering 4>,fingering,esposito328,0.0,0.0,Fingering
+15,,<music21.note.Note G>,note,esposito329,0.5,44.5,GeneralNote
+15,,<music21.note.Note E>,note,esposito330,0.5,45.0,GeneralNote
+15,,<music21.note.Note G>,note,esposito331,0.5,45.0,GeneralNote
+15,15,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,esposito1308,1.0,0.0,Slur
+15,15,<music21.spanner.Slur <music21.note.Note D><music21.note.Note B->>,slur,esposito1309,1.0,0.0,Slur
+15,15,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note E>>,diminuendo,esposito1403,,,DynamicRegion
+16,,<music21.note.Note F>,note,esposito332,0.125,45.5,GeneralNote
+16,,<music21.note.Note F>,note,esposito333,1.5,45.5,GeneralNote
+16,,<music21.note.Note F>,note,esposito334,0.5,45.5,GeneralNote
+16,,<music21.articulations.Fingering 1>,fingering,esposito335,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,esposito336,0.0,0.0,Articulation
+16,,<music21.note.Rest dotted-half>,note,esposito337,3.0,45.5,GeneralNote
+16,,<music21.note.Note G>,note,esposito338,0.125,45.625,GeneralNote
+16,,<music21.note.Note F>,note,esposito339,0.125,45.75,GeneralNote
+16,,<music21.note.Note G>,note,esposito340,0.125,45.875,GeneralNote
+16,,<music21.note.Note F>,note,esposito341,0.125,46.0,GeneralNote
+16,,<music21.note.Note C>,note,esposito342,0.5,46.0,GeneralNote
+16,,<music21.articulations.Fingering 2>,fingering,esposito343,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,esposito344,0.0,0.0,Articulation
+16,,<music21.note.Note G>,note,esposito345,0.125,46.125,GeneralNote
+16,,<music21.note.Note F>,note,esposito346,0.125,46.25,GeneralNote
+16,,<music21.note.Note G>,note,esposito347,0.125,46.375,GeneralNote
+16,,<music21.note.Note F>,note,esposito348,0.5,46.5,GeneralNote
+16,,<music21.articulations.Staccato>,staccato,esposito349,0.0,0.0,Articulation
+16,,<music21.note.Note F>,note,esposito350,0.5,46.5,GeneralNote
+16,,<music21.articulations.Fingering 5>,fingering,esposito351,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,esposito352,0.0,0.0,Articulation
+16,,<music21.note.Rest quarter>,note,esposito353,1.0,47.0,GeneralNote
+16,,<music21.note.Rest eighth>,note,esposito354,0.5,47.0,GeneralNote
+16,,<music21.note.Note C>,note,esposito355,1.5,47.0,GeneralNote
+16,,<music21.articulations.Fingering 4>,fingering,esposito356,0.0,0.0,Fingering
+16,,<music21.articulations.Tenuto>,tenuto,esposito357,0.0,0.0,Articulation
+16,,<music21.note.Note G>,note,esposito358,0.5,47.5,GeneralNote
+16,,<music21.articulations.Fingering 3>,fingering,esposito359,0.0,0.0,Fingering
+16,,<music21.note.Rest eighth>,note,esposito360,0.5,48.0,GeneralNote
+16,,<music21.note.Note C>,note,esposito361,0.5,48.0,GeneralNote
+16,16,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G>>,slur,esposito1280,0.875,0.0,Slur
+16,16,<music21.spanner.Slur <music21.note.Note G><music21.note.Note C>>,slur,esposito1310,0.5,0.0,Slur
+16,,<music21.dynamics.Dynamic p>,p,esposito1370,,,DynamicPoint
+17,,<music21.note.Rest dotted-half>,note,esposito362,3.0,48.5,GeneralNote
+17,,<music21.note.Note A>,note,esposito363,1.5,48.5,GeneralNote
+17,,<music21.articulations.Fingering 4>,fingering,esposito364,0.0,0.0,Fingering
+17,,<music21.articulations.Tenuto>,tenuto,esposito365,0.0,0.0,Articulation
+17,,<music21.note.Note F>,note,esposito366,1.5,48.5,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,esposito367,0.0,0.0,Fingering
+17,,<music21.note.Note F>,note,esposito368,0.5,48.5,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,esposito369,0.0,0.0,Articulation
+17,,<music21.note.Rest dotted-half>,note,esposito370,3.0,48.5,GeneralNote
+17,,<music21.note.Note C>,note,esposito371,0.5,49.0,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,esposito372,0.0,0.0,Articulation
+17,,<music21.note.Note F>,note,esposito373,0.5,49.5,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,esposito374,0.0,0.0,Articulation
+17,,<music21.note.Rest eighth>,note,esposito375,0.5,50.0,GeneralNote
+17,,<music21.note.Rest quarter>,note,esposito376,1.0,50.0,GeneralNote
+17,,<music21.note.Rest quarter>,note,esposito377,1.0,50.0,GeneralNote
+17,,<music21.note.Note C>,note,esposito378,1.5,50.0,GeneralNote
+17,,<music21.articulations.Tenuto>,tenuto,esposito379,0.0,0.0,Articulation
+17,,<music21.note.Note G>,note,esposito380,0.5,50.5,GeneralNote
+17,,<music21.note.Note C>,note,esposito381,0.5,51.0,GeneralNote
+17,,<music21.note.Rest eighth>,note,esposito382,0.5,51.0,GeneralNote
+17,,<music21.note.Rest eighth>,note,esposito383,0.5,51.0,GeneralNote
+17,17,<music21.spanner.Slur <music21.note.Note G><music21.note.Note C>>,slur,esposito1311,0.5,0.0,Slur
+17,,<music21.expressions.TextExpression '(simile)'>,(simile),esposito1441,0.0,48.5,TextExpression
+18,,<music21.note.Rest dotted-half>,note,esposito384,3.0,51.5,GeneralNote
+18,,<music21.note.Note A>,note,esposito385,1.5,51.5,GeneralNote
+18,,<music21.articulations.Tenuto>,tenuto,esposito386,0.0,0.0,Articulation
+18,,<music21.note.Note F>,note,esposito387,1.5,51.5,GeneralNote
+18,,<music21.note.Note F>,note,esposito388,0.5,51.5,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,esposito389,0.0,0.0,Articulation
+18,,<music21.note.Rest dotted-half>,note,esposito390,3.0,51.5,GeneralNote
+18,,<music21.note.Note C>,note,esposito391,0.5,52.0,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,esposito392,0.0,0.0,Articulation
+18,,<music21.note.Note F>,note,esposito393,0.5,52.5,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,esposito394,0.0,0.0,Articulation
+18,,<music21.note.Rest eighth>,note,esposito395,0.5,53.0,GeneralNote
+18,,<music21.note.Rest quarter>,note,esposito396,1.0,53.0,GeneralNote
+18,,<music21.note.Rest quarter>,note,esposito397,1.0,53.0,GeneralNote
+18,,<music21.note.Note C>,note,esposito398,1.5,53.0,GeneralNote
+18,,<music21.articulations.Tenuto>,tenuto,esposito399,0.0,0.0,Articulation
+18,,<music21.note.Note G>,note,esposito400,0.5,53.5,GeneralNote
+18,,<music21.note.Note C>,note,esposito401,0.5,54.0,GeneralNote
+18,,<music21.note.Rest eighth>,note,esposito402,0.5,54.0,GeneralNote
+18,,<music21.note.Rest eighth>,note,esposito403,0.5,54.0,GeneralNote
+18,18,<music21.spanner.Slur <music21.note.Note G><music21.note.Note C>>,slur,esposito1312,0.5,0.0,Slur
+18,,<music21.expressions.TextExpression '(simile)'>,(simile),esposito1442,0.0,51.5,TextExpression
+19,,<music21.note.Rest dotted-half>,note,esposito404,3.0,54.5,GeneralNote
+19,,<music21.chord.Chord F5 A5>,note,esposito405,0.5,54.5,GeneralNote
+19,,<music21.articulations.Fingering 3>,fingering,esposito406,0.0,0.0,Fingering
+19,,<music21.chord.Chord F3 C4 F4>,note,esposito407,1.5,54.5,GeneralNote
+19,,<music21.note.Rest dotted-half>,note,esposito408,3.0,54.5,GeneralNote
+19,,<music21.chord.Chord G5 B-5>,note,esposito409,0.5,55.0,GeneralNote
+19,,<music21.chord.Chord A5 C6>,note,esposito410,0.5,55.5,GeneralNote
+19,,<music21.chord.Chord A5 C6>,note,esposito411,0.5,56.0,GeneralNote
+19,,<music21.chord.Chord B-3 F4>,note,esposito412,1.5,56.0,GeneralNote
+19,,<music21.chord.Chord G5 B-5>,note,esposito413,0.5,56.5,GeneralNote
+19,,<music21.chord.Chord F5 A5>,note,esposito414,0.5,57.0,GeneralNote
+19,,<music21.note.Rest 16th>,note,esposito415,0.25,57.25,GeneralNote
+19,,<music21.note.Rest 16th>,note,esposito416,0.25,57.25,GeneralNote
+19,19,<music21.spanner.Slur <music21.chord.Chord F5 A5><music21.chord.Chord F5 A5>>,slur,esposito1313,2.5,0.0,Slur
+19,19,<music21.dynamics.Crescendo <music21.chord.Chord F5 A5><music21.chord.Chord F5 A5>>,diminuendo,esposito1405,,,DynamicRegion
+20,,<music21.note.Rest dotted-half>,note,esposito417,3.0,57.5,GeneralNote
+20,,<music21.note.Note G>,note,esposito418,0.25,57.5,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,esposito419,0.0,0.0,Fingering
+20,,<music21.note.Note C>,note,esposito420,1.5,57.5,GeneralNote
+20,,<music21.note.Note C>,note,esposito421,1.5,57.5,GeneralNote
+20,,<music21.note.Rest dotted-half>,note,esposito422,3.0,57.5,GeneralNote
+20,,<music21.note.Note F>,note,esposito423,0.25,57.75,GeneralNote
+20,,<music21.note.Note E>,note,esposito424,0.25,58.0,GeneralNote
+20,,<music21.articulations.Fingering 3>,fingering,esposito425,0.0,0.0,Fingering
+20,,<music21.note.Note D>,note,esposito426,0.25,58.25,GeneralNote
+20,,<music21.note.Note C>,note,esposito427,0.25,58.5,GeneralNote
+20,,<music21.note.Note B->,note,esposito428,0.25,58.75,GeneralNote
+20,,<music21.articulations.Fingering 4>,fingering,esposito429,0.0,0.0,Fingering
+20,,<music21.note.Note A>,note,esposito430,0.25,59.0,GeneralNote
+20,,<music21.note.Rest quarter>,note,esposito431,1.0,59.0,GeneralNote
+20,,<music21.note.Rest quarter>,note,esposito432,1.0,59.0,GeneralNote
+20,,<music21.note.Rest quarter>,note,esposito433,1.0,59.0,GeneralNote
+20,,<music21.note.Note G>,note,esposito434,0.25,59.25,GeneralNote
+20,,<music21.note.Note F>,note,esposito435,0.25,59.5,GeneralNote
+20,,<music21.note.Note E>,note,esposito436,0.25,59.75,GeneralNote
+20,,<music21.articulations.Fingering 3>,fingering,esposito437,0.0,0.0,Fingering
+20,,<music21.note.Note D>,note,esposito438,0.25,60.0,GeneralNote
+20,,<music21.note.Rest eighth>,note,esposito439,0.5,60.0,GeneralNote
+20,,<music21.note.Rest eighth>,note,esposito440,0.5,60.0,GeneralNote
+20,,<music21.note.Rest eighth>,note,esposito441,0.5,60.0,GeneralNote
+20,,<music21.note.Note C>,note,esposito442,0.25,60.25,GeneralNote
+20,20,<music21.spanner.Slur <music21.note.Note G><music21.note.Note C>>,slur,esposito1314,2.75,0.0,Slur
+20,20,<music21.dynamics.Diminuendo <music21.note.Note G><music21.note.Note C>>,diminuendo,esposito1407,,,DynamicRegion
+21,,<music21.note.Rest dotted-half>,note,esposito443,3.0,60.5,GeneralNote
+21,,<music21.note.Note F>,note,esposito444,1.5,60.5,GeneralNote
+21,,<music21.note.Note A>,note,esposito445,1.5,60.5,GeneralNote
+21,,<music21.articulations.Tenuto>,tenuto,esposito446,0.0,0.0,Articulation
+21,,<music21.note.Note F>,note,esposito447,0.5,60.5,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,esposito448,0.0,0.0,Articulation
+21,,<music21.note.Rest dotted-half>,note,esposito449,3.0,60.5,GeneralNote
+21,,<music21.note.Note C>,note,esposito450,0.5,61.0,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,esposito451,0.0,0.0,Articulation
+21,,<music21.note.Note F>,note,esposito452,0.5,61.5,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,esposito453,0.0,0.0,Articulation
+21,,<music21.note.Rest eighth>,note,esposito454,0.5,62.0,GeneralNote
+21,,<music21.note.Rest quarter>,note,esposito455,1.0,62.0,GeneralNote
+21,,<music21.note.Rest quarter>,note,esposito456,1.0,62.0,GeneralNote
+21,,<music21.note.Note C>,note,esposito457,1.5,62.0,GeneralNote
+21,,<music21.articulations.Tenuto>,tenuto,esposito458,0.0,0.0,Articulation
+21,,<music21.note.Note G>,note,esposito459,0.5,62.5,GeneralNote
+21,,<music21.note.Note C>,note,esposito460,0.5,63.0,GeneralNote
+21,,<music21.note.Rest eighth>,note,esposito461,0.5,63.0,GeneralNote
+21,,<music21.note.Rest eighth>,note,esposito462,0.5,63.0,GeneralNote
+21,21,<music21.spanner.Slur <music21.note.Note G><music21.note.Note C>>,slur,esposito1315,0.5,0.0,Slur
+21,,<music21.dynamics.Dynamic pp>,pp,esposito1371,,,DynamicPoint
+21,,<music21.expressions.TextExpression '(simile)'>,(simile),esposito1443,0.0,60.5,TextExpression
+22,,<music21.note.Rest dotted-half>,note,esposito463,3.0,63.5,GeneralNote
+22,,<music21.note.Note F>,note,esposito464,1.5,63.5,GeneralNote
+22,,<music21.note.Note A>,note,esposito465,1.5,63.5,GeneralNote
+22,,<music21.articulations.Tenuto>,tenuto,esposito466,0.0,0.0,Articulation
+22,,<music21.note.Note F>,note,esposito467,0.5,63.5,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,esposito468,0.0,0.0,Articulation
+22,,<music21.note.Rest dotted-half>,note,esposito469,3.0,63.5,GeneralNote
+22,,<music21.note.Note C>,note,esposito470,0.5,64.0,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,esposito471,0.0,0.0,Articulation
+22,,<music21.note.Note F>,note,esposito472,0.5,64.5,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,esposito473,0.0,0.0,Articulation
+22,,<music21.note.Rest eighth>,note,esposito474,0.5,65.0,GeneralNote
+22,,<music21.note.Rest quarter>,note,esposito475,1.0,65.0,GeneralNote
+22,,<music21.note.Rest quarter>,note,esposito476,1.0,65.0,GeneralNote
+22,,<music21.note.Note C>,note,esposito477,1.5,65.0,GeneralNote
+22,,<music21.articulations.Tenuto>,tenuto,esposito478,0.0,0.0,Articulation
+22,,<music21.note.Note G>,note,esposito479,0.5,65.5,GeneralNote
+22,,<music21.note.Note C>,note,esposito480,0.5,66.0,GeneralNote
+22,,<music21.note.Rest eighth>,note,esposito481,0.5,66.0,GeneralNote
+22,,<music21.note.Rest eighth>,note,esposito482,0.5,66.0,GeneralNote
+22,22,<music21.spanner.Slur <music21.note.Note G><music21.note.Note C>>,slur,esposito1316,0.5,0.0,Slur
+22,,<music21.expressions.TextExpression '(simile)'>,(simile),esposito1444,0.0,63.5,TextExpression
+23,,<music21.note.Rest dotted-half>,note,esposito483,3.0,66.5,GeneralNote
+23,,<music21.note.Note F>,note,esposito484,1.5,66.5,GeneralNote
+23,,<music21.note.Note A>,note,esposito485,1.5,66.5,GeneralNote
+23,,<music21.articulations.Tenuto>,tenuto,esposito486,0.0,0.0,Articulation
+23,,<music21.note.Note F>,note,esposito487,0.5,66.5,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,esposito488,0.0,0.0,Articulation
+23,,<music21.note.Rest dotted-half>,note,esposito489,3.0,66.5,GeneralNote
+23,,<music21.note.Note C>,note,esposito490,0.5,67.0,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,esposito491,0.0,0.0,Articulation
+23,,<music21.note.Note F>,note,esposito492,0.5,67.5,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,esposito493,0.0,0.0,Articulation
+23,,<music21.note.Rest eighth>,note,esposito494,0.5,68.0,GeneralNote
+23,,<music21.note.Rest quarter>,note,esposito495,1.0,68.0,GeneralNote
+23,,<music21.note.Rest quarter>,note,esposito496,1.0,68.0,GeneralNote
+23,,<music21.note.Note C>,note,esposito497,1.5,68.0,GeneralNote
+23,,<music21.articulations.Tenuto>,tenuto,esposito498,0.0,0.0,Articulation
+23,,<music21.note.Note G>,note,esposito499,0.5,68.5,GeneralNote
+23,,<music21.note.Note C>,note,esposito500,0.5,69.0,GeneralNote
+23,,<music21.note.Rest eighth>,note,esposito501,0.5,69.0,GeneralNote
+23,,<music21.note.Rest eighth>,note,esposito502,0.5,69.0,GeneralNote
+23,23,<music21.spanner.Slur <music21.note.Note G><music21.note.Note C>>,slur,esposito1317,0.5,0.0,Slur
+23,,<music21.expressions.TextExpression '(simile)'>,(simile),esposito1445,0.0,66.5,TextExpression
+24,,<music21.note.Rest dotted-half>,note,esposito503,3.0,69.5,GeneralNote
+24,,<music21.note.Note A>,note,esposito504,1.5,69.5,GeneralNote
+24,,<music21.articulations.Fingering 4>,fingering,esposito505,0.0,0.0,Fingering
+24,,<music21.articulations.Tenuto>,tenuto,esposito506,0.0,0.0,Articulation
+24,,<music21.note.Note F>,note,esposito507,0.5,69.5,GeneralNote
+24,,<music21.articulations.Fingering 2>,fingering,esposito508,0.0,0.0,Fingering
+24,,<music21.note.Note F>,note,esposito509,1.0,69.5,GeneralNote
+24,,<music21.articulations.Fingering 5>,fingering,esposito510,0.0,0.0,Fingering
+24,,<music21.note.Rest dotted-half>,note,esposito511,3.0,69.5,GeneralNote
+24,,<music21.note.Note G>,note,esposito512,0.5,70.0,GeneralNote
+24,,<music21.note.Note F>,note,esposito513,0.5,70.5,GeneralNote
+24,,<music21.note.Note B->,note,esposito514,0.5,70.5,GeneralNote
+24,,<music21.note.Note A>,note,esposito515,0.5,71.0,GeneralNote
+24,,<music21.note.Note F>,note,esposito516,0.5,71.0,GeneralNote
+24,,<music21.note.Note C>,note,esposito517,1.0,71.0,GeneralNote
+24,,<music21.note.Note B->,note,esposito518,0.5,71.5,GeneralNote
+24,,<music21.note.Note G>,note,esposito519,0.5,71.5,GeneralNote
+24,,<music21.note.Note G>,note,esposito520,0.5,72.0,GeneralNote
+24,,<music21.note.Note E>,note,esposito521,0.5,72.0,GeneralNote
+24,,<music21.note.Note C>,note,esposito522,0.5,72.0,GeneralNote
+24,24,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,esposito1318,2.5,0.0,Slur
+24,24,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,esposito1319,1.0,0.0,Slur
+24,24,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C>>,slur,esposito1320,2.5,0.0,Slur
+24,24,<music21.dynamics.Crescendo <music21.note.Note A>>,diminuendo,esposito1409,,,DynamicRegion
+24,24,<music21.dynamics.Diminuendo <music21.note.Note A><music21.note.Note G>>,diminuendo,esposito1411,,,DynamicRegion
+25,,<music21.note.Rest dotted-half>,note,esposito523,3.0,72.5,GeneralNote
+25,,<music21.note.Note F>,note,esposito524,0.5,72.5,GeneralNote
+25,,<music21.articulations.Fingering 21>,fingering,esposito525,0.0,0.0,Fingering
+25,,<music21.note.Note F>,note,esposito526,1.5,72.5,GeneralNote
+25,,<music21.note.Rest dotted-half>,note,esposito527,3.0,72.5,GeneralNote
+25,,<music21.note.Note G>,note,esposito528,0.125,73.0,GeneralNote
+25,,<music21.note.Note A>,note,esposito529,0.125,73.125,GeneralNote
+25,,<music21.note.Note B->,note,esposito530,0.125,73.25,GeneralNote
+25,,<music21.note.Note C>,note,esposito531,0.125,73.375,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,esposito532,0.0,0.0,Fingering
+25,,<music21.note.Note D>,note,esposito533,0.125,73.5,GeneralNote
+25,,<music21.note.Note E>,note,esposito534,0.125,73.625,GeneralNote
+25,,<music21.note.Note F>,note,esposito535,0.125,73.75,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,esposito536,0.0,0.0,Fingering
+25,,<music21.note.Note G>,note,esposito537,0.125,73.875,GeneralNote
+25,,<music21.note.Note A>,note,esposito538,0.5,74.0,GeneralNote
+25,,<music21.note.Note F>,note,esposito539,1.5,74.0,GeneralNote
+25,,<music21.note.Note C>,note,esposito540,0.5,74.5,GeneralNote
+25,,<music21.note.Note C>,note,esposito541,0.5,75.0,GeneralNote
+25,,<music21.articulations.Staccato>,staccato,esposito542,0.0,0.0,Articulation
+25,25,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C>>,slur,esposito1321,2.0,0.0,Slur
+25,,<music21.dynamics.Dynamic pp>,pp,esposito1372,,,DynamicPoint
+26,,<music21.note.Rest dotted-half>,note,esposito543,3.0,75.5,GeneralNote
+26,,<music21.note.Note A>,note,esposito544,0.5,75.5,GeneralNote
+26,,<music21.note.Note F>,note,esposito545,1.5,75.5,GeneralNote
+26,,<music21.note.Rest dotted-half>,note,esposito546,3.0,75.5,GeneralNote
+26,,<music21.note.Note C>,note,esposito547,0.5,76.0,GeneralNote
+26,,<music21.note.Note C>,note,esposito548,0.5,76.5,GeneralNote
+26,,<music21.articulations.Staccato>,staccato,esposito549,0.0,0.0,Articulation
+26,,<music21.note.Note A>,note,esposito550,0.5,77.0,GeneralNote
+26,,<music21.chord.Chord F2 F3>,note,esposito551,1.5,77.0,GeneralNote
+26,,<music21.note.Note C>,note,esposito552,0.5,77.5,GeneralNote
+26,,<music21.note.Note C>,note,esposito553,0.5,78.0,GeneralNote
+26,,<music21.articulations.Staccato>,staccato,esposito554,0.0,0.0,Articulation
+26,26,<music21.spanner.Slur <music21.note.Note A><music21.note.Note C>>,slur,esposito1322,0.5,0.0,Slur
+26,26,<music21.spanner.Slur <music21.note.Note A><music21.note.Note C>>,slur,esposito1323,0.5,0.0,Slur
+26,,<music21.expressions.TextExpression 'rall.'>,rall.,esposito1446,0.0,75.5,TextExpression
+27,,<music21.note.Rest dotted-half>,note,esposito555,3.0,78.5,GeneralNote
+27,,<music21.note.Note A>,note,esposito556,1.5,78.5,GeneralNote
+27,,<music21.articulations.Tenuto>,tenuto,esposito557,0.0,0.0,Articulation
+27,,<music21.note.Note F>,note,esposito558,1.5,78.5,GeneralNote
+27,,<music21.articulations.Tenuto>,tenuto,esposito559,0.0,0.0,Articulation
+27,,<music21.chord.Chord F2 F3>,note,esposito560,1.5,78.5,GeneralNote
+27,,<music21.note.Rest dotted-half>,note,esposito561,3.0,78.5,GeneralNote
+27,,<music21.note.Rest quarter>,note,esposito562,1.0,80.0,GeneralNote
+27,,<music21.note.Rest quarter>,note,esposito563,1.0,80.0,GeneralNote
+27,,<music21.note.Rest quarter>,note,esposito564,1.0,80.0,GeneralNote
+27,,<music21.note.Note C>,note,esposito565,0.5,81.0,GeneralNote
+27,,<music21.note.Rest eighth>,note,esposito566,0.5,81.0,GeneralNote
+27,,<music21.note.Rest eighth>,note,esposito567,0.5,81.5,GeneralNote
+27,,<music21.note.Rest eighth>,note,esposito571,0.5,81.5,GeneralNote
+27,29,<music21.spanner.Slur <music21.note.Note C><music21.note.Note E->>,slur,esposito1324,6.0,0.0,Slur
+27,,<music21.dynamics.Dynamic p>,p,esposito1373,,,DynamicPoint
+27,,<music21.expressions.TextExpression 'a tempo'>,a tempo,esposito1447,0.0,81.0,TextExpression
+28,,<music21.note.Note F>,note,esposito568,0.5,81.5,GeneralNote
+28,,<music21.note.Note C>,note,esposito569,1.5,81.5,GeneralNote
+28,,<music21.chord.Chord F3 A3>,note,esposito570,1.5,81.5,GeneralNote
+28,,<music21.note.Rest dotted-half>,note,esposito572,3.0,82.0,GeneralNote
+28,,<music21.note.Note G>,note,esposito573,0.5,82.0,GeneralNote
+28,,<music21.note.Rest dotted-half>,note,esposito574,3.0,82.0,GeneralNote
+28,,<music21.note.Note A>,note,esposito575,0.5,82.5,GeneralNote
+28,,<music21.note.Note G>,note,esposito576,0.5,83.0,GeneralNote
+28,,<music21.articulations.Fingering 2>,fingering,esposito577,0.0,0.0,Fingering
+28,,<music21.note.Note C>,note,esposito578,1.5,83.0,GeneralNote
+28,,<music21.chord.Chord E3 G3>,note,esposito579,1.5,83.0,GeneralNote
+28,,<music21.note.Note A>,note,esposito580,0.5,83.5,GeneralNote
+28,,<music21.note.Note B->,note,esposito581,0.5,84.0,GeneralNote
+28,29,<music21.dynamics.Crescendo <music21.note.Note G><music21.note.Note E->>,diminuendo,esposito1413,,,DynamicRegion
+29,,<music21.note.Note A>,note,esposito582,0.5,84.5,GeneralNote
+29,,<music21.articulations.Fingering 1>,fingering,esposito583,0.0,0.0,Fingering
+29,,<music21.note.Note C>,note,esposito584,1.5,84.5,GeneralNote
+29,,<music21.chord.Chord F3 A3>,note,esposito585,1.5,84.5,GeneralNote
+29,,<music21.note.Rest dotted-half>,note,esposito586,3.0,85.0,GeneralNote
+29,,<music21.note.Note B->,note,esposito587,0.5,85.0,GeneralNote
+29,,<music21.note.Rest dotted-half>,note,esposito588,3.0,85.0,GeneralNote
+29,,<music21.note.Note C>,note,esposito589,0.5,85.5,GeneralNote
+29,,<music21.note.Note C>,note,esposito590,0.5,86.0,GeneralNote
+29,,<music21.note.Note C>,note,esposito591,1.5,86.0,GeneralNote
+29,,<music21.chord.Chord E-3 G3>,note,esposito592,1.5,86.0,GeneralNote
+29,,<music21.note.Note D>,note,esposito593,0.5,86.5,GeneralNote
+29,,<music21.note.Note E->,note,esposito594,0.5,87.0,GeneralNote
+30,,<music21.note.Note G>,note,esposito595,0.5,87.5,GeneralNote
+30,,<music21.articulations.Fingering 1>,fingering,esposito596,0.0,0.0,Fingering
+30,,<music21.note.Note D>,note,esposito597,1.5,87.5,GeneralNote
+30,,<music21.chord.Chord D3 A3>,note,esposito598,1.5,87.5,GeneralNote
+30,,<music21.note.Rest dotted-half>,note,esposito599,3.0,88.0,GeneralNote
+30,,<music21.note.Note F#>,note,esposito600,0.5,88.0,GeneralNote
+30,,<music21.note.Rest dotted-half>,note,esposito601,3.0,88.0,GeneralNote
+30,,<music21.note.Note G>,note,esposito602,0.5,88.5,GeneralNote
+30,,<music21.note.Note A>,note,esposito603,0.5,89.0,GeneralNote
+30,,<music21.note.Note D>,note,esposito604,1.5,89.0,GeneralNote
+30,,<music21.chord.Chord F#3 A3>,note,esposito605,1.5,89.0,GeneralNote
+30,,<music21.note.Note B->,note,esposito606,0.5,89.5,GeneralNote
+30,,<music21.note.Note C>,note,esposito607,0.5,90.0,GeneralNote
+30,31,<music21.spanner.Slur <music21.note.Note G><music21.note.Note F>>,slur,esposito1325,5.5,0.0,Slur
+30,,<music21.dynamics.Dynamic p>,p,esposito1374,,,DynamicPoint
+30,31,<music21.dynamics.Crescendo <music21.note.Note G><music21.note.Note F>>,diminuendo,esposito1415,,,DynamicRegion
+31,,<music21.note.Note B->,note,esposito608,0.5,90.5,GeneralNote
+31,,<music21.note.Note D>,note,esposito609,1.5,90.5,GeneralNote
+31,,<music21.chord.Chord G3 B-3>,note,esposito610,1.5,90.5,GeneralNote
+31,,<music21.note.Rest dotted-half>,note,esposito611,3.0,91.0,GeneralNote
+31,,<music21.note.Note C>,note,esposito612,0.5,91.0,GeneralNote
+31,,<music21.articulations.Fingering 1>,fingering,esposito613,0.0,0.0,Fingering
+31,,<music21.note.Rest dotted-half>,note,esposito614,3.0,91.0,GeneralNote
+31,,<music21.note.Note D>,note,esposito615,0.5,91.5,GeneralNote
+31,,<music21.note.Note D>,note,esposito616,0.5,92.0,GeneralNote
+31,,<music21.note.Note D>,note,esposito617,1.5,92.0,GeneralNote
+31,,<music21.chord.Chord F3 A3>,note,esposito618,1.5,92.0,GeneralNote
+31,,<music21.note.Note E>,note,esposito619,0.5,92.5,GeneralNote
+31,,<music21.note.Note F>,note,esposito620,0.5,93.0,GeneralNote
+32,,<music21.note.Note A>,note,esposito621,0.5,93.5,GeneralNote
+32,,<music21.note.Note E>,note,esposito622,1.5,93.5,GeneralNote
+32,,<music21.chord.Chord E3 B3>,note,esposito623,1.5,93.5,GeneralNote
+32,,<music21.note.Rest dotted-half>,note,esposito624,3.0,94.0,GeneralNote
+32,,<music21.note.Note G#>,note,esposito625,0.5,94.0,GeneralNote
+32,,<music21.note.Rest dotted-half>,note,esposito626,3.0,94.0,GeneralNote
+32,,<music21.note.Note A>,note,esposito627,0.5,94.5,GeneralNote
+32,,<music21.note.Note B>,note,esposito628,0.5,95.0,GeneralNote
+32,,<music21.note.Note E>,note,esposito629,1.5,95.0,GeneralNote
+32,,<music21.chord.Chord G#3 B3>,note,esposito630,1.5,95.0,GeneralNote
+32,,<music21.note.Note C#>,note,esposito631,0.5,95.5,GeneralNote
+32,,<music21.note.Note D>,note,esposito632,0.5,96.0,GeneralNote
+32,34,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,esposito1326,8.5,0.0,Slur
+32,,<music21.dynamics.Dynamic p>,p,esposito1375,,,DynamicPoint
+32,,<music21.expressions.TextExpression 'cresc.'>,cresc.,esposito1448,0.0,95.0,TextExpression
+33,,<music21.note.Note C#>,note,esposito633,0.5,96.5,GeneralNote
+33,,<music21.note.Note E>,note,esposito634,1.5,96.5,GeneralNote
+33,,<music21.chord.Chord A3 C#4>,note,esposito635,1.5,96.5,GeneralNote
+33,,<music21.note.Rest dotted-half>,note,esposito636,3.0,97.0,GeneralNote
+33,,<music21.note.Note D>,note,esposito637,0.5,97.0,GeneralNote
+33,,<music21.articulations.Fingering 1>,fingering,esposito638,0.0,0.0,Fingering
+33,,<music21.note.Rest dotted-half>,note,esposito639,3.0,97.0,GeneralNote
+33,,<music21.note.Note E>,note,esposito640,0.5,97.5,GeneralNote
+33,,<music21.note.Note E>,note,esposito641,0.5,98.0,GeneralNote
+33,,<music21.note.Rest quarter>,note,esposito642,1.0,98.0,GeneralNote
+33,,<music21.note.Rest quarter>,note,esposito643,1.0,98.0,GeneralNote
+33,,<music21.chord.Chord C#3 E3 A3>,note,esposito644,1.5,98.0,GeneralNote
+33,,<music21.note.Note F>,note,esposito645,0.5,98.5,GeneralNote
+33,,<music21.note.Note G>,note,esposito646,0.5,99.0,GeneralNote
+33,,<music21.note.Rest eighth>,note,esposito647,0.5,99.0,GeneralNote
+33,,<music21.note.Rest eighth>,note,esposito648,0.5,99.0,GeneralNote
+34,,<music21.note.Note F>,note,esposito649,0.5,99.5,GeneralNote
+34,,<music21.note.Note D>,note,esposito650,1.5,99.5,GeneralNote
+34,,<music21.chord.Chord D3 A3>,note,esposito651,1.5,99.5,GeneralNote
+34,,<music21.note.Rest dotted-half>,note,esposito652,3.0,100.0,GeneralNote
+34,,<music21.note.Note E>,note,esposito653,0.5,100.0,GeneralNote
+34,,<music21.note.Rest dotted-half>,note,esposito654,3.0,100.0,GeneralNote
+34,,<music21.note.Note D>,note,esposito655,0.5,100.5,GeneralNote
+34,,<music21.note.Note A>,note,esposito656,0.5,101.0,GeneralNote
+34,,<music21.note.Note D>,note,esposito657,1.5,101.0,GeneralNote
+34,,<music21.note.Note F>,note,esposito658,1.0,101.0,GeneralNote
+34,,<music21.articulations.Fingering 4>,fingering,esposito659,0.0,0.0,Fingering
+34,,<music21.note.Note G>,note,esposito660,0.5,101.5,GeneralNote
+34,,<music21.note.Note F>,note,esposito661,0.5,102.0,GeneralNote
+34,,<music21.note.Note G>,note,esposito662,0.5,102.0,GeneralNote
+34,34,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G>>,slur,esposito1327,1.0,0.0,Slur
+34,34,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note F>>,diminuendo,esposito1417,,,DynamicRegion
+35,,<music21.note.Note E>,note,esposito663,1.5,102.5,GeneralNote
+35,,<music21.note.Note A>,note,esposito664,0.5,102.5,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,esposito665,0.0,0.0,Fingering
+35,,<music21.articulations.Staccato>,staccato,esposito666,0.0,0.0,Articulation
+35,,<music21.note.Note E>,note,esposito667,0.125,103.0,GeneralNote
+35,,<music21.note.Note E>,note,esposito668,0.5,103.0,GeneralNote
+35,,<music21.articulations.Staccato>,staccato,esposito669,0.0,0.0,Articulation
+35,,<music21.note.Rest dotted-half>,note,esposito670,3.0,103.0,GeneralNote
+35,,<music21.note.Note F>,note,esposito671,0.125,103.125,GeneralNote
+35,,<music21.note.Note E>,note,esposito672,0.125,103.25,GeneralNote
+35,,<music21.note.Note F>,note,esposito673,0.125,103.375,GeneralNote
+35,,<music21.note.Note E>,note,esposito674,0.125,103.5,GeneralNote
+35,,<music21.note.Note C#>,note,esposito675,0.5,103.5,GeneralNote
+35,,<music21.articulations.Staccato>,staccato,esposito676,0.0,0.0,Articulation
+35,,<music21.note.Note F>,note,esposito677,0.125,103.625,GeneralNote
+35,,<music21.note.Note E>,note,esposito678,0.125,103.75,GeneralNote
+35,,<music21.note.Note F>,note,esposito679,0.125,103.875,GeneralNote
+35,,<music21.note.Note E>,note,esposito680,0.5,104.0,GeneralNote
+35,,<music21.note.Rest eighth>,note,esposito681,0.5,104.0,GeneralNote
+35,,<music21.note.Note A>,note,esposito682,1.5,104.0,GeneralNote
+35,,<music21.note.Rest quarter>,note,esposito683,1.0,104.5,GeneralNote
+35,,<music21.note.Note A>,note,esposito684,0.5,104.5,GeneralNote
+35,,<music21.articulations.Staccato>,staccato,esposito685,0.0,0.0,Articulation
+35,,<music21.note.Note A>,note,esposito686,0.5,105.0,GeneralNote
+35,,<music21.articulations.Staccato>,staccato,esposito687,0.0,0.0,Articulation
+35,,<music21.note.Rest eighth>,note,esposito688,0.5,105.5,GeneralNote
+35,35,<music21.spanner.Slur <music21.note.Note E><music21.note.Note E>>,slur,esposito1281,1.0,0.0,Slur
+35,,<music21.dynamics.Dynamic p>,p,esposito1376,,,DynamicPoint
+36,,<music21.note.Note B->,note,esposito689,1.0,105.5,GeneralNote
+36,,<music21.articulations.Accent>,accent,esposito690,0.0,0.0,Articulation
+36,,<music21.chord.Chord D4 F4>,note,esposito691,1.5,105.5,GeneralNote
+36,,<music21.articulations.Fingering 3>,fingering,esposito692,0.0,0.0,Fingering
+36,,<music21.articulations.Accent>,accent,esposito693,0.0,0.0,Articulation
+36,,<music21.articulations.Fingering 1>,fingering,esposito694,0.0,0.0,Fingering
+36,,<music21.note.Rest dotted-half>,note,esposito695,3.0,105.5,GeneralNote
+36,,<music21.note.Note B->,note,esposito696,1/6,106.0,GeneralNote
+36,,<music21.note.Rest dotted-half>,note,esposito697,3.0,106.0,GeneralNote
+36,,<music21.note.Note C>,note,esposito698,1/6,637/6,GeneralNote
+36,,<music21.note.Note B->,note,esposito699,1/6,319/3,GeneralNote
+36,,<music21.note.Note C>,note,esposito700,1/6,106.5,GeneralNote
+36,,<music21.note.Note A>,note,esposito701,0.5,106.5,GeneralNote
+36,,<music21.note.Note B->,note,esposito702,1/6,320/3,GeneralNote
+36,,<music21.note.Note C>,note,esposito703,1/6,641/6,GeneralNote
+36,,<music21.note.Note B->,note,esposito704,1/6,107.0,GeneralNote
+36,,<music21.note.Note A>,note,esposito705,0.5,107.0,GeneralNote
+36,,<music21.articulations.Fingering 2>,fingering,esposito706,0.0,0.0,Fingering
+36,,<music21.articulations.Staccato>,staccato,esposito707,0.0,0.0,Articulation
+36,,<music21.chord.Chord C#4 E4>,note,esposito708,1.5,107.0,GeneralNote
+36,,<music21.note.Note C>,note,esposito709,1/6,643/6,GeneralNote
+36,,<music21.note.Note B->,note,esposito710,1/6,322/3,GeneralNote
+36,,<music21.note.Rest quarter>,note,esposito711,1.0,107.5,GeneralNote
+36,,<music21.note.Note A>,note,esposito712,0.5,107.5,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,esposito713,0.0,0.0,Articulation
+36,,<music21.note.Note A>,note,esposito714,0.5,108.0,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,esposito715,0.0,0.0,Articulation
+36,,<music21.note.Rest eighth>,note,esposito716,0.5,108.5,GeneralNote
+36,36,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A>>,slur,esposito1328,1.0,0.0,Slur
+36,36,<music21.spanner.Slur <music21.chord.Chord D4 F4><music21.chord.Chord C#4 E4>>,slur,esposito1329,1.5,0.0,Slur
+37,,<music21.note.Note B->,note,esposito717,1.0,108.5,GeneralNote
+37,,<music21.articulations.Accent>,accent,esposito718,0.0,0.0,Articulation
+37,,<music21.chord.Chord D4 F4>,note,esposito719,1.5,108.5,GeneralNote
+37,,<music21.articulations.Accent>,accent,esposito720,0.0,0.0,Articulation
+37,,<music21.note.Rest dotted-half>,note,esposito721,3.0,108.5,GeneralNote
+37,,<music21.note.Note B->,note,esposito722,1/6,109.0,GeneralNote
+37,,<music21.note.Rest quarter>,note,esposito723,1.0,109.0,GeneralNote
+37,,<music21.note.Note C>,note,esposito724,1/6,655/6,GeneralNote
+37,,<music21.note.Note B->,note,esposito725,1/6,328/3,GeneralNote
+37,,<music21.note.Note C>,note,esposito726,1/6,109.5,GeneralNote
+37,,<music21.note.Note A>,note,esposito727,0.5,109.5,GeneralNote
+37,,<music21.note.Note B->,note,esposito728,1/6,329/3,GeneralNote
+37,,<music21.note.Note C>,note,esposito729,1/6,659/6,GeneralNote
+37,,<music21.note.Note B->,note,esposito730,1/6,110.0,GeneralNote
+37,,<music21.note.Note A>,note,esposito731,0.5,110.0,GeneralNote
+37,,<music21.chord.Chord C#4 E4>,note,esposito732,1.0,110.0,GeneralNote
+37,,<music21.articulations.Tenuto>,tenuto,esposito733,0.0,0.0,Articulation
+37,,<music21.note.Rest eighth>,note,esposito734,0.5,110.0,GeneralNote
+37,,<music21.note.Note C>,note,esposito735,1/6,661/6,GeneralNote
+37,,<music21.note.Note B->,note,esposito736,1/6,331/3,GeneralNote
+37,,<music21.note.Rest quarter>,note,esposito737,1.0,110.5,GeneralNote
+37,,<music21.note.Note A>,note,esposito738,0.5,110.5,GeneralNote
+37,,<music21.articulations.Fingering 4>,fingering,esposito739,0.0,0.0,Fingering
+37,,<music21.chord.Chord C#4 E4>,note,esposito740,1.5,110.5,GeneralNote
+37,,<music21.note.Note F#>,note,esposito741,0.5,111.0,GeneralNote
+37,,<music21.chord.Chord D4 A4>,note,esposito742,0.5,111.0,GeneralNote
+37,,<music21.note.Rest eighth>,note,esposito743,0.5,111.5,GeneralNote
+37,37,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A>>,slur,esposito1330,1.0,0.0,Slur
+37,38,<music21.spanner.Slur <music21.note.Note A><music21.note.Note B->>,slur,esposito1331,2.0,0.0,Slur
+37,37,<music21.spanner.Slur <music21.chord.Chord D4 F4><music21.chord.Chord C#4 E4>>,slur,esposito1332,1.5,0.0,Slur
+37,38,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note B->>,diminuendo,esposito1419,,,DynamicRegion
+37,,<music21.expressions.TextExpression '(simile)'>,(simile),esposito1449,0.0,108.5,TextExpression
+37,,<music21.expressions.TextExpression 'Orig.'>,Orig.,esposito1450,0.0,110.5,TextExpression
+38,,<music21.note.Note G>,note,esposito744,0.5,111.5,GeneralNote
+38,,<music21.articulations.Fingering 3>,fingering,esposito745,0.0,0.0,Fingering
+38,,<music21.chord.Chord E-4 G4>,note,esposito746,1.5,111.5,GeneralNote
+38,,<music21.note.Rest dotted-half>,note,esposito747,3.0,111.5,GeneralNote
+38,,<music21.note.Rest dotted-half>,note,esposito748,3.0,112.0,GeneralNote
+38,,<music21.note.Note A>,note,esposito749,0.5,112.0,GeneralNote
+38,,<music21.note.Rest dotted-half>,note,esposito750,3.0,112.0,GeneralNote
+38,,<music21.note.Note B->,note,esposito751,0.5,112.5,GeneralNote
+38,,<music21.note.Note B->,note,esposito752,0.5,113.0,GeneralNote
+38,,<music21.chord.Chord C4 E-4 A4>,note,esposito753,1.5,113.0,GeneralNote
+38,,<music21.note.Note A>,note,esposito754,0.5,113.5,GeneralNote
+38,,<music21.note.Note G>,note,esposito755,0.5,114.0,GeneralNote
+38,39,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note C>>,slur,esposito1333,4.0,0.0,Slur
+39,,<music21.note.Note F#>,note,esposito756,0.5,114.5,GeneralNote
+39,,<music21.chord.Chord D4 F#4 A4>,note,esposito757,1.5,114.5,GeneralNote
+39,,<music21.note.Rest dotted-quarter>,note,esposito758,1.5,114.5,GeneralNote
+39,,<music21.note.Rest dotted-half>,note,esposito759,3.0,115.0,GeneralNote
+39,,<music21.note.Note G>,note,esposito760,0.5,115.0,GeneralNote
+39,,<music21.note.Rest dotted-half>,note,esposito761,3.0,115.0,GeneralNote
+39,,<music21.note.Note A>,note,esposito762,0.5,115.5,GeneralNote
+39,,<music21.articulations.Fingering 5>,fingering,esposito763,0.0,0.0,Fingering
+39,,<music21.note.Note E->,note,esposito764,0.5,116.0,GeneralNote
+39,,<music21.articulations.Fingering 3>,fingering,esposito765,0.0,0.0,Fingering
+39,,<music21.note.Rest quarter>,note,esposito766,1.0,116.0,GeneralNote
+39,,<music21.note.Rest quarter>,note,esposito767,1.0,116.0,GeneralNote
+39,,<music21.chord.Chord F#4 A4>,note,esposito768,1.5,116.0,GeneralNote
+39,,<music21.note.Note D>,note,esposito769,0.5,116.5,GeneralNote
+39,,<music21.note.Note C>,note,esposito770,0.5,117.0,GeneralNote
+39,,<music21.note.Rest eighth>,note,esposito771,0.5,117.0,GeneralNote
+39,,<music21.note.Rest eighth>,note,esposito772,0.5,117.0,GeneralNote
+39,39,<music21.dynamics.Diminuendo <music21.note.Note F#><music21.note.Note C>>,diminuendo,esposito1421,,,DynamicRegion
+40,,<music21.note.Note C>,note,esposito773,0.5,117.5,GeneralNote
+40,,<music21.articulations.Fingering 2>,fingering,esposito774,0.0,0.0,Fingering
+40,,<music21.note.Note A>,note,esposito775,0.5,117.5,GeneralNote
+40,,<music21.articulations.Fingering 1>,fingering,esposito776,0.0,0.0,Fingering
+40,,<music21.note.Rest dotted-half>,note,esposito777,3.0,118.0,GeneralNote
+40,,<music21.note.Note B->,note,esposito778,0.5,118.0,GeneralNote
+40,,<music21.note.Note G>,note,esposito779,0.5,118.0,GeneralNote
+40,,<music21.note.Note G>,note,esposito780,1.0,118.0,GeneralNote
+40,,<music21.note.Note G>,note,esposito781,0.5,118.5,GeneralNote
+40,,<music21.note.Note E>,note,esposito782,0.5,118.5,GeneralNote
+40,,<music21.note.Note B->,note,esposito783,0.5,119.0,GeneralNote
+40,,<music21.articulations.Fingering 2>,fingering,esposito784,0.0,0.0,Fingering
+40,,<music21.note.Note G>,note,esposito785,0.5,119.0,GeneralNote
+40,,<music21.articulations.Fingering 1>,fingering,esposito786,0.0,0.0,Fingering
+40,,<music21.note.Note G>,note,esposito787,0.5,119.0,GeneralNote
+40,,<music21.note.Note A>,note,esposito788,0.5,119.5,GeneralNote
+40,,<music21.note.Note F>,note,esposito789,0.5,119.5,GeneralNote
+40,,<music21.note.Note F>,note,esposito790,1.0,119.5,GeneralNote
+40,,<music21.note.Note F>,note,esposito791,0.5,120.0,GeneralNote
+40,,<music21.note.Note D>,note,esposito792,0.5,120.0,GeneralNote
+40,,<music21.note.Note F>,note,esposito795,0.5,120.5,GeneralNote
+40,43,<music21.spanner.Slur <music21.note.Note C><music21.note.Note G>>,slur,esposito1334,11.5,0.0,Slur
+40,43,<music21.spanner.Slur <music21.note.Note A><music21.note.Note E>>,slur,esposito1335,11.5,0.0,Slur
+40,,<music21.expressions.TextExpression 'dim.'>,dim.,esposito1451,0.0,117.5,TextExpression
+40,,<music21.expressions.TextExpression 'Orig.'>,Orig.,esposito1452,0.0,118.0,TextExpression
+41,,<music21.note.Note A>,note,esposito793,0.5,120.5,GeneralNote
+41,,<music21.note.Note F>,note,esposito794,0.5,120.5,GeneralNote
+41,,<music21.note.Rest dotted-half>,note,esposito796,3.0,121.0,GeneralNote
+41,,<music21.note.Note G>,note,esposito797,0.5,121.0,GeneralNote
+41,,<music21.note.Note E>,note,esposito798,0.5,121.0,GeneralNote
+41,,<music21.note.Note E>,note,esposito799,1.0,121.0,GeneralNote
+41,,<music21.note.Note E>,note,esposito800,0.5,121.5,GeneralNote
+41,,<music21.note.Note C>,note,esposito801,0.5,121.5,GeneralNote
+41,,<music21.note.Note G>,note,esposito802,0.5,122.0,GeneralNote
+41,,<music21.note.Note E>,note,esposito803,0.5,122.0,GeneralNote
+41,,<music21.note.Note E>,note,esposito804,0.5,122.0,GeneralNote
+41,,<music21.note.Note F>,note,esposito805,0.5,122.5,GeneralNote
+41,,<music21.note.Note D>,note,esposito806,0.5,122.5,GeneralNote
+41,,<music21.note.Note D>,note,esposito807,1.0,122.5,GeneralNote
+41,,<music21.note.Note D>,note,esposito808,0.5,123.0,GeneralNote
+41,,<music21.note.Note B->,note,esposito809,0.5,123.0,GeneralNote
+41,,<music21.note.Note D>,note,esposito812,0.5,123.5,GeneralNote
+42,,<music21.note.Note F>,note,esposito810,0.5,123.5,GeneralNote
+42,,<music21.note.Note D>,note,esposito811,0.5,123.5,GeneralNote
+42,,<music21.note.Rest dotted-half>,note,esposito813,3.0,124.0,GeneralNote
+42,,<music21.note.Note E>,note,esposito814,0.5,124.0,GeneralNote
+42,,<music21.note.Note C>,note,esposito815,0.5,124.0,GeneralNote
+42,,<music21.note.Note C>,note,esposito816,1.0,124.0,GeneralNote
+42,,<music21.note.Note C>,note,esposito817,0.5,124.5,GeneralNote
+42,,<music21.note.Note A>,note,esposito818,0.5,124.5,GeneralNote
+42,,<music21.note.Note E>,note,esposito819,0.5,125.0,GeneralNote
+42,,<music21.note.Note C>,note,esposito820,0.5,125.0,GeneralNote
+42,,<music21.note.Note C>,note,esposito821,0.5,125.0,GeneralNote
+42,,<music21.note.Note D>,note,esposito822,0.5,125.5,GeneralNote
+42,,<music21.note.Note B->,note,esposito823,0.5,125.5,GeneralNote
+42,,<music21.note.Note B->,note,esposito824,1.0,125.5,GeneralNote
+42,,<music21.note.Note B->,note,esposito825,0.5,126.0,GeneralNote
+42,,<music21.note.Note G>,note,esposito826,0.5,126.0,GeneralNote
+42,,<music21.note.Note B->,note,esposito829,0.5,126.5,GeneralNote
+43,,<music21.note.Note D>,note,esposito827,0.5,126.5,GeneralNote
+43,,<music21.note.Note B->,note,esposito828,0.5,126.5,GeneralNote
+43,,<music21.note.Rest dotted-half>,note,esposito830,3.0,127.0,GeneralNote
+43,,<music21.note.Note C>,note,esposito831,0.5,127.0,GeneralNote
+43,,<music21.note.Note A>,note,esposito832,0.5,127.0,GeneralNote
+43,,<music21.note.Note A>,note,esposito833,1.0,127.0,GeneralNote
+43,,<music21.note.Note A>,note,esposito834,0.5,127.5,GeneralNote
+43,,<music21.note.Note F>,note,esposito835,0.5,127.5,GeneralNote
+43,,<music21.note.Note C>,note,esposito836,0.5,128.0,GeneralNote
+43,,<music21.note.Note A>,note,esposito837,0.5,128.0,GeneralNote
+43,,<music21.note.Note A>,note,esposito838,0.5,128.0,GeneralNote
+43,,<music21.note.Note B->,note,esposito839,0.5,128.5,GeneralNote
+43,,<music21.note.Note G>,note,esposito840,0.5,128.5,GeneralNote
+43,,<music21.note.Note G>,note,esposito841,1.0,128.5,GeneralNote
+43,,<music21.note.Note G>,note,esposito842,0.5,129.0,GeneralNote
+43,,<music21.note.Note E>,note,esposito843,0.5,129.0,GeneralNote
+43,,<music21.note.Rest 16th>,note,esposito844,0.25,129.25,GeneralNote
+43,,<music21.note.Rest 16th>,note,esposito845,0.25,129.25,GeneralNote
+43,,<music21.note.Note G>,note,esposito851,0.5,129.5,GeneralNote
+44,,<music21.note.Rest quarter>,note,esposito846,1.0,129.5,GeneralNote
+44,,<music21.note.Note A>,note,esposito847,0.5,129.5,GeneralNote
+44,,<music21.articulations.Fingering 1>,fingering,esposito848,0.0,0.0,Fingering
+44,,<music21.note.Note F>,note,esposito849,0.5,129.5,GeneralNote
+44,,<music21.articulations.Fingering 3>,fingering,esposito850,0.0,0.0,Fingering
+44,,<music21.note.Rest dotted-half>,note,esposito852,3.0,130.0,GeneralNote
+44,,<music21.note.Note B>,note,esposito853,0.25,130.0,GeneralNote
+44,,<music21.note.Note G>,note,esposito854,0.25,130.0,GeneralNote
+44,,<music21.note.Rest dotted-half>,note,esposito855,3.0,130.0,GeneralNote
+44,,<music21.note.Note C#>,note,esposito856,0.25,130.25,GeneralNote
+44,,<music21.note.Note A>,note,esposito857,0.25,130.25,GeneralNote
+44,,<music21.note.Rest eighth>,note,esposito858,0.5,130.5,GeneralNote
+44,,<music21.note.Note D>,note,esposito859,0.25,130.5,GeneralNote
+44,,<music21.articulations.Fingering 1>,fingering,esposito860,0.0,0.0,Fingering
+44,,<music21.note.Note B>,note,esposito861,0.25,130.5,GeneralNote
+44,,<music21.articulations.Fingering 3>,fingering,esposito862,0.0,0.0,Fingering
+44,,<music21.note.Note E>,note,esposito863,0.25,130.75,GeneralNote
+44,,<music21.note.Note C#>,note,esposito864,0.25,130.75,GeneralNote
+44,,<music21.note.Note F>,note,esposito865,0.5,131.0,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,esposito866,0.0,0.0,Articulation
+44,,<music21.note.Rest quarter>,note,esposito867,1.0,131.0,GeneralNote
+44,,<music21.note.Note D>,note,esposito868,0.5,131.0,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,esposito869,0.0,0.0,Articulation
+44,,<music21.note.Rest quarter>,note,esposito870,1.0,131.0,GeneralNote
+44,,<music21.note.Note E>,note,esposito871,0.5,131.5,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,esposito872,0.0,0.0,Articulation
+44,,<music21.note.Note C>,note,esposito873,0.5,131.5,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,esposito874,0.0,0.0,Articulation
+44,,<music21.note.Note D>,note,esposito875,0.5,132.0,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,esposito876,0.0,0.0,Articulation
+44,,<music21.note.Rest eighth>,note,esposito877,0.5,132.0,GeneralNote
+44,,<music21.note.Note B->,note,esposito878,0.5,132.0,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,esposito879,0.0,0.0,Articulation
+44,,<music21.note.Rest eighth>,note,esposito880,0.5,132.0,GeneralNote
+44,44,<music21.spanner.Slur <music21.note.Note D>>,slur,esposito1336,0.0,0.0,Slur
+44,44,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,esposito1337,1.5,0.0,Slur
+44,45,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C#><music21.note.Note B->>,slur,esposito1338,4.5,0.0,Slur
+44,,<music21.dynamics.Dynamic pp>,pp,esposito1377,,,DynamicPoint
+45,,<music21.note.Note C#>,note,esposito881,0.25,132.5,GeneralNote
+45,,<music21.articulations.Fingering 2>,fingering,esposito882,0.0,0.0,Fingering
+45,,<music21.note.Note A>,note,esposito883,0.25,132.5,GeneralNote
+45,,<music21.articulations.Fingering 5>,fingering,esposito884,0.0,0.0,Fingering
+45,,<music21.note.Note D>,note,esposito885,0.25,132.75,GeneralNote
+45,,<music21.articulations.Fingering 1>,fingering,esposito886,0.0,0.0,Fingering
+45,,<music21.note.Note B>,note,esposito887,0.25,132.75,GeneralNote
+45,,<music21.note.Rest dotted-half>,note,esposito888,3.0,133.0,GeneralNote
+45,,<music21.note.Note E>,note,esposito889,0.25,133.0,GeneralNote
+45,,<music21.note.Note C#>,note,esposito890,0.25,133.0,GeneralNote
+45,,<music21.note.Rest dotted-half>,note,esposito891,3.0,133.0,GeneralNote
+45,,<music21.note.Note F>,note,esposito892,0.25,133.25,GeneralNote
+45,,<music21.note.Note D>,note,esposito893,0.25,133.25,GeneralNote
+45,,<music21.note.Note G>,note,esposito894,0.25,133.5,GeneralNote
+45,,<music21.articulations.Fingering 1>,fingering,esposito895,0.0,0.0,Fingering
+45,,<music21.note.Note E>,note,esposito896,0.25,133.5,GeneralNote
+45,,<music21.note.Note A>,note,esposito897,0.25,133.75,GeneralNote
+45,,<music21.note.Note F>,note,esposito898,0.25,133.75,GeneralNote
+45,,<music21.articulations.Fingering 3>,fingering,esposito899,0.0,0.0,Fingering
+45,,<music21.note.Note B->,note,esposito900,0.5,134.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,esposito901,0.0,0.0,Articulation
+45,,<music21.note.Note G>,note,esposito902,0.5,134.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,esposito903,0.0,0.0,Articulation
+45,,<music21.note.Note A>,note,esposito904,0.5,134.5,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,esposito905,0.0,0.0,Articulation
+45,,<music21.note.Note F>,note,esposito906,0.5,134.5,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,esposito907,0.0,0.0,Articulation
+45,,<music21.note.Note G>,note,esposito908,0.5,135.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,esposito909,0.0,0.0,Articulation
+45,,<music21.note.Note E>,note,esposito910,0.5,135.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,esposito911,0.0,0.0,Articulation
+45,45,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,esposito1339,1.5,0.0,Slur
+45,45,<music21.dynamics.Crescendo <music21.note.Note C#><music21.note.Note B->>,diminuendo,esposito1423,,,DynamicRegion
+46,,<music21.note.Note A>,note,esposito912,0.5,135.5,GeneralNote
+46,,<music21.note.Note F>,note,esposito913,0.5,135.5,GeneralNote
+46,,<music21.note.Rest dotted-half>,note,esposito914,3.0,135.5,GeneralNote
+46,,<music21.note.Rest dotted-half>,note,esposito915,3.0,136.0,GeneralNote
+46,,<music21.note.Note B>,note,esposito916,0.25,136.0,GeneralNote
+46,,<music21.note.Note G>,note,esposito917,0.25,136.0,GeneralNote
+46,,<music21.note.Rest dotted-half>,note,esposito918,3.0,136.0,GeneralNote
+46,,<music21.note.Note C#>,note,esposito919,0.25,136.25,GeneralNote
+46,,<music21.note.Note A>,note,esposito920,0.25,136.25,GeneralNote
+46,,<music21.note.Note D>,note,esposito921,0.25,136.5,GeneralNote
+46,,<music21.articulations.Fingering 1>,fingering,esposito922,0.0,0.0,Fingering
+46,,<music21.note.Note B>,note,esposito923,0.25,136.5,GeneralNote
+46,,<music21.articulations.Fingering 3>,fingering,esposito924,0.0,0.0,Fingering
+46,,<music21.note.Note E>,note,esposito925,0.25,136.75,GeneralNote
+46,,<music21.note.Note C#>,note,esposito926,0.25,136.75,GeneralNote
+46,,<music21.note.Note F>,note,esposito927,0.5,137.0,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,esposito928,0.0,0.0,Articulation
+46,,<music21.note.Note D>,note,esposito929,0.5,137.0,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,esposito930,0.0,0.0,Articulation
+46,,<music21.note.Note E>,note,esposito931,0.5,137.5,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,esposito932,0.0,0.0,Articulation
+46,,<music21.note.Note C>,note,esposito933,0.5,137.5,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,esposito934,0.0,0.0,Articulation
+46,,<music21.note.Note D>,note,esposito935,0.5,138.0,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,esposito936,0.0,0.0,Articulation
+46,,<music21.note.Note B->,note,esposito937,0.5,138.0,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,esposito938,0.0,0.0,Articulation
+46,46,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,esposito1340,1.5,0.0,Slur
+46,46,<music21.spanner.Slur <music21.note.Note F><music21.note.Note D>>,slur,esposito1341,1.5,0.0,Slur
+46,46,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note F>>,diminuendo,esposito1425,,,DynamicRegion
+47,,<music21.note.Note A>,note,esposito939,1.5,138.5,GeneralNote
+47,,<music21.articulations.Fingering 2>,fingering,esposito940,0.0,0.0,Fingering
+47,,<music21.note.Note A>,note,esposito941,0.5,138.5,GeneralNote
+47,,<music21.articulations.Fingering 1>,fingering,esposito942,0.0,0.0,Fingering
+47,,<music21.articulations.Staccato>,staccato,esposito943,0.0,0.0,Articulation
+47,,<music21.note.Rest quarter>,note,esposito944,1.0,138.5,GeneralNote
+47,,<music21.note.Note A>,note,esposito945,0.125,139.0,GeneralNote
+47,,<music21.note.Note E>,note,esposito946,0.5,139.0,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,esposito947,0.0,0.0,Articulation
+47,,<music21.note.Rest dotted-half>,note,esposito948,3.0,139.0,GeneralNote
+47,,<music21.note.Note B->,note,esposito949,0.125,139.125,GeneralNote
+47,,<music21.note.Note A>,note,esposito950,0.125,139.25,GeneralNote
+47,,<music21.note.Note B->,note,esposito951,0.125,139.375,GeneralNote
+47,,<music21.note.Note A>,note,esposito952,0.125,139.5,GeneralNote
+47,,<music21.note.Note C#>,note,esposito953,0.5,139.5,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,esposito954,0.0,0.0,Articulation
+47,,<music21.note.Rest eighth>,note,esposito955,0.5,139.5,GeneralNote
+47,,<music21.note.Note B->,note,esposito956,0.125,139.625,GeneralNote
+47,,<music21.note.Note A>,note,esposito957,0.125,139.75,GeneralNote
+47,,<music21.note.Note B->,note,esposito958,0.125,139.875,GeneralNote
+47,,<music21.note.Note A>,note,esposito959,0.5,140.0,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,esposito960,0.0,0.0,Articulation
+47,,<music21.note.Rest eighth>,note,esposito961,0.5,140.0,GeneralNote
+47,,<music21.note.Rest quarter>,note,esposito962,1.0,140.0,GeneralNote
+47,,<music21.note.Rest quarter>,note,esposito963,1.0,140.0,GeneralNote
+47,,<music21.note.Note A>,note,esposito964,1.0,140.0,GeneralNote
+47,,<music21.note.Rest quarter>,note,esposito965,1.0,140.5,GeneralNote
+47,,<music21.note.Note A>,note,esposito966,0.5,140.5,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,esposito967,0.0,0.0,Articulation
+47,,<music21.note.Note A>,note,esposito968,0.5,141.0,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,esposito969,0.0,0.0,Articulation
+47,,<music21.note.Rest eighth>,note,esposito970,0.5,141.0,GeneralNote
+47,,<music21.note.Rest eighth>,note,esposito971,0.5,141.0,GeneralNote
+47,,<music21.chord.Chord C#4 E4>,note,esposito972,0.5,141.0,GeneralNote
+47,,<music21.articulations.Fingering 4>,fingering,esposito973,0.0,0.0,Fingering
+47,,<music21.articulations.Fingering 2>,fingering,esposito974,0.0,0.0,Fingering
+47,,<music21.note.Rest eighth>,note,esposito975,0.5,141.5,GeneralNote
+47,47,<music21.spanner.Slur <music21.note.Note A><music21.note.Note B->>,slur,esposito1282,0.875,0.0,Slur
+48,,<music21.note.Note B->,note,esposito976,1.0,141.5,GeneralNote
+48,,<music21.articulations.Fingering 2>,fingering,esposito977,0.0,0.0,Fingering
+48,,<music21.articulations.Accent>,accent,esposito978,0.0,0.0,Articulation
+48,,<music21.note.Note F>,note,esposito979,1.5,141.5,GeneralNote
+48,,<music21.articulations.Accent>,accent,esposito980,0.0,0.0,Articulation
+48,,<music21.note.Note D>,note,esposito981,1.5,141.5,GeneralNote
+48,,<music21.note.Note B->,note,esposito982,1/6,142.0,GeneralNote
+48,,<music21.note.Rest dotted-half>,note,esposito983,3.0,142.0,GeneralNote
+48,,<music21.note.Note C>,note,esposito984,1/6,853/6,GeneralNote
+48,,<music21.note.Note B->,note,esposito985,1/6,427/3,GeneralNote
+48,,<music21.note.Note C>,note,esposito986,1/6,142.5,GeneralNote
+48,,<music21.note.Note A>,note,esposito987,0.5,142.5,GeneralNote
+48,,<music21.note.Note B->,note,esposito988,1/6,428/3,GeneralNote
+48,,<music21.note.Note C>,note,esposito989,1/6,857/6,GeneralNote
+48,,<music21.note.Note B->,note,esposito990,1/6,143.0,GeneralNote
+48,,<music21.note.Note A>,note,esposito991,0.5,143.0,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,esposito992,0.0,0.0,Articulation
+48,,<music21.note.Note E>,note,esposito993,1.5,143.0,GeneralNote
+48,,<music21.note.Note C#>,note,esposito994,1.0,143.0,GeneralNote
+48,,<music21.note.Note C>,note,esposito995,1/6,859/6,GeneralNote
+48,,<music21.note.Note B->,note,esposito996,1/6,430/3,GeneralNote
+48,,<music21.note.Rest quarter>,note,esposito997,1.0,143.5,GeneralNote
+48,,<music21.note.Note A>,note,esposito998,0.5,143.5,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,esposito999,0.0,0.0,Articulation
+48,,<music21.note.Note A>,note,esposito1000,0.5,144.0,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,esposito1001,0.0,0.0,Articulation
+48,,<music21.note.Note A>,note,esposito1002,0.5,144.0,GeneralNote
+48,,<music21.note.Rest eighth>,note,esposito1003,0.5,144.5,GeneralNote
+48,48,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A>>,slur,esposito1342,1.0,0.0,Slur
+48,48,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,esposito1343,1.5,0.0,Slur
+48,48,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note A>>,slur,esposito1344,1.0,0.0,Slur
+48,,<music21.dynamics.Dynamic pp>,pp,esposito1378,,,DynamicPoint
+49,,<music21.note.Note B->,note,esposito1004,1.0,144.5,GeneralNote
+49,,<music21.articulations.Accent>,accent,esposito1005,0.0,0.0,Articulation
+49,,<music21.note.Note F>,note,esposito1006,1.5,144.5,GeneralNote
+49,,<music21.articulations.Accent>,accent,esposito1007,0.0,0.0,Articulation
+49,,<music21.note.Note D>,note,esposito1008,1.5,144.5,GeneralNote
+49,,<music21.note.Rest dotted-half>,note,esposito1009,3.0,145.0,GeneralNote
+49,,<music21.note.Rest dotted-half>,note,esposito1010,3.0,145.0,GeneralNote
+49,,<music21.note.Note A>,note,esposito1011,0.5,145.5,GeneralNote
+49,,<music21.note.Note A>,note,esposito1012,0.5,146.0,GeneralNote
+49,,<music21.note.Note E>,note,esposito1013,1.5,146.0,GeneralNote
+49,,<music21.note.Note C#>,note,esposito1014,1.0,146.0,GeneralNote
+49,,<music21.note.Note A>,note,esposito1015,0.5,146.5,GeneralNote
+49,,<music21.note.Note G>,note,esposito1016,0.5,147.0,GeneralNote
+49,,<music21.note.Note A>,note,esposito1017,0.5,147.0,GeneralNote
+49,,<music21.note.Rest 16th>,note,esposito1018,0.25,147.25,GeneralNote
+49,,<music21.note.Rest 16th>,note,esposito1019,0.25,147.25,GeneralNote
+49,49,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A>>,slur,esposito1345,1.0,0.0,Slur
+49,50,<music21.spanner.Slur <music21.note.Note A><music21.note.Note D>>,slur,esposito1346,2.0,0.0,Slur
+49,49,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,esposito1347,1.5,0.0,Slur
+49,49,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note A>>,slur,esposito1348,1.0,0.0,Slur
+49,49,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note G>>,diminuendo,esposito1427,,,DynamicRegion
+49,,<music21.expressions.TextExpression 'simile'>,simile,esposito1453,0.0,144.5,TextExpression
+49,,<music21.expressions.TextExpression 'un poco rit.'>,un poco rit.,esposito1454,0.0,146.5,TextExpression
+50,,<music21.note.Note F>,note,esposito1020,0.5,147.5,GeneralNote
+50,,<music21.note.Note F>,note,esposito1021,1.0,147.5,GeneralNote
+50,,<music21.note.Note D>,note,esposito1022,1.0,147.5,GeneralNote
+50,,<music21.note.Rest dotted-half>,note,esposito1023,3.0,148.0,GeneralNote
+50,,<music21.note.Note E>,note,esposito1024,0.5,148.0,GeneralNote
+50,,<music21.note.Rest dotted-half>,note,esposito1025,3.0,148.0,GeneralNote
+50,,<music21.note.Note D>,note,esposito1026,0.5,148.5,GeneralNote
+50,,<music21.note.Note G>,note,esposito1027,0.5,148.5,GeneralNote
+50,,<music21.note.Note G>,note,esposito1028,0.5,148.5,GeneralNote
+50,,<music21.note.Note D>,note,esposito1029,0.5,149.0,GeneralNote
+50,,<music21.articulations.Fingering 3>,fingering,esposito1030,0.0,0.0,Fingering
+50,,<music21.note.Note F>,note,esposito1031,1.0,149.0,GeneralNote
+50,,<music21.note.Note A>,note,esposito1032,1.5,149.0,GeneralNote
+50,,<music21.note.Note E>,note,esposito1033,0.5,149.5,GeneralNote
+50,,<music21.note.Note C#>,note,esposito1034,0.5,150.0,GeneralNote
+50,,<music21.note.Note E>,note,esposito1035,0.5,150.0,GeneralNote
+50,50,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C#>>,slur,esposito1349,1.0,0.0,Slur
+50,50,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G>>,slur,esposito1350,1.0,0.0,Slur
+50,50,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,esposito1351,1.0,0.0,Slur
+50,50,<music21.dynamics.Diminuendo <music21.note.Note D><music21.note.Note C#>>,diminuendo,esposito1429,,,DynamicRegion
+51,,<music21.note.Note D>,note,esposito1036,1.5,150.5,GeneralNote
+51,,<music21.note.Note D>,note,esposito1037,0.5,150.5,GeneralNote
+51,,<music21.articulations.Fingering 1>,fingering,esposito1038,0.0,0.0,Fingering
+51,,<music21.articulations.Staccato>,staccato,esposito1039,0.0,0.0,Articulation
+51,,<music21.note.Note D>,note,esposito1040,0.125,151.0,GeneralNote
+51,,<music21.articulations.Fingering 3>,fingering,esposito1041,0.0,0.0,Fingering
+51,,<music21.note.Note A>,note,esposito1042,0.5,151.0,GeneralNote
+51,,<music21.articulations.Fingering 2>,fingering,esposito1043,0.0,0.0,Fingering
+51,,<music21.articulations.Staccato>,staccato,esposito1044,0.0,0.0,Articulation
+51,,<music21.note.Rest dotted-half>,note,esposito1045,3.0,151.0,GeneralNote
+51,,<music21.note.Note E>,note,esposito1046,0.125,151.125,GeneralNote
+51,,<music21.articulations.Fingering 4>,fingering,esposito1047,0.0,0.0,Fingering
+51,,<music21.note.Note D>,note,esposito1048,0.125,151.25,GeneralNote
+51,,<music21.articulations.Fingering 2>,fingering,esposito1049,0.0,0.0,Fingering
+51,,<music21.note.Note E>,note,esposito1050,0.125,151.375,GeneralNote
+51,,<music21.articulations.Fingering 3>,fingering,esposito1051,0.0,0.0,Fingering
+51,,<music21.note.Note D>,note,esposito1052,0.125,151.5,GeneralNote
+51,,<music21.articulations.Fingering 2>,fingering,esposito1053,0.0,0.0,Fingering
+51,,<music21.note.Note D>,note,esposito1054,0.5,151.5,GeneralNote
+51,,<music21.articulations.Fingering 5>,fingering,esposito1055,0.0,0.0,Fingering
+51,,<music21.articulations.Staccato>,staccato,esposito1056,0.0,0.0,Articulation
+51,,<music21.note.Note E>,note,esposito1057,0.125,151.625,GeneralNote
+51,,<music21.note.Note D>,note,esposito1058,0.125,151.75,GeneralNote
+51,,<music21.note.Note E>,note,esposito1059,0.125,151.875,GeneralNote
+51,,<music21.note.Note D>,note,esposito1060,0.5,152.0,GeneralNote
+51,,<music21.articulations.Staccato>,staccato,esposito1061,0.0,0.0,Articulation
+51,,<music21.note.Rest eighth>,note,esposito1062,0.5,152.0,GeneralNote
+51,,<music21.note.Note A>,note,esposito1063,1.5,152.0,GeneralNote
+51,,<music21.articulations.Fingering 4>,fingering,esposito1064,0.0,0.0,Fingering
+51,,<music21.articulations.Tenuto>,tenuto,esposito1065,0.0,0.0,Articulation
+51,,<music21.note.Rest quarter>,note,esposito1066,1.0,152.5,GeneralNote
+51,,<music21.note.Note E>,note,esposito1067,0.5,152.5,GeneralNote
+51,,<music21.articulations.Fingering 3>,fingering,esposito1068,0.0,0.0,Fingering
+51,,<music21.note.Note A>,note,esposito1069,0.5,153.0,GeneralNote
+51,,<music21.note.Rest eighth>,note,esposito1070,0.5,153.5,GeneralNote
+51,51,<music21.spanner.Slur <music21.note.Note D><music21.note.Note D>>,slur,esposito1283,1.0,0.0,Slur
+51,51,<music21.spanner.Slur <music21.note.Note E><music21.note.Note A>>,slur,esposito1352,0.5,0.0,Slur
+51,,<music21.dynamics.Dynamic p>,p,esposito1379,,,DynamicPoint
+51,,<music21.expressions.TextExpression 'a tempo'>,a tempo,esposito1455,0.0,150.5,TextExpression
+52,,<music21.note.Note F>,note,esposito1071,1.5,153.5,GeneralNote
+52,,<music21.articulations.Fingering 4>,fingering,esposito1072,0.0,0.0,Fingering
+52,,<music21.articulations.Tenuto>,tenuto,esposito1073,0.0,0.0,Articulation
+52,,<music21.note.Note D>,note,esposito1074,1.5,153.5,GeneralNote
+52,,<music21.articulations.Fingering 2>,fingering,esposito1075,0.0,0.0,Fingering
+52,,<music21.note.Note D>,note,esposito1076,0.5,153.5,GeneralNote
+52,,<music21.articulations.Staccato>,staccato,esposito1077,0.0,0.0,Articulation
+52,,<music21.note.Rest dotted-half>,note,esposito1078,3.0,154.0,GeneralNote
+52,,<music21.note.Note A>,note,esposito1079,0.5,154.0,GeneralNote
+52,,<music21.articulations.Staccato>,staccato,esposito1080,0.0,0.0,Articulation
+52,,<music21.note.Rest dotted-half>,note,esposito1081,3.0,154.0,GeneralNote
+52,,<music21.note.Note D>,note,esposito1082,0.5,154.5,GeneralNote
+52,,<music21.articulations.Staccato>,staccato,esposito1083,0.0,0.0,Articulation
+52,,<music21.note.Rest eighth>,note,esposito1084,0.5,155.0,GeneralNote
+52,,<music21.note.Rest quarter>,note,esposito1085,1.0,155.0,GeneralNote
+52,,<music21.note.Rest quarter>,note,esposito1086,1.0,155.0,GeneralNote
+52,,<music21.note.Note A>,note,esposito1087,1.5,155.0,GeneralNote
+52,,<music21.articulations.Tenuto>,tenuto,esposito1088,0.0,0.0,Articulation
+52,,<music21.note.Note E>,note,esposito1089,0.5,155.5,GeneralNote
+52,,<music21.note.Note A>,note,esposito1090,0.5,156.0,GeneralNote
+52,,<music21.note.Rest eighth>,note,esposito1091,0.5,156.0,GeneralNote
+52,,<music21.note.Rest eighth>,note,esposito1092,0.5,156.0,GeneralNote
+52,52,<music21.spanner.Slur <music21.note.Note E><music21.note.Note A>>,slur,esposito1353,0.5,0.0,Slur
+52,,<music21.expressions.TextExpression 'simile'>,simile,esposito1456,0.0,153.5,TextExpression
+53,,<music21.note.Note F>,note,esposito1093,1.5,156.5,GeneralNote
+53,,<music21.articulations.Tenuto>,tenuto,esposito1094,0.0,0.0,Articulation
+53,,<music21.note.Note D>,note,esposito1095,1.5,156.5,GeneralNote
+53,,<music21.note.Note D>,note,esposito1096,0.5,156.5,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,esposito1097,0.0,0.0,Articulation
+53,,<music21.note.Rest dotted-half>,note,esposito1098,3.0,157.0,GeneralNote
+53,,<music21.note.Note A>,note,esposito1099,0.5,157.0,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,esposito1100,0.0,0.0,Articulation
+53,,<music21.note.Rest dotted-half>,note,esposito1101,3.0,157.0,GeneralNote
+53,,<music21.note.Note D>,note,esposito1102,0.5,157.5,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,esposito1103,0.0,0.0,Articulation
+53,,<music21.note.Rest eighth>,note,esposito1104,0.5,158.0,GeneralNote
+53,,<music21.note.Rest quarter>,note,esposito1105,1.0,158.0,GeneralNote
+53,,<music21.note.Rest quarter>,note,esposito1106,1.0,158.0,GeneralNote
+53,,<music21.note.Note A>,note,esposito1107,1.5,158.0,GeneralNote
+53,,<music21.articulations.Tenuto>,tenuto,esposito1108,0.0,0.0,Articulation
+53,,<music21.note.Note E>,note,esposito1109,0.5,158.5,GeneralNote
+53,,<music21.note.Note A>,note,esposito1110,0.5,159.0,GeneralNote
+53,,<music21.note.Rest eighth>,note,esposito1111,0.5,159.0,GeneralNote
+53,,<music21.note.Rest eighth>,note,esposito1112,0.5,159.0,GeneralNote
+53,53,<music21.spanner.Slur <music21.note.Note E><music21.note.Note A>>,slur,esposito1354,0.5,0.0,Slur
+53,54,<music21.dynamics.Crescendo <music21.note.Note E><music21.chord.Chord F5 A5>>,diminuendo,esposito1431,,,DynamicRegion
+53,,<music21.expressions.TextExpression 'simile'>,simile,esposito1457,0.0,156.5,TextExpression
+54,,<music21.chord.Chord D5 F5>,note,esposito1113,0.5,159.5,GeneralNote
+54,,<music21.articulations.Fingering 1>,fingering,esposito1114,0.0,0.0,Fingering
+54,,<music21.articulations.Fingering 3>,fingering,esposito1115,0.0,0.0,Fingering
+54,,<music21.note.Note D>,note,esposito1116,1.5,159.5,GeneralNote
+54,,<music21.chord.Chord D3 A3>,note,esposito1117,1.5,159.5,GeneralNote
+54,,<music21.note.Rest dotted-half>,note,esposito1118,3.0,160.0,GeneralNote
+54,,<music21.chord.Chord E5 G5>,note,esposito1119,0.5,160.0,GeneralNote
+54,,<music21.note.Rest dotted-half>,note,esposito1120,3.0,160.0,GeneralNote
+54,,<music21.chord.Chord F5 A5>,note,esposito1121,0.5,160.5,GeneralNote
+54,,<music21.chord.Chord F5 A5>,note,esposito1122,0.5,161.0,GeneralNote
+54,,<music21.note.Note D>,note,esposito1123,1.5,161.0,GeneralNote
+54,,<music21.chord.Chord G3 B-3>,note,esposito1124,1.5,161.0,GeneralNote
+54,,<music21.chord.Chord E5 G5>,note,esposito1125,0.5,161.5,GeneralNote
+54,,<music21.chord.Chord D5 F5>,note,esposito1126,0.5,162.0,GeneralNote
+54,54,<music21.spanner.Slur <music21.chord.Chord D5 F5><music21.chord.Chord D5 F5>>,slur,esposito1355,2.5,0.0,Slur
+55,,<music21.note.Note E>,note,esposito1127,0.25,162.5,GeneralNote
+55,,<music21.articulations.Fingering 2>,fingering,esposito1128,0.0,0.0,Fingering
+55,,<music21.chord.Chord A2 A3>,note,esposito1129,1.5,162.5,GeneralNote
+55,,<music21.note.Note D>,note,esposito1130,0.25,162.75,GeneralNote
+55,,<music21.note.Rest dotted-half>,note,esposito1131,3.0,163.0,GeneralNote
+55,,<music21.note.Note C#>,note,esposito1132,0.25,163.0,GeneralNote
+55,,<music21.articulations.Fingering 4>,fingering,esposito1133,0.0,0.0,Fingering
+55,,<music21.note.Rest dotted-half>,note,esposito1134,3.0,163.0,GeneralNote
+55,,<music21.note.Note B>,note,esposito1135,0.25,163.25,GeneralNote
+55,,<music21.note.Note A>,note,esposito1136,0.25,163.5,GeneralNote
+55,,<music21.note.Note G>,note,esposito1137,0.25,163.75,GeneralNote
+55,,<music21.note.Note F>,note,esposito1138,0.25,164.0,GeneralNote
+55,,<music21.articulations.Fingering 3>,fingering,esposito1139,0.0,0.0,Fingering
+55,,<music21.note.Rest quarter>,note,esposito1140,1.0,164.0,GeneralNote
+55,,<music21.note.Note E>,note,esposito1141,0.25,164.25,GeneralNote
+55,,<music21.note.Note D>,note,esposito1142,0.25,164.5,GeneralNote
+55,,<music21.note.Note C#>,note,esposito1143,0.25,164.75,GeneralNote
+55,,<music21.articulations.Fingering 3>,fingering,esposito1144,0.0,0.0,Fingering
+55,,<music21.note.Note B>,note,esposito1145,0.25,165.0,GeneralNote
+55,,<music21.note.Rest eighth>,note,esposito1146,0.5,165.0,GeneralNote
+55,,<music21.note.Note A>,note,esposito1147,0.25,165.25,GeneralNote
+55,55,<music21.spanner.Slur <music21.note.Note E><music21.note.Note A>>,slur,esposito1356,2.75,0.0,Slur
+55,55,<music21.dynamics.Diminuendo <music21.note.Note C#><music21.note.Note C#>>,diminuendo,esposito1433,,,DynamicRegion
+56,,<music21.note.Note F>,note,esposito1148,1.5,165.5,GeneralNote
+56,,<music21.articulations.Fingering 4>,fingering,esposito1149,0.0,0.0,Fingering
+56,,<music21.articulations.Tenuto>,tenuto,esposito1150,0.0,0.0,Articulation
+56,,<music21.note.Note D>,note,esposito1151,1.5,165.5,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,esposito1152,0.0,0.0,Fingering
+56,,<music21.note.Note D>,note,esposito1153,0.5,165.5,GeneralNote
+56,,<music21.articulations.Staccato>,staccato,esposito1154,0.0,0.0,Articulation
+56,,<music21.note.Rest dotted-half>,note,esposito1155,3.0,166.0,GeneralNote
+56,,<music21.note.Note A>,note,esposito1156,0.5,166.0,GeneralNote
+56,,<music21.articulations.Staccato>,staccato,esposito1157,0.0,0.0,Articulation
+56,,<music21.note.Rest dotted-half>,note,esposito1158,3.0,166.0,GeneralNote
+56,,<music21.note.Note D>,note,esposito1159,0.5,166.5,GeneralNote
+56,,<music21.articulations.Staccato>,staccato,esposito1160,0.0,0.0,Articulation
+56,,<music21.note.Rest eighth>,note,esposito1161,0.5,167.0,GeneralNote
+56,,<music21.note.Rest quarter>,note,esposito1162,1.0,167.0,GeneralNote
+56,,<music21.note.Rest quarter>,note,esposito1163,1.0,167.0,GeneralNote
+56,,<music21.note.Note A>,note,esposito1164,1.5,167.0,GeneralNote
+56,,<music21.articulations.Tenuto>,tenuto,esposito1165,0.0,0.0,Articulation
+56,,<music21.note.Note E>,note,esposito1166,0.5,167.5,GeneralNote
+56,,<music21.note.Note A>,note,esposito1167,0.5,168.0,GeneralNote
+56,,<music21.note.Rest eighth>,note,esposito1168,0.5,168.0,GeneralNote
+56,,<music21.note.Rest eighth>,note,esposito1169,0.5,168.0,GeneralNote
+56,56,<music21.spanner.Slur <music21.note.Note E><music21.note.Note A>>,slur,esposito1357,0.5,0.0,Slur
+56,,<music21.dynamics.Dynamic pp>,pp,esposito1380,,,DynamicPoint
+56,,<music21.expressions.TextExpression 'simile'>,simile,esposito1458,0.0,165.5,TextExpression
+57,,<music21.note.Note F>,note,esposito1170,1.5,168.5,GeneralNote
+57,,<music21.articulations.Tenuto>,tenuto,esposito1171,0.0,0.0,Articulation
+57,,<music21.note.Note D>,note,esposito1172,1.5,168.5,GeneralNote
+57,,<music21.note.Note D>,note,esposito1173,0.5,168.5,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,esposito1174,0.0,0.0,Articulation
+57,,<music21.note.Rest dotted-half>,note,esposito1175,3.0,169.0,GeneralNote
+57,,<music21.note.Note A>,note,esposito1176,0.5,169.0,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,esposito1177,0.0,0.0,Articulation
+57,,<music21.note.Rest dotted-half>,note,esposito1178,3.0,169.0,GeneralNote
+57,,<music21.note.Note D>,note,esposito1179,0.5,169.5,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,esposito1180,0.0,0.0,Articulation
+57,,<music21.note.Rest eighth>,note,esposito1181,0.5,170.0,GeneralNote
+57,,<music21.note.Rest quarter>,note,esposito1182,1.0,170.0,GeneralNote
+57,,<music21.note.Rest quarter>,note,esposito1183,1.0,170.0,GeneralNote
+57,,<music21.note.Note A>,note,esposito1184,1.5,170.0,GeneralNote
+57,,<music21.articulations.Tenuto>,tenuto,esposito1185,0.0,0.0,Articulation
+57,,<music21.note.Note E>,note,esposito1186,0.5,170.5,GeneralNote
+57,,<music21.note.Note A>,note,esposito1187,0.5,171.0,GeneralNote
+57,,<music21.note.Rest eighth>,note,esposito1188,0.5,171.0,GeneralNote
+57,,<music21.note.Rest eighth>,note,esposito1189,0.5,171.0,GeneralNote
+57,57,<music21.spanner.Slur <music21.note.Note E><music21.note.Note A>>,slur,esposito1358,0.5,0.0,Slur
+58,,<music21.note.Note F>,note,esposito1190,1.5,171.5,GeneralNote
+58,,<music21.articulations.Tenuto>,tenuto,esposito1191,0.0,0.0,Articulation
+58,,<music21.note.Note D>,note,esposito1192,1.5,171.5,GeneralNote
+58,,<music21.note.Note D>,note,esposito1193,0.5,171.5,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,esposito1194,0.0,0.0,Articulation
+58,,<music21.note.Rest dotted-half>,note,esposito1195,3.0,172.0,GeneralNote
+58,,<music21.note.Note A>,note,esposito1196,0.5,172.0,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,esposito1197,0.0,0.0,Articulation
+58,,<music21.note.Rest dotted-half>,note,esposito1198,3.0,172.0,GeneralNote
+58,,<music21.note.Note D>,note,esposito1199,0.5,172.5,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,esposito1200,0.0,0.0,Articulation
+58,,<music21.note.Rest eighth>,note,esposito1201,0.5,173.0,GeneralNote
+58,,<music21.note.Rest quarter>,note,esposito1202,1.0,173.0,GeneralNote
+58,,<music21.note.Rest quarter>,note,esposito1203,1.0,173.0,GeneralNote
+58,,<music21.note.Note A>,note,esposito1204,1.5,173.0,GeneralNote
+58,,<music21.articulations.Tenuto>,tenuto,esposito1205,0.0,0.0,Articulation
+58,,<music21.note.Note E>,note,esposito1206,0.5,173.5,GeneralNote
+58,,<music21.note.Note A>,note,esposito1207,0.5,174.0,GeneralNote
+58,,<music21.note.Rest eighth>,note,esposito1208,0.5,174.0,GeneralNote
+58,,<music21.note.Rest eighth>,note,esposito1209,0.5,174.0,GeneralNote
+58,58,<music21.spanner.Slur <music21.note.Note E><music21.note.Note A>>,slur,esposito1359,0.5,0.0,Slur
+59,,<music21.note.Note F>,note,esposito1210,1.5,174.5,GeneralNote
+59,,<music21.articulations.Fingering 4>,fingering,esposito1211,0.0,0.0,Fingering
+59,,<music21.note.Note D>,note,esposito1212,0.5,174.5,GeneralNote
+59,,<music21.articulations.Fingering 2>,fingering,esposito1213,0.0,0.0,Fingering
+59,,<music21.note.Note D>,note,esposito1214,1.0,174.5,GeneralNote
+59,,<music21.articulations.Fingering 5>,fingering,esposito1215,0.0,0.0,Fingering
+59,,<music21.note.Rest dotted-half>,note,esposito1216,3.0,175.0,GeneralNote
+59,,<music21.note.Note E>,note,esposito1217,0.5,175.0,GeneralNote
+59,,<music21.note.Rest dotted-half>,note,esposito1218,3.0,175.0,GeneralNote
+59,,<music21.note.Note D>,note,esposito1219,0.5,175.5,GeneralNote
+59,,<music21.articulations.Fingering 1>,fingering,esposito1220,0.0,0.0,Fingering
+59,,<music21.note.Note G>,note,esposito1221,0.5,175.5,GeneralNote
+59,,<music21.note.Note F>,note,esposito1222,0.5,176.0,GeneralNote
+59,,<music21.note.Note D>,note,esposito1223,0.5,176.0,GeneralNote
+59,,<music21.note.Note A>,note,esposito1224,1.0,176.0,GeneralNote
+59,,<music21.note.Note G>,note,esposito1225,0.5,176.5,GeneralNote
+59,,<music21.articulations.Fingering 5>,fingering,esposito1226,0.0,0.0,Fingering
+59,,<music21.note.Note E>,note,esposito1227,0.5,176.5,GeneralNote
+59,,<music21.articulations.Fingering 3>,fingering,esposito1228,0.0,0.0,Fingering
+59,,<music21.note.Note E>,note,esposito1229,0.5,177.0,GeneralNote
+59,,<music21.articulations.Fingering 4>,fingering,esposito1230,0.0,0.0,Fingering
+59,,<music21.note.Note C#>,note,esposito1231,0.5,177.0,GeneralNote
+59,,<music21.articulations.Fingering 2>,fingering,esposito1232,0.0,0.0,Fingering
+59,,<music21.note.Note A>,note,esposito1233,0.5,177.0,GeneralNote
+59,59,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,esposito1360,2.5,0.0,Slur
+59,59,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,esposito1361,2.5,0.0,Slur
+59,59,<music21.dynamics.Crescendo <music21.note.Note F>>,diminuendo,esposito1435,,,DynamicRegion
+59,59,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note E>>,diminuendo,esposito1437,,,DynamicRegion
+59,,<music21.expressions.TextExpression 'un poco rit.'>,un poco rit.,esposito1459,0.0,174.5,TextExpression
+60,,<music21.note.Note D>,note,esposito1234,0.5,177.5,GeneralNote
+60,,<music21.articulations.Fingering 1>,fingering,esposito1235,0.0,0.0,Fingering
+60,,<music21.note.Note D>,note,esposito1236,1.5,177.5,GeneralNote
+60,,<music21.note.Rest dotted-half>,note,esposito1237,3.0,178.0,GeneralNote
+60,,<music21.note.Note E>,note,esposito1238,0.125,178.0,GeneralNote
+60,,<music21.note.Rest dotted-half>,note,esposito1239,3.0,178.0,GeneralNote
+60,,<music21.note.Note F>,note,esposito1240,0.125,178.125,GeneralNote
+60,,<music21.note.Note G>,note,esposito1241,0.125,178.25,GeneralNote
+60,,<music21.articulations.Fingering 1>,fingering,esposito1242,0.0,0.0,Fingering
+60,,<music21.note.Note A>,note,esposito1243,0.125,178.375,GeneralNote
+60,,<music21.note.Note B>,note,esposito1244,0.125,178.5,GeneralNote
+60,,<music21.note.Note C#>,note,esposito1245,0.125,178.625,GeneralNote
+60,,<music21.note.Note D>,note,esposito1246,0.125,178.75,GeneralNote
+60,,<music21.articulations.Fingering 1>,fingering,esposito1247,0.0,0.0,Fingering
+60,,<music21.note.Note E>,note,esposito1248,0.125,178.875,GeneralNote
+60,,<music21.note.Note F>,note,esposito1249,0.5,179.0,GeneralNote
+60,,<music21.note.Note D>,note,esposito1250,1.5,179.0,GeneralNote
+60,,<music21.note.Note A>,note,esposito1251,0.5,179.5,GeneralNote
+60,,<music21.articulations.Staccato>,staccato,esposito1252,0.0,0.0,Articulation
+60,,<music21.note.Note A>,note,esposito1253,0.5,180.0,GeneralNote
+60,,<music21.articulations.Staccato>,staccato,esposito1254,0.0,0.0,Articulation
+60,60,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,esposito1362,2.0,0.0,Slur
+60,,<music21.dynamics.Dynamic pp>,pp,esposito1381,,,DynamicPoint
+60,,<music21.expressions.TextExpression 'a tempo'>,a tempo,esposito1460,0.0,177.5,TextExpression
+61,,<music21.note.Note F>,note,esposito1255,0.5,180.5,GeneralNote
+61,,<music21.note.Note D>,note,esposito1256,1.5,180.5,GeneralNote
+61,,<music21.note.Rest dotted-half>,note,esposito1257,3.0,181.0,GeneralNote
+61,,<music21.note.Note A>,note,esposito1258,0.5,181.0,GeneralNote
+61,,<music21.articulations.Staccato>,staccato,esposito1259,0.0,0.0,Articulation
+61,,<music21.note.Rest dotted-half>,note,esposito1260,3.0,181.0,GeneralNote
+61,,<music21.note.Note A>,note,esposito1261,0.5,181.5,GeneralNote
+61,,<music21.articulations.Staccato>,staccato,esposito1262,0.0,0.0,Articulation
+61,,<music21.note.Note F>,note,esposito1263,0.5,182.0,GeneralNote
+61,,<music21.chord.Chord D2 D3>,note,esposito1264,1.5,182.0,GeneralNote
+61,,<music21.note.Note A>,note,esposito1265,0.5,182.5,GeneralNote
+61,,<music21.articulations.Staccato>,staccato,esposito1266,0.0,0.0,Articulation
+61,,<music21.note.Note A>,note,esposito1267,0.5,183.0,GeneralNote
+61,,<music21.articulations.Staccato>,staccato,esposito1268,0.0,0.0,Articulation
+61,61,<music21.spanner.Slur <music21.note.Note F><music21.note.Note A>>,slur,esposito1363,0.5,0.0,Slur
+61,61,<music21.spanner.Slur <music21.note.Note F><music21.note.Note A>>,slur,esposito1364,0.5,0.0,Slur
+61,,<music21.expressions.TextExpression 'rit.'>,rit.,esposito1461,0.0,181.5,TextExpression
+62,,<music21.note.Note F>,note,esposito1269,1.5,183.5,GeneralNote
+62,,<music21.articulations.Tenuto>,tenuto,esposito1270,0.0,0.0,Articulation
+62,,<music21.note.Note D>,note,esposito1271,1.5,183.5,GeneralNote
+62,,<music21.chord.Chord D2 D3>,note,esposito1272,1.5,183.5,GeneralNote
+62,,<music21.note.Rest dotted-half>,note,esposito1273,3.0,184.0,GeneralNote
+62,,<music21.note.Rest dotted-half>,note,esposito1274,3.0,184.0,GeneralNote
+62,,<music21.note.Note F>,note,esposito1275,1.0,185.0,GeneralNote
+62,,<music21.note.Note D>,note,esposito1276,1.0,185.0,GeneralNote
+62,,<music21.chord.Chord D2 D3>,note,esposito1277,1.0,185.0,GeneralNote
+62,62,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,esposito1365,1.5,0.0,Slur

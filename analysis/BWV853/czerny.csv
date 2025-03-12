@@ -1,0 +1,905 @@
+measure_start,measure_end,object,value,id,quarterlength,offset,type
+1,,<music21.note.Note B->,note,czerny1,2.0,0.0,GeneralNote
+1,,<music21.articulations.Fingering 1>,fingering,czerny2,0.0,0.0,Fingering
+1,,<music21.chord.Chord E-4 G-4>,note,czerny3,2.0,0.0,GeneralNote
+1,,<music21.note.Rest dotted-whole>,note,czerny4,6.0,0.0,GeneralNote
+1,,<music21.note.Rest quarter>,note,czerny5,1.0,2.0,GeneralNote
+1,,<music21.chord.Chord E-4 G-4>,note,czerny6,2.0,2.0,GeneralNote
+1,,<music21.note.Rest eighth>,note,czerny7,0.5,3.0,GeneralNote
+1,,<music21.note.Note B->,note,czerny8,0.5,3.5,GeneralNote
+1,,<music21.articulations.Fingering 1>,fingering,czerny9,0.0,0.0,Fingering
+1,,<music21.note.Note E->,note,czerny10,1.5,4.0,GeneralNote
+1,,<music21.articulations.Fingering 2>,fingering,czerny11,0.0,0.0,Fingering
+1,,<music21.chord.Chord E-4 G-4>,note,czerny12,2.0,4.0,GeneralNote
+1,,<music21.note.Note G->,note,czerny13,0.5,5.5,GeneralNote
+1,,<music21.articulations.Fingering 4>,fingering,czerny14,0.0,0.0,Fingering
+1,1,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note G->>,slur,czerny841,2.0,0.0,Slur
+1,,<music21.dynamics.Dynamic pp>,pp,czerny852,,,DynamicPoint
+1,,<music21.expressions.TextExpression 'Lento mode...'>,Lento moderato,czerny887,0.0,0.0,TextExpression
+1,,<music21.expressions.TextExpression 'dolce'>,dolce,czerny888,0.0,0.0,TextExpression
+1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None,czerny899,0.0,0.0,TempoIndication
+1,,<music21.tempo.MetronomeMark Quarter=100>,None,czerny900,0.0,0.0,TempoIndication
+1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None None,czerny901,0.0,0.0,MetronomeMark
+1,,<music21.tempo.MetronomeMark Quarter=100>,None 100,czerny902,0.0,0.0,MetronomeMark
+2,,<music21.note.Note C->,note,czerny15,2.0,6.0,GeneralNote
+2,,<music21.chord.Chord E-4 A-4>,note,czerny16,2.0,6.0,GeneralNote
+2,,<music21.note.Rest dotted-whole>,note,czerny17,6.0,6.0,GeneralNote
+2,,<music21.note.Rest quarter>,note,czerny18,1.0,8.0,GeneralNote
+2,,<music21.chord.Chord E-4 A-4 C-5>,note,czerny19,2.0,8.0,GeneralNote
+2,,<music21.note.Rest eighth>,note,czerny20,0.5,9.0,GeneralNote
+2,,<music21.note.Note E->,note,czerny21,0.5,9.5,GeneralNote
+2,,<music21.articulations.Fingering 2>,fingering,czerny22,0.0,0.0,Fingering
+2,,<music21.note.Note A->,note,czerny23,1.5,10.0,GeneralNote
+2,,<music21.articulations.Fingering 4>,fingering,czerny24,0.0,0.0,Fingering
+2,,<music21.chord.Chord E-4 A-4 C-5>,note,czerny25,2.0,10.0,GeneralNote
+2,,<music21.note.Note C->,note,czerny26,0.5,11.5,GeneralNote
+2,,<music21.articulations.Fingering 5>,fingering,czerny27,0.0,0.0,Fingering
+2,2,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,czerny842,2.0,0.0,Slur
+3,,<music21.note.Note D>,note,czerny28,2.0,12.0,GeneralNote
+3,,<music21.articulations.Fingering 1>,fingering,czerny29,0.0,0.0,Fingering
+3,,<music21.chord.Chord E-4 F4 A-4>,note,czerny30,2.0,12.0,GeneralNote
+3,,<music21.note.Rest dotted-whole>,note,czerny31,6.0,12.0,GeneralNote
+3,,<music21.note.Rest quarter>,note,czerny32,1.0,14.0,GeneralNote
+3,,<music21.chord.Chord D4 F4 A-4>,note,czerny33,2.0,14.0,GeneralNote
+3,,<music21.note.Rest eighth>,note,czerny34,0.5,15.0,GeneralNote
+3,,<music21.note.Note F>,note,czerny35,0.5,15.5,GeneralNote
+3,,<music21.articulations.Fingering 5>,fingering,czerny36,0.0,0.0,Fingering
+3,,<music21.note.Note A->,note,czerny37,1.0,16.0,GeneralNote
+3,,<music21.articulations.Fingering 2>,fingering,czerny38,0.0,0.0,Fingering
+3,,<music21.chord.Chord D4 F4>,note,czerny39,2.0,16.0,GeneralNote
+3,,<music21.note.Note A->,note,czerny40,0.25,17.0,GeneralNote
+3,,<music21.note.Note G->,note,czerny41,0.25,17.25,GeneralNote
+3,,<music21.articulations.Fingering 1>,fingering,czerny42,0.0,0.0,Fingering
+3,,<music21.note.Note A->,note,czerny43,0.25,17.5,GeneralNote
+3,,<music21.articulations.Fingering 3>,fingering,czerny44,0.0,0.0,Fingering
+3,,<music21.note.Note B->,note,czerny45,0.25,17.75,GeneralNote
+3,,<music21.articulations.Fingering 5>,fingering,czerny46,0.0,0.0,Fingering
+3,4,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G->>,slur,czerny843,4.5,0.0,Slur
+3,,<music21.expressions.TextExpression 'cresc.'>,cresc.,czerny889,0.0,16.0,TextExpression
+4,,<music21.note.Note G->,note,czerny47,1.5,18.0,GeneralNote
+4,,<music21.articulations.Fingering 3>,fingering,czerny48,0.0,0.0,Fingering
+4,,<music21.note.Note E->,note,czerny49,2.0,18.0,GeneralNote
+4,,<music21.note.Rest half>,note,czerny50,2.0,18.0,GeneralNote
+4,,<music21.note.Note F>,note,czerny51,0.25,19.5,GeneralNote
+4,,<music21.articulations.Fingering 2>,fingering,czerny52,0.0,0.0,Fingering
+4,,<music21.note.Note E->,note,czerny53,0.25,19.75,GeneralNote
+4,,<music21.articulations.Fingering 1>,fingering,czerny54,0.0,0.0,Fingering
+4,,<music21.note.Rest half>,note,czerny55,2.0,20.0,GeneralNote
+4,,<music21.note.Note G->,note,czerny56,2.0,20.0,GeneralNote
+4,,<music21.articulations.Fingering 5>,fingering,czerny57,0.0,0.0,Fingering
+4,,<music21.note.Rest quarter>,note,czerny58,1.0,20.0,GeneralNote
+4,,<music21.note.Rest eighth>,note,czerny59,0.5,21.0,GeneralNote
+4,,<music21.note.Note B->,note,czerny60,0.5,21.5,GeneralNote
+4,,<music21.note.Note G->,note,czerny61,2.0,22.0,GeneralNote
+4,,<music21.chord.Chord G-4 B-4 E-5>,note,czerny62,2.0,22.0,GeneralNote
+4,,<music21.note.Note G->,note,czerny63,1.5,22.0,GeneralNote
+4,,<music21.note.Note E->,note,czerny64,0.5,23.5,GeneralNote
+4,4,<music21.dynamics.Crescendo <music21.note.Note G->>,diminuendo,czerny876,,,DynamicRegion
+5,,<music21.note.Note G->,note,czerny65,2.0,24.0,GeneralNote
+5,,<music21.chord.Chord G-4 B-4 D-5>,note,czerny66,2.0,24.0,GeneralNote
+5,,<music21.chord.Chord B-2 D-3 G-3 B-3>,note,czerny67,2.0,24.0,GeneralNote
+5,,<music21.note.Rest quarter>,note,czerny68,1.0,26.0,GeneralNote
+5,,<music21.note.Rest whole>,note,czerny69,4.0,26.0,GeneralNote
+5,,<music21.note.Rest whole>,note,czerny70,4.0,26.0,GeneralNote
+5,,<music21.chord.Chord B-2 D-3 G-3 B-3>,note,czerny71,2.0,26.0,GeneralNote
+5,,<music21.note.Rest 16th>,note,czerny72,0.25,27.0,GeneralNote
+5,,<music21.note.Note G->,note,czerny73,0.25,27.25,GeneralNote
+5,,<music21.articulations.Fingering 5>,fingering,czerny74,0.0,0.0,Fingering
+5,,<music21.note.Note F->,note,czerny75,0.25,27.5,GeneralNote
+5,,<music21.articulations.Fingering 4>,fingering,czerny76,0.0,0.0,Fingering
+5,,<music21.note.Note E->,note,czerny77,0.25,27.75,GeneralNote
+5,,<music21.articulations.Fingering 3>,fingering,czerny78,0.0,0.0,Fingering
+5,,<music21.note.Note F->,note,czerny79,1.5,28.0,GeneralNote
+5,,<music21.articulations.Fingering 5>,fingering,czerny80,0.0,0.0,Fingering
+5,,<music21.chord.Chord B-2 D-3 G-3 B-3>,note,czerny81,2.0,28.0,GeneralNote
+5,,<music21.note.Note D->,note,czerny82,0.5,29.5,GeneralNote
+5,,<music21.articulations.Fingering 4>,fingering,czerny83,0.0,0.0,Fingering
+5,5,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note D->>,slur,czerny844,2.25,0.0,Slur
+5,,<music21.dynamics.Dynamic f>,f,czerny853,,,DynamicPoint
+6,,<music21.note.Note E->,note,czerny84,2.0,30.0,GeneralNote
+6,,<music21.chord.Chord E-4 G-4 C-5>,note,czerny85,2.0,30.0,GeneralNote
+6,,<music21.chord.Chord C-3 E-3 G-3 C-4>,note,czerny86,2.0,30.0,GeneralNote
+6,,<music21.note.Note E->,note,czerny87,2.0,32.0,GeneralNote
+6,,<music21.chord.Chord G-4 C-5>,note,czerny88,2.0,32.0,GeneralNote
+6,,<music21.note.Rest quarter>,note,czerny89,1.0,32.0,GeneralNote
+6,,<music21.note.Rest eighth>,note,czerny90,0.5,33.0,GeneralNote
+6,,<music21.note.Note G->,note,czerny91,0.5,33.5,GeneralNote
+6,,<music21.note.Note E->,note,czerny92,2.0,34.0,GeneralNote
+6,,<music21.chord.Chord G-4 C-5>,note,czerny93,2.0,34.0,GeneralNote
+6,,<music21.note.Note E->,note,czerny94,1.5,34.0,GeneralNote
+6,,<music21.note.Note C->,note,czerny95,0.5,35.5,GeneralNote
+7,,<music21.chord.Chord E-5 B-5>,note,czerny96,2.0,36.0,GeneralNote
+7,,<music21.note.Note B->,note,czerny97,2.0,36.0,GeneralNote
+7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,czerny98,2.0,36.0,GeneralNote
+7,,<music21.note.Rest quarter>,note,czerny99,1.0,38.0,GeneralNote
+7,,<music21.note.Rest quarter>,note,czerny100,1.0,38.0,GeneralNote
+7,,<music21.note.Rest quarter>,note,czerny101,1.0,38.0,GeneralNote
+7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,czerny102,2.0,38.0,GeneralNote
+7,,<music21.note.Rest 16th>,note,czerny103,0.25,39.0,GeneralNote
+7,,<music21.note.Rest 16th>,note,czerny104,0.25,39.0,GeneralNote
+7,,<music21.note.Rest 16th>,note,czerny105,0.25,39.0,GeneralNote
+7,,<music21.note.Note E->,note,czerny106,0.25,39.25,GeneralNote
+7,,<music21.note.Rest 16th>,note,czerny107,0.25,39.25,GeneralNote
+7,,<music21.note.Rest 16th>,note,czerny108,0.25,39.25,GeneralNote
+7,,<music21.note.Note D->,note,czerny109,0.25,39.5,GeneralNote
+7,,<music21.note.Rest 16th>,note,czerny110,0.25,39.5,GeneralNote
+7,,<music21.note.Rest 16th>,note,czerny111,0.25,39.5,GeneralNote
+7,,<music21.note.Note C->,note,czerny112,0.25,39.75,GeneralNote
+7,,<music21.note.Rest 16th>,note,czerny113,0.25,39.75,GeneralNote
+7,,<music21.note.Rest 16th>,note,czerny114,0.25,39.75,GeneralNote
+7,,<music21.note.Note D->,note,czerny115,1.5,40.0,GeneralNote
+7,,<music21.note.Rest dotted-quarter>,note,czerny116,1.5,40.0,GeneralNote
+7,,<music21.note.Rest dotted-quarter>,note,czerny117,1.5,40.0,GeneralNote
+7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,czerny118,2.0,40.0,GeneralNote
+7,,<music21.note.Note B->,note,czerny119,0.5,41.5,GeneralNote
+7,,<music21.note.Rest eighth>,note,czerny120,0.5,41.5,GeneralNote
+7,,<music21.note.Rest eighth>,note,czerny121,0.5,41.5,GeneralNote
+7,7,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note B->>,slur,czerny845,2.25,0.0,Slur
+8,,<music21.note.Rest half>,note,czerny122,2.0,42.0,GeneralNote
+8,,<music21.note.Note C->,note,czerny123,1.5,42.0,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,czerny124,0.0,0.0,Fingering
+8,,<music21.chord.Chord A-2 C-3 E-3 A-3>,note,czerny125,2.0,42.0,GeneralNote
+8,,<music21.note.Note B->,note,czerny126,0.25,43.5,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,czerny127,0.0,0.0,Fingering
+8,,<music21.note.Note A->,note,czerny128,0.25,43.75,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,czerny129,0.0,0.0,Fingering
+8,,<music21.chord.Chord E-5 A-5 C-6>,note,czerny130,2.0,44.0,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,czerny131,0.0,0.0,Fingering
+8,,<music21.articulations.Fingering 4>,fingering,czerny132,0.0,0.0,Fingering
+8,,<music21.articulations.Fingering 5>,fingering,czerny133,0.0,0.0,Fingering
+8,,<music21.note.Rest quarter>,note,czerny134,1.0,44.0,GeneralNote
+8,,<music21.note.Rest whole>,note,czerny135,4.0,44.0,GeneralNote
+8,,<music21.note.Rest eighth>,note,czerny136,0.5,45.0,GeneralNote
+8,,<music21.note.Note C->,note,czerny137,0.5,45.5,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,czerny138,0.0,0.0,Fingering
+8,,<music21.chord.Chord E-5 A-5 C-6>,note,czerny139,2.0,46.0,GeneralNote
+8,,<music21.note.Note A->,note,czerny140,1.5,46.0,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,czerny141,0.0,0.0,Fingering
+8,,<music21.note.Note F>,note,czerny142,0.5,47.5,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,czerny143,0.0,0.0,Fingering
+8,8,<music21.dynamics.Diminuendo <music21.chord.Chord E-5 A-5 C-6><music21.note.Note A->>,diminuendo,czerny878,,,DynamicRegion
+9,,<music21.chord.Chord F5 A-5 C-6>,note,czerny144,2.0,48.0,GeneralNote
+9,,<music21.note.Note D>,note,czerny145,2.0,48.0,GeneralNote
+9,,<music21.note.Rest dotted-whole>,note,czerny146,6.0,48.0,GeneralNote
+9,,<music21.note.Rest quarter>,note,czerny147,1.0,50.0,GeneralNote
+9,,<music21.chord.Chord D4 F4 B-4>,note,czerny148,2.0,50.0,GeneralNote
+9,,<music21.note.Rest 16th>,note,czerny149,0.25,51.0,GeneralNote
+9,,<music21.note.Note B->,note,czerny150,0.25,51.25,GeneralNote
+9,,<music21.articulations.Fingering 4>,fingering,czerny151,0.0,0.0,Fingering
+9,,<music21.note.Note A->,note,czerny152,0.25,51.5,GeneralNote
+9,,<music21.note.Note G->,note,czerny153,0.25,51.75,GeneralNote
+9,,<music21.note.Note F>,note,czerny154,0.25,52.0,GeneralNote
+9,,<music21.chord.Chord D4 F4 B-4>,note,czerny155,2.0,52.0,GeneralNote
+9,,<music21.note.Note G->,note,czerny156,0.25,52.25,GeneralNote
+9,,<music21.note.Note F>,note,czerny157,0.25,52.5,GeneralNote
+9,,<music21.note.Note G->,note,czerny158,0.25,52.75,GeneralNote
+9,,<music21.note.Note A->,note,czerny159,0.25,53.0,GeneralNote
+9,,<music21.note.Note G->,note,czerny160,0.25,53.25,GeneralNote
+9,,<music21.note.Note A->,note,czerny161,0.25,53.5,GeneralNote
+9,,<music21.note.Note F>,note,czerny162,0.25,53.75,GeneralNote
+9,9,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note F>>,slur,czerny846,2.5,0.0,Slur
+9,,<music21.dynamics.Dynamic p>,p,czerny854,,,DynamicPoint
+10,,<music21.note.Note G->,note,czerny163,1.5,54.0,GeneralNote
+10,,<music21.articulations.Fingering 3>,fingering,czerny164,0.0,0.0,Fingering
+10,,<music21.chord.Chord E-4 G-4 B-4>,note,czerny165,2.0,54.0,GeneralNote
+10,,<music21.note.Rest dotted-whole>,note,czerny166,6.0,54.0,GeneralNote
+10,,<music21.note.Note F>,note,czerny167,0.25,55.5,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,czerny168,0.0,0.0,Fingering
+10,,<music21.note.Note E->,note,czerny169,0.25,55.75,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,czerny170,0.0,0.0,Fingering
+10,,<music21.chord.Chord E-5 G-5 B-5>,note,czerny171,2.0,56.0,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,czerny172,0.0,0.0,Fingering
+10,,<music21.articulations.Fingering 3>,fingering,czerny173,0.0,0.0,Fingering
+10,,<music21.articulations.Fingering 5>,fingering,czerny174,0.0,0.0,Fingering
+10,,<music21.note.Rest quarter>,note,czerny175,1.0,56.0,GeneralNote
+10,,<music21.note.Rest eighth>,note,czerny176,0.5,57.0,GeneralNote
+10,,<music21.note.Note G->,note,czerny177,0.5,57.5,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,czerny178,0.0,0.0,Fingering
+10,,<music21.chord.Chord E-5 G-5 B-5>,note,czerny179,2.0,58.0,GeneralNote
+10,,<music21.note.Note E->,note,czerny180,1.5,58.0,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,czerny181,0.0,0.0,Fingering
+10,,<music21.note.Note C>,note,czerny182,0.5,59.5,GeneralNote
+10,,<music21.articulations.Fingering 3>,fingering,czerny183,0.0,0.0,Fingering
+10,,<music21.expressions.TextExpression 'cresc.'>,cresc.,czerny890,0.0,54.0,TextExpression
+11,,<music21.note.Note C>,note,czerny184,2.0,60.0,GeneralNote
+11,,<music21.chord.Chord C5 E-5 G-5>,note,czerny185,2.0,60.0,GeneralNote
+11,,<music21.note.Note A>,note,czerny186,2.0,60.0,GeneralNote
+11,,<music21.note.Rest whole>,note,czerny187,4.0,62.0,GeneralNote
+11,,<music21.note.Rest quarter>,note,czerny188,1.0,62.0,GeneralNote
+11,,<music21.chord.Chord A3 C4 F4>,note,czerny189,2.0,62.0,GeneralNote
+11,,<music21.note.Rest 16th>,note,czerny190,0.25,63.0,GeneralNote
+11,,<music21.note.Note F>,note,czerny191,0.25,63.25,GeneralNote
+11,,<music21.note.Note E->,note,czerny192,0.25,63.5,GeneralNote
+11,,<music21.note.Note D->,note,czerny193,0.25,63.75,GeneralNote
+11,,<music21.note.Note C>,note,czerny194,0.25,64.0,GeneralNote
+11,,<music21.chord.Chord A3 C4 F4>,note,czerny195,2.0,64.0,GeneralNote
+11,,<music21.note.Note D->,note,czerny196,0.25,64.25,GeneralNote
+11,,<music21.note.Note C>,note,czerny197,0.25,64.5,GeneralNote
+11,,<music21.note.Note D->,note,czerny198,0.25,64.75,GeneralNote
+11,,<music21.note.Note E->,note,czerny199,0.25,65.0,GeneralNote
+11,,<music21.note.Note D->,note,czerny200,0.25,65.25,GeneralNote
+11,,<music21.note.Note E->,note,czerny201,0.25,65.5,GeneralNote
+11,,<music21.note.Note C>,note,czerny202,0.25,65.75,GeneralNote
+11,11,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C>>,slur,czerny847,2.5,0.0,Slur
+11,,<music21.dynamics.Dynamic f>,f,czerny855,,,DynamicPoint
+12,,<music21.note.Note D->,note,czerny203,1.5,66.0,GeneralNote
+12,,<music21.chord.Chord B-3 D-4 F4>,note,czerny204,2.0,66.0,GeneralNote
+12,,<music21.note.Note C>,note,czerny205,0.25,67.5,GeneralNote
+12,,<music21.note.Note B->,note,czerny206,0.25,67.75,GeneralNote
+12,,<music21.chord.Chord B-4 D-5 F5>,note,czerny207,1.0,68.0,GeneralNote
+12,,<music21.chord.Chord B-3 D-4 F4>,note,czerny208,2.0,68.0,GeneralNote
+12,,<music21.note.Note F>,note,czerny209,0.25,69.0,GeneralNote
+12,,<music21.note.Note G->,note,czerny210,0.25,69.25,GeneralNote
+12,,<music21.note.Note F>,note,czerny211,0.25,69.5,GeneralNote
+12,,<music21.note.Note E->,note,czerny212,0.25,69.75,GeneralNote
+12,,<music21.note.Note D->,note,czerny213,0.25,70.0,GeneralNote
+12,,<music21.chord.Chord B-3 D-4 F4>,note,czerny214,2.0,70.0,GeneralNote
+12,,<music21.note.Note C>,note,czerny215,0.25,70.25,GeneralNote
+12,,<music21.note.Note B->,note,czerny216,0.25,70.5,GeneralNote
+12,,<music21.note.Note A->,note,czerny217,0.25,70.75,GeneralNote
+12,,<music21.note.Note G->,note,czerny218,0.5,71.0,GeneralNote
+12,,<music21.note.Note A->,note,czerny219,0.25,71.5,GeneralNote
+12,,<music21.note.Note F>,note,czerny220,0.25,71.75,GeneralNote
+12,,<music21.expressions.TextExpression 'dim.'>,dim.,czerny891,0.0,69.0,TextExpression
+13,,<music21.note.Note G->,note,czerny221,1.0,72.0,GeneralNote
+13,,<music21.articulations.Fingering 21>,fingering,czerny222,0.0,0.0,Fingering
+13,,<music21.note.Note D->,note,czerny223,2.0,72.0,GeneralNote
+13,,<music21.chord.Chord E-3 B-3>,note,czerny224,2.0,72.0,GeneralNote
+13,,<music21.note.Note G->,note,czerny225,0.5,73.0,GeneralNote
+13,,<music21.note.Note B->,note,czerny226,0.25,73.5,GeneralNote
+13,,<music21.note.Note D->,note,czerny227,0.25,73.75,GeneralNote
+13,,<music21.note.Note G->,note,czerny228,1.0,74.0,GeneralNote
+13,,<music21.note.Note C>,note,czerny229,2.0,74.0,GeneralNote
+13,,<music21.chord.Chord E-3 B-3>,note,czerny230,2.0,74.0,GeneralNote
+13,,<music21.note.Note G->,note,czerny231,0.25,75.0,GeneralNote
+13,,<music21.note.Note F>,note,czerny232,0.25,75.25,GeneralNote
+13,,<music21.note.Note E->,note,czerny233,0.25,75.5,GeneralNote
+13,,<music21.note.Note D->,note,czerny234,0.25,75.75,GeneralNote
+13,,<music21.note.Note C>,note,czerny235,0.75,76.0,GeneralNote
+13,,<music21.note.Note C>,note,czerny236,2.0,76.0,GeneralNote
+13,,<music21.chord.Chord E-3 B-3>,note,czerny237,2.0,76.0,GeneralNote
+13,,<music21.note.Note E->,note,czerny238,0.125,76.75,GeneralNote
+13,,<music21.note.Note D->,note,czerny239,0.125,76.875,GeneralNote
+13,,<music21.note.Note C>,note,czerny240,0.25,77.0,GeneralNote
+13,,<music21.note.Note D->,note,czerny241,0.25,77.25,GeneralNote
+13,,<music21.note.Note E->,note,czerny242,0.5,77.5,GeneralNote
+13,,<music21.dynamics.Dynamic p>,p,czerny856,,,DynamicPoint
+14,,<music21.note.Note F>,note,czerny243,0.75,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,czerny244,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,czerny245,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,czerny246,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,czerny247,2.0,78.0,GeneralNote
+14,,<music21.chord.Chord A3 C4>,note,czerny248,2.0,78.0,GeneralNote
+14,,<music21.note.Note E->,note,czerny249,2.0,78.0,GeneralNote
+14,,<music21.note.Note G>,note,czerny250,0.125,78.75,GeneralNote
+14,,<music21.note.Note A>,note,czerny251,0.125,78.875,GeneralNote
+14,,<music21.note.Note A>,note,czerny252,0.75,79.0,GeneralNote
+14,,<music21.note.Note G>,note,czerny253,0.125,79.75,GeneralNote
+14,,<music21.note.Note A>,note,czerny254,0.125,79.875,GeneralNote
+14,,<music21.note.Note B->,note,czerny255,4.0,80.0,GeneralNote
+14,,<music21.articulations.Fingering 5>,fingering,czerny256,0.0,0.0,Fingering
+14,,<music21.note.Rest quarter>,note,czerny257,1.0,80.0,GeneralNote
+14,,<music21.chord.Chord F3 B-3>,note,czerny258,2.0,80.0,GeneralNote
+14,,<music21.note.Note D->,note,czerny259,2.0,80.0,GeneralNote
+14,,<music21.note.Rest eighth>,note,czerny260,0.5,81.0,GeneralNote
+14,,<music21.note.Note F>,note,czerny261,0.5,81.5,GeneralNote
+14,,<music21.articulations.Fingering 2>,fingering,czerny262,0.0,0.0,Fingering
+14,,<music21.note.Note G->,note,czerny263,1.5,82.0,GeneralNote
+14,,<music21.articulations.Fingering 3>,fingering,czerny264,0.0,0.0,Fingering
+14,,<music21.note.Note B->,note,czerny265,2.0,82.0,GeneralNote
+14,,<music21.note.Note E->,note,czerny266,2.0,82.0,GeneralNote
+14,,<music21.note.Note E->,note,czerny267,0.5,83.5,GeneralNote
+14,,<music21.articulations.Fingering 2>,fingering,czerny268,0.0,0.0,Fingering
+14,15,<music21.dynamics.Crescendo <music21.note.Note F><music21.note.Note E->>,diminuendo,czerny880,,,DynamicRegion
+15,,<music21.note.Note B->,note,czerny269,4.0,84.0,GeneralNote
+15,,<music21.note.Note C>,note,czerny270,1.0,84.0,GeneralNote
+15,,<music21.note.Note F>,note,czerny271,2.0,84.0,GeneralNote
+15,,<music21.note.Note F>,note,czerny272,2.0,84.0,GeneralNote
+15,,<music21.note.Note C>,note,czerny273,0.25,85.0,GeneralNote
+15,,<music21.note.Note D->,note,czerny274,0.25,85.25,GeneralNote
+15,,<music21.note.Note C>,note,czerny275,0.25,85.5,GeneralNote
+15,,<music21.note.Note D->,note,czerny276,0.25,85.75,GeneralNote
+15,,<music21.note.Note E->,note,czerny277,0.25,86.0,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,czerny278,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,czerny279,2.0,86.0,GeneralNote
+15,,<music21.note.Note F>,note,czerny280,2.0,86.0,GeneralNote
+15,,<music21.note.Note D->,note,czerny281,0.25,86.25,GeneralNote
+15,,<music21.note.Note C>,note,czerny282,0.25,86.5,GeneralNote
+15,,<music21.note.Note D->,note,czerny283,0.25,86.75,GeneralNote
+15,,<music21.note.Note E->,note,czerny284,0.25,87.0,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,czerny285,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,czerny286,0.25,87.25,GeneralNote
+15,,<music21.articulations.Fingering 4>,fingering,czerny287,0.0,0.0,Fingering
+15,,<music21.note.Note E->,note,czerny288,0.25,87.5,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,czerny289,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,czerny290,0.25,87.75,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,czerny291,0.0,0.0,Fingering
+15,,<music21.note.Note A>,note,czerny292,2.0,88.0,GeneralNote
+15,,<music21.articulations.Fingering 5>,fingering,czerny293,0.0,0.0,Fingering
+15,,<music21.note.Note G->,note,czerny294,1.0,88.0,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,czerny295,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,czerny296,2.0,88.0,GeneralNote
+15,,<music21.note.Note F>,note,czerny297,2.0,88.0,GeneralNote
+15,,<music21.note.Note F>,note,czerny298,0.75,89.0,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,czerny299,0.0,0.0,Fingering
+15,,<music21.note.Note E->,note,czerny300,0.25,89.75,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,czerny301,0.0,0.0,Fingering
+15,,<music21.dynamics.Dynamic p>,p,czerny857,,,DynamicPoint
+15,18,<music21.dynamics.Diminuendo <music21.note.Note B-><music21.note.Note A->>,diminuendo,czerny882,,,DynamicRegion
+16,,<music21.note.Note B->,note,czerny302,1.5,90.0,GeneralNote
+16,,"<music21.articulations.Fingering 4
+1>",fingering,czerny303,0.0,0.0,Fingering
+16,,<music21.note.Note D->,note,czerny304,1.5,90.0,GeneralNote
+16,,<music21.note.Note B->,note,czerny305,2.0,90.0,GeneralNote
+16,,<music21.chord.Chord F3 B-3>,note,czerny306,2.0,90.0,GeneralNote
+16,,<music21.note.Note C>,note,czerny307,0.5,91.5,GeneralNote
+16,,"<music21.articulations.Fingering 5
+2>",fingering,czerny308,0.0,0.0,Fingering
+16,,<music21.note.Note E->,note,czerny309,0.5,91.5,GeneralNote
+16,,<music21.note.Note D->,note,czerny310,2.0,92.0,GeneralNote
+16,,"<music21.articulations.Fingering 4
+2
+1>",fingering,czerny311,0.0,0.0,Fingering
+16,,<music21.chord.Chord F4 B-4>,note,czerny312,2.0,92.0,GeneralNote
+16,,<music21.note.Rest half>,note,czerny313,2.0,92.0,GeneralNote
+16,,<music21.note.Rest quarter>,note,czerny314,1.0,92.0,GeneralNote
+16,,<music21.note.Rest half>,note,czerny315,2.0,92.0,GeneralNote
+16,,<music21.note.Rest eighth>,note,czerny316,0.5,93.0,GeneralNote
+16,,<music21.note.Note B->,note,czerny317,0.5,93.5,GeneralNote
+16,,<music21.note.Note D->,note,czerny318,2.0,94.0,GeneralNote
+16,,<music21.chord.Chord F4 B-4>,note,czerny319,2.0,94.0,GeneralNote
+16,,<music21.note.Rest half>,note,czerny320,2.0,94.0,GeneralNote
+16,,<music21.note.Note D->,note,czerny321,1.5,94.0,GeneralNote
+16,,<music21.note.Rest half>,note,czerny322,2.0,94.0,GeneralNote
+16,,<music21.note.Note F>,note,czerny323,0.5,95.5,GeneralNote
+16,,<music21.expressions.TextExpression 'cresc.'>,cresc.,czerny892,0.0,91.5,TextExpression
+17,,<music21.note.Note D->,note,czerny324,1.5,96.0,GeneralNote
+17,,<music21.articulations.Fingering 4>,fingering,czerny325,0.0,0.0,Fingering
+17,,<music21.chord.Chord F-4 B-4>,note,czerny326,1.5,96.0,GeneralNote
+17,,<music21.note.Note G>,note,czerny327,2.0,96.0,GeneralNote
+17,,<music21.note.Note C->,note,czerny328,0.25,97.5,GeneralNote
+17,,<music21.articulations.Fingering 3>,fingering,czerny329,0.0,0.0,Fingering
+17,,<music21.note.Rest eighth>,note,czerny330,0.5,97.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,czerny331,0.5,97.5,GeneralNote
+17,,<music21.note.Note B->,note,czerny332,0.25,97.75,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,czerny333,0.0,0.0,Fingering
+17,,<music21.note.Note F->,note,czerny334,2.0,98.0,GeneralNote
+17,,"<music21.articulations.Fingering 4
+2
+1>",fingering,czerny335,0.0,0.0,Fingering
+17,,<music21.chord.Chord B-4 D-5>,note,czerny336,2.0,98.0,GeneralNote
+17,,<music21.note.Note G>,note,czerny337,1.0,98.0,GeneralNote
+17,,<music21.note.Note G>,note,czerny338,0.25,99.0,GeneralNote
+17,,<music21.note.Note B->,note,czerny339,0.25,99.25,GeneralNote
+17,,<music21.note.Note A->,note,czerny340,0.25,99.5,GeneralNote
+17,,<music21.note.Note G>,note,czerny341,0.25,99.75,GeneralNote
+17,,<music21.chord.Chord D-5 F-5>,note,czerny342,1.5,100.0,GeneralNote
+17,,<music21.chord.Chord B-4 D-5>,note,czerny343,1.5,100.0,GeneralNote
+17,,<music21.note.Note D->,note,czerny344,2.0,100.0,GeneralNote
+17,,<music21.note.Note E->,note,czerny345,0.25,101.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,czerny346,0.5,101.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,czerny347,0.5,101.5,GeneralNote
+17,,<music21.note.Note D->,note,czerny348,0.25,101.75,GeneralNote
+17,,<music21.dynamics.Dynamic f>,f,czerny858,,,DynamicPoint
+17,,<music21.dynamics.Dynamic sf>,sf,czerny859,,,DynamicPoint
+17,,<music21.dynamics.Dynamic sf>,sf,czerny860,,,DynamicPoint
+18,,<music21.note.Note G>,note,czerny349,2.0,102.0,GeneralNote
+18,,"<music21.articulations.Fingering 5
+2
+1>",fingering,czerny350,0.0,0.0,Fingering
+18,,<music21.chord.Chord B-4 D-5>,note,czerny351,2.0,102.0,GeneralNote
+18,,<music21.note.Rest half>,note,czerny352,2.0,102.0,GeneralNote
+18,,<music21.note.Rest whole>,note,czerny353,4.0,102.0,GeneralNote
+18,,<music21.note.Rest half>,note,czerny354,2.0,102.0,GeneralNote
+18,,<music21.note.Rest whole>,note,czerny355,4.0,102.0,GeneralNote
+18,,<music21.note.Note D->,note,czerny356,1.5,102.0,GeneralNote
+18,,<music21.note.Note C->,note,czerny357,0.25,103.5,GeneralNote
+18,,<music21.note.Note B->,note,czerny358,0.25,103.75,GeneralNote
+18,,<music21.note.Note G>,note,czerny359,1.5,104.0,GeneralNote
+18,,<music21.chord.Chord B-4 D-5>,note,czerny360,1.5,104.0,GeneralNote
+18,,<music21.note.Rest half>,note,czerny361,2.0,104.0,GeneralNote
+18,,<music21.note.Rest half>,note,czerny362,2.0,104.0,GeneralNote
+18,,<music21.note.Note F->,note,czerny363,0.5,104.0,GeneralNote
+18,,<music21.note.Note E->,note,czerny364,0.5,104.5,GeneralNote
+18,,<music21.note.Note F->,note,czerny365,0.5,105.0,GeneralNote
+18,,<music21.note.Note F->,note,czerny366,0.25,105.5,GeneralNote
+18,,<music21.note.Rest eighth>,note,czerny367,0.5,105.5,GeneralNote
+18,,<music21.note.Rest eighth>,note,czerny368,0.5,105.5,GeneralNote
+18,,<music21.note.Note D->,note,czerny369,0.5,105.5,GeneralNote
+18,,<music21.note.Note E->,note,czerny370,0.25,105.75,GeneralNote
+18,,<music21.note.Note A->,note,czerny371,2.0,106.0,GeneralNote
+18,,<music21.note.Rest half>,note,czerny372,2.0,106.0,GeneralNote
+18,,<music21.chord.Chord C-5 E-5>,note,czerny373,2.0,106.0,GeneralNote
+18,,<music21.note.Rest half>,note,czerny374,2.0,106.0,GeneralNote
+18,,<music21.note.Note C->,note,czerny375,0.5,106.0,GeneralNote
+18,,<music21.note.Note B->,note,czerny376,0.5,106.5,GeneralNote
+18,,<music21.note.Note C->,note,czerny377,0.5,107.0,GeneralNote
+18,,<music21.note.Note A->,note,czerny378,0.5,107.5,GeneralNote
+18,18,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note A->>,slur,czerny848,3.5,0.0,Slur
+18,,<music21.dynamics.Dynamic sf>,sf,czerny861,,,DynamicPoint
+18,,<music21.dynamics.Dynamic sf>,sf,czerny862,,,DynamicPoint
+18,25,<music21.dynamics.Diminuendo <music21.note.Note A-><music21.note.Note G->>,diminuendo,czerny884,,,DynamicRegion
+19,,<music21.note.Note A->,note,czerny379,0.5,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,czerny380,2.0,108.0,GeneralNote
+19,,<music21.note.Note F->,note,czerny381,1.5,108.0,GeneralNote
+19,,<music21.note.Note G>,note,czerny382,0.5,108.5,GeneralNote
+19,,<music21.note.Note A->,note,czerny383,0.5,109.0,GeneralNote
+19,,<music21.note.Note B->,note,czerny384,0.5,109.5,GeneralNote
+19,,<music21.note.Note E->,note,czerny385,0.25,109.5,GeneralNote
+19,,<music21.note.Note D->,note,czerny386,0.25,109.75,GeneralNote
+19,,<music21.note.Note C->,note,czerny387,3.0,110.0,GeneralNote
+19,,<music21.chord.Chord E-5 A-5>,note,czerny388,2.0,110.0,GeneralNote
+19,,<music21.note.Note E->,note,czerny389,1.5,110.0,GeneralNote
+19,,<music21.note.Note D->,note,czerny390,0.5,111.5,GeneralNote
+19,,<music21.chord.Chord D-5 G5>,note,czerny391,2.0,112.0,GeneralNote
+19,,<music21.note.Note E->,note,czerny392,1.5,112.0,GeneralNote
+19,,<music21.note.Note B->,note,czerny393,1.0,113.0,GeneralNote
+19,,<music21.note.Note E->,note,czerny394,0.5,113.5,GeneralNote
+19,,<music21.dynamics.Dynamic p>,p,czerny863,,,DynamicPoint
+20,,<music21.note.Note A->,note,czerny395,1.5,114.0,GeneralNote
+20,,<music21.chord.Chord C-5 E-5>,note,czerny396,1.5,114.0,GeneralNote
+20,,<music21.note.Note A->,note,czerny397,2.0,114.0,GeneralNote
+20,,<music21.note.Rest dotted-whole>,note,czerny398,4.5,115.5,GeneralNote
+20,,<music21.note.Note C->,note,czerny399,0.5,115.5,GeneralNote
+20,,<music21.note.Note F>,note,czerny400,1.5,116.0,GeneralNote
+20,,<music21.articulations.Accent>,accent,czerny401,0.0,0.0,Articulation
+20,,<music21.note.Rest quarter>,note,czerny402,1.0,116.0,GeneralNote
+20,,<music21.note.Rest eighth>,note,czerny403,0.5,117.0,GeneralNote
+20,,<music21.note.Note G->,note,czerny404,0.25,117.5,GeneralNote
+20,,<music21.note.Note C->,note,czerny405,0.5,117.5,GeneralNote
+20,,<music21.note.Note A->,note,czerny406,0.25,117.75,GeneralNote
+20,,<music21.note.Note D>,note,czerny407,1.5,118.0,GeneralNote
+20,,<music21.articulations.Accent>,accent,czerny408,0.0,0.0,Articulation
+20,,<music21.note.Note F>,note,czerny409,1.5,118.0,GeneralNote
+20,,<music21.articulations.Accent>,accent,czerny410,0.0,0.0,Articulation
+20,,<music21.note.Note E->,note,czerny411,0.25,119.5,GeneralNote
+20,,<music21.note.Note G->,note,czerny412,0.25,119.5,GeneralNote
+20,,<music21.note.Note F>,note,czerny413,0.25,119.75,GeneralNote
+20,,<music21.note.Note A->,note,czerny414,0.25,119.75,GeneralNote
+20,,<music21.expressions.TextExpression 'cresc.'>,cresc.,czerny893,0.0,114.0,TextExpression
+21,,<music21.note.Note B->,note,czerny415,1.5,120.0,GeneralNote
+21,,<music21.articulations.Accent>,accent,czerny416,0.0,0.0,Articulation
+21,,<music21.note.Note D>,note,czerny417,1.5,120.0,GeneralNote
+21,,<music21.articulations.Accent>,accent,czerny418,0.0,0.0,Articulation
+21,,<music21.note.Note A->,note,czerny419,0.5,121.5,GeneralNote
+21,,<music21.note.Note E->,note,czerny420,0.25,121.5,GeneralNote
+21,,<music21.note.Note F>,note,czerny421,0.25,121.75,GeneralNote
+21,,<music21.note.Note D>,note,czerny422,1.5,122.0,GeneralNote
+21,,<music21.articulations.Accent>,accent,czerny423,0.0,0.0,Articulation
+21,,<music21.note.Note B->,note,czerny424,1.5,122.0,GeneralNote
+21,,<music21.articulations.Accent>,accent,czerny425,0.0,0.0,Articulation
+21,,<music21.note.Note E->,note,czerny426,0.25,123.5,GeneralNote
+21,,<music21.note.Note A->,note,czerny427,0.5,123.5,GeneralNote
+21,,<music21.note.Note F>,note,czerny428,0.25,123.75,GeneralNote
+21,,<music21.note.Note B->,note,czerny429,1.5,124.0,GeneralNote
+21,,<music21.articulations.Accent>,accent,czerny430,0.0,0.0,Articulation
+21,,<music21.note.Note D>,note,czerny431,1.5,124.0,GeneralNote
+21,,<music21.articulations.Accent>,accent,czerny432,0.0,0.0,Articulation
+21,,<music21.note.Note C>,note,czerny433,0.25,125.5,GeneralNote
+21,,<music21.note.Note E->,note,czerny434,0.25,125.5,GeneralNote
+21,,<music21.note.Note D>,note,czerny435,0.25,125.75,GeneralNote
+21,,<music21.note.Note F>,note,czerny436,0.25,125.75,GeneralNote
+21,,<music21.articulations.Fingering 1>,fingering,czerny437,0.0,0.0,Fingering
+22,,<music21.note.Note E->,note,czerny438,1.5,126.0,GeneralNote
+22,,<music21.articulations.Fingering 5>,fingering,czerny439,0.0,0.0,Fingering
+22,,<music21.note.Note G->,note,czerny440,2.0,126.0,GeneralNote
+22,,<music21.articulations.Fingering 4>,fingering,czerny441,0.0,0.0,Fingering
+22,,<music21.note.Note D->,note,czerny442,0.25,127.5,GeneralNote
+22,,<music21.articulations.Fingering 4>,fingering,czerny443,0.0,0.0,Fingering
+22,,<music21.note.Note C->,note,czerny444,0.25,127.75,GeneralNote
+22,,<music21.articulations.Fingering 3>,fingering,czerny445,0.0,0.0,Fingering
+22,,<music21.chord.Chord E-4 B-4 D-5>,note,czerny446,2.0,128.0,GeneralNote
+22,,<music21.note.Note G>,note,czerny447,1.5,128.0,GeneralNote
+22,,<music21.articulations.Fingering 5>,fingering,czerny448,0.0,0.0,Fingering
+22,,<music21.note.Note B->,note,czerny449,0.5,129.5,GeneralNote
+22,,<music21.articulations.Fingering 1>,fingering,czerny450,0.0,0.0,Fingering
+22,,<music21.chord.Chord E-4 B-4 D-5>,note,czerny451,2.0,130.0,GeneralNote
+22,,<music21.note.Note G>,note,czerny452,1.5,130.0,GeneralNote
+22,,<music21.articulations.Fingering 2>,fingering,czerny453,0.0,0.0,Fingering
+22,,<music21.note.Note E->,note,czerny454,0.5,131.5,GeneralNote
+22,,<music21.articulations.Fingering 3>,fingering,czerny455,0.0,0.0,Fingering
+22,,<music21.dynamics.Dynamic f>,f,czerny864,,,DynamicPoint
+23,,<music21.chord.Chord E-4 B-4 D-5>,note,czerny456,1.5,132.0,GeneralNote
+23,,<music21.note.Note A->,note,czerny457,2.0,132.0,GeneralNote
+23,,<music21.articulations.Fingering 5>,fingering,czerny458,0.0,0.0,Fingering
+23,,<music21.note.Note C->,note,czerny459,0.25,133.5,GeneralNote
+23,,<music21.note.Note B->,note,czerny460,0.25,133.75,GeneralNote
+23,,<music21.note.Note C->,note,czerny461,2.0,134.0,GeneralNote
+23,,<music21.note.Rest quarter>,note,czerny462,1.0,134.0,GeneralNote
+23,,<music21.note.Rest eighth>,note,czerny463,0.5,135.0,GeneralNote
+23,,<music21.note.Note C->,note,czerny464,0.5,135.5,GeneralNote
+23,,<music21.chord.Chord E-4 A-4 C-5>,note,czerny465,2.0,136.0,GeneralNote
+23,,<music21.note.Note A->,note,czerny466,1.5,136.0,GeneralNote
+23,,<music21.note.Note F>,note,czerny467,0.5,137.5,GeneralNote
+24,,<music21.chord.Chord F4 A-4 C-5>,note,czerny468,1.5,138.0,GeneralNote
+24,,<music21.chord.Chord F3 A-3>,note,czerny469,2.0,138.0,GeneralNote
+24,,<music21.note.Note D>,note,czerny470,2.0,138.0,GeneralNote
+24,,<music21.note.Note B->,note,czerny471,0.25,139.5,GeneralNote
+24,,<music21.note.Note A->,note,czerny472,0.25,139.75,GeneralNote
+24,,<music21.note.Note F>,note,czerny473,1.5,140.0,GeneralNote
+24,,<music21.articulations.Fingering 5>,fingering,czerny474,0.0,0.0,Fingering
+24,,<music21.chord.Chord F3 B-3>,note,czerny475,2.0,140.0,GeneralNote
+24,,<music21.note.Note D>,note,czerny476,2.0,140.0,GeneralNote
+24,,<music21.note.Note C->,note,czerny477,0.5,141.5,GeneralNote
+24,,<music21.articulations.Fingering 1>,fingering,czerny478,0.0,0.0,Fingering
+24,,<music21.note.Note B->,note,czerny479,1.5,142.0,GeneralNote
+24,,<music21.articulations.Fingering 3>,fingering,czerny480,0.0,0.0,Fingering
+24,,<music21.chord.Chord F3 B-3>,note,czerny481,2.0,142.0,GeneralNote
+24,,<music21.note.Note D>,note,czerny482,2.0,142.0,GeneralNote
+24,,<music21.note.Note C->,note,czerny483,0.25,143.5,GeneralNote
+24,,<music21.articulations.Fingering 5>,fingering,czerny484,0.0,0.0,Fingering
+24,,<music21.note.Note A->,note,czerny485,0.25,143.75,GeneralNote
+24,,<music21.articulations.Fingering 4>,fingering,czerny486,0.0,0.0,Fingering
+25,,<music21.chord.Chord E-4 G-4>,note,czerny487,2.0,144.0,GeneralNote
+25,,<music21.articulations.Fingering 2>,fingering,czerny488,0.0,0.0,Fingering
+25,,<music21.articulations.Fingering 3>,fingering,czerny489,0.0,0.0,Fingering
+25,,<music21.chord.Chord G-3 B-3>,note,czerny490,2.0,144.0,GeneralNote
+25,,<music21.note.Note E->,note,czerny491,2.0,144.0,GeneralNote
+25,,<music21.note.Note G->,note,czerny492,0.25,146.0,GeneralNote
+25,,<music21.chord.Chord G-3 B-3>,note,czerny493,2.0,146.0,GeneralNote
+25,,<music21.note.Note E->,note,czerny494,2.0,146.0,GeneralNote
+25,,<music21.note.Note E->,note,czerny495,0.25,146.25,GeneralNote
+25,,<music21.articulations.Fingering 2>,fingering,czerny496,0.0,0.0,Fingering
+25,,<music21.note.Note F>,note,czerny497,0.25,146.5,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,czerny498,0.0,0.0,Fingering
+25,,<music21.note.Note G->,note,czerny499,0.25,146.75,GeneralNote
+25,,<music21.note.Note A->,note,czerny500,0.25,147.0,GeneralNote
+25,,<music21.note.Note B->,note,czerny501,0.25,147.25,GeneralNote
+25,,<music21.note.Note C>,note,czerny502,0.25,147.5,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,czerny503,0.0,0.0,Fingering
+25,,<music21.note.Note D>,note,czerny504,0.25,147.75,GeneralNote
+25,,<music21.note.Note E->,note,czerny505,0.25,148.0,GeneralNote
+25,,<music21.chord.Chord G-3 B-3>,note,czerny506,2.0,148.0,GeneralNote
+25,,<music21.chord.Chord E-3 G-3>,note,czerny507,2.0,148.0,GeneralNote
+25,,<music21.note.Note F>,note,czerny508,0.25,148.25,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,czerny509,0.0,0.0,Fingering
+25,,<music21.note.Note G->,note,czerny510,0.25,148.5,GeneralNote
+25,,<music21.note.Note A->,note,czerny511,0.25,148.75,GeneralNote
+25,,<music21.articulations.Fingering 3>,fingering,czerny512,0.0,0.0,Fingering
+25,,<music21.note.Note G->,note,czerny513,0.25,149.0,GeneralNote
+25,,<music21.articulations.Fingering 2>,fingering,czerny514,0.0,0.0,Fingering
+25,,<music21.note.Note F>,note,czerny515,0.25,149.25,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,czerny516,0.0,0.0,Fingering
+25,,<music21.note.Note G->,note,czerny517,0.25,149.5,GeneralNote
+25,,<music21.articulations.Fingering 5>,fingering,czerny518,0.0,0.0,Fingering
+25,,<music21.note.Note E->,note,czerny519,0.25,149.75,GeneralNote
+25,,<music21.articulations.Fingering 4>,fingering,czerny520,0.0,0.0,Fingering
+25,35,<music21.dynamics.Crescendo <music21.note.Note A-><music21.note.Note D>>,diminuendo,czerny886,,,DynamicRegion
+26,,<music21.chord.Chord F-4 A-4 C-5 F-5>,note,czerny521,1.5,150.0,GeneralNote
+26,,<music21.chord.Chord C-3 F-3 A-3>,note,czerny522,2.0,150.0,GeneralNote
+26,,<music21.note.Note A->,note,czerny523,2.0,150.0,GeneralNote
+26,,<music21.note.Note C->,note,czerny524,0.25,151.5,GeneralNote
+26,,<music21.note.Note B-->,note,czerny525,0.25,151.75,GeneralNote
+26,,<music21.note.Note A->,note,czerny526,1.5,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,czerny527,2.0,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,czerny528,2.0,152.0,GeneralNote
+26,,<music21.note.Note B-->,note,czerny529,0.25,153.5,GeneralNote
+26,,<music21.note.Note C->,note,czerny530,0.25,153.75,GeneralNote
+26,,<music21.note.Note F->,note,czerny531,1.5,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,czerny532,2.0,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,czerny533,2.0,154.0,GeneralNote
+26,,<music21.note.Note G->,note,czerny534,0.25,155.5,GeneralNote
+26,,<music21.note.Note A->,note,czerny535,0.25,155.75,GeneralNote
+26,,<music21.dynamics.Dynamic fz>,fz,czerny865,,,DynamicPoint
+27,,<music21.note.Note D>,note,czerny536,1.5,156.0,GeneralNote
+27,,<music21.note.Note B->,note,czerny537,2.0,156.0,GeneralNote
+27,,<music21.chord.Chord A-2 F3>,note,czerny538,2.0,156.0,GeneralNote
+27,,<music21.note.Note F>,note,czerny539,0.25,157.5,GeneralNote
+27,,<music21.note.Note A->,note,czerny540,0.25,157.75,GeneralNote
+27,,<music21.note.Note C->,note,czerny541,1.5,158.0,GeneralNote
+27,,<music21.note.Rest half>,note,czerny542,2.0,158.0,GeneralNote
+27,,<music21.note.Rest half>,note,czerny543,2.0,158.0,GeneralNote
+27,,<music21.note.Rest half>,note,czerny544,2.0,158.0,GeneralNote
+27,,<music21.note.Note B->,note,czerny545,0.25,159.5,GeneralNote
+27,,<music21.note.Note A->,note,czerny546,0.25,159.75,GeneralNote
+27,,<music21.note.Note F>,note,czerny547,1.5,160.0,GeneralNote
+27,,<music21.note.Rest half>,note,czerny548,2.0,160.0,GeneralNote
+27,,<music21.note.Rest half>,note,czerny549,2.0,160.0,GeneralNote
+27,,<music21.note.Rest half>,note,czerny550,2.0,160.0,GeneralNote
+27,,<music21.note.Note E->,note,czerny551,0.25,161.5,GeneralNote
+27,,<music21.note.Note D>,note,czerny552,0.25,161.75,GeneralNote
+27,,<music21.dynamics.Dynamic fz>,fz,czerny866,,,DynamicPoint
+28,,<music21.note.Note A>,note,czerny553,1.5,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,czerny554,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,czerny555,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,czerny556,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,czerny557,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,czerny558,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,czerny559,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,czerny560,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,czerny561,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,czerny562,2.0,162.0,GeneralNote
+28,,<music21.note.Note B->,note,czerny563,0.5,163.5,GeneralNote
+28,,<music21.note.Note E->,note,czerny564,2.0,164.0,GeneralNote
+28,,<music21.articulations.Fingering 4>,fingering,czerny565,0.0,0.0,Fingering
+28,,<music21.chord.Chord G-4 B-4>,note,czerny566,2.0,164.0,GeneralNote
+28,,<music21.chord.Chord E-3 G-3 B-3>,note,czerny567,2.0,164.0,GeneralNote
+28,,<music21.note.Note B->,note,czerny568,2.0,164.0,GeneralNote
+28,,<music21.note.Note D>,note,czerny569,1.5,166.0,GeneralNote
+28,,<music21.chord.Chord F4 B-4>,note,czerny570,2.0,166.0,GeneralNote
+28,,<music21.chord.Chord F3 A-3 B-3>,note,czerny571,2.0,166.0,GeneralNote
+28,,<music21.note.Note B->,note,czerny572,2.0,166.0,GeneralNote
+28,,<music21.note.Note E->,note,czerny573,0.5,167.5,GeneralNote
+28,,<music21.dynamics.Dynamic sf>,sf,czerny867,,,DynamicPoint
+28,,<music21.dynamics.Dynamic sf>,sf,czerny868,,,DynamicPoint
+29,,<music21.note.Note E->,note,czerny574,6.0,168.0,GeneralNote
+29,,<music21.articulations.Fingering 5>,fingering,czerny575,0.0,0.0,Fingering
+29,,<music21.note.Note B->,note,czerny576,1.0,168.0,GeneralNote
+29,,<music21.articulations.Fingering 3>,fingering,czerny577,0.0,0.0,Fingering
+29,,<music21.note.Note E->,note,czerny578,2.0,168.0,GeneralNote
+29,,<music21.note.Note C->,note,czerny579,2.0,168.0,GeneralNote
+29,,<music21.note.Note B->,note,czerny580,0.25,169.0,GeneralNote
+29,,<music21.note.Note A->,note,czerny581,0.25,169.25,GeneralNote
+29,,<music21.note.Note G>,note,czerny582,0.25,169.5,GeneralNote
+29,,<music21.note.Note A->,note,czerny583,0.25,169.75,GeneralNote
+29,,<music21.note.Note A->,note,czerny584,2.0,170.0,GeneralNote
+29,,<music21.note.Note E->,note,czerny585,2.0,170.0,GeneralNote
+29,,<music21.note.Note C->,note,czerny586,2.0,170.0,GeneralNote
+29,,<music21.note.Note A->,note,czerny587,1.5,172.0,GeneralNote
+29,,<music21.note.Note E->,note,czerny588,2.0,172.0,GeneralNote
+29,,<music21.note.Note C->,note,czerny589,2.0,172.0,GeneralNote
+29,,<music21.note.Note G>,note,czerny590,0.25,173.5,GeneralNote
+29,,<music21.note.Note A->,note,czerny591,0.25,173.75,GeneralNote
+29,,<music21.dynamics.Dynamic fp>,fp,czerny869,,,DynamicPoint
+29,,<music21.expressions.TextExpression 'dolce'>,dolce,czerny894,0.0,168.0,TextExpression
+30,,<music21.note.Note E->,note,czerny592,2.0,174.0,GeneralNote
+30,,<music21.note.Note B->,note,czerny593,6.0,174.0,GeneralNote
+30,,<music21.chord.Chord B-3 E-4>,note,czerny594,2.0,174.0,GeneralNote
+30,,<music21.note.Note G>,note,czerny595,2.0,174.0,GeneralNote
+30,,<music21.note.Note E->,note,czerny596,1.0,176.0,GeneralNote
+30,,<music21.chord.Chord B-3 E-4>,note,czerny597,2.0,176.0,GeneralNote
+30,,<music21.note.Note G>,note,czerny598,2.0,176.0,GeneralNote
+30,,<music21.note.Note E->,note,czerny599,0.25,177.0,GeneralNote
+30,,<music21.note.Note E->,note,czerny600,0.25,177.25,GeneralNote
+30,,<music21.note.Note D->,note,czerny601,0.25,177.5,GeneralNote
+30,,<music21.note.Note C->,note,czerny602,0.25,177.75,GeneralNote
+30,,<music21.note.Note D->,note,czerny603,1.5,178.0,GeneralNote
+30,,<music21.chord.Chord B-3 E-4>,note,czerny604,2.0,178.0,GeneralNote
+30,,<music21.note.Note G>,note,czerny605,2.0,178.0,GeneralNote
+30,,<music21.note.Note B->,note,czerny606,0.5,179.5,GeneralNote
+31,,<music21.note.Note C->,note,czerny607,2.0,180.0,GeneralNote
+31,,<music21.note.Note A->,note,czerny608,2.0,180.0,GeneralNote
+31,,<music21.chord.Chord C-4 E-4>,note,czerny609,2.0,180.0,GeneralNote
+31,,<music21.note.Note A->,note,czerny610,2.0,180.0,GeneralNote
+31,,<music21.note.Note C->,note,czerny611,1.0,182.0,GeneralNote
+31,,<music21.note.Note A->,note,czerny612,1.5,182.0,GeneralNote
+31,,<music21.note.Note E->,note,czerny613,1.0,182.0,GeneralNote
+31,,<music21.note.Note F->,note,czerny614,2.0,182.0,GeneralNote
+31,,<music21.note.Note C->,note,czerny615,0.25,183.0,GeneralNote
+31,,<music21.note.Note E->,note,czerny616,0.25,183.0,GeneralNote
+31,,<music21.note.Note C->,note,czerny617,0.25,183.25,GeneralNote
+31,,<music21.note.Note E->,note,czerny618,0.25,183.25,GeneralNote
+31,,<music21.note.Note B->,note,czerny619,0.25,183.5,GeneralNote
+31,,<music21.note.Rest eighth>,note,czerny620,0.5,183.5,GeneralNote
+31,,<music21.note.Rest eighth>,note,czerny621,0.5,183.5,GeneralNote
+31,,<music21.note.Note D->,note,czerny622,0.25,183.5,GeneralNote
+31,,<music21.note.Note A->,note,czerny623,0.25,183.75,GeneralNote
+31,,<music21.note.Note C->,note,czerny624,0.25,183.75,GeneralNote
+31,,<music21.note.Note B->,note,czerny625,1.5,184.0,GeneralNote
+31,,<music21.note.Rest half>,note,czerny626,2.0,184.0,GeneralNote
+31,,<music21.note.Rest half>,note,czerny627,2.0,184.0,GeneralNote
+31,,<music21.note.Note D->,note,czerny628,1.5,184.0,GeneralNote
+31,,<music21.note.Note F->,note,czerny629,2.0,184.0,GeneralNote
+31,,<music21.note.Note G>,note,czerny630,0.5,185.5,GeneralNote
+31,,<music21.note.Note B->,note,czerny631,0.5,185.5,GeneralNote
+31,,<music21.articulations.Fingering 2>,fingering,czerny632,0.0,0.0,Fingering
+32,,<music21.chord.Chord D4 A-4>,note,czerny633,2.0,186.0,GeneralNote
+32,,<music21.note.Note C->,note,czerny634,2.0,186.0,GeneralNote
+32,,<music21.note.Note F>,note,czerny635,2.0,186.0,GeneralNote
+32,,<music21.articulations.Fingering 3>,fingering,czerny636,0.0,0.0,Fingering
+32,,<music21.chord.Chord D4 A-4>,note,czerny637,2.0,188.0,GeneralNote
+32,,<music21.note.Note C->,note,czerny638,2.0,188.0,GeneralNote
+32,,<music21.note.Note F>,note,czerny639,1.0,188.0,GeneralNote
+32,,<music21.note.Note F>,note,czerny640,0.25,189.0,GeneralNote
+32,,<music21.note.Note G->,note,czerny641,0.25,189.25,GeneralNote
+32,,<music21.note.Note F>,note,czerny642,0.25,189.5,GeneralNote
+32,,<music21.note.Note E->,note,czerny643,0.25,189.75,GeneralNote
+32,,<music21.chord.Chord D4 A-4>,note,czerny644,2.0,190.0,GeneralNote
+32,,<music21.note.Note C->,note,czerny645,2.0,190.0,GeneralNote
+32,,<music21.note.Note F>,note,czerny646,0.75,190.0,GeneralNote
+32,,<music21.articulations.Fingering 3>,fingering,czerny647,0.0,0.0,Fingering
+32,,<music21.note.Note G->,note,czerny648,0.25,190.75,GeneralNote
+32,,<music21.articulations.Fingering 2>,fingering,czerny649,0.0,0.0,Fingering
+32,,<music21.note.Note A->,note,czerny650,0.25,191.0,GeneralNote
+32,,<music21.articulations.Fingering 1>,fingering,czerny651,0.0,0.0,Fingering
+32,,<music21.note.Note F>,note,czerny652,0.25,191.25,GeneralNote
+32,,<music21.articulations.Fingering 3>,fingering,czerny653,0.0,0.0,Fingering
+32,,<music21.note.Note G->,note,czerny654,0.25,191.5,GeneralNote
+32,,<music21.articulations.Fingering 2>,fingering,czerny655,0.0,0.0,Fingering
+32,,<music21.note.Note A->,note,czerny656,0.25,191.75,GeneralNote
+32,,<music21.articulations.Fingering 1>,fingering,czerny657,0.0,0.0,Fingering
+32,,<music21.expressions.TextExpression 'cresc.'>,cresc.,czerny895,0.0,186.0,TextExpression
+33,,<music21.note.Note A->,note,czerny658,2.0,192.0,GeneralNote
+33,,<music21.chord.Chord C-4 F4>,note,czerny659,2.0,192.0,GeneralNote
+33,,<music21.note.Note D>,note,czerny660,2.0,192.0,GeneralNote
+33,,<music21.articulations.Fingering 3>,fingering,czerny661,0.0,0.0,Fingering
+33,,<music21.note.Note A->,note,czerny662,2.0,194.0,GeneralNote
+33,,<music21.chord.Chord C-4 F4>,note,czerny663,2.0,194.0,GeneralNote
+33,,<music21.note.Note D>,note,czerny664,1.0,194.0,GeneralNote
+33,,<music21.note.Note D>,note,czerny665,0.25,195.0,GeneralNote
+33,,<music21.note.Note E->,note,czerny666,0.25,195.25,GeneralNote
+33,,<music21.note.Note D>,note,czerny667,0.25,195.5,GeneralNote
+33,,<music21.note.Note C>,note,czerny668,0.25,195.75,GeneralNote
+33,,<music21.note.Note A->,note,czerny669,2.0,196.0,GeneralNote
+33,,<music21.chord.Chord C-4 F4>,note,czerny670,2.0,196.0,GeneralNote
+33,,<music21.note.Note D>,note,czerny671,0.75,196.0,GeneralNote
+33,,<music21.note.Note E->,note,czerny672,0.25,196.75,GeneralNote
+33,,<music21.note.Note F>,note,czerny673,0.25,197.0,GeneralNote
+33,,<music21.note.Note D>,note,czerny674,0.25,197.25,GeneralNote
+33,,<music21.note.Note E->,note,czerny675,0.25,197.5,GeneralNote
+33,,<music21.note.Note F>,note,czerny676,0.25,197.75,GeneralNote
+33,,<music21.articulations.Fingering 1>,fingering,czerny677,0.0,0.0,Fingering
+33,,<music21.dynamics.Dynamic sf>,sf,czerny870,,,DynamicPoint
+34,,<music21.note.Note A->,note,czerny678,2.0,198.0,GeneralNote
+34,,<music21.chord.Chord D4 F4>,note,czerny679,2.0,198.0,GeneralNote
+34,,<music21.note.Note C->,note,czerny680,2.0,198.0,GeneralNote
+34,,<music21.articulations.Fingering 3>,fingering,czerny681,0.0,0.0,Fingering
+34,,<music21.note.Note A->,note,czerny682,2.0,200.0,GeneralNote
+34,,<music21.chord.Chord D4 F4>,note,czerny683,2.0,200.0,GeneralNote
+34,,<music21.note.Note C->,note,czerny684,1.0,200.0,GeneralNote
+34,,<music21.note.Note C->,note,czerny685,0.25,201.0,GeneralNote
+34,,<music21.note.Note D->,note,czerny686,0.25,201.25,GeneralNote
+34,,<music21.note.Note C->,note,czerny687,0.25,201.5,GeneralNote
+34,,<music21.note.Note B->,note,czerny688,0.25,201.75,GeneralNote
+34,,<music21.note.Note A->,note,czerny689,2.0,202.0,GeneralNote
+34,,<music21.chord.Chord D4 F4>,note,czerny690,2.0,202.0,GeneralNote
+34,,<music21.note.Note C->,note,czerny691,0.25,202.0,GeneralNote
+34,,<music21.articulations.Fingering 1>,fingering,czerny692,0.0,0.0,Fingering
+34,,<music21.note.Note B->,note,czerny693,0.25,202.25,GeneralNote
+34,,<music21.articulations.Fingering 2>,fingering,czerny694,0.0,0.0,Fingering
+34,,<music21.note.Note A->,note,czerny695,0.25,202.5,GeneralNote
+34,,<music21.articulations.Fingering 3>,fingering,czerny696,0.0,0.0,Fingering
+34,,<music21.note.Note B->,note,czerny697,0.25,202.75,GeneralNote
+34,,<music21.articulations.Fingering 2>,fingering,czerny698,0.0,0.0,Fingering
+34,,<music21.note.Note C->,note,czerny699,0.25,203.0,GeneralNote
+34,,<music21.articulations.Fingering 1>,fingering,czerny700,0.0,0.0,Fingering
+34,,<music21.note.Note A->,note,czerny701,0.25,203.25,GeneralNote
+34,,<music21.note.Note B->,note,czerny702,0.25,203.5,GeneralNote
+34,,<music21.note.Note C->,note,czerny703,0.25,203.75,GeneralNote
+34,,<music21.dynamics.Dynamic sf>,sf,czerny871,,,DynamicPoint
+35,,<music21.note.Note C->,note,czerny704,2.0,204.0,GeneralNote
+35,,<music21.chord.Chord D4 F4 A-4>,note,czerny705,2.0,204.0,GeneralNote
+35,,<music21.note.Note D>,note,czerny706,2.0,204.0,GeneralNote
+35,,<music21.note.Note C->,note,czerny707,0.25,206.0,GeneralNote
+35,,<music21.note.Rest half>,note,czerny708,2.0,206.0,GeneralNote
+35,,<music21.note.Rest half>,note,czerny709,2.0,206.0,GeneralNote
+35,,<music21.note.Rest half>,note,czerny710,2.0,206.0,GeneralNote
+35,,<music21.note.Note B->,note,czerny711,0.25,206.25,GeneralNote
+35,,<music21.note.Note A->,note,czerny712,0.25,206.5,GeneralNote
+35,,<music21.note.Note G->,note,czerny713,0.25,206.75,GeneralNote
+35,,<music21.note.Note F>,note,czerny714,0.25,207.0,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,czerny715,0.0,0.0,Fingering
+35,,<music21.note.Note E->,note,czerny716,0.25,207.25,GeneralNote
+35,,<music21.articulations.Fingering 2>,fingering,czerny717,0.0,0.0,Fingering
+35,,<music21.note.Note D>,note,czerny718,0.25,207.5,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,czerny719,0.0,0.0,Fingering
+35,,<music21.note.Note F>,note,czerny720,0.25,207.75,GeneralNote
+35,,<music21.articulations.Fingering 2>,fingering,czerny721,0.0,0.0,Fingering
+35,,<music21.note.Note A->,note,czerny722,0.25,208.0,GeneralNote
+35,,<music21.articulations.Fingering 3>,fingering,czerny723,0.0,0.0,Fingering
+35,,<music21.note.Rest half>,note,czerny724,2.0,208.0,GeneralNote
+35,,<music21.note.Rest half>,note,czerny725,2.0,208.0,GeneralNote
+35,,<music21.note.Rest half>,note,czerny726,2.0,208.0,GeneralNote
+35,,<music21.note.Note C->,note,czerny727,0.25,208.25,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,czerny728,0.0,0.0,Fingering
+35,,<music21.note.Note D>,note,czerny729,0.25,208.5,GeneralNote
+35,,<music21.articulations.Fingering 2>,fingering,czerny730,0.0,0.0,Fingering
+35,,<music21.note.Note F>,note,czerny731,0.25,208.75,GeneralNote
+35,,<music21.articulations.Fingering 3>,fingering,czerny732,0.0,0.0,Fingering
+35,,<music21.note.Note A->,note,czerny733,0.25,209.0,GeneralNote
+35,,<music21.articulations.Fingering 4>,fingering,czerny734,0.0,0.0,Fingering
+35,,<music21.note.Note C->,note,czerny735,0.25,209.25,GeneralNote
+35,,<music21.articulations.Fingering 5>,fingering,czerny736,0.0,0.0,Fingering
+35,,<music21.note.Note B->,note,czerny737,0.25,209.5,GeneralNote
+35,,<music21.articulations.Fingering 4>,fingering,czerny738,0.0,0.0,Fingering
+35,,<music21.note.Note D>,note,czerny739,0.25,209.75,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,czerny740,0.0,0.0,Fingering
+35,35,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,czerny849,3.75,0.0,Slur
+35,,<music21.dynamics.Dynamic f>,f,czerny872,,,DynamicPoint
+36,,<music21.note.Note E->,note,czerny741,1.5,210.0,GeneralNote
+36,,<music21.articulations.Fingering 5>,fingering,czerny742,0.0,0.0,Fingering
+36,,<music21.note.Rest quarter>,note,czerny743,1.0,210.0,GeneralNote
+36,,<music21.note.Rest half>,note,czerny744,2.0,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,czerny745,1.0,210.0,GeneralNote
+36,,<music21.note.Rest half>,note,czerny746,2.0,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,czerny747,1.0,210.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,czerny748,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,czerny749,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,czerny750,0.5,211.0,GeneralNote
+36,,<music21.chord.Chord G-4 B-4>,note,czerny751,0.5,211.5,GeneralNote
+36,,<music21.note.Rest eighth>,note,czerny752,0.5,211.5,GeneralNote
+36,,<music21.note.Rest eighth>,note,czerny753,0.5,211.5,GeneralNote
+36,,<music21.chord.Chord E-2 E-3>,note,czerny754,0.5,211.5,GeneralNote
+36,,<music21.note.Note G->,note,czerny755,2.0,212.0,GeneralNote
+36,,<music21.note.Note E->,note,czerny756,2.0,212.0,GeneralNote
+36,,<music21.chord.Chord B-2 E-3 G-3 B-3>,note,czerny757,2.0,212.0,GeneralNote
+36,,<music21.note.Note F>,note,czerny758,0.5,214.0,GeneralNote
+36,,<music21.note.Note D>,note,czerny759,2.0,214.0,GeneralNote
+36,,<music21.chord.Chord B-2 F3 A-3 B-3>,note,czerny760,2.0,214.0,GeneralNote
+36,,<music21.note.Note E->,note,czerny761,0.5,214.5,GeneralNote
+36,,<music21.note.Note F>,note,czerny762,1.0,215.0,GeneralNote
+36,36,<music21.spanner.Slur <music21.chord.Chord G-4 B-4><music21.note.Note G->>,slur,czerny850,0.5,0.0,Slur
+36,36,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,czerny851,1.0,0.0,Slur
+36,,<music21.expressions.TextExpression 'dim.'>,dim.,czerny896,0.0,211.5,TextExpression
+37,,<music21.note.Note E->,note,czerny763,2.0,216.0,GeneralNote
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,czerny764,2.0,216.0,GeneralNote
+37,,<music21.note.Note E->,note,czerny765,1.0,218.0,GeneralNote
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,czerny766,2.0,218.0,GeneralNote
+37,,<music21.note.Note E->,note,czerny767,0.25,219.0,GeneralNote
+37,,<music21.articulations.Fingering 2>,fingering,czerny768,0.0,0.0,Fingering
+37,,<music21.note.Note F>,note,czerny769,0.25,219.25,GeneralNote
+37,,<music21.articulations.Fingering 1>,fingering,czerny770,0.0,0.0,Fingering
+37,,<music21.note.Note G>,note,czerny771,0.25,219.5,GeneralNote
+37,,<music21.articulations.Fingering 3>,fingering,czerny772,0.0,0.0,Fingering
+37,,<music21.note.Note A->,note,czerny773,0.25,219.75,GeneralNote
+37,,<music21.articulations.Fingering 4>,fingering,czerny774,0.0,0.0,Fingering
+37,,<music21.note.Note B->,note,czerny775,1.0,220.0,GeneralNote
+37,,<music21.articulations.Fingering 5>,fingering,czerny776,0.0,0.0,Fingering
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,czerny777,2.0,220.0,GeneralNote
+37,,<music21.note.Note B->,note,czerny778,0.25,221.0,GeneralNote
+37,,<music21.note.Note F->,note,czerny779,0.25,221.25,GeneralNote
+37,,<music21.articulations.Fingering 1>,fingering,czerny780,0.0,0.0,Fingering
+37,,<music21.note.Note E->,note,czerny781,0.25,221.5,GeneralNote
+37,,<music21.articulations.Fingering 3>,fingering,czerny782,0.0,0.0,Fingering
+37,,<music21.note.Note D->,note,czerny783,0.25,221.75,GeneralNote
+37,,<music21.articulations.Fingering 2>,fingering,czerny784,0.0,0.0,Fingering
+37,,<music21.dynamics.Dynamic p>,p,czerny873,,,DynamicPoint
+38,,<music21.note.Note C->,note,czerny785,2.0,222.0,GeneralNote
+38,,<music21.note.Note A->,note,czerny786,2.0,222.0,GeneralNote
+38,,<music21.note.Note E->,note,czerny787,2.0,222.0,GeneralNote
+38,,<music21.note.Note C->,note,czerny788,0.75,224.0,GeneralNote
+38,,<music21.note.Note A->,note,czerny789,2.0,224.0,GeneralNote
+38,,<music21.note.Note E->,note,czerny790,2.0,224.0,GeneralNote
+38,,<music21.note.Note E->,note,czerny791,0.25,224.75,GeneralNote
+38,,<music21.articulations.Fingering 2>,fingering,czerny792,0.0,0.0,Fingering
+38,,<music21.note.Note F>,note,czerny793,0.25,225.0,GeneralNote
+38,,<music21.articulations.Fingering 1>,fingering,czerny794,0.0,0.0,Fingering
+38,,<music21.note.Note G>,note,czerny795,0.25,225.25,GeneralNote
+38,,<music21.note.Note A->,note,czerny796,0.25,225.5,GeneralNote
+38,,<music21.note.Note B->,note,czerny797,0.25,225.75,GeneralNote
+38,,<music21.note.Note C->,note,czerny798,0.5,226.0,GeneralNote
+38,,<music21.articulations.Fingering 5>,fingering,czerny799,0.0,0.0,Fingering
+38,,<music21.note.Note A->,note,czerny800,2.0,226.0,GeneralNote
+38,,<music21.note.Note E->,note,czerny801,2.0,226.0,GeneralNote
+38,,<music21.note.Note C->,note,czerny802,0.125,226.5,GeneralNote
+38,,<music21.note.Note B->,note,czerny803,0.125,226.625,GeneralNote
+38,,<music21.note.Note A->,note,czerny804,0.125,226.75,GeneralNote
+38,,<music21.note.Note G->,note,czerny805,0.125,226.875,GeneralNote
+38,,<music21.note.Note F>,note,czerny806,0.25,227.0,GeneralNote
+38,,<music21.note.Note G->,note,czerny807,0.25,227.25,GeneralNote
+38,,<music21.note.Note A->,note,czerny808,0.25,227.5,GeneralNote
+38,,<music21.note.Note F>,note,czerny809,0.25,227.75,GeneralNote
+38,,<music21.articulations.Fingering 1>,fingering,czerny810,0.0,0.0,Fingering
+38,,<music21.expressions.TextExpression 'dim.'>,dim.,czerny897,0.0,225.0,TextExpression
+39,,<music21.note.Note D>,note,czerny811,4.0,228.0,GeneralNote
+39,,<music21.articulations.Fingering 5>,fingering,czerny812,0.0,0.0,Fingering
+39,,<music21.note.Rest quarter>,note,czerny813,1.0,228.0,GeneralNote
+39,,<music21.note.Note F>,note,czerny814,2.0,228.0,GeneralNote
+39,,<music21.note.Note E->,note,czerny815,2.0,228.0,GeneralNote
+39,,<music21.note.Rest eighth>,note,czerny816,0.5,229.0,GeneralNote
+39,,<music21.note.Note C->,note,czerny817,0.25,229.5,GeneralNote
+39,,<music21.articulations.Fingering 1>,fingering,czerny818,0.0,0.0,Fingering
+39,,<music21.note.Note B->,note,czerny819,0.25,229.75,GeneralNote
+39,,<music21.articulations.Fingering 2>,fingering,czerny820,0.0,0.0,Fingering
+39,,<music21.note.Note C->,note,czerny821,1.5,230.0,GeneralNote
+39,,<music21.articulations.Fingering 1>,fingering,czerny822,0.0,0.0,Fingering
+39,,<music21.note.Note F>,note,czerny823,2.0,230.0,GeneralNote
+39,,<music21.note.Note E->,note,czerny824,2.0,230.0,GeneralNote
+39,,<music21.note.Note B->,note,czerny825,0.5,231.5,GeneralNote
+39,,<music21.articulations.Fingering 3>,fingering,czerny826,0.0,0.0,Fingering
+39,,<music21.note.Note D>,note,czerny827,1.5,232.0,GeneralNote
+39,,<music21.articulations.Fingering 5>,fingering,czerny828,0.0,0.0,Fingering
+39,,<music21.note.Note A->,note,czerny829,1.0,232.0,GeneralNote
+39,,<music21.articulations.Fingering 3>,fingering,czerny830,0.0,0.0,Fingering
+39,,<music21.note.Rest half>,note,czerny831,2.0,232.0,GeneralNote
+39,,<music21.note.Note E->,note,czerny832,2.0,232.0,GeneralNote
+39,,<music21.note.Rest half>,note,czerny833,2.0,232.0,GeneralNote
+39,,<music21.note.Note A->,note,czerny834,0.25,233.0,GeneralNote
+39,,<music21.note.Note C->,note,czerny835,0.25,233.25,GeneralNote
+39,,<music21.note.Note D>,note,czerny836,0.5,233.5,GeneralNote
+39,,<music21.note.Note B->,note,czerny837,0.25,233.5,GeneralNote
+39,,<music21.note.Note A->,note,czerny838,0.25,233.75,GeneralNote
+39,,<music21.dynamics.Dynamic pp>,pp,czerny874,,,DynamicPoint
+39,,<music21.expressions.TextExpression 'rallent.'>,rallent.,czerny898,0.0,230.0,TextExpression
+40,,<music21.chord.Chord G3 B-3 E-4>,note,czerny839,6.0,234.0,GeneralNote
+40,,<music21.chord.Chord E-2 B-2 E-3>,note,czerny840,6.0,234.0,GeneralNote

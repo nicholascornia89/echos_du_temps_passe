@@ -1,0 +1,1674 @@
+measure_start,measure_end,object,value,id,quarterlength,offset,type
+0,,<music21.note.Rest eighth>,note,buonamici1,0.5,0.0,GeneralNote
+0,,<music21.note.Note B>,note,buonamici2,0.5,0.0,GeneralNote
+0,,<music21.note.Rest eighth>,note,buonamici3,0.5,0.0,GeneralNote
+0,,<music21.dynamics.Dynamic p>,p,buonamici1622,,,DynamicPoint
+0,,<music21.expressions.TextExpression 'Allegro'>,Allegro,buonamici1689,0.0,0.0,TextExpression
+0,,<music21.tempo.MetronomeMark Quarter=144 (playback only)>,None,buonamici1698,0.0,0.0,TempoIndication
+0,,<music21.tempo.MetronomeMark andantino Dotted Quarter=80>,andantino,buonamici1699,0.0,0.0,TempoIndication
+0,,<music21.tempo.MetronomeMark Quarter=144 (playback only)>,None None,buonamici1700,0.0,0.0,MetronomeMark
+0,,<music21.tempo.MetronomeMark andantino Dotted Quarter=80>,andantino 80,buonamici1701,0.0,0.0,MetronomeMark
+1,,<music21.note.Rest dotted-half>,note,buonamici4,3.0,0.5,GeneralNote
+1,,<music21.note.Note E>,note,buonamici5,0.5,0.5,GeneralNote
+1,,<music21.chord.Chord E4 G4 B4>,note,buonamici6,1.5,0.5,GeneralNote
+1,,<music21.note.Note F#>,note,buonamici7,0.5,1.0,GeneralNote
+1,,<music21.note.Note G>,note,buonamici8,0.5,1.5,GeneralNote
+1,,<music21.note.Note F#>,note,buonamici9,0.5,2.0,GeneralNote
+1,,<music21.chord.Chord D#4 F#4 B4>,note,buonamici10,1.5,2.0,GeneralNote
+1,,<music21.note.Note B>,note,buonamici11,0.5,2.5,GeneralNote
+1,,<music21.note.Note B>,note,buonamici12,0.5,3.0,GeneralNote
+1,1,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,buonamici1522,2.5,0.0,Slur
+1,1,<music21.spanner.Slur <music21.chord.Chord E4 G4 B4><music21.chord.Chord D#4 F#4 B4>>,slur,buonamici1523,1.5,0.0,Slur
+2,,<music21.note.Note G>,note,buonamici13,1/6,3.5,GeneralNote
+2,,<music21.note.Note G>,note,buonamici14,1.5,3.5,GeneralNote
+2,,<music21.note.Note E>,note,buonamici15,0.5,3.5,GeneralNote
+2,,<music21.note.Note A>,note,buonamici16,1/6,11/3,GeneralNote
+2,,<music21.note.Note G>,note,buonamici17,1/6,23/6,GeneralNote
+2,,<music21.note.Note A>,note,buonamici18,1/6,4.0,GeneralNote
+2,,<music21.note.Note G>,note,buonamici19,0.5,4.0,GeneralNote
+2,,<music21.note.Note G>,note,buonamici20,1/6,25/6,GeneralNote
+2,,<music21.note.Note A>,note,buonamici21,1/6,13/3,GeneralNote
+2,,<music21.note.Note G>,note,buonamici22,1/6,4.5,GeneralNote
+2,,<music21.note.Note B>,note,buonamici23,0.5,4.5,GeneralNote
+2,,<music21.note.Note A>,note,buonamici24,1/6,14/3,GeneralNote
+2,,<music21.note.Note G>,note,buonamici25,1/6,29/6,GeneralNote
+2,,<music21.note.Note F#>,note,buonamici26,1.0,5.0,GeneralNote
+2,,<music21.note.Note F#>,note,buonamici27,1.0,5.0,GeneralNote
+2,,<music21.note.Note D>,note,buonamici28,0.5,5.0,GeneralNote
+2,,<music21.note.Rest 16th>,note,buonamici29,0.25,5.25,GeneralNote
+2,,<music21.note.Rest 16th>,note,buonamici30,0.25,5.25,GeneralNote
+2,,<music21.note.Note G>,note,buonamici31,0.5,5.5,GeneralNote
+2,,<music21.note.Note B>,note,buonamici32,0.5,6.0,GeneralNote
+2,,<music21.note.Note B>,note,buonamici33,0.5,6.0,GeneralNote
+2,,<music21.note.Note B>,note,buonamici34,0.5,6.0,GeneralNote
+2,2,<music21.spanner.Slur <music21.note.Note G><music21.note.Note G>>,slur,buonamici1518,1.333333333333333,0.0,Slur
+2,2,<music21.spanner.Slur <music21.note.Note F#><music21.note.Note B>>,slur,buonamici1519,1.0,0.0,Slur
+2,2,<music21.spanner.Slur <music21.note.Note F#><music21.note.Note B>>,slur,buonamici1524,1.0,0.0,Slur
+2,2,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,buonamici1525,2.5,0.0,Slur
+3,,<music21.note.Rest dotted-half>,note,buonamici35,3.0,6.5,GeneralNote
+3,,<music21.note.Note A>,note,buonamici36,0.5,6.5,GeneralNote
+3,,<music21.articulations.Staccato>,staccato,buonamici37,0.0,0.0,Articulation
+3,,<music21.chord.Chord C4 E4 A4>,note,buonamici38,1.5,6.5,GeneralNote
+3,,<music21.note.Note C>,note,buonamici39,0.25,7.0,GeneralNote
+3,,<music21.note.Note B>,note,buonamici40,0.25,7.25,GeneralNote
+3,,<music21.note.Note A>,note,buonamici41,0.25,7.5,GeneralNote
+3,,<music21.note.Note G>,note,buonamici42,0.25,7.75,GeneralNote
+3,,<music21.note.Note F#>,note,buonamici43,0.5,8.0,GeneralNote
+3,,<music21.articulations.Staccato>,staccato,buonamici44,0.0,0.0,Articulation
+3,,<music21.chord.Chord A3 E4 F#4 C5>,note,buonamici45,0.5,8.0,GeneralNote
+3,,<music21.articulations.Staccato>,staccato,buonamici46,0.0,0.0,Articulation
+3,,<music21.note.Rest 16th>,note,buonamici47,0.25,8.25,GeneralNote
+3,,<music21.note.Rest 16th>,note,buonamici48,0.25,8.25,GeneralNote
+3,,<music21.note.Note A>,note,buonamici49,0.25,8.5,GeneralNote
+3,,<music21.note.Rest eighth>,note,buonamici50,0.5,8.5,GeneralNote
+3,,<music21.note.Note G>,note,buonamici51,0.25,8.75,GeneralNote
+3,,<music21.note.Note F#>,note,buonamici52,0.25,9.0,GeneralNote
+3,,<music21.note.Rest eighth>,note,buonamici53,0.5,9.0,GeneralNote
+3,,<music21.note.Note E>,note,buonamici54,0.25,9.25,GeneralNote
+3,3,<music21.spanner.Slur <music21.note.Note C><music21.note.Note F#>>,slur,buonamici1526,1.0,0.0,Slur
+3,3,<music21.spanner.Slur <music21.note.Note A><music21.note.Note E>>,slur,buonamici1527,0.75,0.0,Slur
+3,3,<music21.spanner.Slur <music21.chord.Chord C4 E4 A4><music21.chord.Chord A3 E4 F#4 C5>>,slur,buonamici1528,1.5,0.0,Slur
+4,,<music21.note.Rest dotted-half>,note,buonamici55,3.0,9.5,GeneralNote
+4,,<music21.note.Note E>,note,buonamici56,1.0,9.5,GeneralNote
+4,,<music21.note.Note B>,note,buonamici57,0.5,9.5,GeneralNote
+4,,<music21.articulations.Fingering 5>,fingering,buonamici58,0.0,0.0,Fingering
+4,,<music21.note.Note F#>,note,buonamici59,0.5,10.0,GeneralNote
+4,,<music21.articulations.Fingering 2>,fingering,buonamici60,0.0,0.0,Fingering
+4,,<music21.note.Note D#>,note,buonamici61,0.5,10.5,GeneralNote
+4,,<music21.note.Note B>,note,buonamici62,0.5,10.5,GeneralNote
+4,,<music21.articulations.Fingering 1>,fingering,buonamici63,0.0,0.0,Fingering
+4,,<music21.note.Rest 16th>,note,buonamici64,0.25,10.75,GeneralNote
+4,,<music21.note.Rest 16th>,note,buonamici65,0.25,10.75,GeneralNote
+4,,<music21.note.Note D#>,note,buonamici66,1.0,11.0,GeneralNote
+4,,<music21.note.Note B>,note,buonamici67,0.25,11.0,GeneralNote
+4,,<music21.articulations.Fingering 2>,fingering,buonamici68,0.0,0.0,Fingering
+4,,<music21.note.Note A>,note,buonamici69,0.25,11.25,GeneralNote
+4,,<music21.articulations.Fingering 1>,fingering,buonamici70,0.0,0.0,Fingering
+4,,<music21.note.Note G>,note,buonamici71,0.25,11.5,GeneralNote
+4,,<music21.articulations.Fingering 2>,fingering,buonamici72,0.0,0.0,Fingering
+4,,<music21.note.Note F#>,note,buonamici73,0.25,11.75,GeneralNote
+4,,<music21.articulations.Fingering 3>,fingering,buonamici74,0.0,0.0,Fingering
+4,,<music21.note.Note B>,note,buonamici75,0.5,12.0,GeneralNote
+4,,<music21.chord.Chord E4 G4>,note,buonamici76,0.5,12.0,GeneralNote
+4,,<music21.articulations.Fingering 4>,fingering,buonamici77,0.0,0.0,Fingering
+4,,<music21.articulations.Staccato>,staccato,buonamici78,0.0,0.0,Articulation
+4,,<music21.articulations.Fingering 2>,fingering,buonamici79,0.0,0.0,Fingering
+4,4,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,buonamici1529,2.5,0.0,Slur
+4,4,<music21.spanner.Slur <music21.note.Note B><music21.note.Note B>>,slur,buonamici1530,1.0,0.0,Slur
+4,4,<music21.spanner.Slur <music21.note.Note B><music21.chord.Chord E4 G4>>,slur,buonamici1531,1.0,0.0,Slur
+4,4,<music21.dynamics.Crescendo <music21.note.Note E><music21.note.Note D#>>,diminuendo,buonamici1634,,,DynamicRegion
+4,4,<music21.dynamics.Diminuendo <music21.note.Note D#><music21.note.Note B>>,diminuendo,buonamici1636,,,DynamicRegion
+5,,<music21.note.Rest dotted-half>,note,buonamici80,3.0,12.5,GeneralNote
+5,,<music21.note.Note D>,note,buonamici81,0.5,12.5,GeneralNote
+5,,<music21.articulations.Fingering 1>,fingering,buonamici82,0.0,0.0,Fingering
+5,,<music21.note.Note B>,note,buonamici83,0.5,12.5,GeneralNote
+5,,<music21.note.Note C>,note,buonamici84,0.5,13.0,GeneralNote
+5,,<music21.articulations.Fingering 2>,fingering,buonamici85,0.0,0.0,Fingering
+5,,<music21.note.Note A>,note,buonamici86,0.5,13.0,GeneralNote
+5,,<music21.note.Note A>,note,buonamici87,0.5,13.5,GeneralNote
+5,,<music21.note.Note D#>,note,buonamici88,0.5,13.5,GeneralNote
+5,,<music21.articulations.Fingering 5>,fingering,buonamici89,0.0,0.0,Fingering
+5,,<music21.note.Rest 16th>,note,buonamici90,0.25,13.75,GeneralNote
+5,,<music21.note.Rest 16th>,note,buonamici91,0.25,13.75,GeneralNote
+5,,<music21.note.Note C>,note,buonamici92,0.5,14.0,GeneralNote
+5,,<music21.articulations.Fingering 1>,fingering,buonamici93,0.0,0.0,Fingering
+5,,<music21.note.Note A>,note,buonamici94,0.5,14.0,GeneralNote
+5,,<music21.note.Note B>,note,buonamici95,0.5,14.5,GeneralNote
+5,,<music21.articulations.Fingering 2>,fingering,buonamici96,0.0,0.0,Fingering
+5,,<music21.note.Note G>,note,buonamici97,0.5,14.5,GeneralNote
+5,,<music21.note.Note G>,note,buonamici98,0.5,15.0,GeneralNote
+5,,<music21.note.Note E>,note,buonamici99,0.5,15.0,GeneralNote
+5,,<music21.articulations.Fingering 4>,fingering,buonamici100,0.0,0.0,Fingering
+5,7,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,buonamici1532,8.5,0.0,Slur
+5,7,<music21.spanner.Slur <music21.note.Note B><music21.note.Note A>>,slur,buonamici1533,8.5,0.0,Slur
+5,,<music21.dynamics.Dynamic p>,p,buonamici1623,,,DynamicPoint
+5,,<music21.expressions.TextExpression 'tranquillo'>,tranquillo,buonamici1690,0.0,12.5,TextExpression
+6,,<music21.note.Rest dotted-half>,note,buonamici101,3.0,15.5,GeneralNote
+6,,<music21.note.Note B>,note,buonamici102,0.5,15.5,GeneralNote
+6,,<music21.note.Note G>,note,buonamici103,0.5,15.5,GeneralNote
+6,,<music21.note.Note A>,note,buonamici104,0.5,16.0,GeneralNote
+6,,<music21.note.Note F#>,note,buonamici105,0.5,16.0,GeneralNote
+6,,<music21.note.Note F#>,note,buonamici106,0.5,16.5,GeneralNote
+6,,<music21.note.Note B>,note,buonamici107,0.5,16.5,GeneralNote
+6,,<music21.articulations.Fingering 5>,fingering,buonamici108,0.0,0.0,Fingering
+6,,<music21.note.Rest 16th>,note,buonamici109,0.25,16.75,GeneralNote
+6,,<music21.note.Rest 16th>,note,buonamici110,0.25,16.75,GeneralNote
+6,,<music21.note.Note A>,note,buonamici111,0.5,17.0,GeneralNote
+6,,<music21.note.Note F#>,note,buonamici112,0.5,17.0,GeneralNote
+6,,<music21.note.Note G>,note,buonamici113,0.5,17.5,GeneralNote
+6,,<music21.note.Note E>,note,buonamici114,0.5,17.5,GeneralNote
+6,,<music21.note.Note E>,note,buonamici115,0.5,18.0,GeneralNote
+6,,<music21.note.Note C>,note,buonamici116,0.5,18.0,GeneralNote
+6,,<music21.articulations.Fingering 4>,fingering,buonamici117,0.0,0.0,Fingering
+6,,<music21.note.Rest 16th>,note,buonamici118,0.25,18.25,GeneralNote
+6,,<music21.note.Rest 16th>,note,buonamici119,0.25,18.25,GeneralNote
+7,,<music21.note.Rest dotted-half>,note,buonamici120,3.0,18.5,GeneralNote
+7,,<music21.note.Note G>,note,buonamici121,0.5,18.5,GeneralNote
+7,,<music21.note.Note E>,note,buonamici122,0.5,18.5,GeneralNote
+7,,<music21.note.Note F#>,note,buonamici123,0.5,19.0,GeneralNote
+7,,<music21.note.Note D>,note,buonamici124,0.5,19.0,GeneralNote
+7,,<music21.note.Note D>,note,buonamici125,0.5,19.5,GeneralNote
+7,,<music21.note.Note G>,note,buonamici126,0.5,19.5,GeneralNote
+7,,<music21.articulations.Fingering 5>,fingering,buonamici127,0.0,0.0,Fingering
+7,,<music21.note.Rest 16th>,note,buonamici128,0.25,19.75,GeneralNote
+7,,<music21.note.Rest 16th>,note,buonamici129,0.25,19.75,GeneralNote
+7,,<music21.note.Note F#>,note,buonamici130,0.5,20.0,GeneralNote
+7,,<music21.note.Note D>,note,buonamici131,0.5,20.0,GeneralNote
+7,,<music21.note.Note E>,note,buonamici132,0.5,20.5,GeneralNote
+7,,<music21.note.Note C>,note,buonamici133,0.5,20.5,GeneralNote
+7,,<music21.note.Note C>,note,buonamici134,0.5,21.0,GeneralNote
+7,,<music21.note.Note A>,note,buonamici135,0.5,21.0,GeneralNote
+7,,<music21.articulations.Fingering 4>,fingering,buonamici136,0.0,0.0,Fingering
+7,,<music21.note.Rest 16th>,note,buonamici137,0.25,21.25,GeneralNote
+7,,<music21.note.Rest 16th>,note,buonamici138,0.25,21.25,GeneralNote
+7,7,<music21.spanner.Slur <music21.note.Note F#><music21.note.Note E>>,slur,buonamici1534,0.5,0.0,Slur
+8,,<music21.note.Rest dotted-half>,note,buonamici139,3.0,21.5,GeneralNote
+8,,<music21.note.Note D>,note,buonamici140,0.5,21.5,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,buonamici141,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,buonamici142,0.0,0.0,Articulation
+8,,<music21.note.Note B>,note,buonamici143,0.5,21.5,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,buonamici144,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,buonamici145,0.0,0.0,Articulation
+8,,<music21.note.Note E>,note,buonamici146,0.25,22.0,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,buonamici147,0.0,0.0,Fingering
+8,,<music21.note.Note C>,note,buonamici148,0.25,22.0,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,buonamici149,0.0,0.0,Fingering
+8,,<music21.note.Note F#>,note,buonamici150,0.25,22.25,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,buonamici151,0.0,0.0,Fingering
+8,,<music21.note.Note D>,note,buonamici152,0.25,22.25,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,buonamici153,0.0,0.0,Fingering
+8,,<music21.note.Note G>,note,buonamici154,0.25,22.5,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,buonamici155,0.0,0.0,Fingering
+8,,<music21.note.Note E>,note,buonamici156,0.25,22.5,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,buonamici157,0.0,0.0,Fingering
+8,,<music21.note.Note A>,note,buonamici158,0.25,22.75,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,buonamici159,0.0,0.0,Fingering
+8,,<music21.note.Note F#>,note,buonamici160,0.25,22.75,GeneralNote
+8,,<music21.note.Note B>,note,buonamici161,0.5,23.0,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,buonamici162,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,buonamici163,0.0,0.0,Articulation
+8,,<music21.note.Note G>,note,buonamici164,0.5,23.0,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,buonamici165,0.0,0.0,Articulation
+8,,<music21.note.Note A>,note,buonamici166,0.5,23.5,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,buonamici167,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,buonamici168,0.0,0.0,Articulation
+8,,<music21.note.Note F#>,note,buonamici169,0.5,23.5,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,buonamici170,0.0,0.0,Articulation
+8,,<music21.note.Note G>,note,buonamici171,0.5,24.0,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,buonamici172,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,buonamici173,0.0,0.0,Articulation
+8,,<music21.note.Note E>,note,buonamici174,0.5,24.0,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,buonamici175,0.0,0.0,Articulation
+8,8,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,buonamici1535,1.0,0.0,Slur
+8,8,<music21.spanner.Slur <music21.note.Note C><music21.note.Note G>>,slur,buonamici1536,1.0,0.0,Slur
+8,,<music21.expressions.TextExpression 'senza Ped.'>,senza Ped.,buonamici1691,0.0,21.5,TextExpression
+9,,<music21.note.Rest dotted-half>,note,buonamici176,3.0,24.5,GeneralNote
+9,,<music21.note.Note F#>,note,buonamici177,0.25,24.5,GeneralNote
+9,,<music21.articulations.Fingering 2>,fingering,buonamici178,0.0,0.0,Fingering
+9,,<music21.note.Note D>,note,buonamici179,0.25,24.5,GeneralNote
+9,,<music21.articulations.Fingering 4>,fingering,buonamici180,0.0,0.0,Fingering
+9,,<music21.note.Note G>,note,buonamici181,0.25,24.75,GeneralNote
+9,,<music21.articulations.Fingering 1>,fingering,buonamici182,0.0,0.0,Fingering
+9,,<music21.note.Note E>,note,buonamici183,0.25,24.75,GeneralNote
+9,,<music21.note.Note A>,note,buonamici184,0.25,25.0,GeneralNote
+9,,<music21.note.Note F#>,note,buonamici185,0.25,25.0,GeneralNote
+9,,<music21.note.Note B>,note,buonamici186,0.25,25.25,GeneralNote
+9,,<music21.articulations.Fingering 3>,fingering,buonamici187,0.0,0.0,Fingering
+9,,<music21.note.Note G>,note,buonamici188,0.25,25.25,GeneralNote
+9,,<music21.articulations.Fingering 1>,fingering,buonamici189,0.0,0.0,Fingering
+9,,<music21.note.Note C>,note,buonamici190,0.25,25.5,GeneralNote
+9,,<music21.articulations.Fingering 1>,fingering,buonamici191,0.0,0.0,Fingering
+9,,<music21.note.Note A>,note,buonamici192,0.25,25.5,GeneralNote
+9,,<music21.articulations.Fingering 3>,fingering,buonamici193,0.0,0.0,Fingering
+9,,<music21.note.Note D>,note,buonamici194,0.25,25.75,GeneralNote
+9,,<music21.note.Note B>,note,buonamici195,0.25,25.75,GeneralNote
+9,,<music21.note.Note E>,note,buonamici196,0.5,26.0,GeneralNote
+9,,<music21.articulations.Fingering 3>,fingering,buonamici197,0.0,0.0,Fingering
+9,,<music21.articulations.Staccato>,staccato,buonamici198,0.0,0.0,Articulation
+9,,<music21.note.Note C>,note,buonamici199,0.5,26.0,GeneralNote
+9,,<music21.articulations.Fingering 1>,fingering,buonamici200,0.0,0.0,Fingering
+9,,<music21.articulations.Staccato>,staccato,buonamici201,0.0,0.0,Articulation
+9,,<music21.note.Note D>,note,buonamici202,0.5,26.5,GeneralNote
+9,,<music21.articulations.Fingering 2>,fingering,buonamici203,0.0,0.0,Fingering
+9,,<music21.articulations.Staccato>,staccato,buonamici204,0.0,0.0,Articulation
+9,,<music21.note.Note B>,note,buonamici205,0.5,26.5,GeneralNote
+9,,<music21.articulations.Fingering 2>,fingering,buonamici206,0.0,0.0,Fingering
+9,,<music21.articulations.Staccato>,staccato,buonamici207,0.0,0.0,Articulation
+9,,<music21.note.Note C>,note,buonamici208,0.5,27.0,GeneralNote
+9,,<music21.articulations.Fingering 1>,fingering,buonamici209,0.0,0.0,Fingering
+9,,<music21.articulations.Staccato>,staccato,buonamici210,0.0,0.0,Articulation
+9,,<music21.note.Note A>,note,buonamici211,0.5,27.0,GeneralNote
+9,,<music21.articulations.Fingering 3>,fingering,buonamici212,0.0,0.0,Fingering
+9,,<music21.articulations.Staccato>,staccato,buonamici213,0.0,0.0,Articulation
+9,9,<music21.spanner.Slur <music21.note.Note F#><music21.note.Note E>>,slur,buonamici1537,1.5,0.0,Slur
+9,9,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,buonamici1538,1.5,0.0,Slur
+9,9,<music21.dynamics.Crescendo <music21.note.Note F#><music21.note.Note D>>,diminuendo,buonamici1638,,,DynamicRegion
+9,9,<music21.dynamics.Diminuendo <music21.note.Note E><music21.note.Note C>>,diminuendo,buonamici1640,,,DynamicRegion
+10,,<music21.note.Rest dotted-half>,note,buonamici214,3.0,27.5,GeneralNote
+10,,<music21.note.Note B>,note,buonamici215,0.5,27.5,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,buonamici216,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,buonamici217,0.0,0.0,Articulation
+10,,<music21.note.Note G>,note,buonamici218,0.5,27.5,GeneralNote
+10,,<music21.articulations.Fingering 3>,fingering,buonamici219,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,buonamici220,0.0,0.0,Articulation
+10,,<music21.note.Note C>,note,buonamici221,0.25,28.0,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,buonamici222,0.0,0.0,Fingering
+10,,<music21.note.Note A>,note,buonamici223,0.25,28.0,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,buonamici224,0.0,0.0,Fingering
+10,,<music21.note.Note D>,note,buonamici225,0.25,28.25,GeneralNote
+10,,<music21.articulations.Fingering 3>,fingering,buonamici226,0.0,0.0,Fingering
+10,,<music21.note.Note B>,note,buonamici227,0.25,28.25,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,buonamici228,0.0,0.0,Fingering
+10,,<music21.note.Note E>,note,buonamici229,0.25,28.5,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,buonamici230,0.0,0.0,Fingering
+10,,<music21.note.Note C>,note,buonamici231,0.25,28.5,GeneralNote
+10,,<music21.articulations.Fingering 3>,fingering,buonamici232,0.0,0.0,Fingering
+10,,<music21.note.Note F#>,note,buonamici233,0.25,28.75,GeneralNote
+10,,<music21.note.Note D>,note,buonamici234,0.25,28.75,GeneralNote
+10,,<music21.note.Note G>,note,buonamici235,0.5,29.0,GeneralNote
+10,,<music21.articulations.Fingering 3>,fingering,buonamici236,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,buonamici237,0.0,0.0,Articulation
+10,,<music21.note.Note E>,note,buonamici238,0.5,29.0,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,buonamici239,0.0,0.0,Articulation
+10,,<music21.note.Note F#>,note,buonamici240,0.5,29.5,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,buonamici241,0.0,0.0,Articulation
+10,,<music21.note.Note D>,note,buonamici242,0.5,29.5,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,buonamici243,0.0,0.0,Articulation
+10,,<music21.note.Note E>,note,buonamici244,0.5,30.0,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,buonamici245,0.0,0.0,Articulation
+10,,<music21.note.Note C>,note,buonamici246,0.5,30.0,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,buonamici247,0.0,0.0,Articulation
+10,10,<music21.spanner.Slur <music21.note.Note C><music21.note.Note G>>,slur,buonamici1539,1.0,0.0,Slur
+10,10,<music21.spanner.Slur <music21.note.Note A><music21.note.Note E>>,slur,buonamici1540,1.0,0.0,Slur
+11,,<music21.note.Rest dotted-half>,note,buonamici248,3.0,30.5,GeneralNote
+11,,<music21.note.Note D>,note,buonamici249,0.25,30.5,GeneralNote
+11,,<music21.articulations.Fingering 1>,fingering,buonamici250,0.0,0.0,Fingering
+11,,<music21.note.Note B>,note,buonamici251,0.25,30.5,GeneralNote
+11,,<music21.articulations.Fingering 4>,fingering,buonamici252,0.0,0.0,Fingering
+11,,<music21.note.Note E>,note,buonamici253,0.25,30.75,GeneralNote
+11,,<music21.note.Note C>,note,buonamici254,0.25,30.75,GeneralNote
+11,,<music21.note.Note F#>,note,buonamici255,0.25,31.0,GeneralNote
+11,,<music21.note.Note D>,note,buonamici256,0.25,31.0,GeneralNote
+11,,<music21.note.Note G>,note,buonamici257,0.25,31.25,GeneralNote
+11,,<music21.articulations.Fingering 1>,fingering,buonamici258,0.0,0.0,Fingering
+11,,<music21.note.Note E>,note,buonamici259,0.25,31.25,GeneralNote
+11,,<music21.note.Note A>,note,buonamici260,0.25,31.5,GeneralNote
+11,,<music21.note.Note F#>,note,buonamici261,0.25,31.5,GeneralNote
+11,,<music21.articulations.Fingering 4>,fingering,buonamici262,0.0,0.0,Fingering
+11,,<music21.note.Note B>,note,buonamici263,0.125,31.75,GeneralNote
+11,,<music21.note.Note G>,note,buonamici264,0.125,31.75,GeneralNote
+11,,<music21.note.Note C>,note,buonamici265,0.125,31.875,GeneralNote
+11,,<music21.note.Note A>,note,buonamici266,0.125,31.875,GeneralNote
+11,,<music21.note.Note D>,note,buonamici267,0.5,32.0,GeneralNote
+11,,<music21.articulations.Fingering 5>,fingering,buonamici268,0.0,0.0,Fingering
+11,,<music21.articulations.Staccato>,staccato,buonamici269,0.0,0.0,Articulation
+11,,<music21.note.Note B>,note,buonamici270,0.5,32.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,buonamici271,0.0,0.0,Articulation
+11,,<music21.note.Note C>,note,buonamici272,0.5,32.5,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,buonamici273,0.0,0.0,Articulation
+11,,<music21.note.Note A>,note,buonamici274,0.5,32.5,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,buonamici275,0.0,0.0,Articulation
+11,,<music21.note.Note B>,note,buonamici276,0.5,33.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,buonamici277,0.0,0.0,Articulation
+11,,<music21.note.Note G>,note,buonamici278,0.5,33.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,buonamici279,0.0,0.0,Articulation
+11,,<music21.note.Rest 16th>,note,buonamici280,0.25,33.25,GeneralNote
+11,,<music21.note.Rest 16th>,note,buonamici281,0.25,33.25,GeneralNote
+11,11,<music21.spanner.Slur <music21.note.Note D><music21.note.Note D>>,slur,buonamici1541,1.5,0.0,Slur
+11,11,<music21.spanner.Slur <music21.note.Note B><music21.note.Note B>>,slur,buonamici1542,1.5,0.0,Slur
+11,11,<music21.dynamics.Crescendo <music21.note.Note D><music21.note.Note C>>,diminuendo,buonamici1642,,,DynamicRegion
+11,11,<music21.dynamics.Diminuendo <music21.note.Note D><music21.note.Note B>>,diminuendo,buonamici1644,,,DynamicRegion
+12,,<music21.note.Note A>,note,buonamici282,1/3,33.5,GeneralNote
+12,,<music21.note.Note A>,note,buonamici283,1.5,33.5,GeneralNote
+12,,<music21.chord.Chord A4 F#5>,note,buonamici284,1.5,33.5,GeneralNote
+12,,<music21.note.Note D>,note,buonamici285,3.0,33.5,GeneralNote
+12,,<music21.note.Note B>,note,buonamici286,1/6,203/6,GeneralNote
+12,,<music21.note.Note A>,note,buonamici287,1/6,34.0,GeneralNote
+12,,<music21.note.Note B>,note,buonamici288,1/6,205/6,GeneralNote
+12,,<music21.note.Note A>,note,buonamici289,1/6,103/3,GeneralNote
+12,,<music21.note.Note B>,note,buonamici290,1/6,34.5,GeneralNote
+12,,<music21.note.Note A>,note,buonamici291,1/6,104/3,GeneralNote
+12,,<music21.note.Note B>,note,buonamici292,1/6,209/6,GeneralNote
+12,,<music21.note.Note A>,note,buonamici293,0.5,35.0,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,buonamici294,0.0,0.0,Articulation
+12,,<music21.note.Note A>,note,buonamici295,0.5,35.0,GeneralNote
+12,,<music21.articulations.Fingering 1>,fingering,buonamici296,0.0,0.0,Fingering
+12,,<music21.articulations.Staccato>,staccato,buonamici297,0.0,0.0,Articulation
+12,,<music21.chord.Chord F#4 A4 D5>,note,buonamici298,1.5,35.0,GeneralNote
+12,,<music21.note.Rest 1.25ql>,note,buonamici299,1.25,35.25,GeneralNote
+12,,<music21.note.Rest 1.25ql>,note,buonamici300,1.25,35.25,GeneralNote
+12,,<music21.note.Note D>,note,buonamici301,0.5,35.5,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,buonamici302,0.0,0.0,Articulation
+12,,<music21.note.Note D>,note,buonamici303,0.5,35.5,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,buonamici304,0.0,0.0,Articulation
+12,,<music21.note.Note D>,note,buonamici305,0.5,36.0,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,buonamici306,0.0,0.0,Articulation
+12,,<music21.note.Note D>,note,buonamici307,0.5,36.0,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,buonamici308,0.0,0.0,Articulation
+12,12,<music21.spanner.Slur <music21.note.Note A><music21.note.Note B>>,slur,buonamici1520,1.3333333333333357,0.0,Slur
+12,12,<music21.spanner.Slur <music21.chord.Chord A4 F#5><music21.chord.Chord F#4 A4 D5>>,slur,buonamici1543,1.5,0.0,Slur
+13,,<music21.note.Note E>,note,buonamici309,1/6,36.5,GeneralNote
+13,,<music21.note.Note E>,note,buonamici310,1.0,36.5,GeneralNote
+13,,<music21.chord.Chord G4 B4>,note,buonamici311,1.5,36.5,GeneralNote
+13,,<music21.note.Note D>,note,buonamici312,3.0,36.5,GeneralNote
+13,,<music21.note.Note F#>,note,buonamici313,1/6,110/3,GeneralNote
+13,,<music21.note.Note E>,note,buonamici314,1/6,221/6,GeneralNote
+13,,<music21.note.Note F#>,note,buonamici315,0.125,37.0,GeneralNote
+13,,<music21.note.Note E>,note,buonamici316,0.125,37.125,GeneralNote
+13,,<music21.note.Note F#>,note,buonamici317,0.125,37.25,GeneralNote
+13,,<music21.note.Note E>,note,buonamici318,0.125,37.375,GeneralNote
+13,,<music21.note.Note D>,note,buonamici319,0.5,37.5,GeneralNote
+13,,<music21.note.Note D>,note,buonamici320,0.5,37.5,GeneralNote
+13,,<music21.articulations.Fingering 1>,fingering,buonamici321,0.0,0.0,Fingering
+13,,<music21.note.Rest quarter>,note,buonamici322,1.0,38.0,GeneralNote
+13,,<music21.note.Note D>,note,buonamici323,0.5,38.0,GeneralNote
+13,,<music21.articulations.Fingering 2>,fingering,buonamici324,0.0,0.0,Fingering
+13,,<music21.articulations.Staccato>,staccato,buonamici325,0.0,0.0,Articulation
+13,,<music21.chord.Chord F#4 A4>,note,buonamici326,1.5,38.0,GeneralNote
+13,,<music21.note.Rest 1.25ql>,note,buonamici327,1.25,38.25,GeneralNote
+13,,<music21.note.Rest 1.25ql>,note,buonamici328,1.25,38.25,GeneralNote
+13,,<music21.note.Note D>,note,buonamici329,0.5,38.5,GeneralNote
+13,,<music21.articulations.Staccato>,staccato,buonamici330,0.0,0.0,Articulation
+13,,<music21.note.Rest eighth>,note,buonamici331,0.5,39.0,GeneralNote
+13,,<music21.note.Note D>,note,buonamici332,0.5,39.0,GeneralNote
+13,,<music21.articulations.Fingering 1>,fingering,buonamici333,0.0,0.0,Fingering
+13,,<music21.articulations.Staccato>,staccato,buonamici334,0.0,0.0,Articulation
+13,13,<music21.spanner.Slur <music21.note.Note E><music21.note.Note E>>,slur,buonamici1521,0.875,0.0,Slur
+13,13,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D>>,slur,buonamici1544,1.0,0.0,Slur
+13,13,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.chord.Chord F#4 A4>>,slur,buonamici1545,1.5,0.0,Slur
+14,,<music21.note.Rest dotted-half>,note,buonamici335,3.0,39.5,GeneralNote
+14,,<music21.note.Note E>,note,buonamici336,1.0,39.5,GeneralNote
+14,,<music21.chord.Chord G4 B4>,note,buonamici337,1.5,39.5,GeneralNote
+14,,<music21.note.Note D>,note,buonamici338,3.0,39.5,GeneralNote
+14,,<music21.note.Note D>,note,buonamici339,0.5,40.5,GeneralNote
+14,,<music21.note.Note D>,note,buonamici340,0.5,41.0,GeneralNote
+14,,<music21.articulations.Fingering 1>,fingering,buonamici341,0.0,0.0,Fingering
+14,,<music21.articulations.Staccato>,staccato,buonamici342,0.0,0.0,Articulation
+14,,<music21.chord.Chord F#4 A4>,note,buonamici343,0.5,41.0,GeneralNote
+14,,<music21.note.Rest 16th>,note,buonamici344,0.25,41.25,GeneralNote
+14,,<music21.note.Rest 16th>,note,buonamici345,0.25,41.25,GeneralNote
+14,,<music21.note.Note D>,note,buonamici346,0.5,41.5,GeneralNote
+14,,<music21.note.Note E>,note,buonamici347,0.5,41.5,GeneralNote
+14,,<music21.note.Note C>,note,buonamici348,0.5,42.0,GeneralNote
+14,,<music21.note.Note F#>,note,buonamici349,0.5,42.0,GeneralNote
+14,14,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D>>,slur,buonamici1546,1.0,0.0,Slur
+14,15,<music21.spanner.Slur <music21.note.Note D><music21.note.Note G>>,slur,buonamici1547,2.5,0.0,Slur
+14,15,<music21.dynamics.Crescendo <music21.note.Note D><music21.note.Note B>>,diminuendo,buonamici1646,,,DynamicRegion
+15,,<music21.note.Note B>,note,buonamici350,0.0,42.5,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,buonamici351,0.0,0.0,Fingering
+15,,<music21.note.Note C>,note,buonamici352,0.0,42.5,GeneralNote
+15,,<music21.articulations.Fingering 4>,fingering,buonamici353,0.0,0.0,Fingering
+15,,<music21.note.Rest dotted-half>,note,buonamici354,3.0,42.5,GeneralNote
+15,,<music21.note.Note B>,note,buonamici355,0.5,42.5,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,buonamici356,0.0,0.0,Fingering
+15,,<music21.note.Note B>,note,buonamici357,1.5,42.5,GeneralNote
+15,,<music21.note.Note G>,note,buonamici358,1.0,42.5,GeneralNote
+15,,<music21.note.Rest 16th>,note,buonamici359,0.25,42.75,GeneralNote
+15,,<music21.note.Rest 16th>,note,buonamici360,0.25,42.75,GeneralNote
+15,,<music21.note.Note A>,note,buonamici361,0.5,43.0,GeneralNote
+15,,<music21.note.Note G>,note,buonamici362,0.5,43.5,GeneralNote
+15,,<music21.note.Note C>,note,buonamici363,0.5,43.5,GeneralNote
+15,,<music21.chord.Chord B4 G5>,note,buonamici364,0.5,44.0,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,buonamici365,0.0,0.0,Fingering
+15,,<music21.articulations.Fingering 4>,fingering,buonamici366,0.0,0.0,Fingering
+15,,<music21.note.Note D>,note,buonamici367,1.5,44.0,GeneralNote
+15,,<music21.note.Note D>,note,buonamici368,1.5,44.0,GeneralNote
+15,,<music21.chord.Chord C5 A5>,note,buonamici369,0.5,44.5,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,buonamici370,0.0,0.0,Fingering
+15,,<music21.articulations.Fingering 5>,fingering,buonamici371,0.0,0.0,Fingering
+15,,<music21.chord.Chord A4 F#5>,note,buonamici372,0.5,45.0,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,buonamici373,0.0,0.0,Fingering
+15,,<music21.articulations.Fingering 4>,fingering,buonamici374,0.0,0.0,Fingering
+15,,<music21.note.Rest 16th>,note,buonamici375,0.25,45.25,GeneralNote
+15,,<music21.note.Rest 16th>,note,buonamici376,0.25,45.25,GeneralNote
+15,15,<music21.spanner.Slur <music21.note.Note B><music21.note.Note B>>,slur,buonamici1548,0.0,0.0,Slur
+15,15,<music21.spanner.Slur <music21.chord.Chord B4 G5><music21.chord.Chord A4 F#5>>,slur,buonamici1549,1.0,0.0,Slur
+15,15,<music21.spanner.Slur <music21.note.Note G><music21.note.Note D>>,slur,buonamici1550,1.5,0.0,Slur
+15,15,<music21.dynamics.Diminuendo <music21.note.Note A><music21.chord.Chord A4 F#5>>,diminuendo,buonamici1648,,,DynamicRegion
+16,,<music21.note.Rest dotted-half>,note,buonamici377,3.0,45.5,GeneralNote
+16,,<music21.chord.Chord B4 G5>,note,buonamici378,0.25,45.5,GeneralNote
+16,,<music21.chord.Chord D4 G4>,note,buonamici379,0.5,45.5,GeneralNote
+16,,<music21.articulations.Fingering 3>,fingering,buonamici380,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,buonamici381,0.0,0.0,Articulation
+16,,<music21.articulations.Fingering 1>,fingering,buonamici382,0.0,0.0,Fingering
+16,,<music21.chord.Chord D5 A5>,note,buonamici383,0.25,45.75,GeneralNote
+16,,<music21.chord.Chord B4 G5>,note,buonamici384,0.25,46.0,GeneralNote
+16,,<music21.chord.Chord G3 D4>,note,buonamici385,0.5,46.0,GeneralNote
+16,,<music21.articulations.Fingering 5>,fingering,buonamici386,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,buonamici387,0.0,0.0,Articulation
+16,,<music21.articulations.Fingering 2>,fingering,buonamici388,0.0,0.0,Fingering
+16,,<music21.chord.Chord D5 A5>,note,buonamici389,0.25,46.25,GeneralNote
+16,,<music21.chord.Chord B4 G5>,note,buonamici390,0.25,46.5,GeneralNote
+16,,<music21.chord.Chord D3 G3>,note,buonamici391,0.5,46.5,GeneralNote
+16,,<music21.articulations.Fingering 3>,fingering,buonamici392,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,buonamici393,0.0,0.0,Articulation
+16,,<music21.articulations.Fingering 1>,fingering,buonamici394,0.0,0.0,Fingering
+16,,<music21.chord.Chord D5 A5>,note,buonamici395,0.25,46.75,GeneralNote
+16,,<music21.chord.Chord B4 G5>,note,buonamici396,0.5,47.0,GeneralNote
+16,,<music21.articulations.Staccato>,staccato,buonamici397,0.0,0.0,Articulation
+16,,<music21.chord.Chord G2 D3>,note,buonamici398,1.5,47.0,GeneralNote
+16,,<music21.articulations.Fingering 5>,fingering,buonamici399,0.0,0.0,Fingering
+16,,<music21.articulations.Tenuto>,tenuto,buonamici400,0.0,0.0,Articulation
+16,,<music21.articulations.Fingering 2>,fingering,buonamici401,0.0,0.0,Fingering
+16,,<music21.chord.Chord C5 A5>,note,buonamici402,0.5,47.5,GeneralNote
+16,,<music21.articulations.Fingering 2>,fingering,buonamici403,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,buonamici404,0.0,0.0,Articulation
+16,,<music21.articulations.Fingering 5>,fingering,buonamici405,0.0,0.0,Fingering
+16,,<music21.chord.Chord G4 D5>,note,buonamici406,0.5,48.0,GeneralNote
+16,,<music21.articulations.Fingering 1>,fingering,buonamici407,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,buonamici408,0.0,0.0,Articulation
+16,,<music21.articulations.Fingering 3>,fingering,buonamici409,0.0,0.0,Fingering
+16,16,<music21.spanner.Slur <music21.chord.Chord B4 G5><music21.chord.Chord B4 G5>>,slur,buonamici1551,1.5,0.0,Slur
+16,,<music21.dynamics.Dynamic p>,p,buonamici1624,,,DynamicPoint
+17,,<music21.note.Rest dotted-half>,note,buonamici410,3.0,48.5,GeneralNote
+17,,<music21.chord.Chord G5 B5>,note,buonamici411,0.25,48.5,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,buonamici412,0.0,0.0,Fingering
+17,,<music21.articulations.Fingering 4>,fingering,buonamici413,0.0,0.0,Fingering
+17,,<music21.chord.Chord D4 G4>,note,buonamici414,0.5,48.5,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,buonamici415,0.0,0.0,Articulation
+17,,<music21.chord.Chord D5 A5>,note,buonamici416,0.25,48.75,GeneralNote
+17,,<music21.articulations.Fingering 1>,fingering,buonamici417,0.0,0.0,Fingering
+17,,<music21.articulations.Fingering 3>,fingering,buonamici418,0.0,0.0,Fingering
+17,,<music21.chord.Chord G5 B5>,note,buonamici419,0.25,49.0,GeneralNote
+17,,<music21.chord.Chord G3 D4>,note,buonamici420,0.5,49.0,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,buonamici421,0.0,0.0,Articulation
+17,,<music21.chord.Chord D5 A5>,note,buonamici422,0.25,49.25,GeneralNote
+17,,<music21.chord.Chord G5 B5>,note,buonamici423,0.25,49.5,GeneralNote
+17,,<music21.chord.Chord D3 G3>,note,buonamici424,0.5,49.5,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,buonamici425,0.0,0.0,Articulation
+17,,<music21.chord.Chord D5 A5>,note,buonamici426,0.25,49.75,GeneralNote
+17,,<music21.note.Note G>,note,buonamici427,0.5,50.0,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,buonamici428,0.0,0.0,Articulation
+17,,<music21.chord.Chord G2 D3>,note,buonamici429,1.5,50.0,GeneralNote
+17,,<music21.articulations.Tenuto>,tenuto,buonamici430,0.0,0.0,Articulation
+17,,<music21.chord.Chord D5 A5>,note,buonamici431,0.5,50.5,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,buonamici432,0.0,0.0,Fingering
+17,,<music21.articulations.Staccato>,staccato,buonamici433,0.0,0.0,Articulation
+17,,<music21.articulations.Fingering 5>,fingering,buonamici434,0.0,0.0,Fingering
+17,,<music21.chord.Chord G4 D5>,note,buonamici435,0.5,51.0,GeneralNote
+17,,<music21.articulations.Fingering 1>,fingering,buonamici436,0.0,0.0,Fingering
+17,,<music21.articulations.Staccato>,staccato,buonamici437,0.0,0.0,Articulation
+17,,<music21.articulations.Fingering 3>,fingering,buonamici438,0.0,0.0,Fingering
+17,17,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.note.Note G>>,slur,buonamici1552,1.5,0.0,Slur
+18,,<music21.note.Rest dotted-half>,note,buonamici439,3.0,51.5,GeneralNote
+18,,<music21.chord.Chord G5 B5>,note,buonamici440,0.25,51.5,GeneralNote
+18,,<music21.chord.Chord D4 G4>,note,buonamici441,0.5,51.5,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,buonamici442,0.0,0.0,Articulation
+18,,<music21.chord.Chord D5 A5>,note,buonamici443,0.25,51.75,GeneralNote
+18,,<music21.chord.Chord G5 B5>,note,buonamici444,0.25,52.0,GeneralNote
+18,,<music21.chord.Chord G3 D4>,note,buonamici445,0.5,52.0,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,buonamici446,0.0,0.0,Articulation
+18,,<music21.chord.Chord D5 A5>,note,buonamici447,0.25,52.25,GeneralNote
+18,,<music21.chord.Chord G5 B5>,note,buonamici448,0.25,52.5,GeneralNote
+18,,<music21.chord.Chord D3 G3>,note,buonamici449,0.5,52.5,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,buonamici450,0.0,0.0,Articulation
+18,,<music21.chord.Chord D5 A5>,note,buonamici451,0.25,52.75,GeneralNote
+18,,<music21.note.Note G>,note,buonamici452,0.5,53.0,GeneralNote
+18,,<music21.articulations.Fingering 2>,fingering,buonamici453,0.0,0.0,Fingering
+18,,<music21.articulations.Staccato>,staccato,buonamici454,0.0,0.0,Articulation
+18,,<music21.chord.Chord G2 D3>,note,buonamici455,1.0,53.0,GeneralNote
+18,,<music21.articulations.Tenuto>,tenuto,buonamici456,0.0,0.0,Articulation
+18,,<music21.chord.Chord D5 A5>,note,buonamici457,0.5,53.5,GeneralNote
+18,,<music21.articulations.Fingering 1>,fingering,buonamici458,0.0,0.0,Fingering
+18,,<music21.articulations.Staccato>,staccato,buonamici459,0.0,0.0,Articulation
+18,,<music21.articulations.Fingering 3>,fingering,buonamici460,0.0,0.0,Fingering
+18,,<music21.note.Note D>,note,buonamici461,0.5,54.0,GeneralNote
+18,,<music21.articulations.Fingering 2>,fingering,buonamici462,0.0,0.0,Fingering
+18,,<music21.articulations.Staccato>,staccato,buonamici463,0.0,0.0,Articulation
+18,,<music21.chord.Chord F#4 A4 C5>,note,buonamici464,0.5,54.0,GeneralNote
+18,18,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.note.Note G>>,slur,buonamici1553,1.5,0.0,Slur
+19,,<music21.note.Rest dotted-half>,note,buonamici465,3.0,54.5,GeneralNote
+19,,<music21.chord.Chord G5 B5>,note,buonamici466,0.5,54.5,GeneralNote
+19,,<music21.articulations.Fingering 1>,fingering,buonamici467,0.0,0.0,Fingering
+19,,<music21.articulations.Fingering 3>,fingering,buonamici468,0.0,0.0,Fingering
+19,,<music21.chord.Chord B4 D5>,note,buonamici469,1.5,54.5,GeneralNote
+19,,<music21.chord.Chord A5 C6>,note,buonamici470,0.5,55.0,GeneralNote
+19,,<music21.articulations.Fingering 2>,fingering,buonamici471,0.0,0.0,Fingering
+19,,<music21.articulations.Fingering 4>,fingering,buonamici472,0.0,0.0,Fingering
+19,,<music21.chord.Chord B5 D6>,note,buonamici473,0.5,55.5,GeneralNote
+19,,<music21.articulations.Fingering 3>,fingering,buonamici474,0.0,0.0,Fingering
+19,,<music21.articulations.Fingering 5>,fingering,buonamici475,0.0,0.0,Fingering
+19,,<music21.note.Rest 16th>,note,buonamici476,0.25,55.75,GeneralNote
+19,,<music21.note.Rest 16th>,note,buonamici477,0.25,55.75,GeneralNote
+19,,<music21.chord.Chord B5 D6>,note,buonamici478,0.5,56.0,GeneralNote
+19,,<music21.chord.Chord E4 G4 B4 D5>,note,buonamici479,1.5,56.0,GeneralNote
+19,,<music21.chord.Chord A5 C6>,note,buonamici480,0.5,56.5,GeneralNote
+19,,<music21.chord.Chord G5 B5>,note,buonamici481,0.5,57.0,GeneralNote
+19,,<music21.note.Rest 16th>,note,buonamici482,0.25,57.25,GeneralNote
+19,,<music21.note.Rest 16th>,note,buonamici483,0.25,57.25,GeneralNote
+19,19,<music21.spanner.Slur <music21.chord.Chord B4 D5><music21.chord.Chord E4 G4 B4 D5>>,slur,buonamici1554,1.5,0.0,Slur
+19,19,<music21.spanner.Slur <music21.chord.Chord B4 D5><music21.chord.Chord E4 G4 B4 D5>>,slur,buonamici1555,1.5,0.0,Slur
+19,20,<music21.spanner.Slur <music21.chord.Chord B4 D5><music21.note.Note D>>,slur,buonamici1556,4.5,0.0,Slur
+19,19,<music21.dynamics.Crescendo <music21.chord.Chord G5 B5><music21.chord.Chord B5 D6>>,diminuendo,buonamici1650,,,DynamicRegion
+19,19,<music21.dynamics.Diminuendo <music21.chord.Chord B5 D6><music21.chord.Chord G5 B5>>,diminuendo,buonamici1652,,,DynamicRegion
+20,,<music21.note.Rest dotted-half>,note,buonamici484,3.0,57.5,GeneralNote
+20,,<music21.note.Note A>,note,buonamici485,0.25,57.5,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,buonamici486,0.0,0.0,Fingering
+20,,<music21.chord.Chord F#4 A4 C5>,note,buonamici487,1.5,57.5,GeneralNote
+20,,<music21.note.Note G>,note,buonamici488,0.25,57.75,GeneralNote
+20,,<music21.articulations.Fingering 1>,fingering,buonamici489,0.0,0.0,Fingering
+20,,<music21.chord.Chord F#5 A5>,note,buonamici490,0.25,58.0,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,buonamici491,0.0,0.0,Fingering
+20,,<music21.articulations.Fingering 4>,fingering,buonamici492,0.0,0.0,Fingering
+20,,<music21.note.Note E>,note,buonamici493,0.25,58.25,GeneralNote
+20,,<music21.articulations.Fingering 1>,fingering,buonamici494,0.0,0.0,Fingering
+20,,<music21.chord.Chord D5 F#5>,note,buonamici495,0.25,58.5,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,buonamici496,0.0,0.0,Fingering
+20,,<music21.articulations.Fingering 4>,fingering,buonamici497,0.0,0.0,Fingering
+20,,<music21.note.Note C>,note,buonamici498,0.25,58.75,GeneralNote
+20,,<music21.articulations.Fingering 1>,fingering,buonamici499,0.0,0.0,Fingering
+20,,<music21.chord.Chord B4 D5>,note,buonamici500,0.25,59.0,GeneralNote
+20,,<music21.articulations.Fingering 3>,fingering,buonamici501,0.0,0.0,Fingering
+20,,<music21.articulations.Fingering 5>,fingering,buonamici502,0.0,0.0,Fingering
+20,,<music21.note.Note D>,note,buonamici503,0.5,59.0,GeneralNote
+20,,<music21.note.Note A>,note,buonamici504,0.25,59.25,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,buonamici505,0.0,0.0,Fingering
+20,,<music21.note.Note G>,note,buonamici506,0.25,59.5,GeneralNote
+20,,<music21.articulations.Fingering 1>,fingering,buonamici507,0.0,0.0,Fingering
+20,,<music21.note.Rest eighth>,note,buonamici508,0.5,59.5,GeneralNote
+20,,<music21.note.Note F#>,note,buonamici509,0.25,59.75,GeneralNote
+20,,<music21.articulations.Fingering 3>,fingering,buonamici510,0.0,0.0,Fingering
+20,,<music21.note.Note E>,note,buonamici511,0.25,60.0,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,buonamici512,0.0,0.0,Fingering
+20,,<music21.note.Rest eighth>,note,buonamici513,0.5,60.0,GeneralNote
+20,,<music21.note.Note D>,note,buonamici514,0.25,60.25,GeneralNote
+20,,<music21.articulations.Fingering 1>,fingering,buonamici515,0.0,0.0,Fingering
+20,20,<music21.spanner.Slur <music21.note.Note A><music21.note.Note D>>,slur,buonamici1557,2.75,0.0,Slur
+20,20,<music21.dynamics.Diminuendo <music21.note.Note G><music21.note.Note D>>,diminuendo,buonamici1654,,,DynamicRegion
+21,,<music21.note.Rest dotted-half>,note,buonamici516,3.0,60.5,GeneralNote
+21,,<music21.chord.Chord G4 B4>,note,buonamici517,0.25,60.5,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,buonamici518,0.0,0.0,Fingering
+21,,<music21.articulations.Fingering 4>,fingering,buonamici519,0.0,0.0,Fingering
+21,,<music21.note.Note G>,note,buonamici520,0.5,60.5,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,buonamici521,0.0,0.0,Fingering
+21,,<music21.articulations.Staccato>,staccato,buonamici522,0.0,0.0,Articulation
+21,,<music21.chord.Chord D4 A4>,note,buonamici523,0.25,60.75,GeneralNote
+21,,<music21.articulations.Fingering 1>,fingering,buonamici524,0.0,0.0,Fingering
+21,,<music21.articulations.Fingering 3>,fingering,buonamici525,0.0,0.0,Fingering
+21,,<music21.chord.Chord G4 B4>,note,buonamici526,0.25,61.0,GeneralNote
+21,,<music21.note.Note D>,note,buonamici527,0.5,61.0,GeneralNote
+21,,<music21.articulations.Fingering 1>,fingering,buonamici528,0.0,0.0,Fingering
+21,,<music21.articulations.Staccato>,staccato,buonamici529,0.0,0.0,Articulation
+21,,<music21.chord.Chord D4 A4>,note,buonamici530,0.25,61.25,GeneralNote
+21,,<music21.chord.Chord G4 B4>,note,buonamici531,0.25,61.5,GeneralNote
+21,,<music21.note.Note G>,note,buonamici532,0.5,61.5,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,buonamici533,0.0,0.0,Fingering
+21,,<music21.articulations.Staccato>,staccato,buonamici534,0.0,0.0,Articulation
+21,,<music21.chord.Chord D4 A4>,note,buonamici535,0.25,61.75,GeneralNote
+21,,<music21.note.Note G>,note,buonamici536,0.5,62.0,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,buonamici537,0.0,0.0,Articulation
+21,,<music21.note.Note D>,note,buonamici538,1.5,62.0,GeneralNote
+21,,<music21.articulations.Fingering 5>,fingering,buonamici539,0.0,0.0,Fingering
+21,,<music21.articulations.Tenuto>,tenuto,buonamici540,0.0,0.0,Articulation
+21,,<music21.note.Note A>,note,buonamici541,0.5,62.5,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,buonamici542,0.0,0.0,Articulation
+21,,<music21.note.Note D>,note,buonamici543,0.5,63.0,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,buonamici544,0.0,0.0,Articulation
+21,21,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.note.Note G>>,slur,buonamici1558,1.5,0.0,Slur
+21,,<music21.dynamics.Dynamic pp>,pp,buonamici1625,,,DynamicPoint
+22,,<music21.note.Rest dotted-half>,note,buonamici545,3.0,63.5,GeneralNote
+22,,<music21.chord.Chord G4 B4>,note,buonamici546,0.25,63.5,GeneralNote
+22,,<music21.note.Note G>,note,buonamici547,0.5,63.5,GeneralNote
+22,,<music21.articulations.Fingering 2>,fingering,buonamici548,0.0,0.0,Fingering
+22,,<music21.articulations.Staccato>,staccato,buonamici549,0.0,0.0,Articulation
+22,,<music21.chord.Chord D4 A4>,note,buonamici550,0.25,63.75,GeneralNote
+22,,<music21.chord.Chord G4 B4>,note,buonamici551,0.25,64.0,GeneralNote
+22,,<music21.note.Note D>,note,buonamici552,0.5,64.0,GeneralNote
+22,,<music21.articulations.Fingering 1>,fingering,buonamici553,0.0,0.0,Fingering
+22,,<music21.articulations.Staccato>,staccato,buonamici554,0.0,0.0,Articulation
+22,,<music21.chord.Chord D4 A4>,note,buonamici555,0.25,64.25,GeneralNote
+22,,<music21.chord.Chord G4 B4>,note,buonamici556,0.25,64.5,GeneralNote
+22,,<music21.note.Note G>,note,buonamici557,0.5,64.5,GeneralNote
+22,,<music21.articulations.Fingering 2>,fingering,buonamici558,0.0,0.0,Fingering
+22,,<music21.articulations.Staccato>,staccato,buonamici559,0.0,0.0,Articulation
+22,,<music21.chord.Chord D4 A4>,note,buonamici560,0.25,64.75,GeneralNote
+22,,<music21.note.Note G>,note,buonamici561,0.5,65.0,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,buonamici562,0.0,0.0,Articulation
+22,,<music21.note.Note D>,note,buonamici563,1.5,65.0,GeneralNote
+22,,<music21.articulations.Tenuto>,tenuto,buonamici564,0.0,0.0,Articulation
+22,,<music21.note.Note A>,note,buonamici565,0.5,65.5,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,buonamici566,0.0,0.0,Articulation
+22,,<music21.note.Note D>,note,buonamici567,0.5,66.0,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,buonamici568,0.0,0.0,Articulation
+22,22,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.note.Note G>>,slur,buonamici1559,1.5,0.0,Slur
+23,,<music21.note.Rest dotted-half>,note,buonamici569,3.0,66.5,GeneralNote
+23,,<music21.chord.Chord G4 B4>,note,buonamici570,0.25,66.5,GeneralNote
+23,,<music21.note.Note G>,note,buonamici571,0.5,66.5,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,buonamici572,0.0,0.0,Articulation
+23,,<music21.chord.Chord D4 A4>,note,buonamici573,0.25,66.75,GeneralNote
+23,,<music21.chord.Chord G4 B4>,note,buonamici574,0.25,67.0,GeneralNote
+23,,<music21.note.Note D>,note,buonamici575,0.5,67.0,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,buonamici576,0.0,0.0,Articulation
+23,,<music21.chord.Chord D4 A4>,note,buonamici577,0.25,67.25,GeneralNote
+23,,<music21.chord.Chord G4 B4>,note,buonamici578,0.25,67.5,GeneralNote
+23,,<music21.note.Note G>,note,buonamici579,0.5,67.5,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,buonamici580,0.0,0.0,Articulation
+23,,<music21.chord.Chord D4 A4>,note,buonamici581,0.25,67.75,GeneralNote
+23,,<music21.note.Note G>,note,buonamici582,0.5,68.0,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,buonamici583,0.0,0.0,Articulation
+23,,<music21.note.Note D>,note,buonamici584,1.5,68.0,GeneralNote
+23,,<music21.articulations.Tenuto>,tenuto,buonamici585,0.0,0.0,Articulation
+23,,<music21.note.Note A>,note,buonamici586,0.5,68.5,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,buonamici587,0.0,0.0,Articulation
+23,,<music21.note.Note D>,note,buonamici588,0.5,69.0,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,buonamici589,0.0,0.0,Articulation
+23,23,<music21.spanner.Slur <music21.chord.Chord G4 B4><music21.note.Note G>>,slur,buonamici1560,1.5,0.0,Slur
+24,,<music21.note.Rest dotted-half>,note,buonamici590,3.0,69.5,GeneralNote
+24,,<music21.note.Note B>,note,buonamici591,0.5,69.5,GeneralNote
+24,,<music21.note.Note G>,note,buonamici592,1.0,69.5,GeneralNote
+24,,<music21.note.Note G>,note,buonamici593,1.0,69.5,GeneralNote
+24,,<music21.note.Note A>,note,buonamici594,0.5,70.0,GeneralNote
+24,,<music21.note.Note G>,note,buonamici595,0.5,70.5,GeneralNote
+24,,<music21.note.Note E>,note,buonamici596,0.5,70.5,GeneralNote
+24,,<music21.note.Note C>,note,buonamici597,0.5,70.5,GeneralNote
+24,,<music21.note.Rest 16th>,note,buonamici598,0.25,70.75,GeneralNote
+24,,<music21.note.Rest 16th>,note,buonamici599,0.25,70.75,GeneralNote
+24,,<music21.note.Note B>,note,buonamici600,0.5,71.0,GeneralNote
+24,,<music21.note.Note G>,note,buonamici601,0.5,71.0,GeneralNote
+24,,<music21.note.Note D>,note,buonamici602,1.0,71.0,GeneralNote
+24,,<music21.note.Note C>,note,buonamici603,0.5,71.5,GeneralNote
+24,,<music21.note.Note A>,note,buonamici604,0.5,71.5,GeneralNote
+24,,<music21.note.Note A>,note,buonamici605,0.5,72.0,GeneralNote
+24,,<music21.note.Note F#>,note,buonamici606,0.5,72.0,GeneralNote
+24,,<music21.note.Note D>,note,buonamici607,0.5,72.0,GeneralNote
+24,,<music21.note.Rest 16th>,note,buonamici608,0.25,72.25,GeneralNote
+24,,<music21.note.Rest 16th>,note,buonamici609,0.25,72.25,GeneralNote
+24,25,<music21.spanner.Slur <music21.note.Note B><music21.note.Note G>>,slur,buonamici1561,3.0,0.0,Slur
+24,25,<music21.spanner.Slur <music21.note.Note G><music21.chord.Chord G2 D3 B3>>,slur,buonamici1562,3.0,0.0,Slur
+25,,<music21.note.Rest dotted-half>,note,buonamici610,3.0,72.5,GeneralNote
+25,,<music21.note.Note G>,note,buonamici611,0.25,72.5,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,buonamici612,0.0,0.0,Fingering
+25,,<music21.chord.Chord G2 D3 B3>,note,buonamici613,1.5,72.5,GeneralNote
+25,,<music21.note.Note A>,note,buonamici614,0.125,72.75,GeneralNote
+25,,<music21.note.Note B>,note,buonamici615,0.125,72.875,GeneralNote
+25,,<music21.note.Note C>,note,buonamici616,1/6,73.0,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,buonamici617,0.0,0.0,Fingering
+25,,<music21.note.Note D>,note,buonamici618,1/6,439/6,GeneralNote
+25,,<music21.note.Note E>,note,buonamici619,1/6,220/3,GeneralNote
+25,,<music21.note.Note F#>,note,buonamici620,1/6,73.5,GeneralNote
+25,,<music21.note.Note G>,note,buonamici621,1/6,221/3,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,buonamici622,0.0,0.0,Fingering
+25,,<music21.note.Note A>,note,buonamici623,1/6,443/6,GeneralNote
+25,,<music21.articulations.Fingering 2>,fingering,buonamici624,0.0,0.0,Fingering
+25,,<music21.chord.Chord G5 B5>,note,buonamici625,0.5,74.0,GeneralNote
+25,,<music21.articulations.Fingering 2>,fingering,buonamici626,0.0,0.0,Fingering
+25,,<music21.articulations.Fingering 4>,fingering,buonamici627,0.0,0.0,Fingering
+25,,<music21.chord.Chord G2 D3 B3>,note,buonamici628,1.5,74.0,GeneralNote
+25,,<music21.chord.Chord D5 B5 D6>,note,buonamici629,0.5,74.5,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,buonamici630,0.0,0.0,Fingering
+25,,<music21.articulations.Fingering 3>,fingering,buonamici631,0.0,0.0,Fingering
+25,,<music21.articulations.Fingering 5>,fingering,buonamici632,0.0,0.0,Fingering
+25,,<music21.chord.Chord G4 D5>,note,buonamici633,0.5,75.0,GeneralNote
+25,,<music21.articulations.Fingering 2>,fingering,buonamici634,0.0,0.0,Fingering
+25,,<music21.articulations.Staccato>,staccato,buonamici635,0.0,0.0,Articulation
+25,,<music21.articulations.Fingering 5>,fingering,buonamici636,0.0,0.0,Fingering
+25,25,<music21.spanner.Slur <music21.note.Note G><music21.chord.Chord G5 B5>>,slur,buonamici1563,1.5,0.0,Slur
+25,25,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord D5 B5 D6>>,slur,buonamici1564,0.5,0.0,Slur
+25,,<music21.dynamics.Dynamic pp>,pp,buonamici1626,,,DynamicPoint
+25,,<music21.expressions.TextExpression 'rall.'>,rall.,buonamici1692,0.0,74.0,TextExpression
+26,,<music21.note.Rest dotted-half>,note,buonamici637,3.0,75.5,GeneralNote
+26,,<music21.chord.Chord G5 B5>,note,buonamici638,0.5,75.5,GeneralNote
+26,,<music21.chord.Chord G2 D3 B3>,note,buonamici639,1.5,75.5,GeneralNote
+26,,<music21.chord.Chord D5 B5 D6>,note,buonamici640,0.5,76.0,GeneralNote
+26,,<music21.chord.Chord G4 D5>,note,buonamici641,0.5,76.5,GeneralNote
+26,,<music21.articulations.Staccato>,staccato,buonamici642,0.0,0.0,Articulation
+26,,<music21.chord.Chord G5 B5>,note,buonamici643,0.5,77.0,GeneralNote
+26,,<music21.chord.Chord G2 D3 B3>,note,buonamici644,1.5,77.0,GeneralNote
+26,,<music21.chord.Chord D5 B5 D6>,note,buonamici645,0.5,77.5,GeneralNote
+26,,<music21.chord.Chord G4 D5>,note,buonamici646,0.5,78.0,GeneralNote
+26,,<music21.articulations.Staccato>,staccato,buonamici647,0.0,0.0,Articulation
+26,26,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord D5 B5 D6>>,slur,buonamici1565,0.5,0.0,Slur
+26,26,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord D5 B5 D6>>,slur,buonamici1566,0.5,0.0,Slur
+27,,<music21.note.Rest dotted-half>,note,buonamici648,3.0,78.5,GeneralNote
+27,,<music21.chord.Chord G5 B5>,note,buonamici649,0.25,78.5,GeneralNote
+27,,<music21.note.Note D>,note,buonamici650,0.25,78.5,GeneralNote
+27,,<music21.note.Note G>,note,buonamici651,3.0,78.5,GeneralNote
+27,,<music21.chord.Chord A5 C6>,note,buonamici652,0.25,78.75,GeneralNote
+27,,<music21.note.Note G>,note,buonamici653,0.25,78.75,GeneralNote
+27,,<music21.chord.Chord G5 B5>,note,buonamici654,0.25,79.0,GeneralNote
+27,,<music21.note.Note D>,note,buonamici655,0.25,79.0,GeneralNote
+27,,<music21.chord.Chord A5 C6>,note,buonamici656,0.25,79.25,GeneralNote
+27,,<music21.note.Note G>,note,buonamici657,0.25,79.25,GeneralNote
+27,,<music21.chord.Chord G5 B5>,note,buonamici658,0.25,79.5,GeneralNote
+27,,<music21.note.Note D>,note,buonamici659,0.25,79.5,GeneralNote
+27,,<music21.chord.Chord A5 C6>,note,buonamici660,0.25,79.75,GeneralNote
+27,,<music21.note.Note G>,note,buonamici661,0.25,79.75,GeneralNote
+27,,<music21.chord.Chord G5 B5>,note,buonamici662,0.25,80.0,GeneralNote
+27,,<music21.note.Note D>,note,buonamici663,0.25,80.0,GeneralNote
+27,,<music21.chord.Chord A5 C6>,note,buonamici664,0.25,80.25,GeneralNote
+27,,<music21.note.Note G>,note,buonamici665,0.25,80.25,GeneralNote
+27,,<music21.chord.Chord G5 B5>,note,buonamici666,0.25,80.5,GeneralNote
+27,,<music21.note.Note D>,note,buonamici667,0.25,80.5,GeneralNote
+27,,<music21.chord.Chord A5 C6>,note,buonamici668,0.25,80.75,GeneralNote
+27,,<music21.note.Note G>,note,buonamici669,0.25,80.75,GeneralNote
+27,,<music21.chord.Chord G5 B5>,note,buonamici670,0.25,81.0,GeneralNote
+27,,<music21.note.Note D>,note,buonamici671,0.25,81.0,GeneralNote
+27,,<music21.chord.Chord A5 C6>,note,buonamici672,0.25,81.25,GeneralNote
+27,,<music21.note.Note G>,note,buonamici673,0.25,81.25,GeneralNote
+27,27,<music21.spanner.Slur <music21.chord.Chord G5 B5><music21.chord.Chord A5 C6>>,slur,buonamici1567,2.75,0.0,Slur
+27,27,<music21.spanner.Slur <music21.note.Note D><music21.note.Note G>>,slur,buonamici1568,2.75,0.0,Slur
+27,,<music21.dynamics.Dynamic pp>,pp,buonamici1627,,,DynamicPoint
+27,,<music21.expressions.TextExpression 'a tempo se...'>,a tempo sempre,buonamici1693,0.0,78.5,TextExpression
+28,,<music21.note.Rest dotted-half>,note,buonamici674,3.0,81.5,GeneralNote
+28,,<music21.note.Note B>,note,buonamici675,1.5,81.5,GeneralNote
+28,,<music21.note.Note G>,note,buonamici676,1.5,81.5,GeneralNote
+28,,<music21.note.Note D>,note,buonamici677,1.5,81.5,GeneralNote
+28,,<music21.note.Note G>,note,buonamici678,1.5,81.5,GeneralNote
+28,,<music21.note.Note B>,note,buonamici679,1.0,83.0,GeneralNote
+28,,<music21.note.Note G>,note,buonamici680,1.0,83.0,GeneralNote
+28,,<music21.note.Note D>,note,buonamici681,1.0,83.0,GeneralNote
+28,,<music21.note.Note G>,note,buonamici682,1.0,83.0,GeneralNote
+28,,<music21.note.Note D>,note,buonamici683,0.5,84.0,GeneralNote
+28,,<music21.articulations.Fingering 2>,fingering,buonamici684,0.0,0.0,Fingering
+28,,<music21.note.Rest eighth>,note,buonamici685,0.5,84.0,GeneralNote
+28,,<music21.note.Rest eighth>,note,buonamici686,0.5,84.5,GeneralNote
+29,,<music21.note.Note G>,note,buonamici687,0.5,84.5,GeneralNote
+29,,<music21.articulations.Fingering 3>,fingering,buonamici688,0.0,0.0,Fingering
+29,,<music21.note.Note D>,note,buonamici689,1.5,84.5,GeneralNote
+29,,<music21.articulations.Fingering 1>,fingering,buonamici690,0.0,0.0,Fingering
+29,,<music21.chord.Chord G3 B3>,note,buonamici691,1.5,84.5,GeneralNote
+29,,<music21.note.Rest dotted-half>,note,buonamici692,3.0,85.0,GeneralNote
+29,,<music21.note.Note A>,note,buonamici693,0.5,85.0,GeneralNote
+29,,<music21.note.Note B>,note,buonamici694,0.5,85.5,GeneralNote
+29,,<music21.note.Note A>,note,buonamici695,0.5,86.0,GeneralNote
+29,,<music21.articulations.Fingering 3>,fingering,buonamici696,0.0,0.0,Fingering
+29,,<music21.note.Note D>,note,buonamici697,1.5,86.0,GeneralNote
+29,,<music21.articulations.Fingering 1>,fingering,buonamici698,0.0,0.0,Fingering
+29,,<music21.chord.Chord F#3 A3>,note,buonamici699,1.5,86.0,GeneralNote
+29,,<music21.note.Note B>,note,buonamici700,0.5,86.5,GeneralNote
+29,,<music21.note.Note C>,note,buonamici701,0.5,87.0,GeneralNote
+29,,<music21.note.Rest 16th>,note,buonamici702,0.25,87.25,GeneralNote
+29,,<music21.note.Rest 16th>,note,buonamici703,0.25,87.25,GeneralNote
+29,30,<music21.spanner.Slur <music21.note.Note G><music21.note.Note F>>,slur,buonamici1569,5.5,0.0,Slur
+29,31,<music21.spanner.Slur <music21.chord.Chord G3 B3><music21.chord.Chord E3 B3>>,slur,buonamici1570,6.0,0.0,Slur
+29,30,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note E>>,diminuendo,buonamici1656,,,DynamicRegion
+29,,<music21.expressions.TextExpression 'dolce'>,dolce,buonamici1694,0.0,84.5,TextExpression
+30,,<music21.note.Note B>,note,buonamici704,0.5,87.5,GeneralNote
+30,,<music21.articulations.Fingering 3>,fingering,buonamici705,0.0,0.0,Fingering
+30,,<music21.note.Note D>,note,buonamici706,1.5,87.5,GeneralNote
+30,,<music21.chord.Chord G3 B3>,note,buonamici707,1.5,87.5,GeneralNote
+30,,<music21.note.Rest dotted-half>,note,buonamici708,3.0,88.0,GeneralNote
+30,,<music21.note.Note C>,note,buonamici709,0.5,88.0,GeneralNote
+30,,<music21.note.Note D>,note,buonamici710,0.5,88.5,GeneralNote
+30,,<music21.note.Note D>,note,buonamici711,0.5,89.0,GeneralNote
+30,,<music21.note.Rest quarter>,note,buonamici712,1.0,89.0,GeneralNote
+30,,<music21.note.Rest quarter>,note,buonamici713,1.0,89.0,GeneralNote
+30,,<music21.chord.Chord F3 A3 D4>,note,buonamici714,1.5,89.0,GeneralNote
+30,,<music21.note.Note E>,note,buonamici715,0.5,89.5,GeneralNote
+30,,<music21.articulations.Fingering 4>,fingering,buonamici716,0.0,0.0,Fingering
+30,,<music21.note.Note F>,note,buonamici717,0.5,90.0,GeneralNote
+30,,<music21.articulations.Fingering 5>,fingering,buonamici718,0.0,0.0,Fingering
+30,,<music21.note.Rest eighth>,note,buonamici719,0.5,90.0,GeneralNote
+30,,<music21.note.Rest eighth>,note,buonamici720,0.5,90.0,GeneralNote
+30,,<music21.note.Rest 16th>,note,buonamici721,0.25,90.25,GeneralNote
+30,,<music21.note.Rest 16th>,note,buonamici722,0.25,90.25,GeneralNote
+31,,<music21.note.Note A>,note,buonamici723,0.5,90.5,GeneralNote
+31,,<music21.articulations.Fingering 3>,fingering,buonamici724,0.0,0.0,Fingering
+31,,<music21.note.Note E>,note,buonamici725,1.5,90.5,GeneralNote
+31,,<music21.articulations.Fingering 1>,fingering,buonamici726,0.0,0.0,Fingering
+31,,<music21.chord.Chord E3 B3>,note,buonamici727,1.5,90.5,GeneralNote
+31,,<music21.note.Rest dotted-half>,note,buonamici728,3.0,91.0,GeneralNote
+31,,<music21.note.Note G#>,note,buonamici729,0.5,91.0,GeneralNote
+31,,<music21.articulations.Fingering 2>,fingering,buonamici730,0.0,0.0,Fingering
+31,,<music21.note.Note A>,note,buonamici731,0.5,91.5,GeneralNote
+31,,<music21.articulations.Fingering 4>,fingering,buonamici732,0.0,0.0,Fingering
+31,,<music21.note.Note B>,note,buonamici733,0.5,92.0,GeneralNote
+31,,<music21.articulations.Fingering 3>,fingering,buonamici734,0.0,0.0,Fingering
+31,,<music21.note.Note E>,note,buonamici735,1.5,92.0,GeneralNote
+31,,<music21.articulations.Fingering 1>,fingering,buonamici736,0.0,0.0,Fingering
+31,,<music21.chord.Chord G#3 B3>,note,buonamici737,1.5,92.0,GeneralNote
+31,,<music21.note.Note C>,note,buonamici738,0.5,92.5,GeneralNote
+31,,<music21.note.Note D>,note,buonamici739,0.5,93.0,GeneralNote
+31,,<music21.note.Rest 16th>,note,buonamici740,0.25,93.25,GeneralNote
+31,,<music21.note.Rest 16th>,note,buonamici741,0.25,93.25,GeneralNote
+31,32,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,buonamici1571,5.5,0.0,Slur
+31,33,<music21.spanner.Slur <music21.chord.Chord G#3 B3><music21.chord.Chord F#3 C#4>>,slur,buonamici1572,4.5,0.0,Slur
+31,32,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note G>>,diminuendo,buonamici1658,,,DynamicRegion
+32,,<music21.note.Note C>,note,buonamici742,0.5,93.5,GeneralNote
+32,,<music21.note.Note E>,note,buonamici743,1.5,93.5,GeneralNote
+32,,<music21.chord.Chord A3 C4>,note,buonamici744,1.5,93.5,GeneralNote
+32,,<music21.note.Rest dotted-half>,note,buonamici745,3.0,94.0,GeneralNote
+32,,<music21.note.Note D>,note,buonamici746,0.5,94.0,GeneralNote
+32,,<music21.note.Note E>,note,buonamici747,0.5,94.5,GeneralNote
+32,,<music21.note.Note E>,note,buonamici748,0.5,95.0,GeneralNote
+32,,<music21.note.Rest quarter>,note,buonamici749,1.0,95.0,GeneralNote
+32,,<music21.note.Rest quarter>,note,buonamici750,1.0,95.0,GeneralNote
+32,,<music21.chord.Chord G3 B3 E4>,note,buonamici751,1.5,95.0,GeneralNote
+32,,<music21.note.Note F#>,note,buonamici752,0.5,95.5,GeneralNote
+32,,<music21.articulations.Fingering 4>,fingering,buonamici753,0.0,0.0,Fingering
+32,,<music21.note.Note G>,note,buonamici754,0.5,96.0,GeneralNote
+32,,<music21.articulations.Fingering 5>,fingering,buonamici755,0.0,0.0,Fingering
+32,,<music21.note.Rest eighth>,note,buonamici756,0.5,96.0,GeneralNote
+32,,<music21.note.Rest eighth>,note,buonamici757,0.5,96.0,GeneralNote
+32,,<music21.note.Rest 16th>,note,buonamici758,0.25,96.25,GeneralNote
+32,,<music21.note.Rest 16th>,note,buonamici759,0.25,96.25,GeneralNote
+33,,<music21.note.Note B>,note,buonamici760,0.5,96.5,GeneralNote
+33,,<music21.articulations.Fingering 3>,fingering,buonamici761,0.0,0.0,Fingering
+33,,<music21.note.Note F#>,note,buonamici762,1.5,96.5,GeneralNote
+33,,<music21.chord.Chord F#3 C#4>,note,buonamici763,1.5,96.5,GeneralNote
+33,,<music21.note.Rest dotted-half>,note,buonamici764,3.0,97.0,GeneralNote
+33,,<music21.note.Note A#>,note,buonamici765,0.5,97.0,GeneralNote
+33,,<music21.articulations.Fingering 2>,fingering,buonamici766,0.0,0.0,Fingering
+33,,<music21.note.Note B>,note,buonamici767,0.5,97.5,GeneralNote
+33,,<music21.articulations.Fingering 4>,fingering,buonamici768,0.0,0.0,Fingering
+33,,<music21.note.Note C#>,note,buonamici769,0.5,98.0,GeneralNote
+33,,<music21.articulations.Fingering 3>,fingering,buonamici770,0.0,0.0,Fingering
+33,,<music21.note.Note F#>,note,buonamici771,1.5,98.0,GeneralNote
+33,,<music21.chord.Chord A#3 C#4>,note,buonamici772,1.5,98.0,GeneralNote
+33,,<music21.note.Note D#>,note,buonamici773,0.5,98.5,GeneralNote
+33,,<music21.note.Note E>,note,buonamici774,0.5,99.0,GeneralNote
+33,,<music21.note.Rest 16th>,note,buonamici775,0.25,99.25,GeneralNote
+33,,<music21.note.Rest 16th>,note,buonamici776,0.25,99.25,GeneralNote
+33,34,<music21.spanner.Slur <music21.note.Note B><music21.note.Note A>>,slur,buonamici1573,5.5,0.0,Slur
+33,35,<music21.spanner.Slur <music21.chord.Chord A#3 C#4><music21.note.Note E>>,slur,buonamici1574,4.5,0.0,Slur
+33,34,<music21.dynamics.Crescendo <music21.note.Note B><music21.note.Note A>>,diminuendo,buonamici1660,,,DynamicRegion
+34,,<music21.note.Note D#>,note,buonamici777,0.5,99.5,GeneralNote
+34,,<music21.note.Note F#>,note,buonamici778,1.5,99.5,GeneralNote
+34,,<music21.note.Rest quarter>,note,buonamici779,1.0,99.5,GeneralNote
+34,,<music21.note.Rest dotted-quarter>,note,buonamici780,1.5,99.5,GeneralNote
+34,,<music21.chord.Chord B3 D#4>,note,buonamici781,1.5,99.5,GeneralNote
+34,,<music21.note.Rest quarter>,note,buonamici782,1.0,99.5,GeneralNote
+34,,<music21.note.Rest dotted-quarter>,note,buonamici783,1.5,99.5,GeneralNote
+34,,<music21.note.Rest dotted-half>,note,buonamici784,3.0,100.0,GeneralNote
+34,,<music21.note.Note E>,note,buonamici785,0.5,100.0,GeneralNote
+34,,<music21.note.Note F#>,note,buonamici786,0.5,100.5,GeneralNote
+34,,<music21.note.Rest eighth>,note,buonamici787,0.5,100.5,GeneralNote
+34,,<music21.note.Rest eighth>,note,buonamici788,0.5,100.5,GeneralNote
+34,,<music21.note.Note F#>,note,buonamici789,0.5,101.0,GeneralNote
+34,,<music21.note.Rest quarter>,note,buonamici790,1.0,101.0,GeneralNote
+34,,<music21.note.Rest quarter>,note,buonamici791,1.0,101.0,GeneralNote
+34,,<music21.chord.Chord B3 F#4>,note,buonamici792,1.5,101.0,GeneralNote
+34,,<music21.note.Note D#>,note,buonamici793,1.5,101.0,GeneralNote
+34,,<music21.note.Note G>,note,buonamici794,0.5,101.5,GeneralNote
+34,,<music21.articulations.Fingering 4>,fingering,buonamici795,0.0,0.0,Fingering
+34,,<music21.note.Note A>,note,buonamici796,0.5,102.0,GeneralNote
+34,,<music21.articulations.Fingering 5>,fingering,buonamici797,0.0,0.0,Fingering
+34,,<music21.note.Rest eighth>,note,buonamici798,0.5,102.0,GeneralNote
+34,,<music21.note.Rest eighth>,note,buonamici799,0.5,102.0,GeneralNote
+34,,<music21.note.Rest 16th>,note,buonamici800,0.25,102.25,GeneralNote
+34,,<music21.note.Rest 16th>,note,buonamici801,0.25,102.25,GeneralNote
+34,,<music21.note.Rest 16th>,note,buonamici802,0.25,102.25,GeneralNote
+34,,<music21.note.Rest 16th>,note,buonamici803,0.25,102.25,GeneralNote
+35,,<music21.note.Note G>,note,buonamici804,0.0,102.5,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,buonamici805,0.0,0.0,Fingering
+35,,<music21.note.Note A>,note,buonamici806,0.0,102.5,GeneralNote
+35,,<music21.articulations.Fingering 4>,fingering,buonamici807,0.0,0.0,Fingering
+35,,<music21.note.Note G>,note,buonamici808,0.5,102.5,GeneralNote
+35,,<music21.articulations.Fingering 3>,fingering,buonamici809,0.0,0.0,Fingering
+35,,<music21.chord.Chord B3 G4>,note,buonamici810,1.5,102.5,GeneralNote
+35,,<music21.note.Note E>,note,buonamici811,1.0,102.5,GeneralNote
+35,,<music21.note.Rest dotted-half>,note,buonamici812,3.0,103.0,GeneralNote
+35,,<music21.note.Note F#>,note,buonamici813,0.5,103.0,GeneralNote
+35,,<music21.note.Note E>,note,buonamici814,0.5,103.5,GeneralNote
+35,,<music21.note.Note F#>,note,buonamici815,0.5,103.5,GeneralNote
+35,,<music21.articulations.Fingering 4>,fingering,buonamici816,0.0,0.0,Fingering
+35,,<music21.note.Note B>,note,buonamici817,0.5,104.0,GeneralNote
+35,,<music21.chord.Chord B3 E4>,note,buonamici818,1.5,104.0,GeneralNote
+35,,<music21.note.Note G>,note,buonamici819,1.5,104.0,GeneralNote
+35,,<music21.articulations.Fingering 5>,fingering,buonamici820,0.0,0.0,Fingering
+35,,<music21.note.Note A>,note,buonamici821,0.5,104.5,GeneralNote
+35,,<music21.note.Note G>,note,buonamici822,0.5,105.0,GeneralNote
+35,,<music21.note.Rest 16th>,note,buonamici823,0.25,105.25,GeneralNote
+35,,<music21.note.Rest 16th>,note,buonamici824,0.25,105.25,GeneralNote
+35,35,<music21.spanner.Slur <music21.note.Note G><music21.note.Note G>>,slur,buonamici1575,0.0,0.0,Slur
+35,35,<music21.spanner.Slur <music21.note.Note G><music21.note.Note G>>,slur,buonamici1576,2.5,0.0,Slur
+35,35,<music21.spanner.Slur <music21.note.Note E><music21.note.Note G>>,slur,buonamici1577,1.5,0.0,Slur
+36,,<music21.chord.Chord B4 F#5>,note,buonamici825,0.25,105.5,GeneralNote
+36,,<music21.chord.Chord B3 D#4>,note,buonamici826,0.5,105.5,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,buonamici827,0.0,0.0,Articulation
+36,,<music21.note.Note G>,note,buonamici828,0.25,105.75,GeneralNote
+36,,<music21.note.Rest dotted-half>,note,buonamici829,3.0,106.0,GeneralNote
+36,,<music21.chord.Chord B4 F#5>,note,buonamici830,0.25,106.0,GeneralNote
+36,,<music21.note.Note F#>,note,buonamici831,0.5,106.0,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,buonamici832,0.0,0.0,Articulation
+36,,<music21.note.Note G>,note,buonamici833,0.25,106.25,GeneralNote
+36,,<music21.chord.Chord B4 F#5>,note,buonamici834,0.25,106.5,GeneralNote
+36,,<music21.note.Note D#>,note,buonamici835,0.5,106.5,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,buonamici836,0.0,0.0,Articulation
+36,,<music21.note.Note G>,note,buonamici837,0.25,106.75,GeneralNote
+36,,<music21.chord.Chord B4 F#5>,note,buonamici838,0.5,107.0,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,buonamici839,0.0,0.0,Articulation
+36,,<music21.note.Note B>,note,buonamici840,0.5,107.0,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,buonamici841,0.0,0.0,Articulation
+36,,<music21.note.Note B>,note,buonamici842,0.5,107.5,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,buonamici843,0.0,0.0,Articulation
+36,,<music21.note.Rest eighth>,note,buonamici844,0.5,107.5,GeneralNote
+36,,<music21.note.Note B>,note,buonamici845,0.5,108.0,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,buonamici846,0.0,0.0,Articulation
+36,,<music21.note.Rest eighth>,note,buonamici847,0.5,108.0,GeneralNote
+36,,<music21.note.Rest 16th>,note,buonamici848,0.25,108.25,GeneralNote
+36,,<music21.note.Rest 16th>,note,buonamici849,0.25,108.25,GeneralNote
+36,36,<music21.spanner.Slur <music21.chord.Chord B4 F#5><music21.chord.Chord B4 F#5>>,slur,buonamici1578,1.5,0.0,Slur
+36,36,<music21.dynamics.Diminuendo <music21.chord.Chord B4 F#5><music21.note.Note B>>,diminuendo,buonamici1662,,,DynamicRegion
+37,,<music21.note.Note C>,note,buonamici850,1.0,108.5,GeneralNote
+37,,<music21.chord.Chord E4 G4>,note,buonamici851,1.5,108.5,GeneralNote
+37,,<music21.note.Note B>,note,buonamici852,3.0,108.5,GeneralNote
+37,,<music21.note.Rest dotted-half>,note,buonamici853,3.0,109.0,GeneralNote
+37,,<music21.note.Note B>,note,buonamici854,0.5,109.5,GeneralNote
+37,,<music21.note.Note B>,note,buonamici855,0.5,110.0,GeneralNote
+37,,<music21.articulations.Fingering 2>,fingering,buonamici856,0.0,0.0,Fingering
+37,,<music21.articulations.Staccato>,staccato,buonamici857,0.0,0.0,Articulation
+37,,<music21.chord.Chord D#4 F#4>,note,buonamici858,1.5,110.0,GeneralNote
+37,,<music21.note.Note B>,note,buonamici859,0.5,110.5,GeneralNote
+37,,<music21.articulations.Staccato>,staccato,buonamici860,0.0,0.0,Articulation
+37,,<music21.note.Note B>,note,buonamici861,0.5,111.0,GeneralNote
+37,,<music21.articulations.Fingering 1>,fingering,buonamici862,0.0,0.0,Fingering
+37,,<music21.articulations.Staccato>,staccato,buonamici863,0.0,0.0,Articulation
+37,,<music21.note.Rest 16th>,note,buonamici864,0.25,111.25,GeneralNote
+37,,<music21.note.Rest 16th>,note,buonamici865,0.25,111.25,GeneralNote
+37,37,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,buonamici1579,1.0,0.0,Slur
+37,37,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.chord.Chord D#4 F#4>>,slur,buonamici1580,1.5,0.0,Slur
+37,,<music21.dynamics.Dynamic p>,p,buonamici1628,,,DynamicPoint
+38,,<music21.note.Note C>,note,buonamici866,1.0,111.5,GeneralNote
+38,,<music21.chord.Chord E4 G4>,note,buonamici867,1.5,111.5,GeneralNote
+38,,<music21.note.Note B>,note,buonamici868,3.0,111.5,GeneralNote
+38,,<music21.note.Rest dotted-half>,note,buonamici869,3.0,112.0,GeneralNote
+38,,<music21.note.Note B>,note,buonamici870,0.5,112.5,GeneralNote
+38,,<music21.note.Note B>,note,buonamici871,0.5,113.0,GeneralNote
+38,,<music21.articulations.Staccato>,staccato,buonamici872,0.0,0.0,Articulation
+38,,<music21.chord.Chord D4 F4>,note,buonamici873,1.5,113.0,GeneralNote
+38,,<music21.note.Note B>,note,buonamici874,0.5,113.5,GeneralNote
+38,,<music21.articulations.Staccato>,staccato,buonamici875,0.0,0.0,Articulation
+38,,<music21.note.Note G#>,note,buonamici876,0.5,114.0,GeneralNote
+38,,<music21.articulations.Staccato>,staccato,buonamici877,0.0,0.0,Articulation
+38,,<music21.note.Rest 16th>,note,buonamici878,0.25,114.25,GeneralNote
+38,,<music21.note.Rest 16th>,note,buonamici879,0.25,114.25,GeneralNote
+38,38,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,buonamici1581,1.0,0.0,Slur
+38,38,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.chord.Chord D4 F4>>,slur,buonamici1582,1.5,0.0,Slur
+39,,<music21.note.Note A>,note,buonamici880,0.5,114.5,GeneralNote
+39,,<music21.chord.Chord C4 E4 A4>,note,buonamici881,1.5,114.5,GeneralNote
+39,,<music21.note.Rest dotted-half>,note,buonamici882,3.0,115.0,GeneralNote
+39,,<music21.note.Note B>,note,buonamici883,0.5,115.0,GeneralNote
+39,,<music21.note.Note C>,note,buonamici884,0.5,115.5,GeneralNote
+39,,<music21.note.Rest 16th>,note,buonamici885,0.25,115.75,GeneralNote
+39,,<music21.note.Rest 16th>,note,buonamici886,0.25,115.75,GeneralNote
+39,,<music21.note.Note D>,note,buonamici887,0.0,116.0,GeneralNote
+39,,<music21.note.Note C>,note,buonamici888,0.5,116.0,GeneralNote
+39,,<music21.chord.Chord D4 F4 B4>,note,buonamici889,1.5,116.0,GeneralNote
+39,,<music21.note.Note B>,note,buonamici890,0.5,116.5,GeneralNote
+39,,<music21.note.Note A>,note,buonamici891,0.5,117.0,GeneralNote
+39,39,<music21.spanner.Slur <music21.note.Note A><music21.note.Note A>>,slur,buonamici1583,2.5,0.0,Slur
+39,39,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,buonamici1584,0.0,0.0,Slur
+39,40,<music21.spanner.Slur <music21.chord.Chord C4 E4 A4><music21.chord.Chord E4 B4>>,slur,buonamici1585,3.0,0.0,Slur
+39,39,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note C>>,diminuendo,buonamici1664,,,DynamicRegion
+39,40,<music21.dynamics.Diminuendo <music21.note.Note B><music21.note.Note D>>,diminuendo,buonamici1666,,,DynamicRegion
+40,,<music21.note.Note G#>,note,buonamici892,0.5,117.5,GeneralNote
+40,,<music21.articulations.Fingering 3>,fingering,buonamici893,0.0,0.0,Fingering
+40,,<music21.chord.Chord E4 B4>,note,buonamici894,1.5,117.5,GeneralNote
+40,,<music21.note.Rest dotted-half>,note,buonamici895,3.0,118.0,GeneralNote
+40,,<music21.note.Note A>,note,buonamici896,0.5,118.0,GeneralNote
+40,,<music21.note.Note B>,note,buonamici897,0.5,118.5,GeneralNote
+40,,<music21.note.Note G>,note,buonamici898,0.0,119.0,GeneralNote
+40,,<music21.articulations.Fingering 3>,fingering,buonamici899,0.0,0.0,Fingering
+40,,<music21.note.Note F>,note,buonamici900,0.5,119.0,GeneralNote
+40,,<music21.articulations.Fingering 2>,fingering,buonamici901,0.0,0.0,Fingering
+40,,<music21.chord.Chord G#3 D4 B4>,note,buonamici902,1.5,119.0,GeneralNote
+40,,<music21.note.Note E>,note,buonamici903,0.5,119.5,GeneralNote
+40,,<music21.articulations.Fingering 1>,fingering,buonamici904,0.0,0.0,Fingering
+40,,<music21.note.Note D>,note,buonamici905,0.5,120.0,GeneralNote
+40,,<music21.articulations.Fingering 2>,fingering,buonamici906,0.0,0.0,Fingering
+40,,<music21.note.Rest 16th>,note,buonamici907,0.25,120.25,GeneralNote
+40,,<music21.note.Rest 16th>,note,buonamici908,0.25,120.25,GeneralNote
+40,40,<music21.spanner.Slur <music21.note.Note G#><music21.note.Note D>>,slur,buonamici1586,2.5,0.0,Slur
+40,40,<music21.spanner.Slur <music21.note.Note G><music21.note.Note F>>,slur,buonamici1587,0.0,0.0,Slur
+41,,<music21.note.Note D>,note,buonamici909,0.5,120.5,GeneralNote
+41,,<music21.articulations.Fingering 132>,fingering,buonamici910,0.0,0.0,Fingering
+41,,<music21.chord.Chord E4 B4>,note,buonamici911,0.5,120.5,GeneralNote
+41,,<music21.note.Note A>,note,buonamici912,0.5,120.5,GeneralNote
+41,,<music21.note.Rest dotted-half>,note,buonamici913,3.0,121.0,GeneralNote
+41,,<music21.note.Note C>,note,buonamici914,0.5,121.0,GeneralNote
+41,,<music21.articulations.Fingering 1>,fingering,buonamici915,0.0,0.0,Fingering
+41,,<music21.note.Rest eighth>,note,buonamici916,0.5,121.0,GeneralNote
+41,,<music21.note.Note A>,note,buonamici917,0.5,121.0,GeneralNote
+41,,<music21.note.Rest eighth>,note,buonamici918,0.5,121.0,GeneralNote
+41,,<music21.note.Note A>,note,buonamici919,0.5,121.5,GeneralNote
+41,,<music21.note.Rest eighth>,note,buonamici920,0.5,121.5,GeneralNote
+41,,<music21.note.Note D#>,note,buonamici921,0.5,121.5,GeneralNote
+41,,<music21.note.Rest eighth>,note,buonamici922,0.5,121.5,GeneralNote
+41,,<music21.note.Rest 16th>,note,buonamici923,0.25,121.75,GeneralNote
+41,,<music21.note.Rest 16th>,note,buonamici924,0.25,121.75,GeneralNote
+41,,<music21.note.Note C>,note,buonamici925,0.5,122.0,GeneralNote
+41,,<music21.articulations.Fingering 132>,fingering,buonamici926,0.0,0.0,Fingering
+41,,<music21.note.Rest quarter>,note,buonamici927,1.0,122.0,GeneralNote
+41,,<music21.note.Note A>,note,buonamici928,0.5,122.0,GeneralNote
+41,,<music21.note.Rest quarter>,note,buonamici929,1.0,122.0,GeneralNote
+41,,<music21.note.Note B>,note,buonamici930,0.5,122.5,GeneralNote
+41,,<music21.articulations.Fingering 1>,fingering,buonamici931,0.0,0.0,Fingering
+41,,<music21.note.Note G>,note,buonamici932,0.5,122.5,GeneralNote
+41,,<music21.note.Note G>,note,buonamici933,0.5,123.0,GeneralNote
+41,,<music21.note.Rest eighth>,note,buonamici934,0.5,123.0,GeneralNote
+41,,<music21.note.Note E>,note,buonamici935,0.5,123.0,GeneralNote
+41,,<music21.articulations.Fingering 4>,fingering,buonamici936,0.0,0.0,Fingering
+41,,<music21.note.Rest eighth>,note,buonamici937,0.5,123.0,GeneralNote
+41,,<music21.note.Rest 16th>,note,buonamici938,0.25,123.25,GeneralNote
+41,,<music21.note.Rest 16th>,note,buonamici939,0.25,123.25,GeneralNote
+41,44,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,buonamici1588,11.5,0.0,Slur
+41,43,<music21.spanner.Slur <music21.chord.Chord E4 B4><music21.note.Note A>>,slur,buonamici1589,8.5,0.0,Slur
+41,,<music21.dynamics.Dynamic pp>,pp,buonamici1629,,,DynamicPoint
+42,,<music21.note.Note B>,note,buonamici940,0.5,123.5,GeneralNote
+42,,<music21.note.Note G>,note,buonamici941,0.5,123.5,GeneralNote
+42,,<music21.note.Rest dotted-half>,note,buonamici942,3.0,124.0,GeneralNote
+42,,<music21.note.Note A>,note,buonamici943,0.5,124.0,GeneralNote
+42,,<music21.note.Note F#>,note,buonamici944,0.5,124.0,GeneralNote
+42,,<music21.note.Note F#>,note,buonamici945,0.5,124.5,GeneralNote
+42,,<music21.note.Note B>,note,buonamici946,0.5,124.5,GeneralNote
+42,,<music21.articulations.Fingering 5>,fingering,buonamici947,0.0,0.0,Fingering
+42,,<music21.note.Rest 16th>,note,buonamici948,0.25,124.75,GeneralNote
+42,,<music21.note.Rest 16th>,note,buonamici949,0.25,124.75,GeneralNote
+42,,<music21.note.Note A>,note,buonamici950,0.5,125.0,GeneralNote
+42,,<music21.note.Note F#>,note,buonamici951,0.5,125.0,GeneralNote
+42,,<music21.note.Note G>,note,buonamici952,0.5,125.5,GeneralNote
+42,,<music21.note.Note E>,note,buonamici953,0.5,125.5,GeneralNote
+42,,<music21.note.Note E>,note,buonamici954,0.5,126.0,GeneralNote
+42,,<music21.note.Note C>,note,buonamici955,0.5,126.0,GeneralNote
+42,,<music21.articulations.Fingering 4>,fingering,buonamici956,0.0,0.0,Fingering
+42,,<music21.note.Rest 16th>,note,buonamici957,0.25,126.25,GeneralNote
+42,,<music21.note.Rest 16th>,note,buonamici958,0.25,126.25,GeneralNote
+43,,<music21.note.Note G>,note,buonamici959,0.5,126.5,GeneralNote
+43,,<music21.note.Note E>,note,buonamici960,0.5,126.5,GeneralNote
+43,,<music21.note.Rest dotted-half>,note,buonamici961,3.0,127.0,GeneralNote
+43,,<music21.note.Note F#>,note,buonamici962,0.5,127.0,GeneralNote
+43,,<music21.note.Note D>,note,buonamici963,0.5,127.0,GeneralNote
+43,,<music21.note.Note D>,note,buonamici964,0.5,127.5,GeneralNote
+43,,<music21.note.Note G>,note,buonamici965,0.5,127.5,GeneralNote
+43,,<music21.articulations.Fingering 5>,fingering,buonamici966,0.0,0.0,Fingering
+43,,<music21.note.Rest 16th>,note,buonamici967,0.25,127.75,GeneralNote
+43,,<music21.note.Rest 16th>,note,buonamici968,0.25,127.75,GeneralNote
+43,,<music21.note.Note F#>,note,buonamici969,0.5,128.0,GeneralNote
+43,,<music21.note.Note D>,note,buonamici970,0.5,128.0,GeneralNote
+43,,<music21.note.Note E>,note,buonamici971,0.5,128.5,GeneralNote
+43,,<music21.note.Note C>,note,buonamici972,0.5,128.5,GeneralNote
+43,,<music21.note.Note C>,note,buonamici973,0.5,129.0,GeneralNote
+43,,<music21.note.Note A>,note,buonamici974,0.5,129.0,GeneralNote
+43,,<music21.articulations.Fingering 4>,fingering,buonamici975,0.0,0.0,Fingering
+43,,<music21.note.Rest 16th>,note,buonamici976,0.25,129.25,GeneralNote
+43,,<music21.note.Rest 16th>,note,buonamici977,0.25,129.25,GeneralNote
+44,,<music21.note.Note E>,note,buonamici978,0.5,129.5,GeneralNote
+44,,<music21.note.Note C>,note,buonamici979,0.5,129.5,GeneralNote
+44,,<music21.articulations.Fingering 2>,fingering,buonamici980,0.0,0.0,Fingering
+44,,<music21.note.Rest dotted-half>,note,buonamici981,3.0,130.0,GeneralNote
+44,,<music21.note.Note D>,note,buonamici982,0.5,130.0,GeneralNote
+44,,<music21.note.Note B>,note,buonamici983,0.5,130.0,GeneralNote
+44,,<music21.articulations.Fingering 3>,fingering,buonamici984,0.0,0.0,Fingering
+44,,<music21.note.Rest 16th>,note,buonamici985,0.25,130.25,GeneralNote
+44,,<music21.note.Rest 16th>,note,buonamici986,0.25,130.25,GeneralNote
+44,,<music21.note.Note B>,note,buonamici987,0.5,130.5,GeneralNote
+44,,<music21.note.Rest eighth>,note,buonamici988,0.5,130.5,GeneralNote
+44,,<music21.note.Note D>,note,buonamici989,0.5,131.0,GeneralNote
+44,,<music21.note.Note B>,note,buonamici990,0.5,131.0,GeneralNote
+44,,<music21.articulations.Fingering 2>,fingering,buonamici991,0.0,0.0,Fingering
+44,,<music21.note.Note C>,note,buonamici992,0.5,131.5,GeneralNote
+44,,<music21.note.Note A>,note,buonamici993,0.5,131.5,GeneralNote
+44,,<music21.note.Note A>,note,buonamici994,0.5,132.0,GeneralNote
+44,,<music21.note.Rest eighth>,note,buonamici995,0.5,132.0,GeneralNote
+44,,<music21.note.Rest 16th>,note,buonamici996,0.25,132.25,GeneralNote
+44,,<music21.note.Rest 16th>,note,buonamici997,0.25,132.25,GeneralNote
+44,44,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,buonamici1590,0.5,0.0,Slur
+44,44,<music21.spanner.Slur <music21.note.Note B><music21.note.Note A>>,slur,buonamici1591,0.5,0.0,Slur
+45,,<music21.note.Note B>,note,buonamici998,0.5,132.5,GeneralNote
+45,,<music21.articulations.Fingering 1>,fingering,buonamici999,0.0,0.0,Fingering
+45,,<music21.articulations.Staccato>,staccato,buonamici1000,0.0,0.0,Articulation
+45,,<music21.note.Note G>,note,buonamici1001,0.5,132.5,GeneralNote
+45,,<music21.articulations.Fingering 3>,fingering,buonamici1002,0.0,0.0,Fingering
+45,,<music21.articulations.Staccato>,staccato,buonamici1003,0.0,0.0,Articulation
+45,,<music21.note.Rest dotted-half>,note,buonamici1004,3.0,133.0,GeneralNote
+45,,<music21.note.Note C#>,note,buonamici1005,0.25,133.0,GeneralNote
+45,,<music21.note.Note A>,note,buonamici1006,0.25,133.0,GeneralNote
+45,,<music21.articulations.Fingering 2>,fingering,buonamici1007,0.0,0.0,Fingering
+45,,<music21.note.Note D#>,note,buonamici1008,0.25,133.25,GeneralNote
+45,,<music21.note.Note B>,note,buonamici1009,0.25,133.25,GeneralNote
+45,,<music21.articulations.Fingering 1>,fingering,buonamici1010,0.0,0.0,Fingering
+45,,<music21.note.Note E>,note,buonamici1011,0.25,133.5,GeneralNote
+45,,<music21.articulations.Fingering 1>,fingering,buonamici1012,0.0,0.0,Fingering
+45,,<music21.note.Note C#>,note,buonamici1013,0.25,133.5,GeneralNote
+45,,<music21.articulations.Fingering 3>,fingering,buonamici1014,0.0,0.0,Fingering
+45,,<music21.note.Note F#>,note,buonamici1015,0.25,133.75,GeneralNote
+45,,<music21.note.Note D#>,note,buonamici1016,0.25,133.75,GeneralNote
+45,,<music21.note.Note G>,note,buonamici1017,0.5,134.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,buonamici1018,0.0,0.0,Articulation
+45,,<music21.note.Note E>,note,buonamici1019,0.5,134.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,buonamici1020,0.0,0.0,Articulation
+45,,<music21.note.Note F#>,note,buonamici1021,0.5,134.5,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,buonamici1022,0.0,0.0,Articulation
+45,,<music21.note.Note D#>,note,buonamici1023,0.5,134.5,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,buonamici1024,0.0,0.0,Articulation
+45,,<music21.note.Note E>,note,buonamici1025,0.5,135.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,buonamici1026,0.0,0.0,Articulation
+45,,<music21.note.Note C#>,note,buonamici1027,0.5,135.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,buonamici1028,0.0,0.0,Articulation
+45,45,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note G>>,slur,buonamici1592,1.0,0.0,Slur
+45,45,<music21.spanner.Slur <music21.note.Note E>>,slur,buonamici1593,0.0,0.0,Slur
+45,50,<music21.spanner.Slur <music21.note.Note A><music21.chord.Chord E4 G4><music21.note.Note B>>,slur,buonamici1594,17.0,0.0,Slur
+45,,<music21.expressions.TextExpression 'senza Ped.'>,senza Ped.,buonamici1695,0.0,132.5,TextExpression
+46,,<music21.note.Note D#>,note,buonamici1029,0.25,135.5,GeneralNote
+46,,<music21.articulations.Fingering 2>,fingering,buonamici1030,0.0,0.0,Fingering
+46,,<music21.note.Note B>,note,buonamici1031,0.25,135.5,GeneralNote
+46,,<music21.articulations.Fingering 4>,fingering,buonamici1032,0.0,0.0,Fingering
+46,,<music21.note.Note E>,note,buonamici1033,0.25,135.75,GeneralNote
+46,,<music21.articulations.Fingering 1>,fingering,buonamici1034,0.0,0.0,Fingering
+46,,<music21.note.Note C#>,note,buonamici1035,0.25,135.75,GeneralNote
+46,,<music21.note.Rest dotted-half>,note,buonamici1036,3.0,136.0,GeneralNote
+46,,<music21.note.Note F#>,note,buonamici1037,0.25,136.0,GeneralNote
+46,,<music21.articulations.Fingering 2>,fingering,buonamici1038,0.0,0.0,Fingering
+46,,<music21.note.Note D#>,note,buonamici1039,0.25,136.0,GeneralNote
+46,,<music21.note.Note G>,note,buonamici1040,0.25,136.25,GeneralNote
+46,,<music21.articulations.Fingering 3>,fingering,buonamici1041,0.0,0.0,Fingering
+46,,<music21.note.Note E>,note,buonamici1042,0.25,136.25,GeneralNote
+46,,<music21.note.Note A>,note,buonamici1043,0.25,136.5,GeneralNote
+46,,<music21.articulations.Fingering 1>,fingering,buonamici1044,0.0,0.0,Fingering
+46,,<music21.note.Note F#>,note,buonamici1045,0.25,136.5,GeneralNote
+46,,<music21.articulations.Fingering 3>,fingering,buonamici1046,0.0,0.0,Fingering
+46,,<music21.note.Note B>,note,buonamici1047,0.25,136.75,GeneralNote
+46,,<music21.note.Note G>,note,buonamici1048,0.25,136.75,GeneralNote
+46,,<music21.note.Note C>,note,buonamici1049,0.5,137.0,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,buonamici1050,0.0,0.0,Articulation
+46,,<music21.note.Note A>,note,buonamici1051,0.5,137.0,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,buonamici1052,0.0,0.0,Articulation
+46,,<music21.note.Note B>,note,buonamici1053,0.5,137.5,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,buonamici1054,0.0,0.0,Articulation
+46,,<music21.note.Note G>,note,buonamici1055,0.5,137.5,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,buonamici1056,0.0,0.0,Articulation
+46,,<music21.note.Note A>,note,buonamici1057,0.5,138.0,GeneralNote
+46,,<music21.articulations.Fingering 1>,fingering,buonamici1058,0.0,0.0,Fingering
+46,,<music21.articulations.Staccato>,staccato,buonamici1059,0.0,0.0,Articulation
+46,,<music21.note.Note F#>,note,buonamici1060,0.5,138.0,GeneralNote
+46,,<music21.articulations.Fingering 3>,fingering,buonamici1061,0.0,0.0,Fingering
+46,,<music21.articulations.Staccato>,staccato,buonamici1062,0.0,0.0,Articulation
+46,,<music21.note.Rest 16th>,note,buonamici1063,0.25,138.25,GeneralNote
+46,,<music21.note.Rest 16th>,note,buonamici1064,0.25,138.25,GeneralNote
+46,46,<music21.spanner.Slur <music21.note.Note E><music21.note.Note C>>,slur,buonamici1595,1.25,0.0,Slur
+46,46,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note A>>,slur,buonamici1596,1.25,0.0,Slur
+46,46,<music21.dynamics.Crescendo <music21.note.Note D#><music21.note.Note B>>,diminuendo,buonamici1668,,,DynamicRegion
+46,46,<music21.dynamics.Diminuendo <music21.note.Note C><music21.note.Note A>>,diminuendo,buonamici1670,,,DynamicRegion
+47,,<music21.note.Note B>,note,buonamici1065,0.5,138.5,GeneralNote
+47,,<music21.articulations.Fingering 1>,fingering,buonamici1066,0.0,0.0,Fingering
+47,,<music21.articulations.Staccato>,staccato,buonamici1067,0.0,0.0,Articulation
+47,,<music21.note.Note G>,note,buonamici1068,0.5,138.5,GeneralNote
+47,,<music21.articulations.Fingering 3>,fingering,buonamici1069,0.0,0.0,Fingering
+47,,<music21.articulations.Staccato>,staccato,buonamici1070,0.0,0.0,Articulation
+47,,<music21.note.Rest dotted-half>,note,buonamici1071,3.0,139.0,GeneralNote
+47,,<music21.note.Note C#>,note,buonamici1072,0.25,139.0,GeneralNote
+47,,<music21.articulations.Fingering 2>,fingering,buonamici1073,0.0,0.0,Fingering
+47,,<music21.note.Note A>,note,buonamici1074,0.25,139.0,GeneralNote
+47,,<music21.articulations.Fingering 2>,fingering,buonamici1075,0.0,0.0,Fingering
+47,,<music21.note.Note D#>,note,buonamici1076,0.25,139.25,GeneralNote
+47,,<music21.articulations.Fingering 3>,fingering,buonamici1077,0.0,0.0,Fingering
+47,,<music21.note.Note B>,note,buonamici1078,0.25,139.25,GeneralNote
+47,,<music21.articulations.Fingering 1>,fingering,buonamici1079,0.0,0.0,Fingering
+47,,<music21.note.Note E>,note,buonamici1080,0.25,139.5,GeneralNote
+47,,<music21.articulations.Fingering 1>,fingering,buonamici1081,0.0,0.0,Fingering
+47,,<music21.note.Note C#>,note,buonamici1082,0.25,139.5,GeneralNote
+47,,<music21.articulations.Fingering 3>,fingering,buonamici1083,0.0,0.0,Fingering
+47,,<music21.note.Note F#>,note,buonamici1084,0.25,139.75,GeneralNote
+47,,<music21.note.Note D#>,note,buonamici1085,0.25,139.75,GeneralNote
+47,,<music21.note.Note G>,note,buonamici1086,0.5,140.0,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,buonamici1087,0.0,0.0,Articulation
+47,,<music21.note.Note E>,note,buonamici1088,0.5,140.0,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,buonamici1089,0.0,0.0,Articulation
+47,,<music21.note.Note F#>,note,buonamici1090,0.5,140.5,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,buonamici1091,0.0,0.0,Articulation
+47,,<music21.note.Note D#>,note,buonamici1092,0.5,140.5,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,buonamici1093,0.0,0.0,Articulation
+47,,<music21.note.Note E>,note,buonamici1094,0.5,141.0,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,buonamici1095,0.0,0.0,Articulation
+47,,<music21.note.Note C#>,note,buonamici1096,0.5,141.0,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,buonamici1097,0.0,0.0,Articulation
+47,47,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note G>>,slur,buonamici1597,1.0,0.0,Slur
+47,47,<music21.spanner.Slur <music21.note.Note A><music21.note.Note E>>,slur,buonamici1598,1.0,0.0,Slur
+48,,<music21.chord.Chord D#5 F#5>,note,buonamici1098,1.5,141.5,GeneralNote
+48,,<music21.note.Note B>,note,buonamici1099,0.5,141.5,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,buonamici1100,0.0,0.0,Articulation
+48,,<music21.note.Rest dotted-half>,note,buonamici1101,3.0,142.0,GeneralNote
+48,,<music21.note.Note F#>,note,buonamici1102,0.5,142.0,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,buonamici1103,0.0,0.0,Articulation
+48,,<music21.note.Note D#>,note,buonamici1104,0.5,142.5,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,buonamici1105,0.0,0.0,Articulation
+48,,<music21.chord.Chord D#5 F#5>,note,buonamici1106,0.5,143.0,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,buonamici1107,0.0,0.0,Articulation
+48,,<music21.note.Note B>,note,buonamici1108,1.0,143.0,GeneralNote
+48,,<music21.note.Note B>,note,buonamici1109,0.5,143.5,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,buonamici1110,0.0,0.0,Articulation
+48,,<music21.note.Note B>,note,buonamici1111,0.5,144.0,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,buonamici1112,0.0,0.0,Articulation
+48,,<music21.chord.Chord D#4 F#4>,note,buonamici1113,0.5,144.0,GeneralNote
+48,48,<music21.spanner.Slur <music21.note.Note B><music21.chord.Chord D#4 F#4>>,slur,buonamici1599,1.0,0.0,Slur
+49,,<music21.note.Note C>,note,buonamici1114,1.0,144.5,GeneralNote
+49,,<music21.note.Rest quarter>,note,buonamici1115,1.0,144.5,GeneralNote
+49,,<music21.note.Rest dotted-quarter>,note,buonamici1116,1.5,144.5,GeneralNote
+49,,<music21.chord.Chord E4 G4>,note,buonamici1117,1.5,144.5,GeneralNote
+49,,<music21.note.Rest quarter>,note,buonamici1118,1.0,144.5,GeneralNote
+49,,<music21.note.Rest dotted-quarter>,note,buonamici1119,1.5,144.5,GeneralNote
+49,,<music21.note.Rest dotted-half>,note,buonamici1120,3.0,145.0,GeneralNote
+49,,<music21.note.Note B>,note,buonamici1121,0.5,145.5,GeneralNote
+49,,<music21.articulations.Fingering 1>,fingering,buonamici1122,0.0,0.0,Fingering
+49,,<music21.note.Rest eighth>,note,buonamici1123,0.5,145.5,GeneralNote
+49,,<music21.note.Rest eighth>,note,buonamici1124,0.5,145.5,GeneralNote
+49,,<music21.note.Note B>,note,buonamici1125,0.5,146.0,GeneralNote
+49,,<music21.articulations.Fingering 2>,fingering,buonamici1126,0.0,0.0,Fingering
+49,,<music21.articulations.Staccato>,staccato,buonamici1127,0.0,0.0,Articulation
+49,,<music21.note.Note F#>,note,buonamici1128,1.0,146.0,GeneralNote
+49,,<music21.note.Note D#>,note,buonamici1129,1.0,146.0,GeneralNote
+49,,<music21.note.Note B>,note,buonamici1130,0.5,146.5,GeneralNote
+49,,<music21.articulations.Staccato>,staccato,buonamici1131,0.0,0.0,Articulation
+49,,<music21.note.Note B>,note,buonamici1132,0.5,147.0,GeneralNote
+49,,<music21.articulations.Fingering 1>,fingering,buonamici1133,0.0,0.0,Fingering
+49,,<music21.articulations.Staccato>,staccato,buonamici1134,0.0,0.0,Articulation
+49,,<music21.note.Rest eighth>,note,buonamici1135,0.5,147.0,GeneralNote
+49,,<music21.note.Note B>,note,buonamici1136,0.5,147.0,GeneralNote
+49,,<music21.articulations.Staccato>,staccato,buonamici1137,0.0,0.0,Articulation
+49,49,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,buonamici1600,1.0,0.0,Slur
+49,49,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note B>>,slur,buonamici1601,2.5,0.0,Slur
+49,49,<music21.dynamics.Diminuendo <music21.note.Note C>>,diminuendo,buonamici1672,,,DynamicRegion
+50,,<music21.note.Note C>,note,buonamici1138,1.0,147.5,GeneralNote
+50,,<music21.note.Rest quarter>,note,buonamici1139,1.0,147.5,GeneralNote
+50,,<music21.note.Rest dotted-quarter>,note,buonamici1140,1.5,147.5,GeneralNote
+50,,<music21.chord.Chord E4 G4>,note,buonamici1141,1.5,147.5,GeneralNote
+50,,<music21.note.Rest quarter>,note,buonamici1142,1.0,147.5,GeneralNote
+50,,<music21.note.Rest dotted-quarter>,note,buonamici1143,1.5,147.5,GeneralNote
+50,,<music21.note.Rest dotted-half>,note,buonamici1144,3.0,148.0,GeneralNote
+50,,<music21.note.Note B>,note,buonamici1145,0.5,148.5,GeneralNote
+50,,<music21.note.Rest eighth>,note,buonamici1146,0.5,148.5,GeneralNote
+50,,<music21.note.Rest eighth>,note,buonamici1147,0.5,148.5,GeneralNote
+50,,<music21.note.Note B>,note,buonamici1148,0.5,149.0,GeneralNote
+50,,<music21.articulations.Fingering 1>,fingering,buonamici1149,0.0,0.0,Fingering
+50,,<music21.note.Note F#>,note,buonamici1150,1.0,149.0,GeneralNote
+50,,<music21.note.Note D#>,note,buonamici1151,1.0,149.0,GeneralNote
+50,,<music21.note.Note B>,note,buonamici1152,0.5,149.5,GeneralNote
+50,,<music21.note.Rest 16th>,note,buonamici1153,0.25,149.75,GeneralNote
+50,,<music21.note.Rest 16th>,note,buonamici1154,0.25,149.75,GeneralNote
+50,,<music21.note.Note A>,note,buonamici1155,0.5,150.0,GeneralNote
+50,,<music21.note.Rest eighth>,note,buonamici1156,0.5,150.0,GeneralNote
+50,,<music21.note.Note B>,note,buonamici1157,0.5,150.0,GeneralNote
+50,50,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B>>,slur,buonamici1602,1.0,0.0,Slur
+50,51,<music21.spanner.Slur <music21.note.Note B><music21.note.Note E>>,slur,buonamici1603,2.5,0.0,Slur
+50,50,<music21.dynamics.Diminuendo <music21.note.Note C>>,diminuendo,buonamici1674,,,DynamicRegion
+50,51,<music21.dynamics.Crescendo <music21.note.Note B><music21.note.Note G>>,diminuendo,buonamici1676,,,DynamicRegion
+51,,<music21.note.Note G>,note,buonamici1158,0.0,150.5,GeneralNote
+51,,<music21.articulations.Fingering 1>,fingering,buonamici1159,0.0,0.0,Fingering
+51,,<music21.note.Note A>,note,buonamici1160,0.0,150.5,GeneralNote
+51,,<music21.articulations.Fingering 4>,fingering,buonamici1161,0.0,0.0,Fingering
+51,,<music21.note.Note G>,note,buonamici1162,0.5,150.5,GeneralNote
+51,,<music21.articulations.Fingering 3>,fingering,buonamici1163,0.0,0.0,Fingering
+51,,<music21.note.Note G>,note,buonamici1164,1.5,150.5,GeneralNote
+51,,<music21.note.Note E>,note,buonamici1165,1.0,150.5,GeneralNote
+51,,<music21.note.Rest 16th>,note,buonamici1166,0.25,150.75,GeneralNote
+51,,<music21.note.Rest 16th>,note,buonamici1167,0.25,150.75,GeneralNote
+51,,<music21.note.Rest dotted-half>,note,buonamici1168,3.0,151.0,GeneralNote
+51,,<music21.note.Note F#>,note,buonamici1169,0.5,151.0,GeneralNote
+51,,<music21.articulations.Fingering 2>,fingering,buonamici1170,0.0,0.0,Fingering
+51,,<music21.note.Note E>,note,buonamici1171,0.5,151.5,GeneralNote
+51,,<music21.articulations.Fingering 1>,fingering,buonamici1172,0.0,0.0,Fingering
+51,,<music21.note.Note A>,note,buonamici1173,0.5,151.5,GeneralNote
+51,,<music21.note.Rest 16th>,note,buonamici1174,0.25,151.75,GeneralNote
+51,,<music21.note.Rest 16th>,note,buonamici1175,0.25,151.75,GeneralNote
+51,,<music21.chord.Chord G4 E5>,note,buonamici1176,0.5,152.0,GeneralNote
+51,,<music21.note.Rest quarter>,note,buonamici1177,1.0,152.0,GeneralNote
+51,,<music21.note.Note B>,note,buonamici1178,1.5,152.0,GeneralNote
+51,,<music21.chord.Chord A4 F#5>,note,buonamici1179,0.5,152.5,GeneralNote
+51,,<music21.chord.Chord F#4 D#5>,note,buonamici1180,0.5,153.0,GeneralNote
+51,,<music21.note.Rest eighth>,note,buonamici1181,0.5,153.0,GeneralNote
+51,,<music21.note.Rest 16th>,note,buonamici1182,0.25,153.25,GeneralNote
+51,,<music21.note.Rest 16th>,note,buonamici1183,0.25,153.25,GeneralNote
+51,51,<music21.spanner.Slur <music21.note.Note G><music21.note.Note G>>,slur,buonamici1604,0.0,0.0,Slur
+51,51,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,buonamici1605,1.5,0.0,Slur
+51,51,<music21.dynamics.Diminuendo <music21.note.Note F#><music21.chord.Chord F#4 D#5>>,diminuendo,buonamici1678,,,DynamicRegion
+52,,<music21.chord.Chord G4 E5>,note,buonamici1184,0.25,153.5,GeneralNote
+52,,<music21.articulations.Fingering 1>,fingering,buonamici1185,0.0,0.0,Fingering
+52,,<music21.articulations.Fingering 3>,fingering,buonamici1186,0.0,0.0,Fingering
+52,,<music21.chord.Chord B3 E4>,note,buonamici1187,0.5,153.5,GeneralNote
+52,,<music21.articulations.Fingering 3>,fingering,buonamici1188,0.0,0.0,Fingering
+52,,<music21.articulations.Staccato>,staccato,buonamici1189,0.0,0.0,Articulation
+52,,<music21.articulations.Fingering 1>,fingering,buonamici1190,0.0,0.0,Fingering
+52,,<music21.note.Note F#>,note,buonamici1191,0.25,153.75,GeneralNote
+52,,<music21.articulations.Fingering 4>,fingering,buonamici1192,0.0,0.0,Fingering
+52,,<music21.note.Rest dotted-half>,note,buonamici1193,3.0,154.0,GeneralNote
+52,,<music21.chord.Chord B4 E5>,note,buonamici1194,0.25,154.0,GeneralNote
+52,,<music21.articulations.Fingering 1>,fingering,buonamici1195,0.0,0.0,Fingering
+52,,<music21.articulations.Fingering 3>,fingering,buonamici1196,0.0,0.0,Fingering
+52,,<music21.chord.Chord E3 B3>,note,buonamici1197,0.5,154.0,GeneralNote
+52,,<music21.articulations.Fingering 5>,fingering,buonamici1198,0.0,0.0,Fingering
+52,,<music21.articulations.Staccato>,staccato,buonamici1199,0.0,0.0,Articulation
+52,,<music21.articulations.Fingering 2>,fingering,buonamici1200,0.0,0.0,Fingering
+52,,<music21.note.Note F#>,note,buonamici1201,0.25,154.25,GeneralNote
+52,,<music21.articulations.Fingering 4>,fingering,buonamici1202,0.0,0.0,Fingering
+52,,<music21.chord.Chord G4 E5>,note,buonamici1203,0.25,154.5,GeneralNote
+52,,<music21.articulations.Fingering 1>,fingering,buonamici1204,0.0,0.0,Fingering
+52,,<music21.articulations.Fingering 3>,fingering,buonamici1205,0.0,0.0,Fingering
+52,,<music21.chord.Chord B2 E3>,note,buonamici1206,0.5,154.5,GeneralNote
+52,,<music21.articulations.Fingering 3>,fingering,buonamici1207,0.0,0.0,Fingering
+52,,<music21.articulations.Staccato>,staccato,buonamici1208,0.0,0.0,Articulation
+52,,<music21.articulations.Fingering 1>,fingering,buonamici1209,0.0,0.0,Fingering
+52,,<music21.note.Note F#>,note,buonamici1210,0.25,154.75,GeneralNote
+52,,<music21.articulations.Fingering 4>,fingering,buonamici1211,0.0,0.0,Fingering
+52,,<music21.chord.Chord B4 E5>,note,buonamici1212,0.5,155.0,GeneralNote
+52,,<music21.articulations.Fingering 1>,fingering,buonamici1213,0.0,0.0,Fingering
+52,,<music21.articulations.Staccato>,staccato,buonamici1214,0.0,0.0,Articulation
+52,,<music21.articulations.Fingering 3>,fingering,buonamici1215,0.0,0.0,Fingering
+52,,<music21.chord.Chord E2 B2>,note,buonamici1216,1.5,155.0,GeneralNote
+52,,<music21.articulations.Fingering 5>,fingering,buonamici1217,0.0,0.0,Fingering
+52,,<music21.articulations.Tenuto>,tenuto,buonamici1218,0.0,0.0,Articulation
+52,,<music21.articulations.Fingering 2>,fingering,buonamici1219,0.0,0.0,Fingering
+52,,<music21.chord.Chord B4 F#5>,note,buonamici1220,0.5,155.5,GeneralNote
+52,,<music21.articulations.Fingering 2>,fingering,buonamici1221,0.0,0.0,Fingering
+52,,<music21.articulations.Staccato>,staccato,buonamici1222,0.0,0.0,Articulation
+52,,<music21.articulations.Fingering 5>,fingering,buonamici1223,0.0,0.0,Fingering
+52,,<music21.chord.Chord E4 B4>,note,buonamici1224,0.5,156.0,GeneralNote
+52,,<music21.articulations.Fingering 1>,fingering,buonamici1225,0.0,0.0,Fingering
+52,,<music21.articulations.Staccato>,staccato,buonamici1226,0.0,0.0,Articulation
+52,,<music21.articulations.Fingering 3>,fingering,buonamici1227,0.0,0.0,Fingering
+52,,<music21.note.Rest 16th>,note,buonamici1228,0.25,156.25,GeneralNote
+52,,<music21.note.Rest 16th>,note,buonamici1229,0.25,156.25,GeneralNote
+52,52,<music21.spanner.Slur <music21.chord.Chord G4 E5><music21.chord.Chord B4 E5>>,slur,buonamici1606,1.5,0.0,Slur
+52,,<music21.dynamics.Dynamic p>,p,buonamici1630,,,DynamicPoint
+53,,<music21.chord.Chord E5 G5>,note,buonamici1230,0.25,156.5,GeneralNote
+53,,<music21.articulations.Fingering 2>,fingering,buonamici1231,0.0,0.0,Fingering
+53,,<music21.articulations.Fingering 4>,fingering,buonamici1232,0.0,0.0,Fingering
+53,,<music21.chord.Chord B3 E4>,note,buonamici1233,0.5,156.5,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,buonamici1234,0.0,0.0,Articulation
+53,,<music21.chord.Chord B4 F#5>,note,buonamici1235,0.25,156.75,GeneralNote
+53,,<music21.articulations.Fingering 1>,fingering,buonamici1236,0.0,0.0,Fingering
+53,,<music21.articulations.Fingering 3>,fingering,buonamici1237,0.0,0.0,Fingering
+53,,<music21.note.Rest dotted-half>,note,buonamici1238,3.0,157.0,GeneralNote
+53,,<music21.chord.Chord E5 G5>,note,buonamici1239,0.25,157.0,GeneralNote
+53,,<music21.chord.Chord E3 B3>,note,buonamici1240,0.5,157.0,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,buonamici1241,0.0,0.0,Articulation
+53,,<music21.chord.Chord B4 F#5>,note,buonamici1242,0.25,157.25,GeneralNote
+53,,<music21.chord.Chord E5 G5>,note,buonamici1243,0.25,157.5,GeneralNote
+53,,<music21.chord.Chord B2 E3>,note,buonamici1244,0.5,157.5,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,buonamici1245,0.0,0.0,Articulation
+53,,<music21.chord.Chord B4 F#5>,note,buonamici1246,0.25,157.75,GeneralNote
+53,,<music21.note.Note E>,note,buonamici1247,0.5,158.0,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,buonamici1248,0.0,0.0,Articulation
+53,,<music21.chord.Chord E2 B2>,note,buonamici1249,1.5,158.0,GeneralNote
+53,,<music21.articulations.Tenuto>,tenuto,buonamici1250,0.0,0.0,Articulation
+53,,<music21.chord.Chord B4 F#5>,note,buonamici1251,0.5,158.5,GeneralNote
+53,,<music21.articulations.Fingering 2>,fingering,buonamici1252,0.0,0.0,Fingering
+53,,<music21.articulations.Staccato>,staccato,buonamici1253,0.0,0.0,Articulation
+53,,<music21.articulations.Fingering 5>,fingering,buonamici1254,0.0,0.0,Fingering
+53,,<music21.note.Rest dotted-eighth>,note,buonamici1255,0.75,158.75,GeneralNote
+53,,<music21.note.Rest dotted-eighth>,note,buonamici1256,0.75,158.75,GeneralNote
+53,,<music21.chord.Chord E4 B4>,note,buonamici1257,0.5,159.0,GeneralNote
+53,,<music21.articulations.Fingering 1>,fingering,buonamici1258,0.0,0.0,Fingering
+53,,<music21.articulations.Staccato>,staccato,buonamici1259,0.0,0.0,Articulation
+53,,<music21.articulations.Fingering 3>,fingering,buonamici1260,0.0,0.0,Fingering
+53,53,<music21.spanner.Slur <music21.chord.Chord E5 G5><music21.note.Note E>>,slur,buonamici1607,1.5,0.0,Slur
+54,,<music21.chord.Chord E5 G5>,note,buonamici1261,0.25,159.5,GeneralNote
+54,,<music21.chord.Chord B3 E4>,note,buonamici1262,0.5,159.5,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,buonamici1263,0.0,0.0,Articulation
+54,,<music21.chord.Chord B4 F#5>,note,buonamici1264,0.25,159.75,GeneralNote
+54,,<music21.note.Rest dotted-half>,note,buonamici1265,3.0,160.0,GeneralNote
+54,,<music21.chord.Chord E5 G5>,note,buonamici1266,0.25,160.0,GeneralNote
+54,,<music21.chord.Chord E3 B3>,note,buonamici1267,0.5,160.0,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,buonamici1268,0.0,0.0,Articulation
+54,,<music21.chord.Chord B4 F#5>,note,buonamici1269,0.25,160.25,GeneralNote
+54,,<music21.chord.Chord E5 G5>,note,buonamici1270,0.25,160.5,GeneralNote
+54,,<music21.chord.Chord B2 E3>,note,buonamici1271,0.5,160.5,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,buonamici1272,0.0,0.0,Articulation
+54,,<music21.chord.Chord B4 F#5>,note,buonamici1273,0.25,160.75,GeneralNote
+54,,<music21.note.Note E>,note,buonamici1274,0.5,161.0,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,buonamici1275,0.0,0.0,Articulation
+54,,<music21.chord.Chord E2 B2>,note,buonamici1276,1.5,161.0,GeneralNote
+54,,<music21.articulations.Tenuto>,tenuto,buonamici1277,0.0,0.0,Articulation
+54,,<music21.chord.Chord B4 F#5>,note,buonamici1278,0.5,161.5,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,buonamici1279,0.0,0.0,Articulation
+54,,<music21.note.Rest dotted-eighth>,note,buonamici1280,0.75,161.75,GeneralNote
+54,,<music21.note.Rest dotted-eighth>,note,buonamici1281,0.75,161.75,GeneralNote
+54,,<music21.chord.Chord E4 B4>,note,buonamici1282,0.5,162.0,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,buonamici1283,0.0,0.0,Articulation
+54,54,<music21.spanner.Slur <music21.chord.Chord E5 G5><music21.note.Note E>>,slur,buonamici1608,1.5,0.0,Slur
+55,,<music21.chord.Chord E5 G5>,note,buonamici1284,0.5,162.5,GeneralNote
+55,,<music21.chord.Chord E3 B3 G4>,note,buonamici1285,1.5,162.5,GeneralNote
+55,,<music21.note.Rest dotted-half>,note,buonamici1286,3.0,163.0,GeneralNote
+55,,<music21.chord.Chord F#5 A5>,note,buonamici1287,0.5,163.0,GeneralNote
+55,,<music21.note.Rest dotted-eighth>,note,buonamici1288,0.75,163.25,GeneralNote
+55,,<music21.note.Rest dotted-eighth>,note,buonamici1289,0.75,163.25,GeneralNote
+55,,<music21.chord.Chord G5 B5>,note,buonamici1290,0.5,163.5,GeneralNote
+55,,<music21.chord.Chord G5 B5>,note,buonamici1291,0.5,164.0,GeneralNote
+55,,<music21.chord.Chord A3 C4 E4>,note,buonamici1292,1.5,164.0,GeneralNote
+55,,<music21.chord.Chord F#5 A5>,note,buonamici1293,0.5,164.5,GeneralNote
+55,,<music21.note.Rest dotted-eighth>,note,buonamici1294,0.75,164.75,GeneralNote
+55,,<music21.note.Rest dotted-eighth>,note,buonamici1295,0.75,164.75,GeneralNote
+55,,<music21.chord.Chord E5 G5>,note,buonamici1296,0.5,165.0,GeneralNote
+55,,<music21.note.Rest 16th>,note,buonamici1297,0.25,165.25,GeneralNote
+55,,<music21.note.Rest 16th>,note,buonamici1298,0.25,165.25,GeneralNote
+55,55,<music21.spanner.Slur <music21.chord.Chord E5 G5><music21.chord.Chord E5 G5>>,slur,buonamici1609,2.5,0.0,Slur
+55,55,<music21.dynamics.Crescendo <music21.chord.Chord E5 G5><music21.chord.Chord F#5 A5>>,diminuendo,buonamici1680,,,DynamicRegion
+55,55,<music21.dynamics.Diminuendo <music21.chord.Chord G5 B5><music21.chord.Chord E5 G5>>,diminuendo,buonamici1682,,,DynamicRegion
+56,,<music21.note.Note F#>,note,buonamici1299,0.25,165.5,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,buonamici1300,0.0,0.0,Fingering
+56,,<music21.chord.Chord B3 D#4>,note,buonamici1301,1.5,165.5,GeneralNote
+56,,<music21.note.Note E>,note,buonamici1302,0.25,165.75,GeneralNote
+56,,<music21.articulations.Fingering 1>,fingering,buonamici1303,0.0,0.0,Fingering
+56,,<music21.note.Rest dotted-half>,note,buonamici1304,3.0,166.0,GeneralNote
+56,,<music21.chord.Chord D#5 F#5>,note,buonamici1305,0.25,166.0,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,buonamici1306,0.0,0.0,Fingering
+56,,<music21.articulations.Fingering 4>,fingering,buonamici1307,0.0,0.0,Fingering
+56,,<music21.note.Note C#>,note,buonamici1308,0.25,166.25,GeneralNote
+56,,<music21.articulations.Fingering 1>,fingering,buonamici1309,0.0,0.0,Fingering
+56,,<music21.chord.Chord B4 D#5>,note,buonamici1310,0.25,166.5,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,buonamici1311,0.0,0.0,Fingering
+56,,<music21.articulations.Fingering 4>,fingering,buonamici1312,0.0,0.0,Fingering
+56,,<music21.note.Note A>,note,buonamici1313,0.25,166.75,GeneralNote
+56,,<music21.articulations.Fingering 1>,fingering,buonamici1314,0.0,0.0,Fingering
+56,,<music21.chord.Chord G4 B4>,note,buonamici1315,0.25,167.0,GeneralNote
+56,,<music21.articulations.Fingering 3>,fingering,buonamici1316,0.0,0.0,Fingering
+56,,<music21.articulations.Fingering 5>,fingering,buonamici1317,0.0,0.0,Fingering
+56,,<music21.note.Note B>,note,buonamici1318,0.5,167.0,GeneralNote
+56,,<music21.note.Note F#>,note,buonamici1319,0.25,167.25,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,buonamici1320,0.0,0.0,Fingering
+56,,<music21.note.Note E>,note,buonamici1321,0.25,167.5,GeneralNote
+56,,<music21.articulations.Fingering 1>,fingering,buonamici1322,0.0,0.0,Fingering
+56,,<music21.note.Rest eighth>,note,buonamici1323,0.5,167.5,GeneralNote
+56,,<music21.note.Note D#>,note,buonamici1324,0.25,167.75,GeneralNote
+56,,<music21.articulations.Fingering 3>,fingering,buonamici1325,0.0,0.0,Fingering
+56,,<music21.note.Note C#>,note,buonamici1326,0.25,168.0,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,buonamici1327,0.0,0.0,Fingering
+56,,<music21.note.Rest eighth>,note,buonamici1328,0.5,168.0,GeneralNote
+56,,<music21.note.Note B>,note,buonamici1329,0.25,168.25,GeneralNote
+56,,<music21.articulations.Fingering 1>,fingering,buonamici1330,0.0,0.0,Fingering
+56,56,<music21.spanner.Slur <music21.note.Note F#><music21.note.Note B>>,slur,buonamici1610,2.75,0.0,Slur
+56,56,<music21.spanner.Slur <music21.chord.Chord B3 D#4><music21.note.Note B>>,slur,buonamici1611,1.5,0.0,Slur
+56,56,<music21.dynamics.Diminuendo <music21.note.Note E><music21.note.Note C#>>,diminuendo,buonamici1684,,,DynamicRegion
+57,,<music21.chord.Chord E4 G4>,note,buonamici1331,0.25,168.5,GeneralNote
+57,,<music21.note.Note E>,note,buonamici1332,0.5,168.5,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,buonamici1333,0.0,0.0,Articulation
+57,,<music21.chord.Chord B3 F#4>,note,buonamici1334,0.25,168.75,GeneralNote
+57,,<music21.note.Rest dotted-half>,note,buonamici1335,3.0,169.0,GeneralNote
+57,,<music21.chord.Chord E4 G4>,note,buonamici1336,0.25,169.0,GeneralNote
+57,,<music21.note.Note B>,note,buonamici1337,0.5,169.0,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,buonamici1338,0.0,0.0,Articulation
+57,,<music21.chord.Chord B3 F#4>,note,buonamici1339,0.25,169.25,GeneralNote
+57,,<music21.chord.Chord E4 G4>,note,buonamici1340,0.25,169.5,GeneralNote
+57,,<music21.note.Note E>,note,buonamici1341,0.5,169.5,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,buonamici1342,0.0,0.0,Articulation
+57,,<music21.chord.Chord B3 F#4>,note,buonamici1343,0.25,169.75,GeneralNote
+57,,<music21.note.Note G>,note,buonamici1344,0.5,170.0,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,buonamici1345,0.0,0.0,Articulation
+57,,<music21.note.Note B>,note,buonamici1346,1.5,170.0,GeneralNote
+57,,<music21.articulations.Tenuto>,tenuto,buonamici1347,0.0,0.0,Articulation
+57,,<music21.note.Note F#>,note,buonamici1348,0.5,170.5,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,buonamici1349,0.0,0.0,Articulation
+57,,<music21.note.Rest dotted-eighth>,note,buonamici1350,0.75,170.75,GeneralNote
+57,,<music21.note.Rest dotted-eighth>,note,buonamici1351,0.75,170.75,GeneralNote
+57,,<music21.note.Note B>,note,buonamici1352,0.5,171.0,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,buonamici1353,0.0,0.0,Articulation
+57,57,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note G>>,slur,buonamici1612,1.5,0.0,Slur
+57,,<music21.dynamics.Dynamic pp>,pp,buonamici1631,,,DynamicPoint
+58,,<music21.chord.Chord E4 G4>,note,buonamici1354,0.25,171.5,GeneralNote
+58,,<music21.note.Note E>,note,buonamici1355,0.5,171.5,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,buonamici1356,0.0,0.0,Articulation
+58,,<music21.chord.Chord B3 F#4>,note,buonamici1357,0.25,171.75,GeneralNote
+58,,<music21.note.Rest dotted-half>,note,buonamici1358,3.0,172.0,GeneralNote
+58,,<music21.chord.Chord E4 G4>,note,buonamici1359,0.25,172.0,GeneralNote
+58,,<music21.note.Note B>,note,buonamici1360,0.5,172.0,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,buonamici1361,0.0,0.0,Articulation
+58,,<music21.chord.Chord B3 F#4>,note,buonamici1362,0.25,172.25,GeneralNote
+58,,<music21.chord.Chord E4 G4>,note,buonamici1363,0.25,172.5,GeneralNote
+58,,<music21.note.Note E>,note,buonamici1364,0.5,172.5,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,buonamici1365,0.0,0.0,Articulation
+58,,<music21.chord.Chord B3 F#4>,note,buonamici1366,0.25,172.75,GeneralNote
+58,,<music21.note.Note G>,note,buonamici1367,0.5,173.0,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,buonamici1368,0.0,0.0,Articulation
+58,,<music21.note.Note B>,note,buonamici1369,1.5,173.0,GeneralNote
+58,,<music21.articulations.Tenuto>,tenuto,buonamici1370,0.0,0.0,Articulation
+58,,<music21.note.Note F#>,note,buonamici1371,0.5,173.5,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,buonamici1372,0.0,0.0,Articulation
+58,,<music21.note.Rest dotted-eighth>,note,buonamici1373,0.75,173.75,GeneralNote
+58,,<music21.note.Rest dotted-eighth>,note,buonamici1374,0.75,173.75,GeneralNote
+58,,<music21.note.Note B>,note,buonamici1375,0.5,174.0,GeneralNote
+58,,<music21.articulations.Staccato>,staccato,buonamici1376,0.0,0.0,Articulation
+58,58,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note G>>,slur,buonamici1613,1.5,0.0,Slur
+59,,<music21.chord.Chord E4 G4>,note,buonamici1377,0.25,174.5,GeneralNote
+59,,<music21.note.Note E>,note,buonamici1378,0.5,174.5,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,buonamici1379,0.0,0.0,Articulation
+59,,<music21.chord.Chord B3 F#4>,note,buonamici1380,0.25,174.75,GeneralNote
+59,,<music21.note.Rest dotted-half>,note,buonamici1381,3.0,175.0,GeneralNote
+59,,<music21.chord.Chord E4 G4>,note,buonamici1382,0.25,175.0,GeneralNote
+59,,<music21.note.Note B>,note,buonamici1383,0.5,175.0,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,buonamici1384,0.0,0.0,Articulation
+59,,<music21.chord.Chord B3 F#4>,note,buonamici1385,0.25,175.25,GeneralNote
+59,,<music21.chord.Chord E4 G4>,note,buonamici1386,0.25,175.5,GeneralNote
+59,,<music21.note.Note E>,note,buonamici1387,0.5,175.5,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,buonamici1388,0.0,0.0,Articulation
+59,,<music21.chord.Chord B3 F#4>,note,buonamici1389,0.25,175.75,GeneralNote
+59,,<music21.note.Note G>,note,buonamici1390,0.5,176.0,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,buonamici1391,0.0,0.0,Articulation
+59,,<music21.note.Note B>,note,buonamici1392,1.5,176.0,GeneralNote
+59,,<music21.articulations.Tenuto>,tenuto,buonamici1393,0.0,0.0,Articulation
+59,,<music21.note.Note F#>,note,buonamici1394,0.5,176.5,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,buonamici1395,0.0,0.0,Articulation
+59,,<music21.note.Rest dotted-eighth>,note,buonamici1396,0.75,176.75,GeneralNote
+59,,<music21.note.Rest dotted-eighth>,note,buonamici1397,0.75,176.75,GeneralNote
+59,,<music21.note.Note B>,note,buonamici1398,0.5,177.0,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,buonamici1399,0.0,0.0,Articulation
+59,59,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.note.Note G>>,slur,buonamici1614,1.5,0.0,Slur
+60,,<music21.note.Note G>,note,buonamici1400,0.5,177.5,GeneralNote
+60,,<music21.note.Note E>,note,buonamici1401,0.5,177.5,GeneralNote
+60,,<music21.note.Note E>,note,buonamici1402,1.0,177.5,GeneralNote
+60,,<music21.note.Rest dotted-half>,note,buonamici1403,3.0,178.0,GeneralNote
+60,,<music21.note.Note F#>,note,buonamici1404,0.5,178.0,GeneralNote
+60,,<music21.note.Rest eighth>,note,buonamici1405,0.5,178.0,GeneralNote
+60,,<music21.note.Rest eighth>,note,buonamici1406,0.5,178.0,GeneralNote
+60,,<music21.note.Note E>,note,buonamici1407,0.5,178.5,GeneralNote
+60,,<music21.note.Rest eighth>,note,buonamici1408,0.5,178.5,GeneralNote
+60,,<music21.note.Rest eighth>,note,buonamici1409,0.5,178.5,GeneralNote
+60,,<music21.chord.Chord A3 C4>,note,buonamici1410,0.5,178.5,GeneralNote
+60,,<music21.note.Rest 16th>,note,buonamici1411,0.25,178.75,GeneralNote
+60,,<music21.note.Rest 16th>,note,buonamici1412,0.25,178.75,GeneralNote
+60,,<music21.note.Rest 16th>,note,buonamici1413,0.25,178.75,GeneralNote
+60,,<music21.note.Rest 16th>,note,buonamici1414,0.25,178.75,GeneralNote
+60,,<music21.note.Note E>,note,buonamici1415,0.5,179.0,GeneralNote
+60,,<music21.note.Rest quarter>,note,buonamici1416,1.0,179.0,GeneralNote
+60,,<music21.note.Rest quarter>,note,buonamici1417,1.0,179.0,GeneralNote
+60,,<music21.note.Note B>,note,buonamici1418,1.0,179.0,GeneralNote
+60,,<music21.note.Note F#>,note,buonamici1419,0.5,179.5,GeneralNote
+60,,<music21.note.Note D#>,note,buonamici1420,0.5,180.0,GeneralNote
+60,,<music21.note.Rest eighth>,note,buonamici1421,0.5,180.0,GeneralNote
+60,,<music21.note.Rest eighth>,note,buonamici1422,0.5,180.0,GeneralNote
+60,,<music21.chord.Chord B2 F#3>,note,buonamici1423,0.5,180.0,GeneralNote
+60,,<music21.note.Rest 16th>,note,buonamici1424,0.25,180.25,GeneralNote
+60,,<music21.note.Rest 16th>,note,buonamici1425,0.25,180.25,GeneralNote
+60,60,<music21.spanner.Slur <music21.note.Note E><music21.chord.Chord B2 F#3>>,slur,buonamici1615,2.5,0.0,Slur
+60,60,<music21.dynamics.Crescendo <music21.note.Note G><music21.note.Note E>>,diminuendo,buonamici1686,,,DynamicRegion
+60,60,<music21.dynamics.Diminuendo <music21.note.Note E><music21.note.Note D#>>,diminuendo,buonamici1688,,,DynamicRegion
+61,,<music21.note.Note E>,note,buonamici1426,0.25,180.5,GeneralNote
+61,,<music21.chord.Chord E2 B2 G3>,note,buonamici1427,1.5,180.5,GeneralNote
+61,,<music21.note.Note F#>,note,buonamici1428,0.25,180.75,GeneralNote
+61,,<music21.note.Rest dotted-half>,note,buonamici1429,3.0,181.0,GeneralNote
+61,,<music21.note.Note G>,note,buonamici1430,0.25,181.0,GeneralNote
+61,,<music21.note.Note A>,note,buonamici1431,0.25,181.25,GeneralNote
+61,,<music21.note.Note B>,note,buonamici1432,0.25,181.5,GeneralNote
+61,,<music21.note.Note C#>,note,buonamici1433,0.125,181.75,GeneralNote
+61,,<music21.note.Note D#>,note,buonamici1434,0.125,181.875,GeneralNote
+61,,<music21.note.Note E>,note,buonamici1435,1/6,182.0,GeneralNote
+61,,<music21.articulations.Fingering 1>,fingering,buonamici1436,0.0,0.0,Fingering
+61,,<music21.chord.Chord E2 B2 G3>,note,buonamici1437,1.5,182.0,GeneralNote
+61,,<music21.note.Note F#>,note,buonamici1438,1/6,1093/6,GeneralNote
+61,,<music21.articulations.Fingering 3>,fingering,buonamici1439,0.0,0.0,Fingering
+61,,<music21.note.Note E>,note,buonamici1440,1/6,547/3,GeneralNote
+61,,<music21.articulations.Fingering 2>,fingering,buonamici1441,0.0,0.0,Fingering
+61,,<music21.note.Note B>,note,buonamici1442,0.5,182.5,GeneralNote
+61,,<music21.articulations.Staccato>,staccato,buonamici1443,0.0,0.0,Articulation
+61,,<music21.note.Note B>,note,buonamici1444,0.5,183.0,GeneralNote
+61,,<music21.articulations.Staccato>,staccato,buonamici1445,0.0,0.0,Articulation
+61,,<music21.note.Rest 16th>,note,buonamici1446,0.25,183.25,GeneralNote
+61,,<music21.note.Rest 16th>,note,buonamici1447,0.25,183.25,GeneralNote
+61,61,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D#>>,slur,buonamici1616,1.375,0.0,Slur
+61,61,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,buonamici1617,0.5,0.0,Slur
+61,,<music21.expressions.TextExpression 'rall.'>,rall.,buonamici1696,0.0,182.0,TextExpression
+62,,<music21.note.Note E>,note,buonamici1448,1/6,183.5,GeneralNote
+62,,<music21.chord.Chord E2 B2 G3>,note,buonamici1449,1.5,183.5,GeneralNote
+62,,<music21.note.Note F#>,note,buonamici1450,1/6,551/3,GeneralNote
+62,,<music21.note.Note E>,note,buonamici1451,1/6,1103/6,GeneralNote
+62,,<music21.note.Rest dotted-half>,note,buonamici1452,3.0,184.0,GeneralNote
+62,,<music21.note.Note B>,note,buonamici1453,0.5,184.0,GeneralNote
+62,,<music21.articulations.Staccato>,staccato,buonamici1454,0.0,0.0,Articulation
+62,,<music21.note.Note B>,note,buonamici1455,0.5,184.5,GeneralNote
+62,,<music21.articulations.Staccato>,staccato,buonamici1456,0.0,0.0,Articulation
+62,,<music21.note.Rest 16th>,note,buonamici1457,0.25,184.75,GeneralNote
+62,,<music21.note.Rest 16th>,note,buonamici1458,0.25,184.75,GeneralNote
+62,,<music21.note.Note E>,note,buonamici1459,1/6,185.0,GeneralNote
+62,,<music21.chord.Chord E2 B2 G3>,note,buonamici1460,1.5,185.0,GeneralNote
+62,,<music21.note.Note F#>,note,buonamici1461,1/6,1111/6,GeneralNote
+62,,<music21.note.Note E>,note,buonamici1462,1/6,556/3,GeneralNote
+62,,<music21.note.Note B>,note,buonamici1463,0.5,185.5,GeneralNote
+62,,<music21.articulations.Staccato>,staccato,buonamici1464,0.0,0.0,Articulation
+62,,<music21.note.Note B>,note,buonamici1465,0.5,186.0,GeneralNote
+62,,<music21.articulations.Staccato>,staccato,buonamici1466,0.0,0.0,Articulation
+62,,<music21.note.Rest 16th>,note,buonamici1467,0.25,186.25,GeneralNote
+62,,<music21.note.Rest 16th>,note,buonamici1468,0.25,186.25,GeneralNote
+62,62,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,buonamici1618,0.5,0.0,Slur
+62,62,<music21.spanner.Slur <music21.note.Note E><music21.note.Note B>>,slur,buonamici1619,0.5,0.0,Slur
+63,,<music21.chord.Chord G4 E5>,note,buonamici1469,0.25,186.5,GeneralNote
+63,,<music21.articulations.Fingering 1>,fingering,buonamici1470,0.0,0.0,Fingering
+63,,<music21.articulations.Fingering 3>,fingering,buonamici1471,0.0,0.0,Fingering
+63,,<music21.note.Note B>,note,buonamici1472,0.25,186.5,GeneralNote
+63,,<music21.articulations.Fingering 2>,fingering,buonamici1473,0.0,0.0,Fingering
+63,,<music21.note.Note E>,note,buonamici1474,3.0,186.5,GeneralNote
+63,,<music21.note.Note F#>,note,buonamici1475,0.25,186.75,GeneralNote
+63,,<music21.articulations.Fingering 4>,fingering,buonamici1476,0.0,0.0,Fingering
+63,,<music21.note.Note G>,note,buonamici1477,0.25,186.75,GeneralNote
+63,,<music21.note.Rest dotted-half>,note,buonamici1478,3.0,187.0,GeneralNote
+63,,<music21.chord.Chord B4 E5>,note,buonamici1479,0.25,187.0,GeneralNote
+63,,<music21.articulations.Fingering 1>,fingering,buonamici1480,0.0,0.0,Fingering
+63,,<music21.articulations.Fingering 3>,fingering,buonamici1481,0.0,0.0,Fingering
+63,,<music21.note.Note B>,note,buonamici1482,0.25,187.0,GeneralNote
+63,,<music21.articulations.Fingering 3>,fingering,buonamici1483,0.0,0.0,Fingering
+63,,<music21.note.Note F#>,note,buonamici1484,0.25,187.25,GeneralNote
+63,,<music21.articulations.Fingering 4>,fingering,buonamici1485,0.0,0.0,Fingering
+63,,<music21.note.Note G>,note,buonamici1486,0.25,187.25,GeneralNote
+63,,<music21.chord.Chord G4 E5>,note,buonamici1487,0.25,187.5,GeneralNote
+63,,<music21.articulations.Fingering 1>,fingering,buonamici1488,0.0,0.0,Fingering
+63,,<music21.articulations.Fingering 3>,fingering,buonamici1489,0.0,0.0,Fingering
+63,,<music21.note.Note B>,note,buonamici1490,0.25,187.5,GeneralNote
+63,,<music21.articulations.Fingering 2>,fingering,buonamici1491,0.0,0.0,Fingering
+63,,<music21.note.Note F#>,note,buonamici1492,0.25,187.75,GeneralNote
+63,,<music21.articulations.Fingering 4>,fingering,buonamici1493,0.0,0.0,Fingering
+63,,<music21.note.Note G>,note,buonamici1494,0.25,187.75,GeneralNote
+63,,<music21.chord.Chord G4 E5>,note,buonamici1495,0.25,188.0,GeneralNote
+63,,<music21.note.Note B>,note,buonamici1496,0.25,188.0,GeneralNote
+63,,<music21.articulations.Fingering 3>,fingering,buonamici1497,0.0,0.0,Fingering
+63,,<music21.note.Note F#>,note,buonamici1498,0.25,188.25,GeneralNote
+63,,<music21.note.Note G>,note,buonamici1499,0.25,188.25,GeneralNote
+63,,<music21.chord.Chord B4 E5>,note,buonamici1500,0.25,188.5,GeneralNote
+63,,<music21.note.Note B>,note,buonamici1501,0.25,188.5,GeneralNote
+63,,<music21.articulations.Fingering 2>,fingering,buonamici1502,0.0,0.0,Fingering
+63,,<music21.note.Note F#>,note,buonamici1503,0.25,188.75,GeneralNote
+63,,<music21.note.Note G>,note,buonamici1504,0.25,188.75,GeneralNote
+63,,<music21.chord.Chord G4 E5>,note,buonamici1505,0.25,189.0,GeneralNote
+63,,<music21.note.Note B>,note,buonamici1506,0.25,189.0,GeneralNote
+63,,<music21.note.Note F#>,note,buonamici1507,0.25,189.25,GeneralNote
+63,,<music21.note.Note G>,note,buonamici1508,0.25,189.25,GeneralNote
+63,63,<music21.spanner.Slur <music21.chord.Chord G4 E5><music21.note.Note F#>>,slur,buonamici1620,2.75,0.0,Slur
+63,63,<music21.spanner.Slur <music21.note.Note B><music21.note.Note G>>,slur,buonamici1621,2.75,0.0,Slur
+63,,<music21.dynamics.Dynamic pp>,pp,buonamici1632,,,DynamicPoint
+63,,<music21.expressions.TextExpression 'a tempo ug...'>,a tempo uguali,buonamici1697,0.0,186.5,TextExpression
+64,,<music21.chord.Chord G4 E5>,note,buonamici1509,1.5,189.5,GeneralNote
+64,,<music21.note.Note B>,note,buonamici1510,1.5,189.5,GeneralNote
+64,,<music21.note.Note E>,note,buonamici1511,1.5,189.5,GeneralNote
+64,,<music21.note.Rest dotted-half>,note,buonamici1512,3.0,190.0,GeneralNote
+64,,<music21.chord.Chord G4 E5>,note,buonamici1513,1.0,191.0,GeneralNote
+64,,<music21.note.Note B>,note,buonamici1514,1.0,191.0,GeneralNote
+64,,<music21.note.Note E>,note,buonamici1515,1.0,191.0,GeneralNote
+64,,<music21.note.Rest eighth>,note,buonamici1516,0.5,191.5,GeneralNote
+64,,<music21.note.Rest eighth>,note,buonamici1517,0.5,191.5,GeneralNote

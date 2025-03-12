@@ -1,0 +1,1264 @@
+measure_start,measure_end,object,value,id,quarterlength,offset,type
+0,,<music21.note.Note A>,note,dunhill1,0.5,0.0,GeneralNote
+0,,<music21.articulations.Fingering 1>,fingering,dunhill2,0.0,0.0,Fingering
+0,,<music21.articulations.Staccato>,staccato,dunhill3,0.0,0.0,Articulation
+0,,<music21.note.Rest eighth>,note,dunhill4,0.5,0.0,GeneralNote
+0,,<music21.dynamics.Dynamic p>,p,dunhill1232,,,DynamicPoint
+0,,<music21.expressions.TextExpression 'Allegro'>,Allegro,dunhill1259,0.0,0.0,TextExpression
+0,,<music21.tempo.MetronomeMark Quarter=144 (playback only)>,None,dunhill1268,0.0,0.0,TempoIndication
+0,,<music21.tempo.MetronomeMark Quarter=144 (playback only)>,None None,dunhill1269,0.0,0.0,MetronomeMark
+1,,<music21.note.Note D>,note,dunhill5,0.5,0.5,GeneralNote
+1,,<music21.articulations.Fingering 2>,fingering,dunhill6,0.0,0.0,Fingering
+1,,<music21.chord.Chord D4 F4>,note,dunhill7,1.5,0.5,GeneralNote
+1,,<music21.articulations.Fingering 3>,fingering,dunhill8,0.0,0.0,Fingering
+1,,<music21.articulations.Fingering 1>,fingering,dunhill9,0.0,0.0,Fingering
+1,,<music21.note.Note E>,note,dunhill10,0.5,1.0,GeneralNote
+1,,<music21.note.Note F>,note,dunhill11,0.5,1.5,GeneralNote
+1,,<music21.note.Note E>,note,dunhill12,0.5,2.0,GeneralNote
+1,,<music21.chord.Chord C#4 E4>,note,dunhill13,1.5,2.0,GeneralNote
+1,,<music21.articulations.Fingering 4>,fingering,dunhill14,0.0,0.0,Fingering
+1,,<music21.articulations.Fingering 2>,fingering,dunhill15,0.0,0.0,Fingering
+1,,<music21.note.Note A>,note,dunhill16,0.5,2.5,GeneralNote
+1,,<music21.note.Note A>,note,dunhill17,0.5,3.0,GeneralNote
+1,1,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,dunhill1142,2.5,0.0,Slur
+2,,<music21.note.Note F>,note,dunhill18,1.5,3.5,GeneralNote
+2,,<music21.articulations.Fingering 2>,fingering,dunhill19,0.0,0.0,Fingering
+2,,<music21.note.Note D>,note,dunhill20,0.5,3.5,GeneralNote
+2,,<music21.articulations.Fingering 3>,fingering,dunhill21,0.0,0.0,Fingering
+2,,<music21.note.Note F>,note,dunhill22,0.5,4.0,GeneralNote
+2,,<music21.articulations.Fingering 2>,fingering,dunhill23,0.0,0.0,Fingering
+2,,<music21.note.Note A>,note,dunhill24,0.5,4.5,GeneralNote
+2,,<music21.articulations.Fingering 1>,fingering,dunhill25,0.0,0.0,Fingering
+2,,<music21.note.Note F>,note,dunhill26,1.0,5.0,GeneralNote
+2,,<music21.note.Note C>,note,dunhill27,0.5,5.0,GeneralNote
+2,,<music21.articulations.Fingering 4>,fingering,dunhill28,0.0,0.0,Fingering
+2,,<music21.note.Note F>,note,dunhill29,0.5,5.5,GeneralNote
+2,,<music21.note.Note A>,note,dunhill30,0.5,6.0,GeneralNote
+2,,<music21.articulations.Fingering 3>,fingering,dunhill31,0.0,0.0,Fingering
+2,,<music21.articulations.Staccato>,staccato,dunhill32,0.0,0.0,Articulation
+2,,<music21.note.Note A>,note,dunhill33,0.5,6.0,GeneralNote
+2,2,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,dunhill1143,1.5,0.0,Slur
+2,3,<music21.spanner.Slur <music21.note.Note D><music21.chord.Chord B-3 D4>>,slur,dunhill1144,3.0,0.0,Slur
+3,,<music21.note.Note G>,note,dunhill34,0.5,6.5,GeneralNote
+3,,<music21.articulations.Fingering 2>,fingering,dunhill35,0.0,0.0,Fingering
+3,,<music21.chord.Chord B-3 D4>,note,dunhill36,1.5,6.5,GeneralNote
+3,,<music21.articulations.Fingering 5>,fingering,dunhill37,0.0,0.0,Fingering
+3,,<music21.articulations.Fingering 3>,fingering,dunhill38,0.0,0.0,Fingering
+3,,<music21.note.Note B->,note,dunhill39,0.25,7.0,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,dunhill40,0.0,0.0,Fingering
+3,,<music21.note.Note A>,note,dunhill41,0.25,7.25,GeneralNote
+3,,<music21.note.Note G>,note,dunhill42,0.25,7.5,GeneralNote
+3,,<music21.note.Note F>,note,dunhill43,0.25,7.75,GeneralNote
+3,,<music21.note.Note E>,note,dunhill44,0.5,8.0,GeneralNote
+3,,<music21.articulations.Fingering 2>,fingering,dunhill45,0.0,0.0,Fingering
+3,,<music21.chord.Chord G3 D4 E4>,note,dunhill46,1.5,8.0,GeneralNote
+3,,<music21.note.Note G>,note,dunhill47,0.25,8.5,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,dunhill48,0.0,0.0,Fingering
+3,,<music21.note.Note F>,note,dunhill49,0.25,8.75,GeneralNote
+3,,<music21.note.Note E>,note,dunhill50,0.25,9.0,GeneralNote
+3,,<music21.note.Note D>,note,dunhill51,0.25,9.25,GeneralNote
+3,3,<music21.spanner.Slur <music21.note.Note G><music21.note.Note D>>,slur,dunhill1145,2.75,0.0,Slur
+4,,<music21.note.Note D>,note,dunhill52,1.0,9.5,GeneralNote
+4,,<music21.articulations.Fingering 3>,fingering,dunhill53,0.0,0.0,Fingering
+4,,<music21.note.Note A>,note,dunhill54,0.5,9.5,GeneralNote
+4,,<music21.articulations.Fingering 5>,fingering,dunhill55,0.0,0.0,Fingering
+4,,<music21.note.Note C#>,note,dunhill56,0.5,10.0,GeneralNote
+4,,<music21.articulations.Fingering 3>,fingering,dunhill57,0.0,0.0,Fingering
+4,,<music21.note.Note C#>,note,dunhill58,0.5,10.5,GeneralNote
+4,,<music21.note.Note E>,note,dunhill59,0.5,10.5,GeneralNote
+4,,<music21.note.Note C#>,note,dunhill60,1.0,11.0,GeneralNote
+4,,<music21.note.Note A>,note,dunhill61,0.25,11.0,GeneralNote
+4,,<music21.articulations.Fingering 1>,fingering,dunhill62,0.0,0.0,Fingering
+4,,<music21.note.Note G>,note,dunhill63,0.25,11.25,GeneralNote
+4,,<music21.note.Note F>,note,dunhill64,0.25,11.5,GeneralNote
+4,,<music21.note.Note E>,note,dunhill65,0.25,11.75,GeneralNote
+4,,<music21.note.Note A>,note,dunhill66,0.5,12.0,GeneralNote
+4,,<music21.articulations.Fingering 5>,fingering,dunhill67,0.0,0.0,Fingering
+4,,<music21.articulations.Staccato>,staccato,dunhill68,0.0,0.0,Articulation
+4,,<music21.note.Note D>,note,dunhill69,0.5,12.0,GeneralNote
+4,4,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C#>>,slur,dunhill1146,1.0,0.0,Slur
+4,4,<music21.spanner.Slur <music21.note.Note A><music21.note.Note D>>,slur,dunhill1147,2.5,0.0,Slur
+5,,<music21.note.Note C>,note,dunhill70,0.5,12.5,GeneralNote
+5,,<music21.articulations.Fingering 1>,fingering,dunhill71,0.0,0.0,Fingering
+5,,<music21.note.Note G>,note,dunhill72,1.0,12.5,GeneralNote
+5,,<music21.articulations.Fingering 2>,fingering,dunhill73,0.0,0.0,Fingering
+5,,<music21.note.Note B->,note,dunhill74,0.5,13.0,GeneralNote
+5,,<music21.articulations.Fingering 2>,fingering,dunhill75,0.0,0.0,Fingering
+5,,<music21.note.Note G>,note,dunhill76,0.5,13.5,GeneralNote
+5,,<music21.articulations.Fingering 5>,fingering,dunhill77,0.0,0.0,Fingering
+5,,<music21.articulations.Staccato>,staccato,dunhill78,0.0,0.0,Articulation
+5,,<music21.note.Note G>,note,dunhill79,0.5,13.5,GeneralNote
+5,,<music21.articulations.Fingering 1>,fingering,dunhill80,0.0,0.0,Fingering
+5,,<music21.articulations.Staccato>,staccato,dunhill81,0.0,0.0,Articulation
+5,,<music21.note.Note B->,note,dunhill82,0.5,14.0,GeneralNote
+5,,<music21.articulations.Fingering 2>,fingering,dunhill83,0.0,0.0,Fingering
+5,,<music21.note.Note F>,note,dunhill84,1.0,14.0,GeneralNote
+5,,<music21.articulations.Fingering 2>,fingering,dunhill85,0.0,0.0,Fingering
+5,,<music21.note.Note A>,note,dunhill86,0.5,14.5,GeneralNote
+5,,<music21.note.Note F>,note,dunhill87,0.5,15.0,GeneralNote
+5,,<music21.articulations.Staccato>,staccato,dunhill88,0.0,0.0,Articulation
+5,,<music21.note.Note F>,note,dunhill89,0.5,15.0,GeneralNote
+5,,<music21.articulations.Fingering 1>,fingering,dunhill90,0.0,0.0,Fingering
+5,,<music21.articulations.Staccato>,staccato,dunhill91,0.0,0.0,Articulation
+5,5,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B->>,slur,dunhill1148,0.5,0.0,Slur
+5,5,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A>>,slur,dunhill1149,0.5,0.0,Slur
+6,,<music21.note.Note A>,note,dunhill92,0.5,15.5,GeneralNote
+6,,<music21.articulations.Fingering 2>,fingering,dunhill93,0.0,0.0,Fingering
+6,,<music21.note.Note E>,note,dunhill94,1.0,15.5,GeneralNote
+6,,<music21.articulations.Fingering 2>,fingering,dunhill95,0.0,0.0,Fingering
+6,,<music21.note.Note G>,note,dunhill96,0.5,16.0,GeneralNote
+6,,<music21.note.Note E>,note,dunhill97,0.5,16.5,GeneralNote
+6,,<music21.articulations.Staccato>,staccato,dunhill98,0.0,0.0,Articulation
+6,,<music21.note.Note E>,note,dunhill99,0.5,16.5,GeneralNote
+6,,<music21.articulations.Staccato>,staccato,dunhill100,0.0,0.0,Articulation
+6,,<music21.note.Note G>,note,dunhill101,0.5,17.0,GeneralNote
+6,,<music21.articulations.Fingering 2>,fingering,dunhill102,0.0,0.0,Fingering
+6,,<music21.note.Note D>,note,dunhill103,1.0,17.0,GeneralNote
+6,,<music21.note.Note F>,note,dunhill104,0.5,17.5,GeneralNote
+6,,<music21.note.Note D>,note,dunhill105,0.5,18.0,GeneralNote
+6,,<music21.articulations.Staccato>,staccato,dunhill106,0.0,0.0,Articulation
+6,,<music21.note.Note D>,note,dunhill107,0.5,18.0,GeneralNote
+6,,<music21.articulations.Staccato>,staccato,dunhill108,0.0,0.0,Articulation
+6,6,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,dunhill1150,0.5,0.0,Slur
+6,6,<music21.spanner.Slur <music21.note.Note G><music21.note.Note F>>,slur,dunhill1151,0.5,0.0,Slur
+7,,<music21.note.Note F>,note,dunhill109,0.5,18.5,GeneralNote
+7,,<music21.articulations.Fingering 2>,fingering,dunhill110,0.0,0.0,Fingering
+7,,<music21.note.Note C>,note,dunhill111,1.0,18.5,GeneralNote
+7,,<music21.note.Note E>,note,dunhill112,0.5,19.0,GeneralNote
+7,,<music21.note.Note C>,note,dunhill113,0.5,19.5,GeneralNote
+7,,<music21.articulations.Staccato>,staccato,dunhill114,0.0,0.0,Articulation
+7,,<music21.note.Note C>,note,dunhill115,0.5,19.5,GeneralNote
+7,,<music21.articulations.Staccato>,staccato,dunhill116,0.0,0.0,Articulation
+7,,<music21.note.Note E>,note,dunhill117,0.5,20.0,GeneralNote
+7,,<music21.articulations.Fingering 2>,fingering,dunhill118,0.0,0.0,Fingering
+7,,<music21.note.Note B->,note,dunhill119,1.0,20.0,GeneralNote
+7,,<music21.note.Note D>,note,dunhill120,0.5,20.5,GeneralNote
+7,,<music21.note.Note B->,note,dunhill121,0.5,21.0,GeneralNote
+7,,<music21.articulations.Staccato>,staccato,dunhill122,0.0,0.0,Articulation
+7,,<music21.note.Note B->,note,dunhill123,0.5,21.0,GeneralNote
+7,,<music21.articulations.Fingering 3>,fingering,dunhill124,0.0,0.0,Fingering
+7,,<music21.articulations.Staccato>,staccato,dunhill125,0.0,0.0,Articulation
+7,7,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,dunhill1152,0.5,0.0,Slur
+7,7,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D>>,slur,dunhill1153,0.5,0.0,Slur
+8,,<music21.note.Note C>,note,dunhill126,0.5,21.5,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,dunhill127,0.0,0.0,Fingering
+8,,<music21.note.Note A>,note,dunhill128,0.5,21.5,GeneralNote
+8,,<music21.articulations.Fingering 4>,fingering,dunhill129,0.0,0.0,Fingering
+8,,<music21.note.Note D>,note,dunhill130,0.25,22.0,GeneralNote
+8,,<music21.note.Note B->,note,dunhill131,0.25,22.0,GeneralNote
+8,,<music21.note.Note E>,note,dunhill132,0.25,22.25,GeneralNote
+8,,<music21.note.Note C>,note,dunhill133,0.25,22.25,GeneralNote
+8,,<music21.note.Note F>,note,dunhill134,0.25,22.5,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,dunhill135,0.0,0.0,Fingering
+8,,<music21.note.Note D>,note,dunhill136,0.25,22.5,GeneralNote
+8,,<music21.note.Note G>,note,dunhill137,0.25,22.75,GeneralNote
+8,,<music21.note.Note E>,note,dunhill138,0.25,22.75,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,dunhill139,0.0,0.0,Fingering
+8,,<music21.note.Note A>,note,dunhill140,0.5,23.0,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,dunhill141,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,dunhill142,0.0,0.0,Articulation
+8,,<music21.note.Note F>,note,dunhill143,0.5,23.0,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,dunhill144,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,dunhill145,0.0,0.0,Articulation
+8,,<music21.note.Note G>,note,dunhill146,0.5,23.5,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,dunhill147,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,dunhill148,0.0,0.0,Articulation
+8,,<music21.note.Note E>,note,dunhill149,0.5,23.5,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,dunhill150,0.0,0.0,Articulation
+8,,<music21.note.Note F>,note,dunhill151,0.5,24.0,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,dunhill152,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,dunhill153,0.0,0.0,Articulation
+8,,<music21.note.Note D>,note,dunhill154,0.5,24.0,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,dunhill155,0.0,0.0,Articulation
+8,8,<music21.spanner.Slur <music21.note.Note C><music21.note.Note A>>,slur,dunhill1154,1.5,0.0,Slur
+8,8,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,dunhill1155,1.5,0.0,Slur
+8,,<music21.expressions.TextExpression 'cresc.'>,cresc.,dunhill1260,0.0,21.5,TextExpression
+9,,<music21.note.Note E>,note,dunhill156,0.25,24.5,GeneralNote
+9,,<music21.articulations.Fingering 1>,fingering,dunhill157,0.0,0.0,Fingering
+9,,<music21.note.Note C>,note,dunhill158,0.25,24.5,GeneralNote
+9,,<music21.articulations.Fingering 5>,fingering,dunhill159,0.0,0.0,Fingering
+9,,<music21.note.Note F>,note,dunhill160,0.25,24.75,GeneralNote
+9,,<music21.note.Note D>,note,dunhill161,0.25,24.75,GeneralNote
+9,,<music21.note.Note G>,note,dunhill162,0.25,25.0,GeneralNote
+9,,<music21.note.Note E>,note,dunhill163,0.25,25.0,GeneralNote
+9,,<music21.note.Note A>,note,dunhill164,0.25,25.25,GeneralNote
+9,,<music21.articulations.Fingering 1>,fingering,dunhill165,0.0,0.0,Fingering
+9,,<music21.note.Note F>,note,dunhill166,0.25,25.25,GeneralNote
+9,,<music21.note.Note B->,note,dunhill167,0.25,25.5,GeneralNote
+9,,<music21.note.Note G>,note,dunhill168,0.25,25.5,GeneralNote
+9,,<music21.note.Note C>,note,dunhill169,0.25,25.75,GeneralNote
+9,,<music21.note.Note A>,note,dunhill170,0.25,25.75,GeneralNote
+9,,<music21.articulations.Fingering 3>,fingering,dunhill171,0.0,0.0,Fingering
+9,,<music21.note.Note D>,note,dunhill172,0.5,26.0,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,dunhill173,0.0,0.0,Articulation
+9,,<music21.note.Note B->,note,dunhill174,0.5,26.0,GeneralNote
+9,,<music21.articulations.Fingering 2>,fingering,dunhill175,0.0,0.0,Fingering
+9,,<music21.articulations.Staccato>,staccato,dunhill176,0.0,0.0,Articulation
+9,,<music21.note.Note C>,note,dunhill177,0.5,26.5,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,dunhill178,0.0,0.0,Articulation
+9,,<music21.note.Note A>,note,dunhill179,0.5,26.5,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,dunhill180,0.0,0.0,Articulation
+9,,<music21.note.Note B->,note,dunhill181,0.5,27.0,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,dunhill182,0.0,0.0,Articulation
+9,,<music21.note.Note G>,note,dunhill183,0.5,27.0,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,dunhill184,0.0,0.0,Articulation
+9,9,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D>>,slur,dunhill1156,1.5,0.0,Slur
+9,9,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B->>,slur,dunhill1157,1.5,0.0,Slur
+10,,<music21.note.Note A>,note,dunhill185,0.5,27.5,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,dunhill186,0.0,0.0,Fingering
+10,,<music21.note.Note F>,note,dunhill187,0.5,27.5,GeneralNote
+10,,<music21.articulations.Fingering 5>,fingering,dunhill188,0.0,0.0,Fingering
+10,,<music21.note.Note B->,note,dunhill189,0.25,28.0,GeneralNote
+10,,<music21.note.Note G>,note,dunhill190,0.25,28.0,GeneralNote
+10,,<music21.note.Note C>,note,dunhill191,0.25,28.25,GeneralNote
+10,,<music21.note.Note A>,note,dunhill192,0.25,28.25,GeneralNote
+10,,<music21.note.Note D>,note,dunhill193,0.25,28.5,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,dunhill194,0.0,0.0,Fingering
+10,,<music21.note.Note B->,note,dunhill195,0.25,28.5,GeneralNote
+10,,<music21.note.Note E>,note,dunhill196,0.25,28.75,GeneralNote
+10,,<music21.note.Note C>,note,dunhill197,0.25,28.75,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,dunhill198,0.0,0.0,Fingering
+10,,<music21.note.Note F>,note,dunhill199,0.5,29.0,GeneralNote
+10,,<music21.articulations.Fingering 3>,fingering,dunhill200,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,dunhill201,0.0,0.0,Articulation
+10,,<music21.note.Note D>,note,dunhill202,0.5,29.0,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,dunhill203,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,dunhill204,0.0,0.0,Articulation
+10,,<music21.note.Note E>,note,dunhill205,0.5,29.5,GeneralNote
+10,,<music21.articulations.Fingering 3>,fingering,dunhill206,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,dunhill207,0.0,0.0,Articulation
+10,,<music21.note.Note C>,note,dunhill208,0.5,29.5,GeneralNote
+10,,<music21.articulations.Fingering 3>,fingering,dunhill209,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,dunhill210,0.0,0.0,Articulation
+10,,<music21.note.Note D>,note,dunhill211,0.5,30.0,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,dunhill212,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,dunhill213,0.0,0.0,Articulation
+10,,<music21.note.Note B->,note,dunhill214,0.5,30.0,GeneralNote
+10,,<music21.articulations.Fingering 4>,fingering,dunhill215,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,dunhill216,0.0,0.0,Articulation
+10,10,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,dunhill1158,1.5,0.0,Slur
+10,10,<music21.spanner.Slur <music21.note.Note F><music21.note.Note D>>,slur,dunhill1159,1.5,0.0,Slur
+11,,<music21.note.Note C>,note,dunhill217,0.25,30.5,GeneralNote
+11,,<music21.articulations.Fingering 1>,fingering,dunhill218,0.0,0.0,Fingering
+11,,<music21.note.Note A>,note,dunhill219,0.25,30.5,GeneralNote
+11,,<music21.articulations.Fingering 5>,fingering,dunhill220,0.0,0.0,Fingering
+11,,<music21.note.Note D>,note,dunhill221,0.25,30.75,GeneralNote
+11,,<music21.note.Note B->,note,dunhill222,0.25,30.75,GeneralNote
+11,,<music21.note.Note E>,note,dunhill223,0.25,31.0,GeneralNote
+11,,<music21.note.Note C>,note,dunhill224,0.25,31.0,GeneralNote
+11,,<music21.note.Note F>,note,dunhill225,0.25,31.25,GeneralNote
+11,,<music21.articulations.Fingering 1>,fingering,dunhill226,0.0,0.0,Fingering
+11,,<music21.note.Note D>,note,dunhill227,0.25,31.25,GeneralNote
+11,,<music21.note.Note G>,note,dunhill228,0.25,31.5,GeneralNote
+11,,<music21.note.Note E>,note,dunhill229,0.25,31.5,GeneralNote
+11,,<music21.note.Note A>,note,dunhill230,0.125,31.75,GeneralNote
+11,,<music21.note.Note F>,note,dunhill231,0.125,31.75,GeneralNote
+11,,<music21.articulations.Fingering 3>,fingering,dunhill232,0.0,0.0,Fingering
+11,,<music21.note.Note B->,note,dunhill233,0.125,31.875,GeneralNote
+11,,<music21.note.Note G>,note,dunhill234,0.125,31.875,GeneralNote
+11,,<music21.note.Note C>,note,dunhill235,0.5,32.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,dunhill236,0.0,0.0,Articulation
+11,,<music21.note.Note A>,note,dunhill237,0.5,32.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,dunhill238,0.0,0.0,Articulation
+11,,<music21.note.Note B->,note,dunhill239,0.5,32.5,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,dunhill240,0.0,0.0,Articulation
+11,,<music21.note.Note G>,note,dunhill241,0.5,32.5,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,dunhill242,0.0,0.0,Articulation
+11,,<music21.note.Note A>,note,dunhill243,0.5,33.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,dunhill244,0.0,0.0,Articulation
+11,,<music21.note.Note F>,note,dunhill245,0.5,33.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,dunhill246,0.0,0.0,Articulation
+11,11,<music21.spanner.Slur <music21.note.Note C><music21.note.Note C>>,slur,dunhill1160,1.5,0.0,Slur
+11,11,<music21.spanner.Slur <music21.note.Note A><music21.note.Note A>>,slur,dunhill1161,1.5,0.0,Slur
+12,,<music21.note.Note G>,note,dunhill247,1.5,33.5,GeneralNote
+12,,<music21.articulations.Fingering 2>,fingering,dunhill248,0.0,0.0,Fingering
+12,,<music21.note.Note C>,note,dunhill249,1.5,33.5,GeneralNote
+12,,<music21.note.Note G>,note,dunhill250,0.5,35.0,GeneralNote
+12,,<music21.chord.Chord E4 G4>,note,dunhill251,1.5,35.0,GeneralNote
+12,,<music21.articulations.Fingering 3>,fingering,dunhill252,0.0,0.0,Fingering
+12,,<music21.articulations.Fingering 1>,fingering,dunhill253,0.0,0.0,Fingering
+12,,<music21.note.Note C>,note,dunhill254,0.5,35.5,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,dunhill255,0.0,0.0,Articulation
+12,,<music21.note.Note C>,note,dunhill256,0.5,36.0,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,dunhill257,0.0,0.0,Articulation
+12,,<music21.dynamics.Dynamic fp>,fp,dunhill1233,,,DynamicPoint
+13,,<music21.note.Note D>,note,dunhill258,1.0,36.5,GeneralNote
+13,,<music21.articulations.Fingering 2>,fingering,dunhill259,0.0,0.0,Fingering
+13,,<music21.chord.Chord F4 A4>,note,dunhill260,1.5,36.5,GeneralNote
+13,,<music21.articulations.Fingering 2>,fingering,dunhill261,0.0,0.0,Fingering
+13,,<music21.articulations.Fingering 1>,fingering,dunhill262,0.0,0.0,Fingering
+13,,<music21.note.Note C>,note,dunhill263,0.5,37.5,GeneralNote
+13,,<music21.note.Note C>,note,dunhill264,0.5,38.0,GeneralNote
+13,,<music21.articulations.Fingering 2>,fingering,dunhill265,0.0,0.0,Fingering
+13,,<music21.articulations.Staccato>,staccato,dunhill266,0.0,0.0,Articulation
+13,,<music21.chord.Chord E4 G4>,note,dunhill267,1.5,38.0,GeneralNote
+13,,<music21.note.Note C>,note,dunhill268,0.5,38.5,GeneralNote
+13,,<music21.articulations.Fingering 5>,fingering,dunhill269,0.0,0.0,Fingering
+13,,<music21.articulations.Staccato>,staccato,dunhill270,0.0,0.0,Articulation
+13,,<music21.note.Note C>,note,dunhill271,0.5,39.0,GeneralNote
+13,,<music21.articulations.Staccato>,staccato,dunhill272,0.0,0.0,Articulation
+13,13,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,dunhill1162,1.0,0.0,Slur
+14,,<music21.note.Note D>,note,dunhill273,1.0,39.5,GeneralNote
+14,,<music21.articulations.Fingering 2>,fingering,dunhill274,0.0,0.0,Fingering
+14,,<music21.note.Rest quarter>,note,dunhill275,1.0,39.5,GeneralNote
+14,,<music21.note.Rest dotted-quarter>,note,dunhill276,1.5,39.5,GeneralNote
+14,,<music21.chord.Chord F4 A4>,note,dunhill277,1.5,39.5,GeneralNote
+14,,<music21.note.Rest quarter>,note,dunhill278,1.0,39.5,GeneralNote
+14,,<music21.note.Rest dotted-quarter>,note,dunhill279,1.5,39.5,GeneralNote
+14,,<music21.note.Note C>,note,dunhill280,0.5,40.5,GeneralNote
+14,,<music21.note.Rest eighth>,note,dunhill281,0.5,40.5,GeneralNote
+14,,<music21.note.Rest eighth>,note,dunhill282,0.5,40.5,GeneralNote
+14,,<music21.note.Note C>,note,dunhill283,0.5,41.0,GeneralNote
+14,,<music21.articulations.Fingering 2>,fingering,dunhill284,0.0,0.0,Fingering
+14,,<music21.articulations.Staccato>,staccato,dunhill285,0.0,0.0,Articulation
+14,,<music21.note.Note G>,note,dunhill286,1.5,41.0,GeneralNote
+14,,<music21.articulations.Fingering 1>,fingering,dunhill287,0.0,0.0,Fingering
+14,,<music21.note.Note E>,note,dunhill288,0.5,41.0,GeneralNote
+14,,<music21.articulations.Fingering 3>,fingering,dunhill289,0.0,0.0,Fingering
+14,,<music21.note.Note C>,note,dunhill290,0.5,41.5,GeneralNote
+14,,<music21.articulations.Staccato>,staccato,dunhill291,0.0,0.0,Articulation
+14,,<music21.note.Note D>,note,dunhill292,0.5,41.5,GeneralNote
+14,,<music21.note.Note B->,note,dunhill293,0.5,42.0,GeneralNote
+14,,<music21.articulations.Staccato>,staccato,dunhill294,0.0,0.0,Articulation
+14,,<music21.note.Note C>,note,dunhill295,0.5,42.0,GeneralNote
+14,14,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,dunhill1163,1.0,0.0,Slur
+14,14,<music21.spanner.Slur <music21.note.Note E><music21.note.Note C>>,slur,dunhill1164,1.0,0.0,Slur
+15,,<music21.note.Note A>,note,dunhill296,0.5,42.5,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,dunhill297,0.0,0.0,Fingering
+15,,<music21.note.Note A>,note,dunhill298,1.5,42.5,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,dunhill299,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,dunhill300,1.0,42.5,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,dunhill301,0.0,0.0,Fingering
+15,,<music21.note.Note G>,note,dunhill302,0.5,43.0,GeneralNote
+15,,<music21.note.Note F>,note,dunhill303,0.5,43.5,GeneralNote
+15,,<music21.note.Note B->,note,dunhill304,0.5,43.5,GeneralNote
+15,,<music21.articulations.Fingering 5>,fingering,dunhill305,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,dunhill306,0.5,44.0,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,dunhill307,0.0,0.0,Fingering
+15,,<music21.note.Note A>,note,dunhill308,1.0,44.0,GeneralNote
+15,,<music21.note.Note C>,note,dunhill309,1.5,44.0,GeneralNote
+15,,<music21.note.Note G>,note,dunhill310,0.5,44.5,GeneralNote
+15,,<music21.note.Note E>,note,dunhill311,0.5,45.0,GeneralNote
+15,,<music21.articulations.Staccato>,staccato,dunhill312,0.0,0.0,Articulation
+15,,<music21.note.Note G>,note,dunhill313,0.5,45.0,GeneralNote
+15,,<music21.articulations.Staccato>,staccato,dunhill314,0.0,0.0,Articulation
+15,15,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,dunhill1165,1.0,0.0,Slur
+15,15,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G>>,slur,dunhill1166,0.5,0.0,Slur
+15,15,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C>>,slur,dunhill1167,1.5,0.0,Slur
+16,,<music21.note.Note F>,note,dunhill315,1.5,45.5,GeneralNote
+16,,<music21.note.Note F>,note,dunhill316,0.5,45.5,GeneralNote
+16,,<music21.articulations.Fingering 1>,fingering,dunhill317,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,dunhill318,0.0,0.0,Articulation
+16,,<music21.note.Note C>,note,dunhill319,0.5,46.0,GeneralNote
+16,,<music21.articulations.Fingering 2>,fingering,dunhill320,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,dunhill321,0.0,0.0,Articulation
+16,,<music21.note.Note F>,note,dunhill322,0.5,46.5,GeneralNote
+16,,<music21.articulations.Fingering 5>,fingering,dunhill323,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,dunhill324,0.0,0.0,Articulation
+16,,<music21.note.Note F>,note,dunhill325,0.5,47.0,GeneralNote
+16,,<music21.note.Note C>,note,dunhill326,1.5,47.0,GeneralNote
+16,,<music21.articulations.Fingering 5>,fingering,dunhill327,0.0,0.0,Fingering
+16,,<music21.articulations.Tenuto>,tenuto,dunhill328,0.0,0.0,Articulation
+16,,<music21.note.Note G>,note,dunhill329,0.5,47.5,GeneralNote
+16,,<music21.articulations.Fingering 3>,fingering,dunhill330,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,dunhill331,0.0,0.0,Articulation
+16,,<music21.note.Note C>,note,dunhill332,0.5,48.0,GeneralNote
+16,,<music21.articulations.Fingering 1>,fingering,dunhill333,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,dunhill334,0.0,0.0,Articulation
+16,16,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G>>,slur,dunhill1168,2.0,0.0,Slur
+16,,<music21.expressions.TextExpression 'cresc.'>,cresc.,dunhill1261,0.0,47.0,TextExpression
+17,,<music21.note.Note A>,note,dunhill335,1.5,48.5,GeneralNote
+17,,<music21.articulations.Fingering 5>,fingering,dunhill336,0.0,0.0,Fingering
+17,,<music21.note.Note F>,note,dunhill337,1.5,48.5,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,dunhill338,0.0,0.0,Fingering
+17,,<music21.note.Note F>,note,dunhill339,0.5,48.5,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,dunhill340,0.0,0.0,Articulation
+17,,<music21.note.Note C>,note,dunhill341,0.5,49.0,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,dunhill342,0.0,0.0,Articulation
+17,,<music21.note.Note F>,note,dunhill343,0.5,49.5,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,dunhill344,0.0,0.0,Articulation
+17,,<music21.note.Note A>,note,dunhill345,0.5,50.0,GeneralNote
+17,,<music21.note.Note F>,note,dunhill346,0.5,50.0,GeneralNote
+17,,<music21.note.Note C>,note,dunhill347,1.5,50.0,GeneralNote
+17,,<music21.articulations.Tenuto>,tenuto,dunhill348,0.0,0.0,Articulation
+17,,<music21.note.Note G>,note,dunhill349,0.5,50.5,GeneralNote
+17,,<music21.articulations.Fingering 3>,fingering,dunhill350,0.0,0.0,Fingering
+17,,<music21.articulations.Staccato>,staccato,dunhill351,0.0,0.0,Articulation
+17,,<music21.note.Rest eighth>,note,dunhill352,0.5,50.5,GeneralNote
+17,,<music21.note.Note C>,note,dunhill353,0.5,51.0,GeneralNote
+17,,<music21.articulations.Fingering 1>,fingering,dunhill354,0.0,0.0,Fingering
+17,,<music21.articulations.Staccato>,staccato,dunhill355,0.0,0.0,Articulation
+17,,<music21.note.Rest eighth>,note,dunhill356,0.5,51.0,GeneralNote
+17,17,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,dunhill1169,2.0,0.0,Slur
+18,,<music21.note.Note A>,note,dunhill357,1.5,51.5,GeneralNote
+18,,<music21.note.Note F>,note,dunhill358,1.5,51.5,GeneralNote
+18,,<music21.note.Note F>,note,dunhill359,0.5,51.5,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,dunhill360,0.0,0.0,Articulation
+18,,<music21.note.Note C>,note,dunhill361,0.5,52.0,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,dunhill362,0.0,0.0,Articulation
+18,,<music21.note.Note F>,note,dunhill363,0.5,52.5,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,dunhill364,0.0,0.0,Articulation
+18,,<music21.note.Note A>,note,dunhill365,0.5,53.0,GeneralNote
+18,,<music21.note.Note F>,note,dunhill366,0.5,53.0,GeneralNote
+18,,<music21.note.Note C>,note,dunhill367,1.0,53.0,GeneralNote
+18,,<music21.articulations.Fingering 5>,fingering,dunhill368,0.0,0.0,Fingering
+18,,<music21.articulations.Tenuto>,tenuto,dunhill369,0.0,0.0,Articulation
+18,,<music21.note.Note G>,note,dunhill370,0.5,53.5,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,dunhill371,0.0,0.0,Articulation
+18,,<music21.note.Rest eighth>,note,dunhill372,0.5,53.5,GeneralNote
+18,,<music21.note.Note C>,note,dunhill373,0.5,54.0,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,dunhill374,0.0,0.0,Articulation
+18,,<music21.note.Rest eighth>,note,dunhill375,0.5,54.0,GeneralNote
+18,,<music21.note.Note E>,note,dunhill376,0.5,54.0,GeneralNote
+18,,<music21.articulations.Fingering 2>,fingering,dunhill377,0.0,0.0,Fingering
+18,,<music21.articulations.Staccato>,staccato,dunhill378,0.0,0.0,Articulation
+18,18,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,dunhill1170,2.0,0.0,Slur
+19,,<music21.note.Note A>,note,dunhill379,0.5,54.5,GeneralNote
+19,,<music21.articulations.Fingering 3>,fingering,dunhill380,0.0,0.0,Fingering
+19,,<music21.note.Note F>,note,dunhill381,0.5,54.5,GeneralNote
+19,,<music21.articulations.Fingering 1>,fingering,dunhill382,0.0,0.0,Fingering
+19,,<music21.note.Note F>,note,dunhill383,1.5,54.5,GeneralNote
+19,,<music21.articulations.Fingering 1>,fingering,dunhill384,0.0,0.0,Fingering
+19,,<music21.note.Note B->,note,dunhill385,0.5,55.0,GeneralNote
+19,,<music21.note.Note G>,note,dunhill386,0.5,55.0,GeneralNote
+19,,<music21.note.Note C>,note,dunhill387,0.5,55.5,GeneralNote
+19,,<music21.note.Note A>,note,dunhill388,0.5,55.5,GeneralNote
+19,,<music21.note.Note C>,note,dunhill389,0.5,56.0,GeneralNote
+19,,<music21.note.Note A>,note,dunhill390,0.5,56.0,GeneralNote
+19,,<music21.chord.Chord B-3 D4 F4>,note,dunhill391,1.5,56.0,GeneralNote
+19,,<music21.articulations.Fingering 4>,fingering,dunhill392,0.0,0.0,Fingering
+19,,<music21.note.Note B->,note,dunhill393,0.5,56.5,GeneralNote
+19,,<music21.note.Note G>,note,dunhill394,0.5,56.5,GeneralNote
+19,,<music21.note.Note A>,note,dunhill395,0.5,57.0,GeneralNote
+19,,<music21.note.Note F>,note,dunhill396,0.5,57.0,GeneralNote
+19,19,<music21.spanner.Slur <music21.note.Note A><music21.note.Note A>>,slur,dunhill1171,2.5,0.0,Slur
+19,,<music21.dynamics.Dynamic f>,f,dunhill1234,,,DynamicPoint
+20,,<music21.note.Note G>,note,dunhill397,0.25,57.5,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,dunhill398,0.0,0.0,Fingering
+20,,<music21.chord.Chord C3 C4>,note,dunhill399,1.5,57.5,GeneralNote
+20,,<music21.note.Note F>,note,dunhill400,0.25,57.75,GeneralNote
+20,,<music21.note.Note E>,note,dunhill401,0.25,58.0,GeneralNote
+20,,<music21.articulations.Fingering 3>,fingering,dunhill402,0.0,0.0,Fingering
+20,,<music21.note.Note D>,note,dunhill403,0.25,58.25,GeneralNote
+20,,<music21.note.Note C>,note,dunhill404,0.25,58.5,GeneralNote
+20,,<music21.note.Note B->,note,dunhill405,0.25,58.75,GeneralNote
+20,,<music21.articulations.Fingering 4>,fingering,dunhill406,0.0,0.0,Fingering
+20,,<music21.note.Note A>,note,dunhill407,0.25,59.0,GeneralNote
+20,,<music21.note.Rest quarter>,note,dunhill408,1.0,59.0,GeneralNote
+20,,<music21.note.Note G>,note,dunhill409,0.25,59.25,GeneralNote
+20,,<music21.note.Note F>,note,dunhill410,0.25,59.5,GeneralNote
+20,,<music21.note.Note E>,note,dunhill411,0.25,59.75,GeneralNote
+20,,<music21.articulations.Fingering 3>,fingering,dunhill412,0.0,0.0,Fingering
+20,,<music21.note.Note D>,note,dunhill413,0.25,60.0,GeneralNote
+20,,<music21.note.Rest eighth>,note,dunhill414,0.5,60.0,GeneralNote
+20,,<music21.note.Note C>,note,dunhill415,0.25,60.25,GeneralNote
+20,20,<music21.spanner.Slur <music21.note.Note G><music21.note.Note C>>,slur,dunhill1172,2.75,0.0,Slur
+20,20,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note C>>,diminuendo,dunhill1248,,,DynamicRegion
+21,,<music21.note.Note A>,note,dunhill416,1.5,60.5,GeneralNote
+21,,<music21.articulations.Fingering 5>,fingering,dunhill417,0.0,0.0,Fingering
+21,,<music21.note.Note F>,note,dunhill418,1.5,60.5,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,dunhill419,0.0,0.0,Fingering
+21,,<music21.note.Note F>,note,dunhill420,0.5,60.5,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,dunhill421,0.0,0.0,Articulation
+21,,<music21.note.Note C>,note,dunhill422,0.5,61.0,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,dunhill423,0.0,0.0,Articulation
+21,,<music21.note.Note F>,note,dunhill424,0.5,61.5,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,dunhill425,0.0,0.0,Articulation
+21,,<music21.note.Note A>,note,dunhill426,0.5,62.0,GeneralNote
+21,,<music21.note.Note F>,note,dunhill427,0.5,62.0,GeneralNote
+21,,<music21.note.Note C>,note,dunhill428,1.5,62.0,GeneralNote
+21,,<music21.articulations.Tenuto>,tenuto,dunhill429,0.0,0.0,Articulation
+21,,<music21.note.Note G>,note,dunhill430,0.5,62.5,GeneralNote
+21,,<music21.articulations.Fingering 3>,fingering,dunhill431,0.0,0.0,Fingering
+21,,<music21.articulations.Staccato>,staccato,dunhill432,0.0,0.0,Articulation
+21,,<music21.note.Rest eighth>,note,dunhill433,0.5,62.5,GeneralNote
+21,,<music21.note.Note C>,note,dunhill434,0.5,63.0,GeneralNote
+21,,<music21.articulations.Fingering 1>,fingering,dunhill435,0.0,0.0,Fingering
+21,,<music21.articulations.Staccato>,staccato,dunhill436,0.0,0.0,Articulation
+21,,<music21.note.Rest eighth>,note,dunhill437,0.5,63.0,GeneralNote
+21,21,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,dunhill1173,2.0,0.0,Slur
+21,,<music21.dynamics.Dynamic p>,p,dunhill1235,,,DynamicPoint
+22,,<music21.note.Note A>,note,dunhill438,1.5,63.5,GeneralNote
+22,,<music21.note.Note F>,note,dunhill439,1.5,63.5,GeneralNote
+22,,<music21.note.Note F>,note,dunhill440,0.5,63.5,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,dunhill441,0.0,0.0,Articulation
+22,,<music21.note.Note C>,note,dunhill442,0.5,64.0,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,dunhill443,0.0,0.0,Articulation
+22,,<music21.note.Note F>,note,dunhill444,0.5,64.5,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,dunhill445,0.0,0.0,Articulation
+22,,<music21.note.Note A>,note,dunhill446,0.5,65.0,GeneralNote
+22,,<music21.note.Note F>,note,dunhill447,0.5,65.0,GeneralNote
+22,,<music21.note.Note C>,note,dunhill448,1.5,65.0,GeneralNote
+22,,<music21.articulations.Tenuto>,tenuto,dunhill449,0.0,0.0,Articulation
+22,,<music21.note.Note G>,note,dunhill450,0.5,65.5,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,dunhill451,0.0,0.0,Articulation
+22,,<music21.note.Rest eighth>,note,dunhill452,0.5,65.5,GeneralNote
+22,,<music21.note.Note C>,note,dunhill453,0.5,66.0,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,dunhill454,0.0,0.0,Articulation
+22,,<music21.note.Rest eighth>,note,dunhill455,0.5,66.0,GeneralNote
+22,22,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,dunhill1174,2.0,0.0,Slur
+23,,<music21.note.Note A>,note,dunhill456,0.5,66.5,GeneralNote
+23,,<music21.articulations.Fingering 5>,fingering,dunhill457,0.0,0.0,Fingering
+23,,<music21.note.Note F>,note,dunhill458,0.5,66.5,GeneralNote
+23,,<music21.articulations.Fingering 2>,fingering,dunhill459,0.0,0.0,Fingering
+23,,<music21.note.Note F>,note,dunhill460,1.0,66.5,GeneralNote
+23,,<music21.note.Note G>,note,dunhill461,0.5,67.0,GeneralNote
+23,,<music21.articulations.Fingering 3>,fingering,dunhill462,0.0,0.0,Fingering
+23,,<music21.note.Rest eighth>,note,dunhill463,0.5,67.0,GeneralNote
+23,,<music21.note.Note F>,note,dunhill464,0.5,67.5,GeneralNote
+23,,<music21.articulations.Fingering 2>,fingering,dunhill465,0.0,0.0,Fingering
+23,,<music21.note.Note D>,note,dunhill466,0.5,67.5,GeneralNote
+23,,<music21.articulations.Fingering 1>,fingering,dunhill467,0.0,0.0,Fingering
+23,,<music21.note.Note B->,note,dunhill468,0.5,67.5,GeneralNote
+23,,<music21.note.Note A>,note,dunhill469,0.5,68.0,GeneralNote
+23,,<music21.articulations.Fingering 3>,fingering,dunhill470,0.0,0.0,Fingering
+23,,<music21.note.Note F>,note,dunhill471,0.5,68.0,GeneralNote
+23,,<music21.articulations.Fingering 1>,fingering,dunhill472,0.0,0.0,Fingering
+23,,<music21.note.Note C>,note,dunhill473,1.0,68.0,GeneralNote
+23,,<music21.note.Note B->,note,dunhill474,0.5,68.5,GeneralNote
+23,,<music21.note.Note G>,note,dunhill475,0.5,68.5,GeneralNote
+23,,<music21.note.Note G>,note,dunhill476,0.5,69.0,GeneralNote
+23,,<music21.articulations.Fingering 2>,fingering,dunhill477,0.0,0.0,Fingering
+23,,<music21.articulations.Staccato>,staccato,dunhill478,0.0,0.0,Articulation
+23,,<music21.note.Note E>,note,dunhill479,0.5,69.0,GeneralNote
+23,,<music21.articulations.Fingering 1>,fingering,dunhill480,0.0,0.0,Fingering
+23,,<music21.note.Note C>,note,dunhill481,0.5,69.0,GeneralNote
+23,,<music21.articulations.Fingering 1>,fingering,dunhill482,0.0,0.0,Fingering
+23,23,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,dunhill1175,1.0,0.0,Slur
+23,23,<music21.spanner.Slur <music21.note.Note A><music21.note.Note B->>,slur,dunhill1176,0.5,0.0,Slur
+23,23,<music21.spanner.Slur <music21.note.Note F><music21.note.Note B->>,slur,dunhill1177,1.0,0.0,Slur
+24,,<music21.note.Note F>,note,dunhill483,0.5,69.5,GeneralNote
+24,,<music21.articulations.Fingering 1>,fingering,dunhill484,0.0,0.0,Fingering
+24,,<music21.note.Note F>,note,dunhill485,1.5,69.5,GeneralNote
+24,,<music21.articulations.Fingering 5>,fingering,dunhill486,0.0,0.0,Fingering
+24,,<music21.note.Note G>,note,dunhill487,0.125,70.0,GeneralNote
+24,,<music21.note.Note A>,note,dunhill488,0.125,70.125,GeneralNote
+24,,<music21.note.Note B->,note,dunhill489,0.125,70.25,GeneralNote
+24,,<music21.note.Note C>,note,dunhill490,0.125,70.375,GeneralNote
+24,,<music21.articulations.Fingering 1>,fingering,dunhill491,0.0,0.0,Fingering
+24,,<music21.note.Note D>,note,dunhill492,0.125,70.5,GeneralNote
+24,,<music21.note.Note E>,note,dunhill493,0.125,70.625,GeneralNote
+24,,<music21.note.Note F>,note,dunhill494,0.125,70.75,GeneralNote
+24,,<music21.note.Note G>,note,dunhill495,0.125,70.875,GeneralNote
+24,,<music21.articulations.Fingering 5>,fingering,dunhill496,0.0,0.0,Fingering
+24,,<music21.note.Note A>,note,dunhill497,0.5,71.0,GeneralNote
+24,,<music21.articulations.Fingering 3>,fingering,dunhill498,0.0,0.0,Fingering
+24,,<music21.chord.Chord F2 F3>,note,dunhill499,1.5,71.0,GeneralNote
+24,,<music21.note.Rest 16th>,note,dunhill500,0.25,71.25,GeneralNote
+24,,<music21.note.Rest 16th>,note,dunhill501,0.25,71.25,GeneralNote
+24,,<music21.note.Note C>,note,dunhill502,0.5,71.5,GeneralNote
+24,,<music21.articulations.Staccato>,staccato,dunhill503,0.0,0.0,Articulation
+24,,<music21.note.Note C>,note,dunhill504,0.5,72.0,GeneralNote
+24,,<music21.articulations.Staccato>,staccato,dunhill505,0.0,0.0,Articulation
+24,24,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C>>,slur,dunhill1178,2.0,0.0,Slur
+24,,<music21.dynamics.Dynamic f>,f,dunhill1236,,,DynamicPoint
+24,24,<music21.dynamics.Crescendo <music21.note.Note F><music21.note.Note A>>,diminuendo,dunhill1250,,,DynamicRegion
+25,,<music21.note.Note A>,note,dunhill506,0.5,72.5,GeneralNote
+25,,<music21.articulations.Fingering 3>,fingering,dunhill507,0.0,0.0,Fingering
+25,,<music21.chord.Chord F2 F3>,note,dunhill508,1.5,72.5,GeneralNote
+25,,<music21.note.Note C>,note,dunhill509,0.5,73.0,GeneralNote
+25,,<music21.note.Note C>,note,dunhill510,0.5,73.5,GeneralNote
+25,,<music21.articulations.Staccato>,staccato,dunhill511,0.0,0.0,Articulation
+25,,<music21.note.Note A>,note,dunhill512,0.5,74.0,GeneralNote
+25,,<music21.chord.Chord F2 F3>,note,dunhill513,1.5,74.0,GeneralNote
+25,,<music21.note.Note C>,note,dunhill514,0.5,74.5,GeneralNote
+25,,<music21.note.Note C>,note,dunhill515,0.5,75.0,GeneralNote
+25,,<music21.articulations.Staccato>,staccato,dunhill516,0.0,0.0,Articulation
+25,25,<music21.spanner.Slur <music21.note.Note A><music21.note.Note C>>,slur,dunhill1179,0.5,0.0,Slur
+25,25,<music21.spanner.Slur <music21.note.Note A><music21.note.Note C>>,slur,dunhill1180,0.5,0.0,Slur
+26,,<music21.note.Note A>,note,dunhill517,1.5,75.5,GeneralNote
+26,,<music21.articulations.Fingering 5>,fingering,dunhill518,0.0,0.0,Fingering
+26,,<music21.note.Note F>,note,dunhill519,1.5,75.5,GeneralNote
+26,,<music21.articulations.Fingering 2>,fingering,dunhill520,0.0,0.0,Fingering
+26,,<music21.chord.Chord F2 F3>,note,dunhill521,1.5,75.5,GeneralNote
+26,,<music21.note.Note E>,note,dunhill522,0.0,77.0,GeneralNote
+26,,<music21.note.Note A>,note,dunhill523,1.0,77.0,GeneralNote
+26,,<music21.note.Note F>,note,dunhill524,1.0,77.0,GeneralNote
+26,,<music21.chord.Chord F2 F3>,note,dunhill525,1.0,77.0,GeneralNote
+26,,<music21.note.Note C>,note,dunhill526,0.5,78.0,GeneralNote
+26,,<music21.articulations.Fingering 1>,fingering,dunhill527,0.0,0.0,Fingering
+26,,<music21.note.Rest eighth>,note,dunhill528,0.5,78.0,GeneralNote
+26,26,<music21.spanner.Slur <music21.note.Note E><music21.note.Note F>>,slur,dunhill1181,0.0,0.0,Slur
+26,,<music21.dynamics.Dynamic p>,p,dunhill1237,,,DynamicPoint
+27,,<music21.note.Note F>,note,dunhill529,0.5,78.5,GeneralNote
+27,,<music21.articulations.Fingering 2>,fingering,dunhill530,0.0,0.0,Fingering
+27,,<music21.chord.Chord F3 A3 C4>,note,dunhill531,1.5,78.5,GeneralNote
+27,,<music21.articulations.Fingering 4>,fingering,dunhill532,0.0,0.0,Fingering
+27,,<music21.note.Note G>,note,dunhill533,0.5,79.0,GeneralNote
+27,,<music21.note.Note A>,note,dunhill534,0.5,79.5,GeneralNote
+27,,<music21.note.Note G>,note,dunhill535,0.5,80.0,GeneralNote
+27,,<music21.articulations.Fingering 2>,fingering,dunhill536,0.0,0.0,Fingering
+27,,<music21.chord.Chord E3 G3 C4>,note,dunhill537,1.5,80.0,GeneralNote
+27,,<music21.note.Note A>,note,dunhill538,0.5,80.5,GeneralNote
+27,,<music21.note.Note B->,note,dunhill539,0.5,81.0,GeneralNote
+27,28,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E->>,slur,dunhill1182,5.5,0.0,Slur
+28,,<music21.note.Note A>,note,dunhill540,0.5,81.5,GeneralNote
+28,,<music21.articulations.Fingering 1>,fingering,dunhill541,0.0,0.0,Fingering
+28,,<music21.chord.Chord F3 A3 C4>,note,dunhill542,1.5,81.5,GeneralNote
+28,,<music21.note.Note B->,note,dunhill543,0.5,82.0,GeneralNote
+28,,<music21.note.Note C>,note,dunhill544,0.5,82.5,GeneralNote
+28,,<music21.note.Note C>,note,dunhill545,0.5,83.0,GeneralNote
+28,,<music21.chord.Chord E-3 G3 C4>,note,dunhill546,1.5,83.0,GeneralNote
+28,,<music21.articulations.Fingering 4>,fingering,dunhill547,0.0,0.0,Fingering
+28,,<music21.note.Note D>,note,dunhill548,0.5,83.5,GeneralNote
+28,,<music21.note.Note E->,note,dunhill549,0.5,84.0,GeneralNote
+28,,<music21.articulations.Fingering 5>,fingering,dunhill550,0.0,0.0,Fingering
+29,,<music21.note.Note G>,note,dunhill551,0.5,84.5,GeneralNote
+29,,<music21.articulations.Fingering 1>,fingering,dunhill552,0.0,0.0,Fingering
+29,,<music21.chord.Chord D3 A3 D4>,note,dunhill553,1.5,84.5,GeneralNote
+29,,<music21.note.Note F#>,note,dunhill554,0.5,85.0,GeneralNote
+29,,<music21.articulations.Fingering 2>,fingering,dunhill555,0.0,0.0,Fingering
+29,,<music21.note.Note G>,note,dunhill556,0.5,85.5,GeneralNote
+29,,<music21.articulations.Fingering 1>,fingering,dunhill557,0.0,0.0,Fingering
+29,,<music21.note.Note A>,note,dunhill558,0.5,86.0,GeneralNote
+29,,<music21.chord.Chord F#3 A3 D4>,note,dunhill559,1.5,86.0,GeneralNote
+29,,<music21.articulations.Fingering 4>,fingering,dunhill560,0.0,0.0,Fingering
+29,,<music21.note.Note B->,note,dunhill561,0.5,86.5,GeneralNote
+29,,<music21.note.Note C>,note,dunhill562,0.5,87.0,GeneralNote
+29,30,<music21.spanner.Slur <music21.note.Note G><music21.note.Note F>>,slur,dunhill1183,5.5,0.0,Slur
+30,,<music21.note.Note B->,note,dunhill563,0.5,87.5,GeneralNote
+30,,<music21.articulations.Fingering 2>,fingering,dunhill564,0.0,0.0,Fingering
+30,,<music21.chord.Chord G3 B-3 D4>,note,dunhill565,1.5,87.5,GeneralNote
+30,,<music21.articulations.Fingering 3>,fingering,dunhill566,0.0,0.0,Fingering
+30,,<music21.note.Note C>,note,dunhill567,0.5,88.0,GeneralNote
+30,,<music21.articulations.Fingering 1>,fingering,dunhill568,0.0,0.0,Fingering
+30,,<music21.note.Note D>,note,dunhill569,0.5,88.5,GeneralNote
+30,,<music21.note.Note D>,note,dunhill570,0.5,89.0,GeneralNote
+30,,<music21.chord.Chord F3 A3 D4>,note,dunhill571,1.5,89.0,GeneralNote
+30,,<music21.articulations.Fingering 4>,fingering,dunhill572,0.0,0.0,Fingering
+30,,<music21.note.Note E>,note,dunhill573,0.5,89.5,GeneralNote
+30,,<music21.note.Note F>,note,dunhill574,0.5,90.0,GeneralNote
+31,,<music21.note.Note A>,note,dunhill575,0.5,90.5,GeneralNote
+31,,<music21.articulations.Fingering 1>,fingering,dunhill576,0.0,0.0,Fingering
+31,,<music21.chord.Chord E3 B3 E4>,note,dunhill577,1.5,90.5,GeneralNote
+31,,<music21.note.Note G#>,note,dunhill578,0.5,91.0,GeneralNote
+31,,<music21.articulations.Fingering 2>,fingering,dunhill579,0.0,0.0,Fingering
+31,,<music21.note.Note A>,note,dunhill580,0.5,91.5,GeneralNote
+31,,<music21.articulations.Fingering 1>,fingering,dunhill581,0.0,0.0,Fingering
+31,,<music21.note.Note B>,note,dunhill582,0.5,92.0,GeneralNote
+31,,<music21.chord.Chord G#3 B3 E4>,note,dunhill583,1.5,92.0,GeneralNote
+31,,<music21.articulations.Fingering 4>,fingering,dunhill584,0.0,0.0,Fingering
+31,,<music21.note.Note C#>,note,dunhill585,0.5,92.5,GeneralNote
+31,,<music21.note.Note D>,note,dunhill586,0.5,93.0,GeneralNote
+31,32,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,dunhill1184,5.5,0.0,Slur
+31,,<music21.expressions.TextExpression 'cresc.'>,cresc.,dunhill1262,0.0,90.5,TextExpression
+32,,<music21.note.Note C#>,note,dunhill587,0.5,93.5,GeneralNote
+32,,<music21.articulations.Fingering 3>,fingering,dunhill588,0.0,0.0,Fingering
+32,,<music21.chord.Chord A3 C#4 E4>,note,dunhill589,1.5,93.5,GeneralNote
+32,,<music21.articulations.Fingering 3>,fingering,dunhill590,0.0,0.0,Fingering
+32,,<music21.note.Note D>,note,dunhill591,0.5,94.0,GeneralNote
+32,,<music21.articulations.Fingering 1>,fingering,dunhill592,0.0,0.0,Fingering
+32,,<music21.note.Note E>,note,dunhill593,0.5,94.5,GeneralNote
+32,,<music21.note.Note E>,note,dunhill594,0.5,95.0,GeneralNote
+32,,<music21.chord.Chord C#3 E3 A3>,note,dunhill595,1.5,95.0,GeneralNote
+32,,<music21.articulations.Fingering 5>,fingering,dunhill596,0.0,0.0,Fingering
+32,,<music21.articulations.Fingering 3>,fingering,dunhill597,0.0,0.0,Fingering
+32,,<music21.articulations.Fingering 1>,fingering,dunhill598,0.0,0.0,Fingering
+32,,<music21.note.Note F>,note,dunhill599,0.5,95.5,GeneralNote
+32,,<music21.note.Note G>,note,dunhill600,0.5,96.0,GeneralNote
+33,,<music21.note.Note F>,note,dunhill601,0.5,96.5,GeneralNote
+33,,<music21.articulations.Fingering 3>,fingering,dunhill602,0.0,0.0,Fingering
+33,,<music21.chord.Chord D3 A3 D4>,note,dunhill603,1.5,96.5,GeneralNote
+33,,<music21.note.Note E>,note,dunhill604,0.5,97.0,GeneralNote
+33,,<music21.note.Note D>,note,dunhill605,0.5,97.5,GeneralNote
+33,,<music21.note.Note A>,note,dunhill606,0.5,98.0,GeneralNote
+33,,<music21.chord.Chord F3 D4>,note,dunhill607,1.0,98.0,GeneralNote
+33,,<music21.articulations.Fingering 4>,fingering,dunhill608,0.0,0.0,Fingering
+33,,<music21.note.Note G>,note,dunhill609,0.5,98.5,GeneralNote
+33,,<music21.note.Note F>,note,dunhill610,0.5,99.0,GeneralNote
+33,,<music21.articulations.Staccato>,staccato,dunhill611,0.0,0.0,Articulation
+33,,<music21.note.Note G>,note,dunhill612,0.5,99.0,GeneralNote
+33,,<music21.articulations.Fingering 2>,fingering,dunhill613,0.0,0.0,Fingering
+33,,<music21.articulations.Staccato>,staccato,dunhill614,0.0,0.0,Articulation
+33,33,<music21.spanner.Slur <music21.note.Note F><music21.note.Note D>>,slur,dunhill1185,1.0,0.0,Slur
+33,33,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,dunhill1186,0.5,0.0,Slur
+34,,<music21.note.Note E>,note,dunhill615,1.5,99.5,GeneralNote
+34,,<music21.articulations.Fingering 3>,fingering,dunhill616,0.0,0.0,Fingering
+34,,<music21.note.Note A>,note,dunhill617,0.5,99.5,GeneralNote
+34,,<music21.articulations.Fingering 1>,fingering,dunhill618,0.0,0.0,Fingering
+34,,<music21.articulations.Staccato>,staccato,dunhill619,0.0,0.0,Articulation
+34,,<music21.note.Note E>,note,dunhill620,0.5,100.0,GeneralNote
+34,,<music21.articulations.Fingering 2>,fingering,dunhill621,0.0,0.0,Fingering
+34,,<music21.articulations.Staccato>,staccato,dunhill622,0.0,0.0,Articulation
+34,,<music21.note.Note C#>,note,dunhill623,0.5,100.5,GeneralNote
+34,,<music21.articulations.Fingering 3>,fingering,dunhill624,0.0,0.0,Fingering
+34,,<music21.articulations.Staccato>,staccato,dunhill625,0.0,0.0,Articulation
+34,,<music21.note.Note E>,note,dunhill626,0.5,101.0,GeneralNote
+34,,<music21.note.Note A>,note,dunhill627,1.5,101.0,GeneralNote
+34,,<music21.articulations.Fingering 5>,fingering,dunhill628,0.0,0.0,Fingering
+34,,<music21.articulations.Tenuto>,tenuto,dunhill629,0.0,0.0,Articulation
+34,,<music21.note.Note A>,note,dunhill630,0.5,101.5,GeneralNote
+34,,<music21.articulations.Staccato>,staccato,dunhill631,0.0,0.0,Articulation
+34,,<music21.note.Note A>,note,dunhill632,0.5,102.0,GeneralNote
+34,,<music21.articulations.Staccato>,staccato,dunhill633,0.0,0.0,Articulation
+34,34,<music21.spanner.Slur <music21.note.Note E><music21.note.Note A>>,slur,dunhill1187,2.0,0.0,Slur
+34,,<music21.dynamics.Dynamic fp>,fp,dunhill1238,,,DynamicPoint
+35,,<music21.note.Note B->,note,dunhill634,1.0,102.5,GeneralNote
+35,,<music21.articulations.Fingering 2>,fingering,dunhill635,0.0,0.0,Fingering
+35,,<music21.chord.Chord D4 F4>,note,dunhill636,1.5,102.5,GeneralNote
+35,,<music21.articulations.Fingering 3>,fingering,dunhill637,0.0,0.0,Fingering
+35,,<music21.articulations.Fingering 1>,fingering,dunhill638,0.0,0.0,Fingering
+35,,<music21.note.Note A>,note,dunhill639,0.5,103.5,GeneralNote
+35,,<music21.note.Note A>,note,dunhill640,0.5,104.0,GeneralNote
+35,,<music21.articulations.Fingering 2>,fingering,dunhill641,0.0,0.0,Fingering
+35,,<music21.articulations.Staccato>,staccato,dunhill642,0.0,0.0,Articulation
+35,,<music21.chord.Chord C#4 E4>,note,dunhill643,1.5,104.0,GeneralNote
+35,,<music21.note.Note A>,note,dunhill644,0.5,104.5,GeneralNote
+35,,<music21.articulations.Fingering 5>,fingering,dunhill645,0.0,0.0,Fingering
+35,,<music21.articulations.Staccato>,staccato,dunhill646,0.0,0.0,Articulation
+35,,<music21.note.Note A>,note,dunhill647,0.5,105.0,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,dunhill648,0.0,0.0,Fingering
+35,,<music21.articulations.Staccato>,staccato,dunhill649,0.0,0.0,Articulation
+35,35,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A>>,slur,dunhill1188,1.0,0.0,Slur
+36,,<music21.note.Note B->,note,dunhill650,1.0,105.5,GeneralNote
+36,,<music21.articulations.Fingering 3>,fingering,dunhill651,0.0,0.0,Fingering
+36,,<music21.chord.Chord D4 F4>,note,dunhill652,1.5,105.5,GeneralNote
+36,,<music21.note.Note A>,note,dunhill653,0.5,106.5,GeneralNote
+36,,<music21.note.Note A>,note,dunhill654,0.5,107.0,GeneralNote
+36,,<music21.articulations.Fingering 2>,fingering,dunhill655,0.0,0.0,Fingering
+36,,<music21.articulations.Staccato>,staccato,dunhill656,0.0,0.0,Articulation
+36,,<music21.chord.Chord D4 F#4>,note,dunhill657,1.5,107.0,GeneralNote
+36,,<music21.articulations.Fingering 4>,fingering,dunhill658,0.0,0.0,Fingering
+36,,<music21.articulations.Fingering 2>,fingering,dunhill659,0.0,0.0,Fingering
+36,,<music21.note.Note A>,note,dunhill660,0.5,107.5,GeneralNote
+36,,<music21.articulations.Fingering 5>,fingering,dunhill661,0.0,0.0,Fingering
+36,,<music21.articulations.Staccato>,staccato,dunhill662,0.0,0.0,Articulation
+36,,<music21.note.Note F#>,note,dunhill663,0.5,108.0,GeneralNote
+36,,<music21.articulations.Fingering 3>,fingering,dunhill664,0.0,0.0,Fingering
+36,,<music21.articulations.Staccato>,staccato,dunhill665,0.0,0.0,Articulation
+36,36,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A>>,slur,dunhill1189,1.0,0.0,Slur
+36,37,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note A>>,diminuendo,dunhill1252,,,DynamicRegion
+37,,<music21.note.Note G>,note,dunhill666,0.5,108.5,GeneralNote
+37,,<music21.articulations.Fingering 1>,fingering,dunhill667,0.0,0.0,Fingering
+37,,<music21.chord.Chord E-4 G4>,note,dunhill668,1.5,108.5,GeneralNote
+37,,<music21.articulations.Fingering 3>,fingering,dunhill669,0.0,0.0,Fingering
+37,,<music21.note.Note A>,note,dunhill670,0.5,109.0,GeneralNote
+37,,<music21.note.Note B->,note,dunhill671,0.5,109.5,GeneralNote
+37,,<music21.note.Note C>,note,dunhill672,0.0,110.0,GeneralNote
+37,,<music21.note.Note B->,note,dunhill673,0.5,110.0,GeneralNote
+37,,<music21.chord.Chord C4 E-4 A4>,note,dunhill674,1.5,110.0,GeneralNote
+37,,<music21.articulations.Fingering 5>,fingering,dunhill675,0.0,0.0,Fingering
+37,,<music21.note.Note A>,note,dunhill676,0.5,110.5,GeneralNote
+37,,<music21.note.Rest 16th>,note,dunhill677,0.25,110.75,GeneralNote
+37,,<music21.note.Rest 16th>,note,dunhill678,0.25,110.75,GeneralNote
+37,,<music21.note.Note G>,note,dunhill679,0.5,111.0,GeneralNote
+37,37,<music21.spanner.Slur <music21.note.Note G><music21.note.Note B->>,slur,dunhill1190,1.0,0.0,Slur
+37,37,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B->>,slur,dunhill1191,0.0,0.0,Slur
+37,37,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note G>>,slur,dunhill1192,1.0,0.0,Slur
+38,,<music21.note.Note F#>,note,dunhill680,0.5,111.5,GeneralNote
+38,,<music21.articulations.Fingering 3>,fingering,dunhill681,0.0,0.0,Fingering
+38,,<music21.chord.Chord D4 F#4 A4>,note,dunhill682,1.5,111.5,GeneralNote
+38,,<music21.articulations.Fingering 4>,fingering,dunhill683,0.0,0.0,Fingering
+38,,<music21.note.Note G>,note,dunhill684,0.5,112.0,GeneralNote
+38,,<music21.note.Note A>,note,dunhill685,0.5,112.5,GeneralNote
+38,,<music21.note.Note F>,note,dunhill686,0.0,113.0,GeneralNote
+38,,<music21.articulations.Fingering 4>,fingering,dunhill687,0.0,0.0,Fingering
+38,,<music21.note.Note E->,note,dunhill688,0.5,113.0,GeneralNote
+38,,<music21.articulations.Fingering 3>,fingering,dunhill689,0.0,0.0,Fingering
+38,,<music21.chord.Chord F#3 A3 D4>,note,dunhill690,1.5,113.0,GeneralNote
+38,,<music21.articulations.Fingering 5>,fingering,dunhill691,0.0,0.0,Fingering
+38,,<music21.note.Note D>,note,dunhill692,0.5,113.5,GeneralNote
+38,,<music21.note.Note C>,note,dunhill693,0.5,114.0,GeneralNote
+38,,<music21.note.Rest 16th>,note,dunhill694,0.25,114.25,GeneralNote
+38,,<music21.note.Rest 16th>,note,dunhill695,0.25,114.25,GeneralNote
+38,38,<music21.spanner.Slur <music21.note.Note F#><music21.note.Note A>>,slur,dunhill1193,1.0,0.0,Slur
+38,38,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E->>,slur,dunhill1194,0.0,0.0,Slur
+38,38,<music21.dynamics.Diminuendo <music21.note.Note F#><music21.note.Note C>>,diminuendo,dunhill1254,,,DynamicRegion
+39,,<music21.note.Note C>,note,dunhill696,0.5,114.5,GeneralNote
+39,,<music21.articulations.Fingering 1>,fingering,dunhill697,0.0,0.0,Fingering
+39,,<music21.note.Note G>,note,dunhill698,1.0,114.5,GeneralNote
+39,,<music21.articulations.Fingering 5>,fingering,dunhill699,0.0,0.0,Fingering
+39,,<music21.note.Note B->,note,dunhill700,0.5,115.0,GeneralNote
+39,,<music21.articulations.Fingering 2>,fingering,dunhill701,0.0,0.0,Fingering
+39,,<music21.note.Note G>,note,dunhill702,0.5,115.5,GeneralNote
+39,,<music21.articulations.Fingering 5>,fingering,dunhill703,0.0,0.0,Fingering
+39,,<music21.articulations.Staccato>,staccato,dunhill704,0.0,0.0,Articulation
+39,,<music21.note.Note G>,note,dunhill705,0.5,115.5,GeneralNote
+39,,<music21.articulations.Staccato>,staccato,dunhill706,0.0,0.0,Articulation
+39,,<music21.note.Note B->,note,dunhill707,0.5,116.0,GeneralNote
+39,,<music21.articulations.Fingering 2>,fingering,dunhill708,0.0,0.0,Fingering
+39,,<music21.note.Note F>,note,dunhill709,1.0,116.0,GeneralNote
+39,,<music21.note.Note A>,note,dunhill710,0.5,116.5,GeneralNote
+39,,<music21.articulations.Fingering 1>,fingering,dunhill711,0.0,0.0,Fingering
+39,,<music21.note.Note F>,note,dunhill712,0.5,117.0,GeneralNote
+39,,<music21.articulations.Fingering 5>,fingering,dunhill713,0.0,0.0,Fingering
+39,,<music21.articulations.Staccato>,staccato,dunhill714,0.0,0.0,Articulation
+39,,<music21.note.Note F>,note,dunhill715,0.5,117.0,GeneralNote
+39,,<music21.articulations.Staccato>,staccato,dunhill716,0.0,0.0,Articulation
+39,39,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B->>,slur,dunhill1195,0.5,0.0,Slur
+39,39,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A>>,slur,dunhill1196,0.5,0.0,Slur
+39,,<music21.expressions.TextExpression 'cresc.'>,cresc.,dunhill1263,0.0,114.5,TextExpression
+40,,<music21.note.Note A>,note,dunhill717,0.5,117.5,GeneralNote
+40,,<music21.articulations.Fingering 2>,fingering,dunhill718,0.0,0.0,Fingering
+40,,<music21.note.Note E>,note,dunhill719,1.0,117.5,GeneralNote
+40,,<music21.note.Note G>,note,dunhill720,0.5,118.0,GeneralNote
+40,,<music21.note.Note E>,note,dunhill721,0.5,118.5,GeneralNote
+40,,<music21.articulations.Staccato>,staccato,dunhill722,0.0,0.0,Articulation
+40,,<music21.note.Note E>,note,dunhill723,0.5,118.5,GeneralNote
+40,,<music21.articulations.Staccato>,staccato,dunhill724,0.0,0.0,Articulation
+40,,<music21.note.Note G>,note,dunhill725,0.5,119.0,GeneralNote
+40,,<music21.note.Note D>,note,dunhill726,1.0,119.0,GeneralNote
+40,,<music21.note.Note F>,note,dunhill727,0.5,119.5,GeneralNote
+40,,<music21.note.Note D>,note,dunhill728,0.5,120.0,GeneralNote
+40,,<music21.articulations.Staccato>,staccato,dunhill729,0.0,0.0,Articulation
+40,,<music21.note.Note D>,note,dunhill730,0.5,120.0,GeneralNote
+40,,<music21.articulations.Staccato>,staccato,dunhill731,0.0,0.0,Articulation
+40,40,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,dunhill1197,0.5,0.0,Slur
+40,40,<music21.spanner.Slur <music21.note.Note G><music21.note.Note F>>,slur,dunhill1198,0.5,0.0,Slur
+41,,<music21.note.Note F>,note,dunhill732,0.5,120.5,GeneralNote
+41,,<music21.note.Note C>,note,dunhill733,1.0,120.5,GeneralNote
+41,,<music21.note.Note E>,note,dunhill734,0.5,121.0,GeneralNote
+41,,<music21.note.Note C>,note,dunhill735,0.5,121.5,GeneralNote
+41,,<music21.articulations.Staccato>,staccato,dunhill736,0.0,0.0,Articulation
+41,,<music21.note.Note C>,note,dunhill737,0.5,121.5,GeneralNote
+41,,<music21.articulations.Staccato>,staccato,dunhill738,0.0,0.0,Articulation
+41,,<music21.note.Note E>,note,dunhill739,0.5,122.0,GeneralNote
+41,,<music21.note.Note B->,note,dunhill740,1.0,122.0,GeneralNote
+41,,<music21.note.Note D>,note,dunhill741,0.5,122.5,GeneralNote
+41,,<music21.note.Note B->,note,dunhill742,0.5,123.0,GeneralNote
+41,,<music21.articulations.Fingering 4>,fingering,dunhill743,0.0,0.0,Fingering
+41,,<music21.articulations.Staccato>,staccato,dunhill744,0.0,0.0,Articulation
+41,,<music21.note.Note B->,note,dunhill745,0.5,123.0,GeneralNote
+41,,<music21.articulations.Staccato>,staccato,dunhill746,0.0,0.0,Articulation
+41,41,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,dunhill1199,0.5,0.0,Slur
+41,41,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D>>,slur,dunhill1200,0.5,0.0,Slur
+41,,<music21.dynamics.Dynamic mf>,mf,dunhill1239,,,DynamicPoint
+41,,<music21.expressions.TextExpression 'dim.'>,dim.,dunhill1264,0.0,121.5,TextExpression
+42,,<music21.note.Note D>,note,dunhill747,0.5,123.5,GeneralNote
+42,,<music21.note.Note A>,note,dunhill748,1.0,123.5,GeneralNote
+42,,<music21.note.Note C>,note,dunhill749,0.5,124.0,GeneralNote
+42,,<music21.note.Note A>,note,dunhill750,0.5,124.5,GeneralNote
+42,,<music21.articulations.Fingering 5>,fingering,dunhill751,0.0,0.0,Fingering
+42,,<music21.articulations.Staccato>,staccato,dunhill752,0.0,0.0,Articulation
+42,,<music21.note.Note A>,note,dunhill753,0.5,124.5,GeneralNote
+42,,<music21.articulations.Staccato>,staccato,dunhill754,0.0,0.0,Articulation
+42,,<music21.note.Note C>,note,dunhill755,0.5,125.0,GeneralNote
+42,,<music21.articulations.Fingering 1>,fingering,dunhill756,0.0,0.0,Fingering
+42,,<music21.note.Note G>,note,dunhill757,1.0,125.0,GeneralNote
+42,,<music21.note.Note B->,note,dunhill758,0.5,125.5,GeneralNote
+42,,<music21.articulations.Fingering 2>,fingering,dunhill759,0.0,0.0,Fingering
+42,,<music21.note.Note G>,note,dunhill760,0.5,126.0,GeneralNote
+42,,<music21.articulations.Fingering 5>,fingering,dunhill761,0.0,0.0,Fingering
+42,,<music21.articulations.Staccato>,staccato,dunhill762,0.0,0.0,Articulation
+42,,<music21.note.Note G>,note,dunhill763,0.5,126.0,GeneralNote
+42,,<music21.articulations.Staccato>,staccato,dunhill764,0.0,0.0,Articulation
+42,42,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,dunhill1201,0.5,0.0,Slur
+42,42,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B->>,slur,dunhill1202,0.5,0.0,Slur
+43,,<music21.note.Note A>,note,dunhill765,0.5,126.5,GeneralNote
+43,,<music21.articulations.Fingering 1>,fingering,dunhill766,0.0,0.0,Fingering
+43,,<music21.note.Note F>,note,dunhill767,0.5,126.5,GeneralNote
+43,,<music21.articulations.Fingering 5>,fingering,dunhill768,0.0,0.0,Fingering
+43,,<music21.note.Note B>,note,dunhill769,0.25,127.0,GeneralNote
+43,,<music21.note.Note G>,note,dunhill770,0.25,127.0,GeneralNote
+43,,<music21.note.Note C#>,note,dunhill771,0.25,127.25,GeneralNote
+43,,<music21.note.Note A>,note,dunhill772,0.25,127.25,GeneralNote
+43,,<music21.note.Note D>,note,dunhill773,0.25,127.5,GeneralNote
+43,,<music21.articulations.Fingering 1>,fingering,dunhill774,0.0,0.0,Fingering
+43,,<music21.note.Note B>,note,dunhill775,0.25,127.5,GeneralNote
+43,,<music21.note.Note E>,note,dunhill776,0.25,127.75,GeneralNote
+43,,<music21.note.Note C#>,note,dunhill777,0.25,127.75,GeneralNote
+43,,<music21.articulations.Fingering 3>,fingering,dunhill778,0.0,0.0,Fingering
+43,,<music21.note.Note F>,note,dunhill779,0.5,128.0,GeneralNote
+43,,<music21.articulations.Staccato>,staccato,dunhill780,0.0,0.0,Articulation
+43,,<music21.note.Note D>,note,dunhill781,0.5,128.0,GeneralNote
+43,,<music21.articulations.Fingering 2>,fingering,dunhill782,0.0,0.0,Fingering
+43,,<music21.articulations.Staccato>,staccato,dunhill783,0.0,0.0,Articulation
+43,,<music21.note.Note E>,note,dunhill784,0.5,128.5,GeneralNote
+43,,<music21.articulations.Staccato>,staccato,dunhill785,0.0,0.0,Articulation
+43,,<music21.note.Note C#>,note,dunhill786,0.5,128.5,GeneralNote
+43,,<music21.articulations.Staccato>,staccato,dunhill787,0.0,0.0,Articulation
+43,,<music21.note.Note D>,note,dunhill788,0.5,129.0,GeneralNote
+43,,<music21.articulations.Staccato>,staccato,dunhill789,0.0,0.0,Articulation
+43,,<music21.note.Note B>,note,dunhill790,0.5,129.0,GeneralNote
+43,,<music21.articulations.Staccato>,staccato,dunhill791,0.0,0.0,Articulation
+43,43,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,dunhill1203,1.5,0.0,Slur
+43,43,<music21.spanner.Slur <music21.note.Note D>>,slur,dunhill1204,0.0,0.0,Slur
+43,50,<music21.spanner.Slur <music21.note.Note F><music21.note.Note D><music21.note.Note E>>,slur,dunhill1205,23.0,0.0,Slur
+43,,<music21.dynamics.Dynamic p>,p,dunhill1240,,,DynamicPoint
+43,,<music21.expressions.TextExpression 'cresc.'>,cresc.,dunhill1265,0.0,127.0,TextExpression
+44,,<music21.note.Note C#>,note,dunhill792,0.25,129.5,GeneralNote
+44,,<music21.articulations.Fingering 2>,fingering,dunhill793,0.0,0.0,Fingering
+44,,<music21.note.Note A>,note,dunhill794,0.25,129.5,GeneralNote
+44,,<music21.articulations.Fingering 5>,fingering,dunhill795,0.0,0.0,Fingering
+44,,<music21.note.Note D>,note,dunhill796,0.25,129.75,GeneralNote
+44,,<music21.articulations.Fingering 1>,fingering,dunhill797,0.0,0.0,Fingering
+44,,<music21.note.Note B>,note,dunhill798,0.25,129.75,GeneralNote
+44,,<music21.note.Note E>,note,dunhill799,0.25,130.0,GeneralNote
+44,,<music21.note.Note C#>,note,dunhill800,0.25,130.0,GeneralNote
+44,,<music21.note.Note F>,note,dunhill801,0.25,130.25,GeneralNote
+44,,<music21.note.Note D>,note,dunhill802,0.25,130.25,GeneralNote
+44,,<music21.note.Note G>,note,dunhill803,0.25,130.5,GeneralNote
+44,,<music21.articulations.Fingering 1>,fingering,dunhill804,0.0,0.0,Fingering
+44,,<music21.note.Note E>,note,dunhill805,0.25,130.5,GeneralNote
+44,,<music21.note.Note A>,note,dunhill806,0.25,130.75,GeneralNote
+44,,<music21.note.Note F>,note,dunhill807,0.25,130.75,GeneralNote
+44,,<music21.articulations.Fingering 3>,fingering,dunhill808,0.0,0.0,Fingering
+44,,<music21.note.Note B->,note,dunhill809,0.5,131.0,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,dunhill810,0.0,0.0,Articulation
+44,,<music21.note.Note G>,note,dunhill811,0.5,131.0,GeneralNote
+44,,<music21.articulations.Fingering 2>,fingering,dunhill812,0.0,0.0,Fingering
+44,,<music21.articulations.Staccato>,staccato,dunhill813,0.0,0.0,Articulation
+44,,<music21.note.Note A>,note,dunhill814,0.5,131.5,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,dunhill815,0.0,0.0,Articulation
+44,,<music21.note.Note F>,note,dunhill816,0.5,131.5,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,dunhill817,0.0,0.0,Articulation
+44,,<music21.note.Note G>,note,dunhill818,0.5,132.0,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,dunhill819,0.0,0.0,Articulation
+44,,<music21.note.Note E>,note,dunhill820,0.5,132.0,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,dunhill821,0.0,0.0,Articulation
+44,44,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note B->>,slur,dunhill1206,1.5,0.0,Slur
+44,44,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,dunhill1207,1.5,0.0,Slur
+45,,<music21.note.Note A>,note,dunhill822,0.5,132.5,GeneralNote
+45,,<music21.articulations.Fingering 2>,fingering,dunhill823,0.0,0.0,Fingering
+45,,<music21.note.Note F>,note,dunhill824,0.5,132.5,GeneralNote
+45,,<music21.articulations.Fingering 3>,fingering,dunhill825,0.0,0.0,Fingering
+45,,<music21.note.Note B>,note,dunhill826,0.25,133.0,GeneralNote
+45,,<music21.note.Note G>,note,dunhill827,0.25,133.0,GeneralNote
+45,,<music21.note.Note C#>,note,dunhill828,0.25,133.25,GeneralNote
+45,,<music21.note.Note A>,note,dunhill829,0.25,133.25,GeneralNote
+45,,<music21.note.Note D>,note,dunhill830,0.25,133.5,GeneralNote
+45,,<music21.articulations.Fingering 1>,fingering,dunhill831,0.0,0.0,Fingering
+45,,<music21.note.Note B>,note,dunhill832,0.25,133.5,GeneralNote
+45,,<music21.articulations.Fingering 3>,fingering,dunhill833,0.0,0.0,Fingering
+45,,<music21.note.Note E>,note,dunhill834,0.25,133.75,GeneralNote
+45,,<music21.note.Note C#>,note,dunhill835,0.25,133.75,GeneralNote
+45,,<music21.note.Note F>,note,dunhill836,0.5,134.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,dunhill837,0.0,0.0,Articulation
+45,,<music21.note.Note D>,note,dunhill838,0.5,134.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,dunhill839,0.0,0.0,Articulation
+45,,<music21.note.Note E>,note,dunhill840,0.5,134.5,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,dunhill841,0.0,0.0,Articulation
+45,,<music21.note.Note C#>,note,dunhill842,0.5,134.5,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,dunhill843,0.0,0.0,Articulation
+45,,<music21.note.Note D>,note,dunhill844,0.5,135.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,dunhill845,0.0,0.0,Articulation
+45,,<music21.note.Note B>,note,dunhill846,0.5,135.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,dunhill847,0.0,0.0,Articulation
+45,45,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,dunhill1208,1.5,0.0,Slur
+45,45,<music21.spanner.Slur <music21.note.Note F><music21.note.Note D>>,slur,dunhill1209,1.5,0.0,Slur
+46,,<music21.note.Note A>,note,dunhill848,1.5,135.5,GeneralNote
+46,,<music21.articulations.Fingering 5>,fingering,dunhill849,0.0,0.0,Fingering
+46,,<music21.articulations.Tenuto>,tenuto,dunhill850,0.0,0.0,Articulation
+46,,<music21.note.Note A>,note,dunhill851,0.5,135.5,GeneralNote
+46,,<music21.articulations.Fingering 1>,fingering,dunhill852,0.0,0.0,Fingering
+46,,<music21.articulations.Staccato>,staccato,dunhill853,0.0,0.0,Articulation
+46,,<music21.note.Note E>,note,dunhill854,0.5,136.0,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,dunhill855,0.0,0.0,Articulation
+46,,<music21.note.Note C#>,note,dunhill856,0.5,136.5,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,dunhill857,0.0,0.0,Articulation
+46,,<music21.note.Rest eighth>,note,dunhill858,0.5,137.0,GeneralNote
+46,,<music21.note.Note A>,note,dunhill859,1.0,137.0,GeneralNote
+46,,<music21.articulations.Tenuto>,tenuto,dunhill860,0.0,0.0,Articulation
+46,,<music21.note.Note A>,note,dunhill861,0.5,137.5,GeneralNote
+46,,<music21.articulations.Fingering 5>,fingering,dunhill862,0.0,0.0,Fingering
+46,,<music21.articulations.Staccato>,staccato,dunhill863,0.0,0.0,Articulation
+46,,<music21.note.Note A>,note,dunhill864,0.5,138.0,GeneralNote
+46,,<music21.articulations.Fingering 1>,fingering,dunhill865,0.0,0.0,Fingering
+46,,<music21.articulations.Staccato>,staccato,dunhill866,0.0,0.0,Articulation
+46,,<music21.chord.Chord C#4 E4>,note,dunhill867,0.5,138.0,GeneralNote
+46,,<music21.articulations.Fingering 3>,fingering,dunhill868,0.0,0.0,Fingering
+46,,<music21.articulations.Staccato>,staccato,dunhill869,0.0,0.0,Articulation
+46,,<music21.articulations.Fingering 1>,fingering,dunhill870,0.0,0.0,Fingering
+46,,<music21.dynamics.Dynamic f>,f,dunhill1241,,,DynamicPoint
+46,,<music21.dynamics.Dynamic p>,p,dunhill1242,,,DynamicPoint
+47,,<music21.note.Note B->,note,dunhill871,1.0,138.5,GeneralNote
+47,,<music21.articulations.Fingering 2>,fingering,dunhill872,0.0,0.0,Fingering
+47,,<music21.note.Rest quarter>,note,dunhill873,1.0,138.5,GeneralNote
+47,,<music21.note.Rest dotted-quarter>,note,dunhill874,1.5,138.5,GeneralNote
+47,,<music21.chord.Chord D4 F4>,note,dunhill875,1.5,138.5,GeneralNote
+47,,<music21.articulations.Fingering 2>,fingering,dunhill876,0.0,0.0,Fingering
+47,,<music21.articulations.Fingering 1>,fingering,dunhill877,0.0,0.0,Fingering
+47,,<music21.note.Rest quarter>,note,dunhill878,1.0,138.5,GeneralNote
+47,,<music21.note.Rest dotted-quarter>,note,dunhill879,1.5,138.5,GeneralNote
+47,,<music21.note.Note A>,note,dunhill880,0.5,139.5,GeneralNote
+47,,<music21.note.Rest eighth>,note,dunhill881,0.5,139.5,GeneralNote
+47,,<music21.note.Rest eighth>,note,dunhill882,0.5,139.5,GeneralNote
+47,,<music21.note.Note A>,note,dunhill883,0.5,140.0,GeneralNote
+47,,<music21.articulations.Fingering 2>,fingering,dunhill884,0.0,0.0,Fingering
+47,,<music21.articulations.Staccato>,staccato,dunhill885,0.0,0.0,Articulation
+47,,<music21.note.Note E>,note,dunhill886,1.5,140.0,GeneralNote
+47,,<music21.note.Note C#>,note,dunhill887,1.0,140.0,GeneralNote
+47,,<music21.articulations.Fingering 3>,fingering,dunhill888,0.0,0.0,Fingering
+47,,<music21.note.Note A>,note,dunhill889,0.5,140.5,GeneralNote
+47,,<music21.articulations.Fingering 5>,fingering,dunhill890,0.0,0.0,Fingering
+47,,<music21.articulations.Staccato>,staccato,dunhill891,0.0,0.0,Articulation
+47,,<music21.note.Note A>,note,dunhill892,0.5,141.0,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,dunhill893,0.0,0.0,Articulation
+47,,<music21.note.Note A>,note,dunhill894,0.5,141.0,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,dunhill895,0.0,0.0,Articulation
+47,47,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A>>,slur,dunhill1210,1.0,0.0,Slur
+48,,<music21.note.Note B->,note,dunhill896,1.0,141.5,GeneralNote
+48,,<music21.articulations.Fingering 2>,fingering,dunhill897,0.0,0.0,Fingering
+48,,<music21.note.Note F>,note,dunhill898,1.5,141.5,GeneralNote
+48,,<music21.articulations.Fingering 1>,fingering,dunhill899,0.0,0.0,Fingering
+48,,<music21.note.Note D>,note,dunhill900,1.5,141.5,GeneralNote
+48,,<music21.articulations.Fingering 2>,fingering,dunhill901,0.0,0.0,Fingering
+48,,<music21.note.Note A>,note,dunhill902,0.5,142.5,GeneralNote
+48,,<music21.note.Note A>,note,dunhill903,0.5,143.0,GeneralNote
+48,,<music21.articulations.Fingering 2>,fingering,dunhill904,0.0,0.0,Fingering
+48,,<music21.articulations.Staccato>,staccato,dunhill905,0.0,0.0,Articulation
+48,,<music21.note.Note E>,note,dunhill906,1.5,143.0,GeneralNote
+48,,<music21.note.Note C#>,note,dunhill907,1.0,143.0,GeneralNote
+48,,<music21.articulations.Fingering 3>,fingering,dunhill908,0.0,0.0,Fingering
+48,,<music21.note.Note A>,note,dunhill909,0.5,143.5,GeneralNote
+48,,<music21.articulations.Fingering 5>,fingering,dunhill910,0.0,0.0,Fingering
+48,,<music21.articulations.Staccato>,staccato,dunhill911,0.0,0.0,Articulation
+48,,<music21.note.Note G>,note,dunhill912,0.5,144.0,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,dunhill913,0.0,0.0,Articulation
+48,,<music21.note.Note A>,note,dunhill914,0.5,144.0,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,dunhill915,0.0,0.0,Articulation
+48,48,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A>>,slur,dunhill1211,1.0,0.0,Slur
+49,,<music21.note.Note F>,note,dunhill916,0.5,144.5,GeneralNote
+49,,<music21.articulations.Fingering 3>,fingering,dunhill917,0.0,0.0,Fingering
+49,,<music21.note.Note F>,note,dunhill918,1.5,144.5,GeneralNote
+49,,<music21.note.Note D>,note,dunhill919,1.0,144.5,GeneralNote
+49,,<music21.articulations.Fingering 2>,fingering,dunhill920,0.0,0.0,Fingering
+49,,<music21.note.Note E>,note,dunhill921,0.5,145.0,GeneralNote
+49,,<music21.note.Note D>,note,dunhill922,0.5,145.5,GeneralNote
+49,,<music21.note.Note G>,note,dunhill923,0.5,145.5,GeneralNote
+49,,<music21.articulations.Fingering 5>,fingering,dunhill924,0.0,0.0,Fingering
+49,,<music21.note.Note D>,note,dunhill925,0.5,146.0,GeneralNote
+49,,<music21.articulations.Fingering 3>,fingering,dunhill926,0.0,0.0,Fingering
+49,,<music21.note.Note F>,note,dunhill927,1.0,146.0,GeneralNote
+49,,<music21.note.Note A>,note,dunhill928,1.5,146.0,GeneralNote
+49,,<music21.articulations.Fingering 4>,fingering,dunhill929,0.0,0.0,Fingering
+49,,<music21.note.Note E>,note,dunhill930,0.5,146.5,GeneralNote
+49,,<music21.note.Note C#>,note,dunhill931,0.5,147.0,GeneralNote
+49,,<music21.articulations.Fingering 2>,fingering,dunhill932,0.0,0.0,Fingering
+49,,<music21.articulations.Staccato>,staccato,dunhill933,0.0,0.0,Articulation
+49,,<music21.note.Note E>,note,dunhill934,0.5,147.0,GeneralNote
+49,,<music21.articulations.Fingering 1>,fingering,dunhill935,0.0,0.0,Fingering
+49,,<music21.articulations.Staccato>,staccato,dunhill936,0.0,0.0,Articulation
+49,49,<music21.spanner.Slur <music21.note.Note F><music21.note.Note D>>,slur,dunhill1212,1.0,0.0,Slur
+49,49,<music21.spanner.Slur <music21.note.Note D><music21.note.Note E>>,slur,dunhill1213,0.5,0.0,Slur
+49,49,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,dunhill1214,1.5,0.0,Slur
+49,,<music21.dynamics.Dynamic p>,p,dunhill1243,,,DynamicPoint
+50,,<music21.note.Note D>,note,dunhill937,1.5,147.5,GeneralNote
+50,,<music21.articulations.Fingering 2>,fingering,dunhill938,0.0,0.0,Fingering
+50,,<music21.note.Note D>,note,dunhill939,0.5,147.5,GeneralNote
+50,,<music21.articulations.Fingering 1>,fingering,dunhill940,0.0,0.0,Fingering
+50,,<music21.articulations.Staccato>,staccato,dunhill941,0.0,0.0,Articulation
+50,,<music21.note.Note A>,note,dunhill942,0.5,148.0,GeneralNote
+50,,<music21.articulations.Fingering 2>,fingering,dunhill943,0.0,0.0,Fingering
+50,,<music21.articulations.Staccato>,staccato,dunhill944,0.0,0.0,Articulation
+50,,<music21.note.Note D>,note,dunhill945,0.5,148.5,GeneralNote
+50,,<music21.articulations.Fingering 5>,fingering,dunhill946,0.0,0.0,Fingering
+50,,<music21.articulations.Staccato>,staccato,dunhill947,0.0,0.0,Articulation
+50,,<music21.note.Note D>,note,dunhill948,0.5,149.0,GeneralNote
+50,,<music21.note.Note A>,note,dunhill949,1.5,149.0,GeneralNote
+50,,<music21.articulations.Fingering 5>,fingering,dunhill950,0.0,0.0,Fingering
+50,,<music21.articulations.Tenuto>,tenuto,dunhill951,0.0,0.0,Articulation
+50,,<music21.note.Note E>,note,dunhill952,0.5,149.5,GeneralNote
+50,,<music21.articulations.Staccato>,staccato,dunhill953,0.0,0.0,Articulation
+50,,<music21.note.Note A>,note,dunhill954,0.5,150.0,GeneralNote
+50,,<music21.articulations.Staccato>,staccato,dunhill955,0.0,0.0,Articulation
+50,50,<music21.spanner.Slur <music21.note.Note D><music21.note.Note D>>,slur,dunhill1215,1.5,0.0,Slur
+50,,<music21.expressions.TextExpression 'cresc.'>,cresc.,dunhill1266,0.0,149.0,TextExpression
+51,,<music21.note.Note F>,note,dunhill956,1.5,150.5,GeneralNote
+51,,<music21.articulations.Fingering 5>,fingering,dunhill957,0.0,0.0,Fingering
+51,,<music21.note.Note D>,note,dunhill958,1.5,150.5,GeneralNote
+51,,<music21.articulations.Fingering 2>,fingering,dunhill959,0.0,0.0,Fingering
+51,,<music21.note.Note D>,note,dunhill960,0.5,150.5,GeneralNote
+51,,<music21.articulations.Staccato>,staccato,dunhill961,0.0,0.0,Articulation
+51,,<music21.note.Note A>,note,dunhill962,0.5,151.0,GeneralNote
+51,,<music21.articulations.Staccato>,staccato,dunhill963,0.0,0.0,Articulation
+51,,<music21.note.Note D>,note,dunhill964,0.5,151.5,GeneralNote
+51,,<music21.articulations.Staccato>,staccato,dunhill965,0.0,0.0,Articulation
+51,,<music21.note.Note F>,note,dunhill966,0.5,152.0,GeneralNote
+51,,<music21.note.Note D>,note,dunhill967,0.5,152.0,GeneralNote
+51,,<music21.note.Note A>,note,dunhill968,1.5,152.0,GeneralNote
+51,,<music21.articulations.Tenuto>,tenuto,dunhill969,0.0,0.0,Articulation
+51,,<music21.note.Note E>,note,dunhill970,0.5,152.5,GeneralNote
+51,,<music21.articulations.Staccato>,staccato,dunhill971,0.0,0.0,Articulation
+51,,<music21.note.Rest eighth>,note,dunhill972,0.5,152.5,GeneralNote
+51,,<music21.note.Note A>,note,dunhill973,0.5,153.0,GeneralNote
+51,,<music21.articulations.Staccato>,staccato,dunhill974,0.0,0.0,Articulation
+51,,<music21.note.Rest eighth>,note,dunhill975,0.5,153.0,GeneralNote
+51,51,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,dunhill1216,1.5,0.0,Slur
+51,51,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,dunhill1217,2.0,0.0,Slur
+52,,<music21.note.Note F>,note,dunhill976,1.5,153.5,GeneralNote
+52,,<music21.note.Note D>,note,dunhill977,1.5,153.5,GeneralNote
+52,,<music21.note.Note D>,note,dunhill978,0.5,153.5,GeneralNote
+52,,<music21.articulations.Staccato>,staccato,dunhill979,0.0,0.0,Articulation
+52,,<music21.note.Note A>,note,dunhill980,0.5,154.0,GeneralNote
+52,,<music21.articulations.Staccato>,staccato,dunhill981,0.0,0.0,Articulation
+52,,<music21.note.Note D>,note,dunhill982,0.5,154.5,GeneralNote
+52,,<music21.articulations.Staccato>,staccato,dunhill983,0.0,0.0,Articulation
+52,,<music21.note.Note F>,note,dunhill984,0.5,155.0,GeneralNote
+52,,<music21.note.Note D>,note,dunhill985,0.5,155.0,GeneralNote
+52,,<music21.note.Note A>,note,dunhill986,1.0,155.0,GeneralNote
+52,,<music21.articulations.Tenuto>,tenuto,dunhill987,0.0,0.0,Articulation
+52,,<music21.note.Note E>,note,dunhill988,0.5,155.5,GeneralNote
+52,,<music21.articulations.Fingering 3>,fingering,dunhill989,0.0,0.0,Fingering
+52,,<music21.articulations.Staccato>,staccato,dunhill990,0.0,0.0,Articulation
+52,,<music21.note.Rest eighth>,note,dunhill991,0.5,155.5,GeneralNote
+52,,<music21.note.Note A>,note,dunhill992,0.5,156.0,GeneralNote
+52,,<music21.articulations.Staccato>,staccato,dunhill993,0.0,0.0,Articulation
+52,,<music21.note.Rest eighth>,note,dunhill994,0.5,156.0,GeneralNote
+52,,<music21.note.Note C#>,note,dunhill995,0.5,156.0,GeneralNote
+52,,<music21.articulations.Fingering 1>,fingering,dunhill996,0.0,0.0,Fingering
+52,,<music21.articulations.Staccato>,staccato,dunhill997,0.0,0.0,Articulation
+52,52,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,dunhill1218,1.5,0.0,Slur
+52,52,<music21.spanner.Slur <music21.note.Note D><music21.note.Note D>>,slur,dunhill1219,1.5,0.0,Slur
+53,,<music21.note.Note F>,note,dunhill998,0.5,156.5,GeneralNote
+53,,<music21.articulations.Fingering 3>,fingering,dunhill999,0.0,0.0,Fingering
+53,,<music21.note.Note D>,note,dunhill1000,0.5,156.5,GeneralNote
+53,,<music21.articulations.Fingering 1>,fingering,dunhill1001,0.0,0.0,Fingering
+53,,<music21.chord.Chord D3 A3 D4>,note,dunhill1002,1.5,156.5,GeneralNote
+53,,<music21.note.Note G>,note,dunhill1003,0.5,157.0,GeneralNote
+53,,<music21.note.Note E>,note,dunhill1004,0.5,157.0,GeneralNote
+53,,<music21.note.Note A>,note,dunhill1005,0.5,157.5,GeneralNote
+53,,<music21.note.Note F>,note,dunhill1006,0.5,157.5,GeneralNote
+53,,<music21.note.Note A>,note,dunhill1007,0.5,158.0,GeneralNote
+53,,<music21.note.Note F>,note,dunhill1008,0.5,158.0,GeneralNote
+53,,<music21.chord.Chord G3 B-3 D4>,note,dunhill1009,1.5,158.0,GeneralNote
+53,,<music21.articulations.Fingering 4>,fingering,dunhill1010,0.0,0.0,Fingering
+53,,<music21.note.Note G>,note,dunhill1011,0.5,158.5,GeneralNote
+53,,<music21.note.Note E>,note,dunhill1012,0.5,158.5,GeneralNote
+53,,<music21.note.Note F>,note,dunhill1013,0.5,159.0,GeneralNote
+53,,<music21.note.Note D>,note,dunhill1014,0.5,159.0,GeneralNote
+53,53,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,dunhill1220,2.5,0.0,Slur
+53,,<music21.dynamics.Dynamic f>,f,dunhill1244,,,DynamicPoint
+54,,<music21.note.Note E>,note,dunhill1015,0.25,159.5,GeneralNote
+54,,<music21.articulations.Fingering 2>,fingering,dunhill1016,0.0,0.0,Fingering
+54,,<music21.chord.Chord A2 A3>,note,dunhill1017,1.5,159.5,GeneralNote
+54,,<music21.note.Note D>,note,dunhill1018,0.25,159.75,GeneralNote
+54,,<music21.note.Note C#>,note,dunhill1019,0.25,160.0,GeneralNote
+54,,<music21.articulations.Fingering 4>,fingering,dunhill1020,0.0,0.0,Fingering
+54,,<music21.note.Note B>,note,dunhill1021,0.25,160.25,GeneralNote
+54,,<music21.note.Note A>,note,dunhill1022,0.25,160.5,GeneralNote
+54,,<music21.note.Note G>,note,dunhill1023,0.25,160.75,GeneralNote
+54,,<music21.note.Note F>,note,dunhill1024,0.25,161.0,GeneralNote
+54,,<music21.articulations.Fingering 3>,fingering,dunhill1025,0.0,0.0,Fingering
+54,,<music21.note.Rest quarter>,note,dunhill1026,1.0,161.0,GeneralNote
+54,,<music21.note.Note E>,note,dunhill1027,0.25,161.25,GeneralNote
+54,,<music21.note.Note D>,note,dunhill1028,0.25,161.5,GeneralNote
+54,,<music21.note.Note C#>,note,dunhill1029,0.25,161.75,GeneralNote
+54,,<music21.articulations.Fingering 3>,fingering,dunhill1030,0.0,0.0,Fingering
+54,,<music21.note.Note B>,note,dunhill1031,0.25,162.0,GeneralNote
+54,,<music21.note.Rest eighth>,note,dunhill1032,0.5,162.0,GeneralNote
+54,,<music21.note.Note A>,note,dunhill1033,0.25,162.25,GeneralNote
+54,54,<music21.spanner.Slur <music21.note.Note E><music21.note.Note A>>,slur,dunhill1221,2.75,0.0,Slur
+54,54,<music21.dynamics.Diminuendo <music21.note.Note D><music21.note.Note B>>,diminuendo,dunhill1256,,,DynamicRegion
+55,,<music21.note.Note F>,note,dunhill1034,1.5,162.5,GeneralNote
+55,,<music21.articulations.Fingering 5>,fingering,dunhill1035,0.0,0.0,Fingering
+55,,<music21.note.Note D>,note,dunhill1036,1.5,162.5,GeneralNote
+55,,<music21.articulations.Fingering 2>,fingering,dunhill1037,0.0,0.0,Fingering
+55,,<music21.note.Note D>,note,dunhill1038,0.5,162.5,GeneralNote
+55,,<music21.articulations.Fingering 1>,fingering,dunhill1039,0.0,0.0,Fingering
+55,,<music21.articulations.Staccato>,staccato,dunhill1040,0.0,0.0,Articulation
+55,,<music21.note.Note A>,note,dunhill1041,0.5,163.0,GeneralNote
+55,,<music21.articulations.Fingering 2>,fingering,dunhill1042,0.0,0.0,Fingering
+55,,<music21.articulations.Staccato>,staccato,dunhill1043,0.0,0.0,Articulation
+55,,<music21.note.Note D>,note,dunhill1044,0.5,163.5,GeneralNote
+55,,<music21.articulations.Fingering 5>,fingering,dunhill1045,0.0,0.0,Fingering
+55,,<music21.articulations.Staccato>,staccato,dunhill1046,0.0,0.0,Articulation
+55,,<music21.note.Note F>,note,dunhill1047,0.5,164.0,GeneralNote
+55,,<music21.note.Note D>,note,dunhill1048,0.5,164.0,GeneralNote
+55,,<music21.note.Note A>,note,dunhill1049,1.5,164.0,GeneralNote
+55,,<music21.articulations.Fingering 5>,fingering,dunhill1050,0.0,0.0,Fingering
+55,,<music21.articulations.Tenuto>,tenuto,dunhill1051,0.0,0.0,Articulation
+55,,<music21.note.Note E>,note,dunhill1052,0.5,164.5,GeneralNote
+55,,<music21.articulations.Fingering 3>,fingering,dunhill1053,0.0,0.0,Fingering
+55,,<music21.articulations.Staccato>,staccato,dunhill1054,0.0,0.0,Articulation
+55,,<music21.note.Rest eighth>,note,dunhill1055,0.5,164.5,GeneralNote
+55,,<music21.note.Note A>,note,dunhill1056,0.5,165.0,GeneralNote
+55,,<music21.articulations.Staccato>,staccato,dunhill1057,0.0,0.0,Articulation
+55,,<music21.note.Rest eighth>,note,dunhill1058,0.5,165.0,GeneralNote
+55,55,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,dunhill1222,1.5,0.0,Slur
+55,55,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,dunhill1223,2.0,0.0,Slur
+55,,<music21.dynamics.Dynamic p>,p,dunhill1245,,,DynamicPoint
+56,,<music21.note.Note F>,note,dunhill1059,1.5,165.5,GeneralNote
+56,,<music21.articulations.Fingering 5>,fingering,dunhill1060,0.0,0.0,Fingering
+56,,<music21.note.Note D>,note,dunhill1061,1.5,165.5,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,dunhill1062,0.0,0.0,Fingering
+56,,<music21.note.Note D>,note,dunhill1063,0.5,165.5,GeneralNote
+56,,<music21.articulations.Staccato>,staccato,dunhill1064,0.0,0.0,Articulation
+56,,<music21.note.Note A>,note,dunhill1065,0.5,166.0,GeneralNote
+56,,<music21.articulations.Staccato>,staccato,dunhill1066,0.0,0.0,Articulation
+56,,<music21.note.Note D>,note,dunhill1067,0.5,166.5,GeneralNote
+56,,<music21.articulations.Staccato>,staccato,dunhill1068,0.0,0.0,Articulation
+56,,<music21.note.Note F>,note,dunhill1069,0.5,167.0,GeneralNote
+56,,<music21.note.Note D>,note,dunhill1070,0.5,167.0,GeneralNote
+56,,<music21.note.Note A>,note,dunhill1071,1.5,167.0,GeneralNote
+56,,<music21.articulations.Tenuto>,tenuto,dunhill1072,0.0,0.0,Articulation
+56,,<music21.note.Note E>,note,dunhill1073,0.5,167.5,GeneralNote
+56,,<music21.articulations.Staccato>,staccato,dunhill1074,0.0,0.0,Articulation
+56,,<music21.note.Rest eighth>,note,dunhill1075,0.5,167.5,GeneralNote
+56,,<music21.note.Note A>,note,dunhill1076,0.5,168.0,GeneralNote
+56,,<music21.articulations.Staccato>,staccato,dunhill1077,0.0,0.0,Articulation
+56,,<music21.note.Rest eighth>,note,dunhill1078,0.5,168.0,GeneralNote
+56,56,<music21.spanner.Slur <music21.note.Note D><music21.note.Note D>>,slur,dunhill1224,1.5,0.0,Slur
+57,,<music21.note.Note F>,note,dunhill1079,0.5,168.5,GeneralNote
+57,,<music21.articulations.Fingering 5>,fingering,dunhill1080,0.0,0.0,Fingering
+57,,<music21.note.Note D>,note,dunhill1081,0.5,168.5,GeneralNote
+57,,<music21.articulations.Fingering 2>,fingering,dunhill1082,0.0,0.0,Fingering
+57,,<music21.note.Note D>,note,dunhill1083,1.0,168.5,GeneralNote
+57,,<music21.note.Note E>,note,dunhill1084,0.5,169.0,GeneralNote
+57,,<music21.note.Rest eighth>,note,dunhill1085,0.5,169.0,GeneralNote
+57,,<music21.note.Note D>,note,dunhill1086,0.5,169.5,GeneralNote
+57,,<music21.note.Rest eighth>,note,dunhill1087,0.5,169.5,GeneralNote
+57,,<music21.note.Note G>,note,dunhill1088,0.5,169.5,GeneralNote
+57,,<music21.note.Note D>,note,dunhill1089,0.5,170.0,GeneralNote
+57,,<music21.articulations.Fingering 3>,fingering,dunhill1090,0.0,0.0,Fingering
+57,,<music21.note.Rest quarter>,note,dunhill1091,1.0,170.0,GeneralNote
+57,,<music21.note.Rest quarter>,note,dunhill1092,1.0,170.0,GeneralNote
+57,,<music21.note.Note A>,note,dunhill1093,1.0,170.0,GeneralNote
+57,,<music21.note.Note E>,note,dunhill1094,0.5,170.5,GeneralNote
+57,,<music21.note.Note C#>,note,dunhill1095,0.5,171.0,GeneralNote
+57,,<music21.articulations.Fingering 2>,fingering,dunhill1096,0.0,0.0,Fingering
+57,,<music21.articulations.Staccato>,staccato,dunhill1097,0.0,0.0,Articulation
+57,,<music21.note.Rest eighth>,note,dunhill1098,0.5,171.0,GeneralNote
+57,,<music21.note.Rest eighth>,note,dunhill1099,0.5,171.0,GeneralNote
+57,,<music21.note.Note A>,note,dunhill1100,0.5,171.0,GeneralNote
+57,57,<music21.spanner.Slur <music21.note.Note F><music21.note.Note D>>,slur,dunhill1225,1.0,0.0,Slur
+57,57,<music21.spanner.Slur <music21.note.Note D><music21.note.Note E>>,slur,dunhill1226,0.5,0.0,Slur
+57,57,<music21.spanner.Slur <music21.note.Note D><music21.note.Note G>>,slur,dunhill1227,1.0,0.0,Slur
+58,,<music21.note.Note D>,note,dunhill1101,0.25,171.5,GeneralNote
+58,,<music21.articulations.Fingering 1>,fingering,dunhill1102,0.0,0.0,Fingering
+58,,<music21.note.Note D>,note,dunhill1103,1.5,171.5,GeneralNote
+58,,<music21.articulations.Fingering 2>,fingering,dunhill1104,0.0,0.0,Fingering
+58,,<music21.note.Note E>,note,dunhill1105,0.25,171.75,GeneralNote
+58,,<music21.note.Note F>,note,dunhill1106,0.25,172.0,GeneralNote
+58,,<music21.note.Note G>,note,dunhill1107,0.25,172.25,GeneralNote
+58,,<music21.articulations.Fingering 1>,fingering,dunhill1108,0.0,0.0,Fingering
+58,,<music21.note.Note A>,note,dunhill1109,0.25,172.5,GeneralNote
+58,,<music21.note.Note B>,note,dunhill1110,0.125,172.75,GeneralNote
+58,,<music21.note.Note C#>,note,dunhill1111,0.125,172.875,GeneralNote
+58,,<music21.note.Note D>,note,dunhill1112,0.5,173.0,GeneralNote
+58,,<music21.articulations.Fingering 1>,fingering,dunhill1113,0.0,0.0,Fingering
+58,,<music21.chord.Chord D2 D3>,note,dunhill1114,1.5,173.0,GeneralNote
+58,,<music21.note.Note A>,note,dunhill1115,0.5,173.5,GeneralNote
+58,,<music21.articulations.Fingering 5>,fingering,dunhill1116,0.0,0.0,Fingering
+58,,<music21.articulations.Staccato>,staccato,dunhill1117,0.0,0.0,Articulation
+58,,<music21.note.Note A>,note,dunhill1118,0.5,174.0,GeneralNote
+58,,<music21.articulations.Fingering 1>,fingering,dunhill1119,0.0,0.0,Fingering
+58,,<music21.articulations.Staccato>,staccato,dunhill1120,0.0,0.0,Articulation
+58,58,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,dunhill1228,2.0,0.0,Slur
+58,,<music21.dynamics.Dynamic f>,f,dunhill1246,,,DynamicPoint
+58,58,<music21.dynamics.Crescendo <music21.note.Note D><music21.note.Note C#>>,diminuendo,dunhill1258,,,DynamicRegion
+59,,<music21.note.Note D>,note,dunhill1121,0.5,174.5,GeneralNote
+59,,<music21.articulations.Fingering 2>,fingering,dunhill1122,0.0,0.0,Fingering
+59,,<music21.chord.Chord D2 D3>,note,dunhill1123,1.5,174.5,GeneralNote
+59,,<music21.note.Note A>,note,dunhill1124,0.5,175.0,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,dunhill1125,0.0,0.0,Articulation
+59,,<music21.note.Note A>,note,dunhill1126,0.5,175.5,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,dunhill1127,0.0,0.0,Articulation
+59,,<music21.note.Note D>,note,dunhill1128,0.5,176.0,GeneralNote
+59,,<music21.chord.Chord D2 D3>,note,dunhill1129,1.5,176.0,GeneralNote
+59,,<music21.note.Note A>,note,dunhill1130,0.5,176.5,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,dunhill1131,0.0,0.0,Articulation
+59,,<music21.note.Note A>,note,dunhill1132,0.5,177.0,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,dunhill1133,0.0,0.0,Articulation
+59,59,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,dunhill1229,0.5,0.0,Slur
+59,59,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,dunhill1230,0.5,0.0,Slur
+59,,<music21.expressions.TextExpression 'poco rall.'>,poco rall.,dunhill1267,0.0,174.5,TextExpression
+60,,<music21.note.Note D>,note,dunhill1134,1.5,177.5,GeneralNote
+60,,<music21.articulations.Fingering 231>,fingering,dunhill1135,0.0,0.0,Fingering
+60,,<music21.chord.Chord D2 D3>,note,dunhill1136,1.5,177.5,GeneralNote
+60,,<music21.note.Note C#>,note,dunhill1137,0.0,179.0,GeneralNote
+60,,<music21.articulations.Fingering 2>,fingering,dunhill1138,0.0,0.0,Fingering
+60,,<music21.note.Note D>,note,dunhill1139,1.0,179.0,GeneralNote
+60,,<music21.articulations.Fingering 3>,fingering,dunhill1140,0.0,0.0,Fingering
+60,,<music21.chord.Chord D2 D3>,note,dunhill1141,1.0,179.0,GeneralNote
+60,60,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note D>>,slur,dunhill1231,0.0,0.0,Slur
