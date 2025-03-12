@@ -50,8 +50,8 @@ Some basic commands for Git from the terminal. Note, your terminal prompt should
 # clone: clone the repository
 # from terminal move to home directory
 cd ~
-# clone the repository on your computer
-git clone https://github.com/nicholascornia89/echos_du_temps_passe.git
+# clone the repository on your computer using SSH
+git clone git@github.com:nicholascornia89/echos_du_temps_passe.git
 # pull: synchronize your local folder with the repository
 git pull
 # add: add automatically new changes for commit
