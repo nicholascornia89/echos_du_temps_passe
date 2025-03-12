@@ -47,6 +47,11 @@ Computational and Statistical analysis of the corpus, including scripts and quan
 Some basic commands for Git from the terminal. Note, your terminal prompt should be on the main directory of the GitHub repository.
 
 ```bash
+# clone: clone the repository
+# from terminal move to home directory
+cd ~
+# clone the repository on your computer
+git clone https://github.com/nicholascornia89/echos_du_temps_passe.git
 # pull: synchronize your local folder with the repository
 git pull
 # add: add automatically new changes for commit
