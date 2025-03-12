@@ -1,1005 +1,1008 @@
 measure_start,measure_end,object,value,id,quarterlength,offset,type
 1,,<music21.note.Note B->,note,busoni1,2.0,0.0,GeneralNote
-1,,<music21.chord.Chord E-4 G-4>,note,busoni2,2.0,0.0,GeneralNote
-1,,<music21.articulations.Tenuto>,tenuto,busoni3,0.0,0.0,Articulation
-1,,<music21.note.Rest dotted-whole>,note,busoni4,6.0,0.0,GeneralNote
-1,,<music21.note.Rest dotted-whole>,note,busoni5,6.0,0.0,GeneralNote
-1,,<music21.note.Rest quarter>,note,busoni6,1.0,2.0,GeneralNote
-1,,<music21.chord.Chord E-4 G-4>,note,busoni7,2.0,2.0,GeneralNote
-1,,<music21.articulations.Tenuto>,tenuto,busoni8,0.0,0.0,Articulation
-1,,<music21.note.Rest eighth>,note,busoni9,0.5,3.0,GeneralNote
-1,,<music21.note.Note B->,note,busoni10,0.5,3.5,GeneralNote
-1,,<music21.note.Note E->,note,busoni11,1.5,4.0,GeneralNote
-1,,<music21.chord.Chord E-4 G-4>,note,busoni12,2.0,4.0,GeneralNote
-1,,<music21.articulations.Tenuto>,tenuto,busoni13,0.0,0.0,Articulation
-1,,<music21.note.Note G->,note,busoni14,0.5,5.5,GeneralNote
-1,1,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note G->>,slur,busoni892,2.0,0.0,Slur
-1,,<music21.expressions.TextExpression 'Lento'>,Lento,busoni981,0.0,0.0,TextExpression
-1,,"<music21.expressions.TextExpression 'weich, zart'>","weich, zart",busoni982,0.0,0.0,TextExpression
-1,,<music21.expressions.TextExpression 'dolcissimo...'>,"dolcissimo, una corda",busoni983,0.0,0.0,TextExpression
-1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None,busoni1020,0.0,0.0,TempoIndication
-1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None None,busoni1021,0.0,0.0,MetronomeMark
-2,,<music21.note.Note C->,note,busoni15,2.0,6.0,GeneralNote
-2,,<music21.articulations.Tenuto>,tenuto,busoni16,0.0,0.0,Articulation
-2,,<music21.chord.Chord E-4 A-4>,note,busoni17,2.0,6.0,GeneralNote
+1,,<music21.articulations.Tenuto>,tenuto,busoni2,0.0,0.0,Articulation
+1,,<music21.chord.Chord E-4 G-4>,note,busoni3,2.0,0.0,GeneralNote
+1,,<music21.articulations.Fingering 4>,fingering,busoni4,0.0,0.0,Fingering
+1,,<music21.articulations.Tenuto>,tenuto,busoni5,0.0,0.0,Articulation
+1,,<music21.articulations.Fingering 2>,fingering,busoni6,0.0,0.0,Fingering
+1,,<music21.note.Rest dotted-whole>,note,busoni7,6.0,0.0,GeneralNote
+1,,<music21.note.Rest quarter>,note,busoni8,1.0,2.0,GeneralNote
+1,,<music21.chord.Chord E-4 G-4>,note,busoni9,2.0,2.0,GeneralNote
+1,,<music21.articulations.Tenuto>,tenuto,busoni10,0.0,0.0,Articulation
+1,,<music21.note.Rest eighth>,note,busoni11,0.5,3.0,GeneralNote
+1,,<music21.note.Note B->,note,busoni12,0.5,3.5,GeneralNote
+1,,<music21.note.Note E->,note,busoni13,1.5,4.0,GeneralNote
+1,,<music21.chord.Chord E-4 G-4>,note,busoni14,2.0,4.0,GeneralNote
+1,,<music21.articulations.Tenuto>,tenuto,busoni15,0.0,0.0,Articulation
+1,,<music21.note.Note G->,note,busoni16,0.5,5.5,GeneralNote
+1,1,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note G->>,slur,busoni891,2.0,0.0,Slur
+1,,<music21.expressions.TextExpression 'Lento'>,Lento,busoni978,0.0,0.0,TextExpression
+1,,"<music21.expressions.TextExpression 'weich, zart'>","weich, zart",busoni979,0.0,0.0,TextExpression
+1,,<music21.expressions.TextExpression 'dolcissimo...'>,"dolcissimo, una corda",busoni980,0.0,0.0,TextExpression
+1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None,busoni1018,0.0,0.0,TempoIndication
+1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None None,busoni1019,0.0,0.0,MetronomeMark
+2,,<music21.note.Note C->,note,busoni17,2.0,6.0,GeneralNote
 2,,<music21.articulations.Tenuto>,tenuto,busoni18,0.0,0.0,Articulation
-2,,<music21.note.Rest dotted-whole>,note,busoni19,6.0,6.0,GeneralNote
-2,,<music21.note.Rest dotted-whole>,note,busoni20,6.0,6.0,GeneralNote
-2,,<music21.note.Rest quarter>,note,busoni21,1.0,8.0,GeneralNote
-2,,<music21.chord.Chord E-4 A-4 C-5>,note,busoni22,2.0,8.0,GeneralNote
-2,,<music21.articulations.Tenuto>,tenuto,busoni23,0.0,0.0,Articulation
-2,,<music21.note.Rest eighth>,note,busoni24,0.5,9.0,GeneralNote
-2,,<music21.note.Note E->,note,busoni25,0.5,9.5,GeneralNote
-2,,<music21.note.Note A->,note,busoni26,1.5,10.0,GeneralNote
-2,,<music21.chord.Chord E-4 A-4 C-5>,note,busoni27,2.0,10.0,GeneralNote
-2,,<music21.articulations.Tenuto>,tenuto,busoni28,0.0,0.0,Articulation
-2,,<music21.note.Note C->,note,busoni29,0.5,11.5,GeneralNote
-2,2,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,busoni893,2.0,0.0,Slur
-3,,<music21.note.Note D>,note,busoni30,2.0,12.0,GeneralNote
-3,,<music21.articulations.Tenuto>,tenuto,busoni31,0.0,0.0,Articulation
-3,,<music21.chord.Chord E-4 F4 A-4>,note,busoni32,2.0,12.0,GeneralNote
-3,,<music21.articulations.Tenuto>,tenuto,busoni33,0.0,0.0,Articulation
-3,,<music21.note.Rest half>,note,busoni34,2.0,12.0,GeneralNote
-3,,<music21.note.Rest dotted-whole>,note,busoni35,6.0,12.0,GeneralNote
-3,,<music21.note.Rest quarter>,note,busoni36,1.0,14.0,GeneralNote
-3,,<music21.chord.Chord D4 F4 A-4>,note,busoni37,2.0,14.0,GeneralNote
-3,,<music21.articulations.Tenuto>,tenuto,busoni38,0.0,0.0,Articulation
-3,,<music21.note.Rest half>,note,busoni39,2.0,14.0,GeneralNote
-3,,<music21.note.Rest eighth>,note,busoni40,0.5,15.0,GeneralNote
-3,,<music21.note.Note F>,note,busoni41,0.5,15.5,GeneralNote
-3,,<music21.note.Note A->,note,busoni42,1.0,16.0,GeneralNote
-3,,<music21.chord.Chord D4 F4>,note,busoni43,2.0,16.0,GeneralNote
-3,,<music21.articulations.Tenuto>,tenuto,busoni44,0.0,0.0,Articulation
-3,,<music21.note.Rest half>,note,busoni45,2.0,16.0,GeneralNote
-3,,<music21.note.Note A->,note,busoni46,0.25,17.0,GeneralNote
-3,,<music21.note.Note G->,note,busoni47,0.25,17.25,GeneralNote
-3,,<music21.note.Note A->,note,busoni48,0.25,17.5,GeneralNote
-3,,<music21.note.Note B->,note,busoni49,0.25,17.75,GeneralNote
-3,4,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G->>,slur,busoni894,4.5,0.0,Slur
-4,,<music21.note.Note G->,note,busoni50,1.5,18.0,GeneralNote
-4,,<music21.note.Note E->,note,busoni51,2.0,18.0,GeneralNote
-4,,<music21.articulations.Tenuto>,tenuto,busoni52,0.0,0.0,Articulation
-4,,<music21.note.Rest half>,note,busoni53,2.0,18.0,GeneralNote
-4,,<music21.note.Rest dotted-whole>,note,busoni54,6.0,18.0,GeneralNote
-4,,<music21.note.Note F>,note,busoni55,0.25,19.5,GeneralNote
-4,,<music21.note.Note E->,note,busoni56,0.25,19.75,GeneralNote
-4,,<music21.note.Rest half>,note,busoni57,2.0,20.0,GeneralNote
-4,,<music21.note.Note G->,note,busoni58,2.0,20.0,GeneralNote
-4,,<music21.note.Rest quarter>,note,busoni59,1.0,20.0,GeneralNote
-4,,<music21.note.Rest eighth>,note,busoni60,0.5,21.0,GeneralNote
-4,,<music21.note.Note B->,note,busoni61,0.5,21.5,GeneralNote
-4,,<music21.note.Note G->,note,busoni62,2.0,22.0,GeneralNote
-4,,<music21.chord.Chord G-4 B-4 E-5>,note,busoni63,2.0,22.0,GeneralNote
-4,,<music21.note.Note G->,note,busoni64,1.5,22.0,GeneralNote
-4,,<music21.note.Note E->,note,busoni65,0.5,23.5,GeneralNote
-4,5,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note B->>,slur,busoni895,2.5,0.0,Slur
-4,,<music21.expressions.TextExpression 'poco espre...'>,poco espress.,busoni984,0.0,21.5,TextExpression
-5,,<music21.note.Note G->,note,busoni66,2.0,24.0,GeneralNote
-5,,<music21.chord.Chord G-4 B-4 D-5>,note,busoni67,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,busoni68,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,busoni69,2.0,24.0,GeneralNote
-5,,<music21.note.Note B->,note,busoni70,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,busoni71,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,busoni72,2.0,24.0,GeneralNote
-5,,<music21.note.Rest dotted-whole>,note,busoni73,6.0,24.0,GeneralNote
-5,,<music21.note.Rest whole>,note,busoni74,4.0,26.0,GeneralNote
-5,,<music21.note.Rest quarter>,note,busoni75,1.0,26.0,GeneralNote
-5,,<music21.note.Note B->,note,busoni76,2.0,26.0,GeneralNote
-5,,<music21.chord.Chord D-3 G-3 B-3>,note,busoni77,2.0,26.0,GeneralNote
-5,,<music21.note.Rest 16th>,note,busoni78,0.25,27.0,GeneralNote
-5,,<music21.note.Note G->,note,busoni79,0.25,27.25,GeneralNote
-5,,<music21.note.Note F->,note,busoni80,0.25,27.5,GeneralNote
-5,,<music21.note.Note E->,note,busoni81,0.25,27.75,GeneralNote
-5,,<music21.note.Note F->,note,busoni82,1.5,28.0,GeneralNote
-5,,<music21.note.Note B->,note,busoni83,2.0,28.0,GeneralNote
-5,,<music21.chord.Chord D-3 G-3 B-3>,note,busoni84,2.0,28.0,GeneralNote
-5,,<music21.note.Note D->,note,busoni85,0.5,29.5,GeneralNote
-5,5,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note D->>,slur,busoni896,2.25,0.0,Slur
-5,,<music21.expressions.TextExpression 'etwas voller'>,etwas voller,busoni985,0.0,24.0,TextExpression
-5,,<music21.expressions.TextExpression 'armonioso'>,armonioso,busoni986,0.0,24.0,TextExpression
-6,,<music21.note.Note E->,note,busoni86,2.0,30.0,GeneralNote
-6,,<music21.chord.Chord E-4 G-4 C-5>,note,busoni87,2.0,30.0,GeneralNote
-6,,<music21.chord.Chord E-3 G-3 C-4>,note,busoni88,2.0,30.0,GeneralNote
-6,,<music21.chord.Chord C-3 E-3>,note,busoni89,2.0,30.0,GeneralNote
-6,,<music21.note.Rest dotted-whole>,note,busoni90,6.0,30.0,GeneralNote
-6,,<music21.note.Note E->,note,busoni91,2.0,32.0,GeneralNote
-6,,<music21.chord.Chord G-4 C-5>,note,busoni92,2.0,32.0,GeneralNote
-6,,<music21.note.Rest half>,note,busoni93,2.0,32.0,GeneralNote
-6,,<music21.note.Rest quarter>,note,busoni94,1.0,32.0,GeneralNote
-6,,<music21.note.Rest half>,note,busoni95,2.0,32.0,GeneralNote
-6,,<music21.note.Rest eighth>,note,busoni96,0.5,33.0,GeneralNote
-6,,<music21.note.Note G->,note,busoni97,0.5,33.5,GeneralNote
-6,,<music21.note.Note E->,note,busoni98,2.0,34.0,GeneralNote
-6,,<music21.chord.Chord G-4 C-5>,note,busoni99,2.0,34.0,GeneralNote
-6,,<music21.note.Rest half>,note,busoni100,2.0,34.0,GeneralNote
-6,,<music21.note.Note E->,note,busoni101,1.5,34.0,GeneralNote
-6,,<music21.note.Rest half>,note,busoni102,2.0,34.0,GeneralNote
-6,,<music21.note.Note C->,note,busoni103,0.5,35.5,GeneralNote
-6,7,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note G>>,slur,busoni897,2.5,0.0,Slur
-6,,<music21.dynamics.Dynamic pp>,pp,busoni928,,,DynamicPoint
-7,,<music21.note.Note B->,note,busoni104,2.0,36.0,GeneralNote
-7,,<music21.chord.Chord B-4 E-5>,note,busoni105,2.0,36.0,GeneralNote
-7,,<music21.note.Rest half>,note,busoni106,2.0,36.0,GeneralNote
-7,,<music21.note.Rest half>,note,busoni107,2.0,36.0,GeneralNote
-7,,<music21.note.Note G>,note,busoni108,2.0,36.0,GeneralNote
-7,,<music21.note.Rest half>,note,busoni109,2.0,36.0,GeneralNote
-7,,<music21.note.Rest half>,note,busoni110,2.0,36.0,GeneralNote
-7,,<music21.note.Rest dotted-whole>,note,busoni111,6.0,36.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,busoni112,1.0,38.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,busoni113,1.0,38.0,GeneralNote
-7,,<music21.note.Note G>,note,busoni114,2.0,38.0,GeneralNote
-7,,<music21.chord.Chord B-2 E-3 G3>,note,busoni115,2.0,38.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,busoni116,1.0,39.0,GeneralNote
-7,,<music21.note.Rest 16th>,note,busoni117,0.25,39.0,GeneralNote
-7,,<music21.note.Note E->,note,busoni118,0.25,39.25,GeneralNote
-7,,<music21.note.Note D->,note,busoni119,0.25,39.5,GeneralNote
-7,,<music21.note.Note C->,note,busoni120,0.25,39.75,GeneralNote
-7,,<music21.note.Rest quarter>,note,busoni121,1.0,40.0,GeneralNote
-7,,<music21.note.Note D->,note,busoni122,1.5,40.0,GeneralNote
-7,,<music21.note.Note G>,note,busoni123,2.0,40.0,GeneralNote
-7,,<music21.chord.Chord B-2 E-3 G3>,note,busoni124,2.0,40.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,busoni125,1.0,41.0,GeneralNote
+2,,<music21.chord.Chord E-4 A-4>,note,busoni19,2.0,6.0,GeneralNote
+2,,<music21.articulations.Fingering 4>,fingering,busoni20,0.0,0.0,Fingering
+2,,<music21.articulations.Tenuto>,tenuto,busoni21,0.0,0.0,Articulation
+2,,<music21.articulations.Fingering 1>,fingering,busoni22,0.0,0.0,Fingering
+2,,<music21.note.Rest dotted-whole>,note,busoni23,6.0,6.0,GeneralNote
+2,,<music21.note.Rest quarter>,note,busoni24,1.0,8.0,GeneralNote
+2,,<music21.chord.Chord E-4 A-4 C-5>,note,busoni25,2.0,8.0,GeneralNote
+2,,<music21.articulations.Fingering 4>,fingering,busoni26,0.0,0.0,Fingering
+2,,<music21.articulations.Tenuto>,tenuto,busoni27,0.0,0.0,Articulation
+2,,<music21.articulations.Fingering 2>,fingering,busoni28,0.0,0.0,Fingering
+2,,<music21.articulations.Fingering 1>,fingering,busoni29,0.0,0.0,Fingering
+2,,<music21.note.Rest eighth>,note,busoni30,0.5,9.0,GeneralNote
+2,,<music21.note.Note E->,note,busoni31,0.5,9.5,GeneralNote
+2,,<music21.note.Note A->,note,busoni32,1.5,10.0,GeneralNote
+2,,<music21.chord.Chord E-4 A-4 C-5>,note,busoni33,2.0,10.0,GeneralNote
+2,,<music21.articulations.Tenuto>,tenuto,busoni34,0.0,0.0,Articulation
+2,,<music21.note.Note C->,note,busoni35,0.5,11.5,GeneralNote
+2,2,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,busoni892,2.0,0.0,Slur
+3,,<music21.note.Note D>,note,busoni36,2.0,12.0,GeneralNote
+3,,<music21.articulations.Tenuto>,tenuto,busoni37,0.0,0.0,Articulation
+3,,<music21.chord.Chord E-4 F4 A-4>,note,busoni38,2.0,12.0,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,busoni39,0.0,0.0,Fingering
+3,,<music21.articulations.Tenuto>,tenuto,busoni40,0.0,0.0,Articulation
+3,,<music21.articulations.Fingering 3>,fingering,busoni41,0.0,0.0,Fingering
+3,,<music21.articulations.Fingering 2>,fingering,busoni42,0.0,0.0,Fingering
+3,,<music21.note.Rest half>,note,busoni43,2.0,12.0,GeneralNote
+3,,<music21.note.Rest quarter>,note,busoni44,1.0,14.0,GeneralNote
+3,,<music21.chord.Chord D4 F4 A-4>,note,busoni45,2.0,14.0,GeneralNote
+3,,<music21.articulations.Fingering 5>,fingering,busoni46,0.0,0.0,Fingering
+3,,<music21.articulations.Tenuto>,tenuto,busoni47,0.0,0.0,Articulation
+3,,<music21.note.Rest half>,note,busoni48,2.0,14.0,GeneralNote
+3,,<music21.note.Rest eighth>,note,busoni49,0.5,15.0,GeneralNote
+3,,<music21.note.Note F>,note,busoni50,0.5,15.5,GeneralNote
+3,,<music21.note.Note A->,note,busoni51,1.0,16.0,GeneralNote
+3,,<music21.articulations.Fingering 231>,fingering,busoni52,0.0,0.0,Fingering
+3,,<music21.chord.Chord D4 F4>,note,busoni53,2.0,16.0,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,busoni54,0.0,0.0,Fingering
+3,,<music21.articulations.Tenuto>,tenuto,busoni55,0.0,0.0,Articulation
+3,,<music21.articulations.Fingering 2>,fingering,busoni56,0.0,0.0,Fingering
+3,,<music21.note.Rest half>,note,busoni57,2.0,16.0,GeneralNote
+3,,<music21.note.Note A->,note,busoni58,0.25,17.0,GeneralNote
+3,,<music21.note.Note G->,note,busoni59,0.25,17.25,GeneralNote
+3,,<music21.articulations.Fingering 2>,fingering,busoni60,0.0,0.0,Fingering
+3,,<music21.note.Note A->,note,busoni61,0.25,17.5,GeneralNote
+3,,<music21.articulations.Fingering 3>,fingering,busoni62,0.0,0.0,Fingering
+3,,<music21.note.Note B->,note,busoni63,0.25,17.75,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,busoni64,0.0,0.0,Fingering
+4,,<music21.note.Note G->,note,busoni65,1.5,18.0,GeneralNote
+4,,<music21.articulations.Fingering 2434>,fingering,busoni66,0.0,0.0,Fingering
+4,,<music21.note.Note E->,note,busoni67,2.0,18.0,GeneralNote
+4,,<music21.articulations.Tenuto>,tenuto,busoni68,0.0,0.0,Articulation
+4,,<music21.note.Rest half>,note,busoni69,2.0,18.0,GeneralNote
+4,,<music21.note.Note F>,note,busoni70,0.25,19.5,GeneralNote
+4,,<music21.articulations.Fingering 2>,fingering,busoni71,0.0,0.0,Fingering
+4,,<music21.note.Note E->,note,busoni72,0.25,19.75,GeneralNote
+4,,<music21.articulations.Fingering 1>,fingering,busoni73,0.0,0.0,Fingering
+4,,<music21.note.Note G->,note,busoni74,2.0,20.0,GeneralNote
+4,,<music21.articulations.Fingering 5>,fingering,busoni75,0.0,0.0,Fingering
+4,,<music21.note.Rest half>,note,busoni76,2.0,20.0,GeneralNote
+4,,<music21.note.Rest half>,note,busoni77,2.0,20.0,GeneralNote
+4,,<music21.note.Rest quarter>,note,busoni78,1.0,20.0,GeneralNote
+4,,<music21.note.Rest eighth>,note,busoni79,0.5,21.0,GeneralNote
+4,,<music21.note.Note B->,note,busoni80,0.5,21.5,GeneralNote
+4,,<music21.chord.Chord G-4 B-4 E-5 G-5>,note,busoni81,2.0,22.0,GeneralNote
+4,,<music21.note.Rest half>,note,busoni82,2.0,22.0,GeneralNote
+4,,<music21.note.Rest half>,note,busoni83,2.0,22.0,GeneralNote
+4,,<music21.note.Note G->,note,busoni84,1.5,22.0,GeneralNote
+4,,<music21.note.Note E->,note,busoni85,0.5,23.5,GeneralNote
+4,5,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note B->>,slur,busoni893,2.5,0.0,Slur
+4,,<music21.expressions.TextExpression 'poco espre...'>,poco espress.,busoni981,0.0,21.5,TextExpression
+5,,<music21.chord.Chord G-4 B-4 D-5 G-5>,note,busoni86,2.0,24.0,GeneralNote
+5,,<music21.note.Rest half>,note,busoni87,2.0,24.0,GeneralNote
+5,,<music21.note.Rest half>,note,busoni88,2.0,24.0,GeneralNote
+5,,<music21.note.Note B->,note,busoni89,2.0,24.0,GeneralNote
+5,,<music21.note.Rest half>,note,busoni90,2.0,24.0,GeneralNote
+5,,<music21.note.Rest half>,note,busoni91,2.0,24.0,GeneralNote
+5,,<music21.note.Rest quarter>,note,busoni92,1.0,26.0,GeneralNote
+5,,<music21.note.Note B->,note,busoni93,2.0,26.0,GeneralNote
+5,,<music21.chord.Chord D-3 G-3 B-3>,note,busoni94,2.0,26.0,GeneralNote
+5,,<music21.note.Rest 16th>,note,busoni95,0.25,27.0,GeneralNote
+5,,<music21.note.Note G->,note,busoni96,0.25,27.25,GeneralNote
+5,,<music21.articulations.Fingering 5>,fingering,busoni97,0.0,0.0,Fingering
+5,,<music21.note.Note F->,note,busoni98,0.25,27.5,GeneralNote
+5,,<music21.note.Note E->,note,busoni99,0.25,27.75,GeneralNote
+5,,<music21.note.Note F->,note,busoni100,1.5,28.0,GeneralNote
+5,,<music21.articulations.Fingering 5>,fingering,busoni101,0.0,0.0,Fingering
+5,,<music21.note.Note B->,note,busoni102,2.0,28.0,GeneralNote
+5,,<music21.chord.Chord D-3 G-3 B-3>,note,busoni103,2.0,28.0,GeneralNote
+5,,<music21.note.Note D->,note,busoni104,0.5,29.5,GeneralNote
+5,,<music21.articulations.Fingering 4>,fingering,busoni105,0.0,0.0,Fingering
+5,5,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note D->>,slur,busoni894,2.25,0.0,Slur
+5,,<music21.expressions.TextExpression 'etwas voller'>,etwas voller,busoni982,0.0,24.0,TextExpression
+5,,<music21.expressions.TextExpression 'armonioso'>,armonioso,busoni983,0.0,24.0,TextExpression
+6,,<music21.chord.Chord E-4 G-4 C-5 E-5>,note,busoni106,2.0,30.0,GeneralNote
+6,,<music21.chord.Chord C-3 E-3 G-3 C-4>,note,busoni107,2.0,30.0,GeneralNote
+6,,<music21.chord.Chord G-4 C-5 E-5>,note,busoni108,2.0,32.0,GeneralNote
+6,,<music21.note.Rest quarter>,note,busoni109,1.0,32.0,GeneralNote
+6,,<music21.note.Rest eighth>,note,busoni110,0.5,33.0,GeneralNote
+6,,<music21.note.Note G->,note,busoni111,0.5,33.5,GeneralNote
+6,,<music21.articulations.Fingering 1>,fingering,busoni112,0.0,0.0,Fingering
+6,,<music21.chord.Chord G-4 C-5 E-5>,note,busoni113,2.0,34.0,GeneralNote
+6,,<music21.note.Note E->,note,busoni114,1.5,34.0,GeneralNote
+6,,<music21.note.Note C->,note,busoni115,0.5,35.5,GeneralNote
+6,7,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note G>>,slur,busoni895,2.5,0.0,Slur
+6,,<music21.dynamics.Dynamic pp>,pp,busoni927,,,DynamicPoint
+7,,<music21.chord.Chord B-4 E-5 B-5>,note,busoni116,2.0,36.0,GeneralNote
+7,,<music21.note.Note G>,note,busoni117,2.0,36.0,GeneralNote
+7,,<music21.note.Rest quarter>,note,busoni118,1.0,38.0,GeneralNote
+7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,busoni119,2.0,38.0,GeneralNote
+7,,<music21.note.Rest 16th>,note,busoni120,0.25,39.0,GeneralNote
+7,,<music21.note.Note E->,note,busoni121,0.25,39.25,GeneralNote
+7,,<music21.note.Note D->,note,busoni122,0.25,39.5,GeneralNote
+7,,<music21.note.Note C->,note,busoni123,0.25,39.75,GeneralNote
+7,,<music21.note.Note D->,note,busoni124,1.5,40.0,GeneralNote
+7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,busoni125,2.0,40.0,GeneralNote
 7,,<music21.note.Note B->,note,busoni126,0.5,41.5,GeneralNote
-7,,<music21.expressions.TextExpression 'voller'>,voller,busoni987,0.0,36.0,TextExpression
+7,,<music21.expressions.TextExpression 'voller'>,voller,busoni984,0.0,36.0,TextExpression
 8,,<music21.note.Rest half>,note,busoni127,2.0,42.0,GeneralNote
 8,,<music21.note.Note C->,note,busoni128,1.5,42.0,GeneralNote
-8,,<music21.chord.Chord C-3 E-3 A-3>,note,busoni129,2.0,42.0,GeneralNote
-8,,<music21.note.Note A->,note,busoni130,2.0,42.0,GeneralNote
-8,,<music21.note.Rest dotted-whole>,note,busoni131,6.0,42.0,GeneralNote
-8,,<music21.note.Note B->,note,busoni132,0.25,43.5,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,busoni129,0.0,0.0,Fingering
+8,,<music21.chord.Chord A-2 C-3 E-3 A-3>,note,busoni130,2.0,42.0,GeneralNote
+8,,<music21.note.Note B->,note,busoni131,0.25,43.5,GeneralNote
+8,,<music21.articulations.Staccato>,staccato,busoni132,0.0,0.0,Articulation
 8,,<music21.note.Note A->,note,busoni133,0.25,43.75,GeneralNote
 8,,<music21.articulations.Staccato>,staccato,busoni134,0.0,0.0,Articulation
 8,,<music21.chord.Chord E-5 A-5 C-6>,note,busoni135,2.0,44.0,GeneralNote
-8,,<music21.note.Rest half>,note,busoni136,2.0,44.0,GeneralNote
-8,,<music21.note.Rest half>,note,busoni137,2.0,44.0,GeneralNote
-8,,<music21.note.Rest half>,note,busoni138,2.0,44.0,GeneralNote
-8,,<music21.note.Rest quarter>,note,busoni139,1.0,44.0,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,busoni136,0.0,0.0,Fingering
+8,,<music21.articulations.Fingering 4>,fingering,busoni137,0.0,0.0,Fingering
+8,,<music21.articulations.Fingering 5>,fingering,busoni138,0.0,0.0,Fingering
+8,,<music21.note.Rest half>,note,busoni139,2.0,44.0,GeneralNote
 8,,<music21.note.Rest half>,note,busoni140,2.0,44.0,GeneralNote
-8,,<music21.note.Rest eighth>,note,busoni141,0.5,45.0,GeneralNote
-8,,<music21.note.Note C->,note,busoni142,0.5,45.5,GeneralNote
-8,,<music21.chord.Chord E-5 A-5 C-6>,note,busoni143,2.0,46.0,GeneralNote
-8,,<music21.note.Rest half>,note,busoni144,2.0,46.0,GeneralNote
+8,,<music21.note.Rest quarter>,note,busoni141,1.0,44.0,GeneralNote
+8,,<music21.note.Rest eighth>,note,busoni142,0.5,45.0,GeneralNote
+8,,<music21.note.Note C->,note,busoni143,0.5,45.5,GeneralNote
+8,,<music21.chord.Chord E-5 A-5 C-6>,note,busoni144,2.0,46.0,GeneralNote
 8,,<music21.note.Rest half>,note,busoni145,2.0,46.0,GeneralNote
 8,,<music21.note.Rest half>,note,busoni146,2.0,46.0,GeneralNote
 8,,<music21.note.Note A->,note,busoni147,1.5,46.0,GeneralNote
-8,,<music21.note.Rest half>,note,busoni148,2.0,46.0,GeneralNote
-8,,<music21.note.Note F>,note,busoni149,0.5,47.5,GeneralNote
-8,9,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,busoni898,2.5,0.0,Slur
-8,,<music21.dynamics.Dynamic p>,p,busoni929,,,DynamicPoint
-8,8,<music21.dynamics.Diminuendo <music21.note.Rest half>>,diminuendo,busoni948,,,DynamicRegion
-8,,<music21.expressions.TextExpression 'dim.'>,dim.,busoni988,0.0,46.0,TextExpression
-9,,<music21.chord.Chord F5 A-5 C-6>,note,busoni150,2.0,48.0,GeneralNote
-9,,<music21.note.Rest half>,note,busoni151,2.0,48.0,GeneralNote
-9,,<music21.note.Rest whole>,note,busoni152,4.0,48.0,GeneralNote
+8,,<music21.note.Note F>,note,busoni148,0.5,47.5,GeneralNote
+8,8,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A->>,slur,busoni896,1.75,0.0,Slur
+8,9,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,busoni897,2.5,0.0,Slur
+8,,<music21.dynamics.Dynamic p>,p,busoni928,,,DynamicPoint
+8,8,<music21.dynamics.Diminuendo <music21.note.Rest half>>,diminuendo,busoni947,,,DynamicRegion
+8,,<music21.expressions.TextExpression 'dim.'>,dim.,busoni985,0.0,46.0,TextExpression
+9,,<music21.chord.Chord F5 A-5 C-6>,note,busoni149,2.0,48.0,GeneralNote
+9,,<music21.articulations.Fingering 2>,fingering,busoni150,0.0,0.0,Fingering
+9,,<music21.articulations.Fingering 3>,fingering,busoni151,0.0,0.0,Fingering
+9,,<music21.articulations.Fingering 5>,fingering,busoni152,0.0,0.0,Fingering
 9,,<music21.note.Rest half>,note,busoni153,2.0,48.0,GeneralNote
 9,,<music21.note.Rest whole>,note,busoni154,4.0,48.0,GeneralNote
-9,,<music21.note.Note D>,note,busoni155,2.0,48.0,GeneralNote
-9,,<music21.note.Rest dotted-whole>,note,busoni156,6.0,48.0,GeneralNote
-9,,<music21.note.Rest quarter>,note,busoni157,1.0,50.0,GeneralNote
-9,,<music21.note.Rest half>,note,busoni158,2.0,50.0,GeneralNote
+9,,<music21.note.Rest half>,note,busoni155,2.0,48.0,GeneralNote
+9,,<music21.note.Rest whole>,note,busoni156,4.0,48.0,GeneralNote
+9,,<music21.note.Note D>,note,busoni157,2.0,48.0,GeneralNote
+9,,<music21.note.Rest quarter>,note,busoni158,1.0,50.0,GeneralNote
 9,,<music21.note.Rest half>,note,busoni159,2.0,50.0,GeneralNote
-9,,<music21.chord.Chord D4 F4 B-4>,note,busoni160,2.0,50.0,GeneralNote
-9,,<music21.note.Rest 16th>,note,busoni161,0.25,51.0,GeneralNote
-9,,<music21.note.Note B->,note,busoni162,0.25,51.25,GeneralNote
-9,,<music21.note.Note A->,note,busoni163,0.25,51.5,GeneralNote
-9,,<music21.note.Note G->,note,busoni164,0.25,51.75,GeneralNote
-9,,<music21.note.Note F>,note,busoni165,0.25,52.0,GeneralNote
-9,,<music21.chord.Chord D4 F4 B-4>,note,busoni166,2.0,52.0,GeneralNote
-9,,<music21.note.Rest half>,note,busoni167,2.0,52.0,GeneralNote
-9,,<music21.note.Note G->,note,busoni168,0.25,52.25,GeneralNote
-9,,<music21.note.Note F>,note,busoni169,0.25,52.5,GeneralNote
-9,,<music21.note.Note G->,note,busoni170,0.25,52.75,GeneralNote
-9,,<music21.note.Note A->,note,busoni171,0.25,53.0,GeneralNote
-9,,<music21.note.Note G->,note,busoni172,0.25,53.25,GeneralNote
-9,,<music21.note.Note A->,note,busoni173,0.25,53.5,GeneralNote
-9,,<music21.note.Note F>,note,busoni174,0.25,53.75,GeneralNote
-9,9,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note F>>,slur,busoni899,2.5,0.0,Slur
-10,,<music21.note.Note G->,note,busoni175,1.5,54.0,GeneralNote
-10,,<music21.chord.Chord E-4 G-4 B-4>,note,busoni176,2.0,54.0,GeneralNote
-10,,<music21.note.Rest dotted-whole>,note,busoni177,6.0,54.0,GeneralNote
-10,,<music21.note.Note F>,note,busoni178,0.25,55.5,GeneralNote
-10,,<music21.articulations.Staccato>,staccato,busoni179,0.0,0.0,Articulation
-10,,<music21.note.Note E->,note,busoni180,0.25,55.75,GeneralNote
+9,,<music21.note.Rest half>,note,busoni160,2.0,50.0,GeneralNote
+9,,<music21.chord.Chord D4 F4 B-4>,note,busoni161,2.0,50.0,GeneralNote
+9,,<music21.note.Rest 16th>,note,busoni162,0.25,51.0,GeneralNote
+9,,<music21.note.Note B->,note,busoni163,0.25,51.25,GeneralNote
+9,,<music21.note.Note A->,note,busoni164,0.25,51.5,GeneralNote
+9,,<music21.note.Note G->,note,busoni165,0.25,51.75,GeneralNote
+9,,<music21.note.Note F>,note,busoni166,0.25,52.0,GeneralNote
+9,,<music21.chord.Chord D4 F4 B-4>,note,busoni167,2.0,52.0,GeneralNote
+9,,<music21.note.Rest half>,note,busoni168,2.0,52.0,GeneralNote
+9,,<music21.note.Note G->,note,busoni169,0.25,52.25,GeneralNote
+9,,<music21.note.Note F>,note,busoni170,0.25,52.5,GeneralNote
+9,,<music21.note.Note G->,note,busoni171,0.25,52.75,GeneralNote
+9,,<music21.note.Note A->,note,busoni172,0.25,53.0,GeneralNote
+9,,<music21.note.Note G->,note,busoni173,0.25,53.25,GeneralNote
+9,,<music21.note.Note A->,note,busoni174,0.25,53.5,GeneralNote
+9,,<music21.note.Note F>,note,busoni175,0.25,53.75,GeneralNote
+9,9,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note F>>,slur,busoni898,2.5,0.0,Slur
+10,,<music21.note.Note G->,note,busoni176,1.5,54.0,GeneralNote
+10,,<music21.articulations.Fingering 3>,fingering,busoni177,0.0,0.0,Fingering
+10,,<music21.chord.Chord E-4 G-4 B-4>,note,busoni178,2.0,54.0,GeneralNote
+10,,<music21.note.Note F>,note,busoni179,0.25,55.5,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,busoni180,0.0,0.0,Fingering
 10,,<music21.articulations.Staccato>,staccato,busoni181,0.0,0.0,Articulation
-10,,<music21.chord.Chord B-4 E-5 G-5 B-5>,note,busoni182,2.0,56.0,GeneralNote
-10,,<music21.note.Rest quarter>,note,busoni183,1.0,56.0,GeneralNote
-10,,<music21.note.Rest eighth>,note,busoni184,0.5,57.0,GeneralNote
-10,,<music21.note.Note G->,note,busoni185,0.5,57.5,GeneralNote
-10,,<music21.chord.Chord D-5 E-5 G-5 B-5>,note,busoni186,2.0,58.0,GeneralNote
-10,,<music21.note.Note E->,note,busoni187,1.5,58.0,GeneralNote
-10,,<music21.note.Note C>,note,busoni188,0.5,59.5,GeneralNote
-10,10,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note E->>,slur,busoni900,1.75,0.0,Slur
-10,11,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note A>>,slur,busoni901,2.5,0.0,Slur
-11,,<music21.note.Note C>,note,busoni189,2.0,60.0,GeneralNote
-11,,<music21.chord.Chord C5 E-5 G-5>,note,busoni190,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,busoni191,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,busoni192,2.0,60.0,GeneralNote
-11,,<music21.note.Note A>,note,busoni193,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,busoni194,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,busoni195,2.0,60.0,GeneralNote
-11,,<music21.note.Rest dotted-whole>,note,busoni196,6.0,60.0,GeneralNote
-11,,<music21.note.Rest whole>,note,busoni197,4.0,62.0,GeneralNote
-11,,<music21.note.Rest quarter>,note,busoni198,1.0,62.0,GeneralNote
-11,,<music21.note.Note A>,note,busoni199,2.0,62.0,GeneralNote
-11,,<music21.chord.Chord C4 F4>,note,busoni200,2.0,62.0,GeneralNote
-11,,<music21.note.Rest 16th>,note,busoni201,0.25,63.0,GeneralNote
-11,,<music21.note.Note F>,note,busoni202,0.25,63.25,GeneralNote
-11,,<music21.note.Note E->,note,busoni203,0.25,63.5,GeneralNote
-11,,<music21.note.Note D->,note,busoni204,0.25,63.75,GeneralNote
-11,,<music21.note.Note C>,note,busoni205,0.25,64.0,GeneralNote
-11,,<music21.note.Note A>,note,busoni206,2.0,64.0,GeneralNote
-11,,<music21.chord.Chord C4 F4>,note,busoni207,2.0,64.0,GeneralNote
-11,,<music21.note.Note D->,note,busoni208,0.25,64.25,GeneralNote
-11,,<music21.note.Note C>,note,busoni209,0.25,64.5,GeneralNote
-11,,<music21.note.Note D->,note,busoni210,0.25,64.75,GeneralNote
-11,,<music21.note.Note E->,note,busoni211,0.25,65.0,GeneralNote
-11,,<music21.note.Note D->,note,busoni212,0.25,65.25,GeneralNote
-11,,<music21.note.Note E->,note,busoni213,0.25,65.5,GeneralNote
-11,,<music21.note.Note C>,note,busoni214,0.25,65.75,GeneralNote
-12,,<music21.note.Note D->,note,busoni215,1.5,66.0,GeneralNote
-12,,<music21.chord.Chord D-4 F4>,note,busoni216,2.0,66.0,GeneralNote
-12,,<music21.note.Note B->,note,busoni217,2.0,66.0,GeneralNote
-12,,<music21.note.Rest dotted-whole>,note,busoni218,6.0,66.0,GeneralNote
-12,,<music21.note.Note C>,note,busoni219,0.25,67.5,GeneralNote
+10,,<music21.note.Note E->,note,busoni182,0.25,55.75,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,busoni183,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,busoni184,0.0,0.0,Articulation
+10,,<music21.chord.Chord B-4 E-5 G-5 B-5>,note,busoni185,2.0,56.0,GeneralNote
+10,,<music21.note.Rest quarter>,note,busoni186,1.0,56.0,GeneralNote
+10,,<music21.note.Rest eighth>,note,busoni187,0.5,57.0,GeneralNote
+10,,<music21.note.Note G->,note,busoni188,0.5,57.5,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,busoni189,0.0,0.0,Fingering
+10,,<music21.chord.Chord D-5 E-5 G-5 B-5>,note,busoni190,2.0,58.0,GeneralNote
+10,,<music21.note.Note E->,note,busoni191,1.5,58.0,GeneralNote
+10,,<music21.note.Note C>,note,busoni192,0.5,59.5,GeneralNote
+10,10,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note E->>,slur,busoni899,1.75,0.0,Slur
+10,11,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note A>>,slur,busoni900,2.5,0.0,Slur
+11,,<music21.note.Note C>,note,busoni193,2.0,60.0,GeneralNote
+11,,<music21.chord.Chord C5 E-5 G-5>,note,busoni194,2.0,60.0,GeneralNote
+11,,<music21.note.Note A>,note,busoni195,2.0,60.0,GeneralNote
+11,,<music21.note.Rest whole>,note,busoni196,4.0,62.0,GeneralNote
+11,,<music21.note.Rest quarter>,note,busoni197,1.0,62.0,GeneralNote
+11,,<music21.chord.Chord A3 C4 F4>,note,busoni198,2.0,62.0,GeneralNote
+11,,<music21.note.Rest 16th>,note,busoni199,0.25,63.0,GeneralNote
+11,,<music21.note.Note F>,note,busoni200,0.25,63.25,GeneralNote
+11,,<music21.note.Note E->,note,busoni201,0.25,63.5,GeneralNote
+11,,<music21.note.Note D->,note,busoni202,0.25,63.75,GeneralNote
+11,,<music21.note.Note C>,note,busoni203,0.25,64.0,GeneralNote
+11,,<music21.chord.Chord A3 C4 F4>,note,busoni204,2.0,64.0,GeneralNote
+11,,<music21.note.Note D->,note,busoni205,0.25,64.25,GeneralNote
+11,,<music21.note.Note C>,note,busoni206,0.25,64.5,GeneralNote
+11,,<music21.note.Note D->,note,busoni207,0.25,64.75,GeneralNote
+11,,<music21.note.Note E->,note,busoni208,0.25,65.0,GeneralNote
+11,,<music21.note.Note D->,note,busoni209,0.25,65.25,GeneralNote
+11,,<music21.note.Note E->,note,busoni210,0.25,65.5,GeneralNote
+11,,<music21.note.Note C>,note,busoni211,0.25,65.75,GeneralNote
+12,,<music21.note.Note D->,note,busoni212,1.5,66.0,GeneralNote
+12,,<music21.articulations.Fingering 3>,fingering,busoni213,0.0,0.0,Fingering
+12,,<music21.chord.Chord B-3 D-4 F4>,note,busoni214,2.0,66.0,GeneralNote
+12,,<music21.note.Note C>,note,busoni215,0.25,67.5,GeneralNote
+12,,<music21.articulations.Fingering 1>,fingering,busoni216,0.0,0.0,Fingering
+12,,<music21.articulations.Staccato>,staccato,busoni217,0.0,0.0,Articulation
+12,,<music21.note.Note B->,note,busoni218,0.25,67.75,GeneralNote
+12,,<music21.articulations.Fingering 2>,fingering,busoni219,0.0,0.0,Fingering
 12,,<music21.articulations.Staccato>,staccato,busoni220,0.0,0.0,Articulation
-12,,<music21.note.Note B->,note,busoni221,0.25,67.75,GeneralNote
-12,,<music21.articulations.Staccato>,staccato,busoni222,0.0,0.0,Articulation
-12,,<music21.chord.Chord B-4 D-5 F5>,note,busoni223,1.0,68.0,GeneralNote
-12,,<music21.chord.Chord D-4 F4>,note,busoni224,2.0,68.0,GeneralNote
-12,,<music21.note.Note B->,note,busoni225,2.0,68.0,GeneralNote
+12,,<music21.chord.Chord B-4 D-5 F5>,note,busoni221,1.0,68.0,GeneralNote
+12,,<music21.articulations.Fingering 1>,fingering,busoni222,0.0,0.0,Fingering
+12,,<music21.articulations.Fingering 2>,fingering,busoni223,0.0,0.0,Fingering
+12,,<music21.articulations.Fingering 4>,fingering,busoni224,0.0,0.0,Fingering
+12,,<music21.chord.Chord B-3 D-4 F4>,note,busoni225,2.0,68.0,GeneralNote
 12,,<music21.note.Note F>,note,busoni226,0.25,69.0,GeneralNote
 12,,<music21.note.Note G->,note,busoni227,0.25,69.25,GeneralNote
 12,,<music21.note.Note F>,note,busoni228,0.25,69.5,GeneralNote
 12,,<music21.note.Note E->,note,busoni229,0.25,69.75,GeneralNote
 12,,<music21.note.Note D->,note,busoni230,0.25,70.0,GeneralNote
-12,,<music21.chord.Chord D-4 F4>,note,busoni231,2.0,70.0,GeneralNote
-12,,<music21.note.Note B->,note,busoni232,2.0,70.0,GeneralNote
-12,,<music21.note.Note C>,note,busoni233,0.25,70.25,GeneralNote
-12,,<music21.note.Note B->,note,busoni234,0.25,70.5,GeneralNote
-12,,<music21.note.Note A->,note,busoni235,0.25,70.75,GeneralNote
-12,,<music21.note.Note G->,note,busoni236,0.5,71.0,GeneralNote
-12,,<music21.note.Note A->,note,busoni237,0.25,71.5,GeneralNote
-12,,<music21.note.Note F>,note,busoni238,0.25,71.75,GeneralNote
-12,12,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note B->>,slur,busoni902,1.75,0.0,Slur
-12,,<music21.expressions.TextExpression 'mit breite...'>,mit breitem Ton,busoni989,0.0,69.0,TextExpression
-12,,<music21.expressions.TextExpression 'with broad...'>,with broad tone,busoni990,0.0,69.0,TextExpression
-13,,<music21.note.Note G->,note,busoni239,1.0,72.0,GeneralNote
-13,,<music21.note.Note E->,note,busoni240,1.0,72.0,GeneralNote
-13,,<music21.chord.Chord B-3 D-4>,note,busoni241,2.0,72.0,GeneralNote
-13,,<music21.note.Note E->,note,busoni242,2.0,72.0,GeneralNote
-13,,<music21.note.Rest dotted-whole>,note,busoni243,6.0,72.0,GeneralNote
-13,,<music21.note.Note G->,note,busoni244,0.5,73.0,GeneralNote
-13,,<music21.note.Rest quarter>,note,busoni245,1.0,73.0,GeneralNote
-13,,<music21.note.Rest quarter>,note,busoni246,1.0,73.0,GeneralNote
-13,,<music21.note.Note B->,note,busoni247,0.25,73.5,GeneralNote
-13,,<music21.note.Note D->,note,busoni248,0.25,73.75,GeneralNote
-13,,<music21.note.Note G->,note,busoni249,1.0,74.0,GeneralNote
-13,,<music21.note.Rest half>,note,busoni250,2.0,74.0,GeneralNote
-13,,<music21.note.Rest half>,note,busoni251,2.0,74.0,GeneralNote
-13,,<music21.chord.Chord B-3 C4>,note,busoni252,2.0,74.0,GeneralNote
-13,,<music21.note.Note E->,note,busoni253,2.0,74.0,GeneralNote
-13,,<music21.note.Note G->,note,busoni254,0.25,75.0,GeneralNote
-13,,<music21.note.Note F>,note,busoni255,0.25,75.25,GeneralNote
-13,,<music21.note.Note E->,note,busoni256,0.25,75.5,GeneralNote
-13,,<music21.note.Note D->,note,busoni257,0.25,75.75,GeneralNote
-13,,<music21.note.Note C>,note,busoni258,0.75,76.0,GeneralNote
-13,,<music21.note.Rest half>,note,busoni259,2.0,76.0,GeneralNote
-13,,<music21.note.Rest half>,note,busoni260,2.0,76.0,GeneralNote
-13,,<music21.chord.Chord B-3 C4>,note,busoni261,2.0,76.0,GeneralNote
-13,,<music21.note.Note E->,note,busoni262,2.0,76.0,GeneralNote
-13,,<music21.note.Note E->,note,busoni263,0.125,76.75,GeneralNote
-13,,<music21.note.Note D->,note,busoni264,0.125,76.875,GeneralNote
-13,,<music21.note.Note C>,note,busoni265,0.25,77.0,GeneralNote
-13,,<music21.articulations.Tenuto>,tenuto,busoni266,0.0,0.0,Articulation
-13,,<music21.note.Note D->,note,busoni267,0.25,77.25,GeneralNote
-13,,<music21.articulations.Tenuto>,tenuto,busoni268,0.0,0.0,Articulation
-13,,<music21.note.Note E->,note,busoni269,0.5,77.5,GeneralNote
-13,,<music21.articulations.Tenuto>,tenuto,busoni270,0.0,0.0,Articulation
-13,13,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note C>>,slur,busoni903,2.0,0.0,Slur
-13,,<music21.dynamics.Dynamic mf>,mf,busoni930,,,DynamicPoint
-14,,<music21.note.Note F>,note,busoni271,0.75,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,busoni272,2.0,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,busoni273,2.0,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,busoni274,2.0,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,busoni275,2.0,78.0,GeneralNote
-14,,<music21.chord.Chord A3 C4>,note,busoni276,2.0,78.0,GeneralNote
-14,,<music21.note.Note E->,note,busoni277,2.0,78.0,GeneralNote
-14,,<music21.note.Rest dotted-whole>,note,busoni278,6.0,78.0,GeneralNote
-14,,<music21.note.Note G>,note,busoni279,0.125,78.75,GeneralNote
-14,,<music21.note.Note A>,note,busoni280,0.125,78.875,GeneralNote
-14,,<music21.note.Note A>,note,busoni281,0.75,79.0,GeneralNote
-14,,<music21.note.Note G>,note,busoni282,0.125,79.75,GeneralNote
-14,,<music21.note.Note A>,note,busoni283,0.125,79.875,GeneralNote
-14,,<music21.note.Note B->,note,busoni284,4.0,80.0,GeneralNote
-14,,<music21.articulations.Accent>,accent,busoni285,0.0,0.0,Articulation
-14,,<music21.note.Rest quarter>,note,busoni286,1.0,80.0,GeneralNote
-14,,<music21.chord.Chord F3 B-3>,note,busoni287,2.0,80.0,GeneralNote
-14,,<music21.note.Note D->,note,busoni288,2.0,80.0,GeneralNote
-14,,<music21.note.Rest eighth>,note,busoni289,0.5,81.0,GeneralNote
-14,,<music21.note.Note F>,note,busoni290,0.5,81.5,GeneralNote
-14,,<music21.note.Note G->,note,busoni291,1.5,82.0,GeneralNote
-14,,<music21.note.Note B->,note,busoni292,2.0,82.0,GeneralNote
-14,,<music21.note.Note E->,note,busoni293,2.0,82.0,GeneralNote
-14,,<music21.note.Note E->,note,busoni294,0.5,83.5,GeneralNote
-14,,<music21.dynamics.Dynamic f>,f,busoni931,,,DynamicPoint
-14,,<music21.expressions.TextExpression 'ten.'>,ten.,busoni991,0.0,80.0,TextExpression
-14,,<music21.expressions.TextExpression 'meno'>,meno,busoni992,0.0,81.5,TextExpression
-15,,<music21.note.Note B->,note,busoni295,4.0,84.0,GeneralNote
-15,,<music21.note.Note C>,note,busoni296,1.0,84.0,GeneralNote
-15,,<music21.note.Rest half>,note,busoni297,2.0,84.0,GeneralNote
-15,,<music21.note.Rest whole>,note,busoni298,4.0,84.0,GeneralNote
-15,,<music21.note.Rest half>,note,busoni299,2.0,84.0,GeneralNote
-15,,<music21.note.Rest whole>,note,busoni300,4.0,84.0,GeneralNote
-15,,<music21.note.Note F>,note,busoni301,2.0,84.0,GeneralNote
-15,,<music21.note.Note F>,note,busoni302,2.0,84.0,GeneralNote
-15,,<music21.note.Rest dotted-whole>,note,busoni303,6.0,84.0,GeneralNote
-15,,<music21.note.Note C>,note,busoni304,0.25,85.0,GeneralNote
-15,,<music21.note.Note D->,note,busoni305,0.25,85.25,GeneralNote
-15,,<music21.note.Note C>,note,busoni306,0.25,85.5,GeneralNote
-15,,<music21.note.Note D->,note,busoni307,0.25,85.75,GeneralNote
-15,,<music21.note.Note E->,note,busoni308,0.25,86.0,GeneralNote
-15,,<music21.note.Rest half>,note,busoni309,2.0,86.0,GeneralNote
-15,,<music21.note.Rest half>,note,busoni310,2.0,86.0,GeneralNote
-15,,<music21.note.Note F>,note,busoni311,2.0,86.0,GeneralNote
-15,,<music21.note.Note F>,note,busoni312,2.0,86.0,GeneralNote
-15,,<music21.articulations.Staccato>,staccato,busoni313,0.0,0.0,Articulation
-15,,<music21.note.Note D->,note,busoni314,0.25,86.25,GeneralNote
-15,,<music21.note.Note C>,note,busoni315,0.25,86.5,GeneralNote
-15,,<music21.note.Note D->,note,busoni316,0.25,86.75,GeneralNote
-15,,<music21.note.Note E->,note,busoni317,0.25,87.0,GeneralNote
-15,,<music21.note.Note F>,note,busoni318,0.25,87.25,GeneralNote
-15,,<music21.note.Note E->,note,busoni319,0.25,87.5,GeneralNote
-15,,<music21.note.Note F>,note,busoni320,0.25,87.75,GeneralNote
-15,,<music21.note.Note A>,note,busoni321,2.0,88.0,GeneralNote
-15,,<music21.note.Note G->,note,busoni322,1.0,88.0,GeneralNote
-15,,<music21.note.Note C>,note,busoni323,2.0,88.0,GeneralNote
-15,,<music21.note.Note F>,note,busoni324,2.0,88.0,GeneralNote
-15,,<music21.note.Note F>,note,busoni325,2.0,88.0,GeneralNote
-15,,<music21.articulations.Staccato>,staccato,busoni326,0.0,0.0,Articulation
-15,,<music21.note.Note F>,note,busoni327,0.75,89.0,GeneralNote
-15,,<music21.note.Note E->,note,busoni328,0.25,89.75,GeneralNote
-15,15,<music21.spanner.Slur <music21.note.Note C><music21.note.Note G->>,slur,busoni904,4.0,0.0,Slur
-15,15,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,busoni905,2.0,0.0,Slur
-15,15,<music21.dynamics.Diminuendo <music21.note.Note A>>,diminuendo,busoni950,,,DynamicRegion
-15,16,<music21.dynamics.Crescendo <music21.note.Note C><music21.note.Note F>>,diminuendo,busoni952,,,DynamicRegion
-16,,<music21.note.Note B->,note,busoni329,1.5,90.0,GeneralNote
-16,,<music21.note.Note D->,note,busoni330,1.5,90.0,GeneralNote
-16,,<music21.note.Note B->,note,busoni331,2.0,90.0,GeneralNote
-16,,<music21.chord.Chord F3 B-3>,note,busoni332,2.0,90.0,GeneralNote
-16,,<music21.note.Rest dotted-whole>,note,busoni333,6.0,90.0,GeneralNote
-16,,<music21.note.Note C>,note,busoni334,0.5,91.5,GeneralNote
-16,,<music21.note.Note E->,note,busoni335,0.5,91.5,GeneralNote
-16,,<music21.note.Note D->,note,busoni336,2.0,92.0,GeneralNote
-16,,<music21.chord.Chord F4 B-4>,note,busoni337,2.0,92.0,GeneralNote
-16,,<music21.note.Rest half>,note,busoni338,2.0,92.0,GeneralNote
-16,,<music21.note.Rest quarter>,note,busoni339,1.0,92.0,GeneralNote
-16,,<music21.note.Rest half>,note,busoni340,2.0,92.0,GeneralNote
-16,,<music21.note.Rest eighth>,note,busoni341,0.5,93.0,GeneralNote
-16,,<music21.note.Note B->,note,busoni342,0.5,93.5,GeneralNote
-16,,<music21.note.Note D->,note,busoni343,2.0,94.0,GeneralNote
-16,,<music21.chord.Chord F4 B-4>,note,busoni344,2.0,94.0,GeneralNote
-16,,<music21.note.Rest half>,note,busoni345,2.0,94.0,GeneralNote
-16,,<music21.note.Note D->,note,busoni346,1.5,94.0,GeneralNote
-16,,<music21.note.Rest half>,note,busoni347,2.0,94.0,GeneralNote
-16,,<music21.note.Note F>,note,busoni348,0.5,95.5,GeneralNote
-16,17,<music21.dynamics.Crescendo <music21.note.Note D-><music21.note.Note B->>,diminuendo,busoni954,,,DynamicRegion
-16,,<music21.expressions.TextExpression 'poco'>,poco,busoni993,0.0,93.5,TextExpression
-16,,<music21.expressions.TextExpression '3 corde'>,3 corde,busoni994,0.0,93.5,TextExpression
-17,,<music21.note.Note D->,note,busoni349,1.5,96.0,GeneralNote
-17,,<music21.chord.Chord F-4 B-4>,note,busoni350,1.5,96.0,GeneralNote
-17,,<music21.note.Note G>,note,busoni351,2.0,96.0,GeneralNote
-17,,<music21.note.Rest dotted-whole>,note,busoni352,6.0,96.0,GeneralNote
-17,,<music21.note.Rest eighth>,note,busoni353,0.5,97.0,GeneralNote
-17,,<music21.note.Rest eighth>,note,busoni354,0.5,97.0,GeneralNote
-17,,<music21.note.Note C->,note,busoni355,0.25,97.5,GeneralNote
-17,,<music21.note.Rest eighth>,note,busoni356,0.5,97.5,GeneralNote
-17,,<music21.note.Rest eighth>,note,busoni357,0.5,97.5,GeneralNote
-17,,<music21.note.Note B->,note,busoni358,0.25,97.75,GeneralNote
-17,,<music21.note.Note F->,note,busoni359,2.0,98.0,GeneralNote
-17,,<music21.chord.Chord B-4 D-5>,note,busoni360,2.0,98.0,GeneralNote
-17,,<music21.note.Note G>,note,busoni361,1.0,98.0,GeneralNote
-17,,<music21.note.Note G>,note,busoni362,0.25,99.0,GeneralNote
-17,,<music21.note.Note B->,note,busoni363,0.25,99.25,GeneralNote
-17,,<music21.note.Note A->,note,busoni364,0.25,99.5,GeneralNote
-17,,<music21.note.Note G>,note,busoni365,0.25,99.75,GeneralNote
-17,,<music21.chord.Chord D-5 F-5>,note,busoni366,1.5,100.0,GeneralNote
-17,,<music21.chord.Chord B-4 D-5>,note,busoni367,1.5,100.0,GeneralNote
-17,,<music21.note.Note D->,note,busoni368,2.0,100.0,GeneralNote
-17,,<music21.note.Note E->,note,busoni369,0.25,101.5,GeneralNote
-17,,<music21.note.Rest eighth>,note,busoni370,0.5,101.5,GeneralNote
-17,,<music21.note.Rest eighth>,note,busoni371,0.5,101.5,GeneralNote
-17,,<music21.note.Note D->,note,busoni372,0.25,101.75,GeneralNote
-17,17,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note D->>,diminuendo,busoni956,,,DynamicRegion
-17,17,<music21.dynamics.Crescendo <music21.note.Note E-><music21.note.Note G>>,diminuendo,busoni958,,,DynamicRegion
-17,,<music21.expressions.TextExpression 'steigernd'>,steigernd,busoni995,0.0,96.0,TextExpression
-17,,<music21.expressions.TextExpression 'cresc.'>,cresc.,busoni996,0.0,96.0,TextExpression
-18,,<music21.note.Note G>,note,busoni373,2.0,102.0,GeneralNote
-18,,<music21.chord.Chord B-4 D-5>,note,busoni374,2.0,102.0,GeneralNote
-18,,<music21.note.Rest half>,note,busoni375,2.0,102.0,GeneralNote
-18,,<music21.note.Rest whole>,note,busoni376,4.0,102.0,GeneralNote
-18,,<music21.note.Rest half>,note,busoni377,2.0,102.0,GeneralNote
-18,,<music21.note.Rest whole>,note,busoni378,4.0,102.0,GeneralNote
-18,,<music21.note.Note D->,note,busoni379,1.5,102.0,GeneralNote
-18,,<music21.note.Rest dotted-whole>,note,busoni380,6.0,102.0,GeneralNote
-18,,<music21.note.Note C->,note,busoni381,0.25,103.5,GeneralNote
-18,,<music21.note.Note B->,note,busoni382,0.25,103.75,GeneralNote
-18,,<music21.note.Note G>,note,busoni383,1.5,104.0,GeneralNote
-18,,<music21.chord.Chord B-4 D-5>,note,busoni384,1.5,104.0,GeneralNote
-18,,<music21.note.Rest half>,note,busoni385,2.0,104.0,GeneralNote
-18,,<music21.note.Rest half>,note,busoni386,2.0,104.0,GeneralNote
-18,,<music21.note.Note F->,note,busoni387,0.5,104.0,GeneralNote
-18,,<music21.articulations.Tenuto>,tenuto,busoni388,0.0,0.0,Articulation
-18,,<music21.note.Note E->,note,busoni389,0.5,104.5,GeneralNote
-18,,<music21.articulations.Tenuto>,tenuto,busoni390,0.0,0.0,Articulation
-18,,<music21.note.Note F->,note,busoni391,0.5,105.0,GeneralNote
-18,,<music21.articulations.Tenuto>,tenuto,busoni392,0.0,0.0,Articulation
-18,,<music21.note.Note F>,note,busoni393,0.25,105.5,GeneralNote
-18,,<music21.note.Rest eighth>,note,busoni394,0.5,105.5,GeneralNote
-18,,<music21.note.Rest eighth>,note,busoni395,0.5,105.5,GeneralNote
-18,,<music21.note.Note D->,note,busoni396,0.5,105.5,GeneralNote
-18,,<music21.articulations.Tenuto>,tenuto,busoni397,0.0,0.0,Articulation
-18,,<music21.note.Note E->,note,busoni398,0.25,105.75,GeneralNote
-18,,<music21.note.Note A->,note,busoni399,2.0,106.0,GeneralNote
-18,,<music21.note.Rest half>,note,busoni400,2.0,106.0,GeneralNote
-18,,<music21.chord.Chord C-5 E-5>,note,busoni401,2.0,106.0,GeneralNote
-18,,<music21.note.Rest half>,note,busoni402,2.0,106.0,GeneralNote
-18,,<music21.note.Note C->,note,busoni403,0.25,106.0,GeneralNote
-18,,<music21.note.Note B->,note,busoni404,0.25,106.25,GeneralNote
-18,,<music21.note.Note A->,note,busoni405,0.25,106.5,GeneralNote
-18,,<music21.note.Note B->,note,busoni406,0.25,106.75,GeneralNote
-18,,<music21.note.Note C->,note,busoni407,0.25,107.0,GeneralNote
-18,,<music21.note.Note A->,note,busoni408,0.25,107.25,GeneralNote
-18,,<music21.note.Note B->,note,busoni409,0.25,107.5,GeneralNote
-18,,<music21.note.Note C->,note,busoni410,0.25,107.75,GeneralNote
-18,18,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note D->>,slur,busoni906,1.5,0.0,Slur
-18,18,<music21.dynamics.Crescendo <music21.note.Note D-><music21.note.Note B->>,diminuendo,busoni960,,,DynamicRegion
-18,18,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note C->>,diminuendo,busoni962,,,DynamicRegion
-19,,<music21.note.Note A->,note,busoni411,0.5,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,busoni412,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,busoni413,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,busoni414,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,busoni415,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,busoni416,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,busoni417,2.0,108.0,GeneralNote
-19,,<music21.note.Note F->,note,busoni418,1.0,108.0,GeneralNote
-19,,<music21.articulations.Tenuto>,tenuto,busoni419,0.0,0.0,Articulation
-19,,<music21.note.Rest dotted-whole>,note,busoni420,6.0,108.0,GeneralNote
-19,,<music21.note.Note G>,note,busoni421,0.5,108.5,GeneralNote
-19,,<music21.note.Note A->,note,busoni422,0.5,109.0,GeneralNote
-19,,<music21.note.Note F->,note,busoni423,0.25,109.0,GeneralNote
-19,,<music21.note.Note F->,note,busoni424,0.25,109.25,GeneralNote
-19,,<music21.note.Note B->,note,busoni425,0.5,109.5,GeneralNote
-19,,<music21.note.Note E->,note,busoni426,0.25,109.5,GeneralNote
-19,,<music21.note.Note D->,note,busoni427,0.25,109.75,GeneralNote
-19,,<music21.note.Note B->,note,busoni428,3.0,110.0,GeneralNote
-19,,<music21.note.Note E->,note,busoni429,2.0,110.0,GeneralNote
-19,,<music21.note.Note G>,note,busoni430,4.0,110.0,GeneralNote
-19,,<music21.note.Note E->,note,busoni431,1.5,110.0,GeneralNote
-19,,<music21.note.Note D->,note,busoni432,0.5,111.5,GeneralNote
-19,,<music21.note.Note D->,note,busoni433,2.0,112.0,GeneralNote
-19,,<music21.note.Note E->,note,busoni434,1.5,112.0,GeneralNote
-19,,<music21.note.Note A->,note,busoni435,1.0,113.0,GeneralNote
-19,,<music21.note.Note E->,note,busoni436,0.5,113.5,GeneralNote
-19,19,<music21.spanner.Slur <music21.note.Note G><music21.note.Note B->>,slur,busoni907,1.0,0.0,Slur
-19,22,<music21.dynamics.Diminuendo <music21.note.Note D-><music21.note.Note G->>,diminuendo,busoni964,,,DynamicRegion
-20,,<music21.note.Note A->,note,busoni437,1.5,114.0,GeneralNote
-20,,<music21.articulations.Tenuto>,tenuto,busoni438,0.0,0.0,Articulation
-20,,<music21.chord.Chord C-5 E-5>,note,busoni439,1.5,114.0,GeneralNote
-20,,<music21.note.Note A->,note,busoni440,2.0,114.0,GeneralNote
-20,,<music21.note.Rest dotted-whole>,note,busoni441,6.0,114.0,GeneralNote
-20,,<music21.note.Rest eighth>,note,busoni442,0.5,115.5,GeneralNote
-20,,<music21.note.Note C->,note,busoni443,0.5,115.5,GeneralNote
-20,,<music21.note.Note F>,note,busoni444,1.5,116.0,GeneralNote
-20,,<music21.note.Rest half>,note,busoni445,2.0,116.0,GeneralNote
-20,,<music21.note.Rest half>,note,busoni446,2.0,116.0,GeneralNote
-20,,<music21.note.Rest quarter>,note,busoni447,1.0,116.0,GeneralNote
-20,,<music21.note.Rest eighth>,note,busoni448,0.5,117.0,GeneralNote
-20,,<music21.note.Note G->,note,busoni449,0.25,117.5,GeneralNote
-20,,<music21.note.Note C->,note,busoni450,0.5,117.5,GeneralNote
-20,,<music21.note.Note A->,note,busoni451,0.25,117.75,GeneralNote
-20,,<music21.note.Note D>,note,busoni452,1.5,118.0,GeneralNote
-20,,<music21.note.Rest half>,note,busoni453,2.0,118.0,GeneralNote
-20,,<music21.note.Rest half>,note,busoni454,2.0,118.0,GeneralNote
-20,,<music21.note.Note F>,note,busoni455,1.5,118.0,GeneralNote
-20,,<music21.note.Note E->,note,busoni456,0.25,119.5,GeneralNote
-20,,<music21.articulations.Tenuto>,tenuto,busoni457,0.0,0.0,Articulation
-20,,<music21.note.Note G->,note,busoni458,0.25,119.5,GeneralNote
-20,,<music21.note.Note F>,note,busoni459,0.25,119.75,GeneralNote
-20,,<music21.articulations.Tenuto>,tenuto,busoni460,0.0,0.0,Articulation
-20,,<music21.note.Note A->,note,busoni461,0.25,119.75,GeneralNote
+12,,<music21.chord.Chord B-3 D-4 F4>,note,busoni231,2.0,70.0,GeneralNote
+12,,<music21.note.Note C>,note,busoni232,0.25,70.25,GeneralNote
+12,,<music21.note.Note B->,note,busoni233,0.25,70.5,GeneralNote
+12,,<music21.note.Note A->,note,busoni234,0.25,70.75,GeneralNote
+12,,<music21.note.Note G->,note,busoni235,0.5,71.0,GeneralNote
+12,,<music21.note.Note A->,note,busoni236,0.25,71.5,GeneralNote
+12,,<music21.note.Note F>,note,busoni237,0.25,71.75,GeneralNote
+12,12,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note B->>,slur,busoni901,1.75,0.0,Slur
+12,,<music21.expressions.TextExpression 'mit breite...'>,mit breitem Ton,busoni986,0.0,69.0,TextExpression
+12,,<music21.expressions.TextExpression 'with broad...'>,with broad tone,busoni987,0.0,69.0,TextExpression
+13,,<music21.chord.Chord E-4 G-4>,note,busoni238,1.0,72.0,GeneralNote
+13,,<music21.articulations.Fingering 2>,fingering,busoni239,0.0,0.0,Fingering
+13,,<music21.articulations.Fingering 3>,fingering,busoni240,0.0,0.0,Fingering
+13,,<music21.chord.Chord E-3 B-3 D-4>,note,busoni241,2.0,72.0,GeneralNote
+13,,<music21.note.Note G->,note,busoni242,0.5,73.0,GeneralNote
+13,,<music21.articulations.Fingering 1>,fingering,busoni243,0.0,0.0,Fingering
+13,,<music21.note.Note B->,note,busoni244,0.25,73.5,GeneralNote
+13,,<music21.note.Note D->,note,busoni245,0.25,73.75,GeneralNote
+13,,<music21.note.Note G->,note,busoni246,1.0,74.0,GeneralNote
+13,,<music21.chord.Chord E-3 B-3 C4>,note,busoni247,2.0,74.0,GeneralNote
+13,,<music21.note.Note G->,note,busoni248,0.25,75.0,GeneralNote
+13,,<music21.note.Note F>,note,busoni249,0.25,75.25,GeneralNote
+13,,<music21.note.Note E->,note,busoni250,0.25,75.5,GeneralNote
+13,,<music21.note.Note D->,note,busoni251,0.25,75.75,GeneralNote
+13,,<music21.note.Note C>,note,busoni252,0.75,76.0,GeneralNote
+13,,<music21.chord.Chord E-3 B-3 C4>,note,busoni253,2.0,76.0,GeneralNote
+13,,<music21.note.Note E->,note,busoni254,0.125,76.75,GeneralNote
+13,,<music21.articulations.Fingering 4>,fingering,busoni255,0.0,0.0,Fingering
+13,,<music21.note.Note D->,note,busoni256,0.125,76.875,GeneralNote
+13,,<music21.note.Note C>,note,busoni257,0.25,77.0,GeneralNote
+13,,<music21.articulations.Tenuto>,tenuto,busoni258,0.0,0.0,Articulation
+13,,<music21.note.Note D->,note,busoni259,0.25,77.25,GeneralNote
+13,,<music21.articulations.Tenuto>,tenuto,busoni260,0.0,0.0,Articulation
+13,,<music21.note.Note E->,note,busoni261,0.5,77.5,GeneralNote
+13,,<music21.articulations.Tenuto>,tenuto,busoni262,0.0,0.0,Articulation
+13,13,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note C>>,slur,busoni902,2.0,0.0,Slur
+13,,<music21.dynamics.Dynamic mf>,mf,busoni929,,,DynamicPoint
+14,,<music21.note.Note F>,note,busoni263,0.75,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,busoni264,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,busoni265,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,busoni266,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,busoni267,2.0,78.0,GeneralNote
+14,,<music21.chord.Chord E-3 A3 C4>,note,busoni268,2.0,78.0,GeneralNote
+14,,<music21.note.Note G>,note,busoni269,0.125,78.75,GeneralNote
+14,,<music21.note.Note A>,note,busoni270,0.125,78.875,GeneralNote
+14,,<music21.note.Note A>,note,busoni271,0.75,79.0,GeneralNote
+14,,<music21.articulations.Fingering 13>,fingering,busoni272,0.0,0.0,Fingering
+14,,<music21.note.Note G>,note,busoni273,0.125,79.75,GeneralNote
+14,,<music21.articulations.Fingering 2>,fingering,busoni274,0.0,0.0,Fingering
+14,,<music21.note.Note A>,note,busoni275,0.125,79.875,GeneralNote
+14,,<music21.articulations.Fingering 3>,fingering,busoni276,0.0,0.0,Fingering
+14,,<music21.note.Note B->,note,busoni277,4.0,80.0,GeneralNote
+14,,<music21.articulations.Accent>,accent,busoni278,0.0,0.0,Articulation
+14,,<music21.note.Rest quarter>,note,busoni279,1.0,80.0,GeneralNote
+14,,<music21.chord.Chord D-3 F3 B-3>,note,busoni280,2.0,80.0,GeneralNote
+14,,<music21.note.Rest eighth>,note,busoni281,0.5,81.0,GeneralNote
+14,,<music21.note.Note F>,note,busoni282,0.5,81.5,GeneralNote
+14,,<music21.note.Note G->,note,busoni283,1.5,82.0,GeneralNote
+14,,<music21.chord.Chord E-3 B-3>,note,busoni284,2.0,82.0,GeneralNote
+14,,<music21.note.Note E->,note,busoni285,0.5,83.5,GeneralNote
+14,,<music21.dynamics.Dynamic f>,f,busoni930,,,DynamicPoint
+14,,<music21.expressions.TextExpression 'ten.'>,ten.,busoni988,0.0,80.0,TextExpression
+14,,<music21.expressions.TextExpression 'meno'>,meno,busoni989,0.0,81.5,TextExpression
+15,,<music21.note.Note B->,note,busoni286,4.0,84.0,GeneralNote
+15,,<music21.note.Note C>,note,busoni287,1.0,84.0,GeneralNote
+15,,<music21.note.Rest half>,note,busoni288,2.0,84.0,GeneralNote
+15,,<music21.note.Rest whole>,note,busoni289,4.0,84.0,GeneralNote
+15,,<music21.note.Rest half>,note,busoni290,2.0,84.0,GeneralNote
+15,,<music21.note.Rest whole>,note,busoni291,4.0,84.0,GeneralNote
+15,,<music21.note.Note F>,note,busoni292,2.0,84.0,GeneralNote
+15,,<music21.note.Note F>,note,busoni293,2.0,84.0,GeneralNote
+15,,<music21.note.Note C>,note,busoni294,0.25,85.0,GeneralNote
+15,,<music21.note.Note D->,note,busoni295,0.25,85.25,GeneralNote
+15,,<music21.note.Note C>,note,busoni296,0.25,85.5,GeneralNote
+15,,<music21.note.Note D->,note,busoni297,0.25,85.75,GeneralNote
+15,,<music21.note.Note E->,note,busoni298,0.25,86.0,GeneralNote
+15,,<music21.note.Rest half>,note,busoni299,2.0,86.0,GeneralNote
+15,,<music21.note.Rest half>,note,busoni300,2.0,86.0,GeneralNote
+15,,<music21.note.Note F>,note,busoni301,2.0,86.0,GeneralNote
+15,,<music21.note.Note F>,note,busoni302,2.0,86.0,GeneralNote
+15,,<music21.articulations.Staccato>,staccato,busoni303,0.0,0.0,Articulation
+15,,<music21.note.Note D->,note,busoni304,0.25,86.25,GeneralNote
+15,,<music21.note.Note C>,note,busoni305,0.25,86.5,GeneralNote
+15,,<music21.note.Note D->,note,busoni306,0.25,86.75,GeneralNote
+15,,<music21.note.Note E->,note,busoni307,0.25,87.0,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,busoni308,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,busoni309,0.25,87.25,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,busoni310,0.0,0.0,Fingering
+15,,<music21.note.Note E->,note,busoni311,0.25,87.5,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,busoni312,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,busoni313,0.25,87.75,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,busoni314,0.0,0.0,Fingering
+15,,<music21.note.Note A>,note,busoni315,2.0,88.0,GeneralNote
+15,,"<music21.articulations.Fingering 5
+4>",fingering,busoni316,0.0,0.0,Fingering
+15,,<music21.note.Note G->,note,busoni317,1.0,88.0,GeneralNote
+15,,<music21.note.Note C>,note,busoni318,2.0,88.0,GeneralNote
+15,,<music21.note.Note F>,note,busoni319,2.0,88.0,GeneralNote
+15,,<music21.note.Note F>,note,busoni320,2.0,88.0,GeneralNote
+15,,<music21.articulations.Staccato>,staccato,busoni321,0.0,0.0,Articulation
+15,,<music21.note.Note F>,note,busoni322,0.75,89.0,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,busoni323,0.0,0.0,Fingering
+15,,<music21.note.Note E->,note,busoni324,0.25,89.75,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,busoni325,0.0,0.0,Fingering
+15,15,<music21.spanner.Slur <music21.note.Note C><music21.note.Note G->>,slur,busoni903,4.0,0.0,Slur
+15,15,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,busoni904,2.0,0.0,Slur
+15,15,<music21.dynamics.Diminuendo <music21.note.Note A>>,diminuendo,busoni949,,,DynamicRegion
+15,16,<music21.dynamics.Crescendo <music21.note.Note C><music21.note.Note F>>,diminuendo,busoni951,,,DynamicRegion
+16,,<music21.chord.Chord D-4 B-4>,note,busoni326,1.5,90.0,GeneralNote
+16,,<music21.articulations.Fingering 1>,fingering,busoni327,0.0,0.0,Fingering
+16,,<music21.articulations.Fingering 4>,fingering,busoni328,0.0,0.0,Fingering
+16,,<music21.note.Note B->,note,busoni329,2.0,90.0,GeneralNote
+16,,<music21.chord.Chord F3 B-3>,note,busoni330,2.0,90.0,GeneralNote
+16,,<music21.chord.Chord E-4 C5>,note,busoni331,0.5,91.5,GeneralNote
+16,,<music21.chord.Chord F4 B-4 D-5>,note,busoni332,2.0,92.0,GeneralNote
+16,,<music21.note.Rest half>,note,busoni333,2.0,92.0,GeneralNote
+16,,<music21.note.Rest quarter>,note,busoni334,1.0,92.0,GeneralNote
+16,,<music21.note.Rest half>,note,busoni335,2.0,92.0,GeneralNote
+16,,<music21.note.Rest eighth>,note,busoni336,0.5,93.0,GeneralNote
+16,,<music21.note.Note B->,note,busoni337,0.5,93.5,GeneralNote
+16,,<music21.chord.Chord F4 B-4 D-5>,note,busoni338,2.0,94.0,GeneralNote
+16,,<music21.note.Rest half>,note,busoni339,2.0,94.0,GeneralNote
+16,,<music21.note.Note D->,note,busoni340,1.5,94.0,GeneralNote
+16,,<music21.note.Rest half>,note,busoni341,2.0,94.0,GeneralNote
+16,,<music21.note.Note F>,note,busoni342,0.5,95.5,GeneralNote
+16,17,<music21.dynamics.Crescendo <music21.note.Note D-><music21.note.Note B->>,diminuendo,busoni953,,,DynamicRegion
+16,,<music21.expressions.TextExpression 'poco'>,poco,busoni990,0.0,93.5,TextExpression
+16,,<music21.expressions.TextExpression '3 corde'>,3 corde,busoni991,0.0,93.5,TextExpression
+17,,<music21.chord.Chord F-4 B-4 D-5>,note,busoni343,1.5,96.0,GeneralNote
+17,,<music21.articulations.Fingering 1>,fingering,busoni344,0.0,0.0,Fingering
+17,,<music21.articulations.Fingering 3>,fingering,busoni345,0.0,0.0,Fingering
+17,,<music21.articulations.Fingering 5>,fingering,busoni346,0.0,0.0,Fingering
+17,,<music21.note.Note G>,note,busoni347,2.0,96.0,GeneralNote
+17,,<music21.note.Rest eighth>,note,busoni348,0.5,97.0,GeneralNote
+17,,<music21.note.Rest eighth>,note,busoni349,0.5,97.0,GeneralNote
+17,,<music21.note.Note C->,note,busoni350,0.25,97.5,GeneralNote
+17,,<music21.articulations.Fingering 4>,fingering,busoni351,0.0,0.0,Fingering
+17,,<music21.note.Note B->,note,busoni352,0.25,97.75,GeneralNote
+17,,<music21.articulations.Fingering 3>,fingering,busoni353,0.0,0.0,Fingering
+17,,<music21.chord.Chord B-4 D-5 F-5>,note,busoni354,2.0,98.0,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,busoni355,0.0,0.0,Fingering
+17,,<music21.articulations.Fingering 3>,fingering,busoni356,0.0,0.0,Fingering
+17,,<music21.articulations.Fingering 5>,fingering,busoni357,0.0,0.0,Fingering
+17,,<music21.note.Note G>,note,busoni358,1.0,98.0,GeneralNote
+17,,<music21.note.Note G>,note,busoni359,0.25,99.0,GeneralNote
+17,,<music21.note.Note B->,note,busoni360,0.25,99.25,GeneralNote
+17,,<music21.note.Note A->,note,busoni361,0.25,99.5,GeneralNote
+17,,<music21.note.Note G>,note,busoni362,0.25,99.75,GeneralNote
+17,,<music21.chord.Chord B-4 D-5 F-5>,note,busoni363,1.5,100.0,GeneralNote
+17,,<music21.note.Note D->,note,busoni364,2.0,100.0,GeneralNote
+17,,<music21.note.Note E->,note,busoni365,0.25,101.5,GeneralNote
+17,,<music21.articulations.Fingering 3>,fingering,busoni366,0.0,0.0,Fingering
+17,,<music21.note.Note D->,note,busoni367,0.25,101.75,GeneralNote
+17,17,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note D->>,diminuendo,busoni955,,,DynamicRegion
+17,17,<music21.dynamics.Crescendo <music21.note.Note E-><music21.note.Note G>>,diminuendo,busoni957,,,DynamicRegion
+17,,<music21.expressions.TextExpression 'steigernd'>,steigernd,busoni992,0.0,96.0,TextExpression
+17,,<music21.expressions.TextExpression 'cresc.'>,cresc.,busoni993,0.0,96.0,TextExpression
+18,,<music21.chord.Chord B-4 D-5 G5>,note,busoni368,2.0,102.0,GeneralNote
+18,,<music21.note.Rest half>,note,busoni369,2.0,102.0,GeneralNote
+18,,<music21.note.Rest whole>,note,busoni370,4.0,102.0,GeneralNote
+18,,<music21.note.Rest half>,note,busoni371,2.0,102.0,GeneralNote
+18,,<music21.note.Rest whole>,note,busoni372,4.0,102.0,GeneralNote
+18,,<music21.note.Note D->,note,busoni373,1.5,102.0,GeneralNote
+18,,<music21.note.Note C->,note,busoni374,0.25,103.5,GeneralNote
+18,,<music21.note.Note B->,note,busoni375,0.25,103.75,GeneralNote
+18,,<music21.chord.Chord B-4 D-5 G5>,note,busoni376,1.5,104.0,GeneralNote
+18,,<music21.note.Rest half>,note,busoni377,2.0,104.0,GeneralNote
+18,,<music21.note.Rest half>,note,busoni378,2.0,104.0,GeneralNote
+18,,<music21.note.Note F->,note,busoni379,0.5,104.0,GeneralNote
+18,,<music21.articulations.Tenuto>,tenuto,busoni380,0.0,0.0,Articulation
+18,,<music21.note.Note E->,note,busoni381,0.5,104.5,GeneralNote
+18,,<music21.articulations.Tenuto>,tenuto,busoni382,0.0,0.0,Articulation
+18,,<music21.note.Note F->,note,busoni383,0.5,105.0,GeneralNote
+18,,<music21.articulations.Tenuto>,tenuto,busoni384,0.0,0.0,Articulation
+18,,<music21.note.Note F>,note,busoni385,0.25,105.5,GeneralNote
+18,,<music21.note.Note D->,note,busoni386,0.5,105.5,GeneralNote
+18,,<music21.articulations.Tenuto>,tenuto,busoni387,0.0,0.0,Articulation
+18,,<music21.note.Note E->,note,busoni388,0.25,105.75,GeneralNote
+18,,<music21.note.Note A->,note,busoni389,2.0,106.0,GeneralNote
+18,,<music21.chord.Chord C-5 E-5>,note,busoni390,2.0,106.0,GeneralNote
+18,,<music21.note.Note C->,note,busoni391,0.25,106.0,GeneralNote
+18,,<music21.note.Note B->,note,busoni392,0.25,106.25,GeneralNote
+18,,<music21.note.Note A->,note,busoni393,0.25,106.5,GeneralNote
+18,,<music21.note.Note B->,note,busoni394,0.25,106.75,GeneralNote
+18,,<music21.note.Note C->,note,busoni395,0.25,107.0,GeneralNote
+18,,<music21.note.Note A->,note,busoni396,0.25,107.25,GeneralNote
+18,,<music21.note.Note B->,note,busoni397,0.25,107.5,GeneralNote
+18,,<music21.note.Note C->,note,busoni398,0.25,107.75,GeneralNote
+18,18,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note D->>,slur,busoni905,1.5,0.0,Slur
+18,18,<music21.dynamics.Crescendo <music21.note.Note D-><music21.note.Note B->>,diminuendo,busoni959,,,DynamicRegion
+18,18,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note C->>,diminuendo,busoni961,,,DynamicRegion
+19,,<music21.note.Note A->,note,busoni399,0.5,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,busoni400,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,busoni401,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,busoni402,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,busoni403,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,busoni404,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,busoni405,2.0,108.0,GeneralNote
+19,,<music21.note.Note F->,note,busoni406,1.0,108.0,GeneralNote
+19,,<music21.articulations.Tenuto>,tenuto,busoni407,0.0,0.0,Articulation
+19,,<music21.note.Note G>,note,busoni408,0.5,108.5,GeneralNote
+19,,<music21.articulations.Fingering 3>,fingering,busoni409,0.0,0.0,Fingering
+19,,<music21.note.Note A->,note,busoni410,0.5,109.0,GeneralNote
+19,,<music21.articulations.Fingering 4>,fingering,busoni411,0.0,0.0,Fingering
+19,,<music21.note.Note F->,note,busoni412,0.25,109.0,GeneralNote
+19,,<music21.note.Note F->,note,busoni413,0.25,109.25,GeneralNote
+19,,<music21.note.Note B->,note,busoni414,0.5,109.5,GeneralNote
+19,,<music21.articulations.Fingering 5>,fingering,busoni415,0.0,0.0,Fingering
+19,,<music21.note.Note E->,note,busoni416,0.25,109.5,GeneralNote
+19,,<music21.note.Note D->,note,busoni417,0.25,109.75,GeneralNote
+19,,<music21.note.Note B->,note,busoni418,3.0,110.0,GeneralNote
+19,,<music21.articulations.Fingering 4>,fingering,busoni419,0.0,0.0,Fingering
+19,,<music21.note.Note E->,note,busoni420,2.0,110.0,GeneralNote
+19,,<music21.note.Note G>,note,busoni421,4.0,110.0,GeneralNote
+19,,<music21.note.Note E->,note,busoni422,1.5,110.0,GeneralNote
+19,,<music21.note.Note D->,note,busoni423,0.5,111.5,GeneralNote
+19,,<music21.note.Note D->,note,busoni424,2.0,112.0,GeneralNote
+19,,<music21.note.Note E->,note,busoni425,1.5,112.0,GeneralNote
+19,,<music21.note.Note A->,note,busoni426,1.0,113.0,GeneralNote
+19,,<music21.note.Note E->,note,busoni427,0.5,113.5,GeneralNote
+19,19,<music21.spanner.Slur <music21.note.Note G><music21.note.Note B->>,slur,busoni906,1.0,0.0,Slur
+19,22,<music21.dynamics.Diminuendo <music21.note.Note D-><music21.note.Note G->>,diminuendo,busoni963,,,DynamicRegion
+20,,<music21.note.Note A->,note,busoni428,1.5,114.0,GeneralNote
+20,,<music21.articulations.Tenuto>,tenuto,busoni429,0.0,0.0,Articulation
+20,,<music21.chord.Chord C-5 E-5>,note,busoni430,1.5,114.0,GeneralNote
+20,,<music21.note.Note A->,note,busoni431,2.0,114.0,GeneralNote
+20,,<music21.note.Rest eighth>,note,busoni432,0.5,115.5,GeneralNote
+20,,<music21.note.Note C->,note,busoni433,0.5,115.5,GeneralNote
+20,,<music21.note.Note F>,note,busoni434,1.5,116.0,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,busoni435,0.0,0.0,Fingering
+20,,<music21.note.Rest half>,note,busoni436,2.0,116.0,GeneralNote
+20,,<music21.note.Rest half>,note,busoni437,2.0,116.0,GeneralNote
+20,,<music21.note.Rest quarter>,note,busoni438,1.0,116.0,GeneralNote
+20,,<music21.note.Rest eighth>,note,busoni439,0.5,117.0,GeneralNote
+20,,<music21.note.Note G->,note,busoni440,0.25,117.5,GeneralNote
+20,,<music21.note.Note C->,note,busoni441,0.5,117.5,GeneralNote
+20,,<music21.note.Note A->,note,busoni442,0.25,117.75,GeneralNote
+20,,<music21.note.Note D>,note,busoni443,1.5,118.0,GeneralNote
+20,,<music21.articulations.Fingering 1>,fingering,busoni444,0.0,0.0,Fingering
+20,,<music21.note.Rest half>,note,busoni445,2.0,118.0,GeneralNote
+20,,<music21.note.Rest half>,note,busoni446,2.0,118.0,GeneralNote
+20,,<music21.note.Note F>,note,busoni447,1.5,118.0,GeneralNote
+20,,<music21.note.Note E->,note,busoni448,0.25,119.5,GeneralNote
+20,,<music21.articulations.Fingering 3>,fingering,busoni449,0.0,0.0,Fingering
+20,,<music21.articulations.Tenuto>,tenuto,busoni450,0.0,0.0,Articulation
+20,,<music21.note.Note G->,note,busoni451,0.25,119.5,GeneralNote
+20,,<music21.articulations.Fingering 3>,fingering,busoni452,0.0,0.0,Fingering
+20,,<music21.note.Note F>,note,busoni453,0.25,119.75,GeneralNote
+20,,<music21.articulations.Fingering 5>,fingering,busoni454,0.0,0.0,Fingering
+20,,<music21.articulations.Tenuto>,tenuto,busoni455,0.0,0.0,Articulation
+20,,<music21.note.Note A->,note,busoni456,0.25,119.75,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,busoni457,0.0,0.0,Fingering
+20,,<music21.dynamics.Dynamic f>,f,busoni931,,,DynamicPoint
 20,,<music21.dynamics.Dynamic f>,f,busoni932,,,DynamicPoint
-20,,<music21.dynamics.Dynamic f>,f,busoni933,,,DynamicPoint
-20,,<music21.expressions.TextExpression '(as above)'>,(as above),busoni997,0.0,114.0,TextExpression
-20,,<music21.expressions.TextExpression 'più deciso'>,più deciso,busoni998,0.0,116.0,TextExpression
-20,,<music21.expressions.TextExpression 'ma sempre ...'>,ma sempre largamente,busoni999,0.0,116.0,TextExpression
-20,,<music21.expressions.TextExpression 'non legato'>,non legato,busoni1000,0.0,116.0,TextExpression
-20,,<music21.expressions.TextExpression 'non legato'>,non legato,busoni1001,0.0,118.0,TextExpression
-20,,<music21.expressions.TextExpression 'senza pedale'>,senza pedale,busoni1002,0.0,118.0,TextExpression
-21,,<music21.note.Note B->,note,busoni462,1.5,120.0,GeneralNote
-21,,<music21.note.Note D>,note,busoni463,1.5,120.0,GeneralNote
-21,,<music21.note.Rest dotted-whole>,note,busoni464,6.0,120.0,GeneralNote
-21,,<music21.note.Note A->,note,busoni465,0.5,121.5,GeneralNote
-21,,<music21.note.Note E->,note,busoni466,0.25,121.5,GeneralNote
-21,,<music21.note.Note F>,note,busoni467,0.25,121.75,GeneralNote
+20,,<music21.expressions.TextExpression '(as above)'>,(as above),busoni994,0.0,114.0,TextExpression
+20,,<music21.expressions.TextExpression 'più deciso'>,più deciso,busoni995,0.0,116.0,TextExpression
+20,,<music21.expressions.TextExpression 'ma sempre ...'>,ma sempre largamente,busoni996,0.0,116.0,TextExpression
+20,,<music21.expressions.TextExpression 'non legato'>,non legato,busoni997,0.0,116.0,TextExpression
+20,,<music21.expressions.TextExpression 'non legato'>,non legato,busoni998,0.0,118.0,TextExpression
+20,,<music21.expressions.TextExpression 'senza pedale'>,senza pedale,busoni999,0.0,118.0,TextExpression
+21,,<music21.note.Note B->,note,busoni458,1.5,120.0,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,busoni459,0.0,0.0,Fingering
+21,,<music21.note.Note D>,note,busoni460,1.5,120.0,GeneralNote
+21,,<music21.articulations.Fingering 5>,fingering,busoni461,0.0,0.0,Fingering
+21,,<music21.note.Note A->,note,busoni462,0.5,121.5,GeneralNote
+21,,<music21.articulations.Fingering 5>,fingering,busoni463,0.0,0.0,Fingering
+21,,<music21.note.Note E->,note,busoni464,0.25,121.5,GeneralNote
+21,,<music21.articulations.Fingering 3>,fingering,busoni465,0.0,0.0,Fingering
+21,,<music21.note.Note F>,note,busoni466,0.25,121.75,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,busoni467,0.0,0.0,Fingering
 21,,<music21.note.Note D>,note,busoni468,1.5,122.0,GeneralNote
-21,,<music21.note.Note B->,note,busoni469,1.5,122.0,GeneralNote
-21,,<music21.note.Note E->,note,busoni470,0.25,123.5,GeneralNote
-21,,<music21.note.Note A->,note,busoni471,0.5,123.5,GeneralNote
-21,,<music21.note.Note F>,note,busoni472,0.25,123.75,GeneralNote
-21,,<music21.note.Note B->,note,busoni473,1.5,124.0,GeneralNote
-21,,<music21.note.Note D>,note,busoni474,1.5,124.0,GeneralNote
-21,,<music21.note.Note C>,note,busoni475,0.25,125.5,GeneralNote
-21,,<music21.note.Note E->,note,busoni476,0.25,125.5,GeneralNote
-21,,<music21.note.Note D>,note,busoni477,0.25,125.75,GeneralNote
-21,,<music21.note.Note F>,note,busoni478,0.25,125.75,GeneralNote
-22,,<music21.note.Note E->,note,busoni479,1.5,126.0,GeneralNote
-22,,<music21.note.Rest half>,note,busoni480,2.0,126.0,GeneralNote
-22,,<music21.note.Rest whole>,note,busoni481,4.0,126.0,GeneralNote
-22,,<music21.note.Rest half>,note,busoni482,2.0,126.0,GeneralNote
-22,,<music21.note.Rest whole>,note,busoni483,4.0,126.0,GeneralNote
-22,,<music21.note.Note G->,note,busoni484,2.0,126.0,GeneralNote
-22,,<music21.note.Rest dotted-whole>,note,busoni485,6.0,126.0,GeneralNote
-22,,<music21.note.Note D->,note,busoni486,0.25,127.5,GeneralNote
-22,,<music21.articulations.Staccato>,staccato,busoni487,0.0,0.0,Articulation
-22,,<music21.note.Note C->,note,busoni488,0.25,127.75,GeneralNote
-22,,<music21.articulations.Staccato>,staccato,busoni489,0.0,0.0,Articulation
-22,,<music21.note.Note D->,note,busoni490,2.0,128.0,GeneralNote
-22,,<music21.note.Rest half>,note,busoni491,2.0,128.0,GeneralNote
-22,,<music21.note.Rest half>,note,busoni492,2.0,128.0,GeneralNote
-22,,<music21.note.Note G>,note,busoni493,1.5,128.0,GeneralNote
-22,,<music21.note.Note B->,note,busoni494,0.5,129.5,GeneralNote
-22,,<music21.articulations.Staccato>,staccato,busoni495,0.0,0.0,Articulation
-22,,<music21.note.Note D->,note,busoni496,2.0,130.0,GeneralNote
-22,,<music21.chord.Chord E-4 B-4>,note,busoni497,2.0,130.0,GeneralNote
-22,,<music21.note.Note G>,note,busoni498,1.5,130.0,GeneralNote
-22,,<music21.articulations.Staccato>,staccato,busoni499,0.0,0.0,Articulation
-22,,<music21.note.Note E->,note,busoni500,0.5,131.5,GeneralNote
-22,,<music21.articulations.Staccato>,staccato,busoni501,0.0,0.0,Articulation
-22,22,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,busoni908,1.75,0.0,Slur
-22,22,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note G>>,slur,busoni909,2.0,0.0,Slur
-22,22,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note E->>,slur,busoni910,2.0,0.0,Slur
-22,,<music21.dynamics.Dynamic fz>,fz,busoni934,,,DynamicPoint
-22,25,<music21.dynamics.Diminuendo <music21.note.Note G-><music21.note.Note E->>,diminuendo,busoni966,,,DynamicRegion
-22,,<music21.expressions.TextExpression 'dim.'>,dim.,busoni1003,0.0,126.0,TextExpression
-22,,<music21.expressions.TextExpression '(wie oben)'>,(wie oben),busoni1004,0.0,129.5,TextExpression
-23,,<music21.note.Note D->,note,busoni502,1.5,132.0,GeneralNote
-23,,<music21.chord.Chord E-4 B-4>,note,busoni503,1.5,132.0,GeneralNote
-23,,<music21.note.Note A->,note,busoni504,2.0,132.0,GeneralNote
-23,,<music21.articulations.Tenuto>,tenuto,busoni505,0.0,0.0,Articulation
-23,,<music21.note.Rest dotted-whole>,note,busoni506,6.0,132.0,GeneralNote
-23,,<music21.note.Note C->,note,busoni507,0.25,133.5,GeneralNote
-23,,<music21.note.Rest eighth>,note,busoni508,0.5,133.5,GeneralNote
-23,,<music21.note.Note B->,note,busoni509,0.25,133.75,GeneralNote
-23,,<music21.note.Note C->,note,busoni510,2.0,134.0,GeneralNote
-23,,<music21.note.Rest half>,note,busoni511,2.0,134.0,GeneralNote
-23,,<music21.note.Rest quarter>,note,busoni512,1.0,134.0,GeneralNote
-23,,<music21.note.Rest eighth>,note,busoni513,0.5,135.0,GeneralNote
-23,,<music21.note.Note C->,note,busoni514,0.5,135.5,GeneralNote
-23,,<music21.articulations.Staccato>,staccato,busoni515,0.0,0.0,Articulation
-23,,<music21.note.Note C->,note,busoni516,2.0,136.0,GeneralNote
-23,,<music21.chord.Chord E-4 A-4>,note,busoni517,2.0,136.0,GeneralNote
-23,,<music21.note.Note A->,note,busoni518,1.5,136.0,GeneralNote
-23,,<music21.articulations.Staccato>,staccato,busoni519,0.0,0.0,Articulation
-23,,<music21.note.Note F>,note,busoni520,0.5,137.5,GeneralNote
-23,,<music21.articulations.Staccato>,staccato,busoni521,0.0,0.0,Articulation
-23,23,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note C->>,slur,busoni911,2.0,0.0,Slur
-23,23,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note F>>,slur,busoni912,2.0,0.0,Slur
-23,,<music21.expressions.TextExpression 'più'>,più,busoni1005,0.0,133.5,TextExpression
-23,,<music21.expressions.TextExpression 'dim.'>,dim.,busoni1006,0.0,133.75,TextExpression
-24,,<music21.note.Note C->,note,busoni522,1.5,138.0,GeneralNote
-24,,<music21.chord.Chord F4 A-4>,note,busoni523,1.5,138.0,GeneralNote
-24,,<music21.chord.Chord F3 A-3>,note,busoni524,2.0,138.0,GeneralNote
-24,,<music21.note.Note D>,note,busoni525,2.0,138.0,GeneralNote
-24,,<music21.note.Rest dotted-whole>,note,busoni526,6.0,138.0,GeneralNote
-24,,<music21.note.Note B->,note,busoni527,0.25,139.5,GeneralNote
-24,,<music21.note.Rest eighth>,note,busoni528,0.5,139.5,GeneralNote
-24,,<music21.note.Rest eighth>,note,busoni529,0.5,139.5,GeneralNote
-24,,<music21.note.Note A->,note,busoni530,0.25,139.75,GeneralNote
-24,,<music21.note.Note F>,note,busoni531,1.5,140.0,GeneralNote
-24,,<music21.note.Rest half>,note,busoni532,2.0,140.0,GeneralNote
-24,,<music21.note.Rest half>,note,busoni533,2.0,140.0,GeneralNote
-24,,<music21.chord.Chord F3 B-3>,note,busoni534,2.0,140.0,GeneralNote
-24,,<music21.note.Note D>,note,busoni535,2.0,140.0,GeneralNote
-24,,<music21.note.Note C->,note,busoni536,0.5,141.5,GeneralNote
-24,,<music21.note.Note B->,note,busoni537,1.5,142.0,GeneralNote
-24,,<music21.note.Rest half>,note,busoni538,2.0,142.0,GeneralNote
-24,,<music21.note.Rest half>,note,busoni539,2.0,142.0,GeneralNote
-24,,<music21.chord.Chord F3 B-3>,note,busoni540,2.0,142.0,GeneralNote
-24,,<music21.note.Note D>,note,busoni541,2.0,142.0,GeneralNote
-24,,<music21.note.Note A->,note,busoni542,0.0,143.5,GeneralNote
-24,,<music21.note.Note B->,note,busoni543,0.0,143.5,GeneralNote
-24,,<music21.note.Note C->,note,busoni544,0.25,143.5,GeneralNote
-24,,<music21.articulations.Staccato>,staccato,busoni545,0.0,0.0,Articulation
-24,,<music21.note.Note A->,note,busoni546,0.25,143.75,GeneralNote
-24,,<music21.articulations.Staccato>,staccato,busoni547,0.0,0.0,Articulation
-24,24,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A->>,slur,busoni913,1.75,0.0,Slur
-24,,<music21.expressions.TextExpression 'dolce'>,dolce,busoni1007,0.0,138.0,TextExpression
-25,,<music21.note.Note G->,note,busoni548,2.0,144.0,GeneralNote
-25,,<music21.articulations.Tenuto>,tenuto,busoni549,0.0,0.0,Articulation
-25,,<music21.note.Note E->,note,busoni550,2.0,144.0,GeneralNote
-25,,<music21.note.Rest half>,note,busoni551,2.0,144.0,GeneralNote
-25,,<music21.note.Rest whole>,note,busoni552,4.0,144.0,GeneralNote
-25,,<music21.chord.Chord E-3 G-3 B-3>,note,busoni553,2.0,144.0,GeneralNote
-25,,<music21.note.Rest half>,note,busoni554,2.0,144.0,GeneralNote
-25,,<music21.note.Rest whole>,note,busoni555,4.0,144.0,GeneralNote
-25,,<music21.note.Rest dotted-whole>,note,busoni556,6.0,144.0,GeneralNote
-25,,<music21.note.Note G->,note,busoni557,0.25,146.0,GeneralNote
-25,,<music21.articulations.Tenuto>,tenuto,busoni558,0.0,0.0,Articulation
-25,,<music21.note.Rest half>,note,busoni559,2.0,146.0,GeneralNote
-25,,<music21.note.Rest half>,note,busoni560,2.0,146.0,GeneralNote
-25,,<music21.note.Rest half>,note,busoni561,2.0,146.0,GeneralNote
-25,,<music21.chord.Chord E-3 G-3 B-3>,note,busoni562,2.0,146.0,GeneralNote
-25,,<music21.note.Rest half>,note,busoni563,2.0,146.0,GeneralNote
-25,,<music21.note.Note E->,note,busoni564,0.25,146.25,GeneralNote
-25,,<music21.note.Note F>,note,busoni565,0.25,146.5,GeneralNote
-25,,<music21.note.Note G->,note,busoni566,0.25,146.75,GeneralNote
-25,,<music21.note.Note A->,note,busoni567,0.25,147.0,GeneralNote
-25,,<music21.note.Note B->,note,busoni568,0.25,147.25,GeneralNote
-25,,<music21.note.Note C>,note,busoni569,0.25,147.5,GeneralNote
-25,,<music21.note.Note D>,note,busoni570,0.25,147.75,GeneralNote
-25,,<music21.note.Note E->,note,busoni571,0.25,148.0,GeneralNote
-25,,<music21.note.Rest half>,note,busoni572,2.0,148.0,GeneralNote
-25,,<music21.note.Rest half>,note,busoni573,2.0,148.0,GeneralNote
-25,,<music21.chord.Chord E-3 B-3>,note,busoni574,2.0,148.0,GeneralNote
-25,,<music21.note.Note G->,note,busoni575,2.0,148.0,GeneralNote
-25,,<music21.note.Note F>,note,busoni576,0.25,148.25,GeneralNote
-25,,<music21.note.Note G->,note,busoni577,0.25,148.5,GeneralNote
-25,,<music21.note.Note A->,note,busoni578,0.25,148.75,GeneralNote
-25,,<music21.note.Note G->,note,busoni579,0.25,149.0,GeneralNote
-25,,<music21.note.Note F>,note,busoni580,0.25,149.25,GeneralNote
-25,,<music21.note.Note G->,note,busoni581,0.25,149.5,GeneralNote
-25,,<music21.note.Note E->,note,busoni582,0.25,149.75,GeneralNote
-25,,<music21.dynamics.Dynamic pp>,pp,busoni935,,,DynamicPoint
-25,,<music21.dynamics.Dynamic p>,p,busoni936,,,DynamicPoint
-25,,<music21.dynamics.Dynamic mf>,mf,busoni937,,,DynamicPoint
-25,28,<music21.dynamics.Crescendo <music21.note.Note E-><music21.note.Note B->>,diminuendo,busoni968,,,DynamicRegion
-25,,<music21.expressions.TextExpression 'cresc.'>,cresc.,busoni1008,0.0,146.0,TextExpression
-25,,<music21.expressions.TextExpression 'subito'>,subito,busoni1009,0.0,146.25,TextExpression
-26,,<music21.note.Note F->,note,busoni583,1.5,150.0,GeneralNote
-26,,<music21.articulations.Accent>,accent,busoni584,0.0,0.0,Articulation
-26,,<music21.chord.Chord F-4 A-4 C-5>,note,busoni585,1.5,150.0,GeneralNote
+21,,<music21.articulations.Fingering 1>,fingering,busoni469,0.0,0.0,Fingering
+21,,<music21.note.Note B->,note,busoni470,1.5,122.0,GeneralNote
+21,,<music21.articulations.Fingering 5>,fingering,busoni471,0.0,0.0,Fingering
+21,,<music21.note.Note E->,note,busoni472,0.25,123.5,GeneralNote
+21,,<music21.articulations.Fingering 3>,fingering,busoni473,0.0,0.0,Fingering
+21,,<music21.note.Note A->,note,busoni474,0.5,123.5,GeneralNote
+21,,<music21.note.Note F>,note,busoni475,0.25,123.75,GeneralNote
+21,,<music21.articulations.Fingering 5>,fingering,busoni476,0.0,0.0,Fingering
+21,,<music21.note.Note B->,note,busoni477,1.5,124.0,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,busoni478,0.0,0.0,Fingering
+21,,<music21.note.Note D>,note,busoni479,1.5,124.0,GeneralNote
+21,,<music21.note.Note C>,note,busoni480,0.25,125.5,GeneralNote
+21,,<music21.articulations.Fingering 3>,fingering,busoni481,0.0,0.0,Fingering
+21,,<music21.note.Note E->,note,busoni482,0.25,125.5,GeneralNote
+21,,<music21.note.Note D>,note,busoni483,0.25,125.75,GeneralNote
+21,,<music21.articulations.Fingering 4>,fingering,busoni484,0.0,0.0,Fingering
+21,,<music21.note.Note F>,note,busoni485,0.25,125.75,GeneralNote
+22,,<music21.note.Note E->,note,busoni486,1.5,126.0,GeneralNote
+22,,<music21.articulations.Fingering 5>,fingering,busoni487,0.0,0.0,Fingering
+22,,<music21.note.Rest half>,note,busoni488,2.0,126.0,GeneralNote
+22,,<music21.note.Rest whole>,note,busoni489,4.0,126.0,GeneralNote
+22,,<music21.note.Rest half>,note,busoni490,2.0,126.0,GeneralNote
+22,,<music21.note.Rest whole>,note,busoni491,4.0,126.0,GeneralNote
+22,,<music21.note.Note G->,note,busoni492,2.0,126.0,GeneralNote
+22,,<music21.note.Note D->,note,busoni493,0.25,127.5,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,busoni494,0.0,0.0,Articulation
+22,,<music21.note.Note C->,note,busoni495,0.25,127.75,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,busoni496,0.0,0.0,Articulation
+22,,<music21.note.Note D->,note,busoni497,2.0,128.0,GeneralNote
+22,,<music21.note.Rest half>,note,busoni498,2.0,128.0,GeneralNote
+22,,<music21.note.Rest half>,note,busoni499,2.0,128.0,GeneralNote
+22,,<music21.note.Note G>,note,busoni500,1.5,128.0,GeneralNote
+22,,<music21.note.Note B->,note,busoni501,0.5,129.5,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,busoni502,0.0,0.0,Articulation
+22,,<music21.note.Note D->,note,busoni503,2.0,130.0,GeneralNote
+22,,<music21.chord.Chord E-4 B-4>,note,busoni504,2.0,130.0,GeneralNote
+22,,<music21.note.Note G>,note,busoni505,1.5,130.0,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,busoni506,0.0,0.0,Articulation
+22,,<music21.note.Note E->,note,busoni507,0.5,131.5,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,busoni508,0.0,0.0,Articulation
+22,22,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,busoni907,1.75,0.0,Slur
+22,22,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note G>>,slur,busoni908,2.0,0.0,Slur
+22,22,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note E->>,slur,busoni909,2.0,0.0,Slur
+22,,<music21.dynamics.Dynamic fz>,fz,busoni933,,,DynamicPoint
+22,25,<music21.dynamics.Diminuendo <music21.note.Note G-><music21.note.Note E->>,diminuendo,busoni965,,,DynamicRegion
+22,,<music21.expressions.TextExpression 'dim.'>,dim.,busoni1000,0.0,126.0,TextExpression
+22,,<music21.expressions.TextExpression '(wie oben)'>,(wie oben),busoni1001,0.0,129.5,TextExpression
+23,,<music21.chord.Chord E-4 B-4 D-5>,note,busoni509,1.5,132.0,GeneralNote
+23,,<music21.articulations.Fingering 5>,fingering,busoni510,0.0,0.0,Fingering
+23,,<music21.note.Rest half>,note,busoni511,2.0,132.0,GeneralNote
+23,,<music21.note.Rest whole>,note,busoni512,4.0,132.0,GeneralNote
+23,,<music21.note.Rest half>,note,busoni513,2.0,132.0,GeneralNote
+23,,<music21.note.Rest whole>,note,busoni514,4.0,132.0,GeneralNote
+23,,<music21.note.Note A->,note,busoni515,2.0,132.0,GeneralNote
+23,,<music21.articulations.Tenuto>,tenuto,busoni516,0.0,0.0,Articulation
+23,,<music21.note.Note C->,note,busoni517,0.25,133.5,GeneralNote
+23,,<music21.note.Note B->,note,busoni518,0.25,133.75,GeneralNote
+23,,<music21.note.Note C->,note,busoni519,2.0,134.0,GeneralNote
+23,,<music21.note.Rest half>,note,busoni520,2.0,134.0,GeneralNote
+23,,<music21.note.Rest half>,note,busoni521,2.0,134.0,GeneralNote
+23,,<music21.note.Rest quarter>,note,busoni522,1.0,134.0,GeneralNote
+23,,<music21.note.Rest eighth>,note,busoni523,0.5,135.0,GeneralNote
+23,,<music21.note.Note C->,note,busoni524,0.5,135.5,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,busoni525,0.0,0.0,Articulation
+23,,<music21.note.Note C->,note,busoni526,2.0,136.0,GeneralNote
+23,,<music21.chord.Chord E-4 A-4>,note,busoni527,2.0,136.0,GeneralNote
+23,,<music21.note.Note A->,note,busoni528,1.5,136.0,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,busoni529,0.0,0.0,Articulation
+23,,<music21.note.Note F>,note,busoni530,0.5,137.5,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,busoni531,0.0,0.0,Articulation
+23,23,<music21.spanner.Slur <music21.chord.Chord E-4 B-4 D-5><music21.note.Note C->>,slur,busoni910,2.0,0.0,Slur
+23,23,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note F>>,slur,busoni911,2.0,0.0,Slur
+23,,<music21.expressions.TextExpression 'più'>,più,busoni1002,0.0,133.5,TextExpression
+23,,<music21.expressions.TextExpression 'dim.'>,dim.,busoni1003,0.0,133.75,TextExpression
+24,,<music21.chord.Chord F4 A-4 C-5>,note,busoni532,1.5,138.0,GeneralNote
+24,,<music21.chord.Chord D3 F3 A-3>,note,busoni533,2.0,138.0,GeneralNote
+24,,<music21.note.Note B->,note,busoni534,0.25,139.5,GeneralNote
+24,,<music21.note.Note A->,note,busoni535,0.25,139.75,GeneralNote
+24,,<music21.note.Note F>,note,busoni536,1.5,140.0,GeneralNote
+24,,<music21.chord.Chord D3 F3 B-3>,note,busoni537,2.0,140.0,GeneralNote
+24,,<music21.note.Note C->,note,busoni538,0.5,141.5,GeneralNote
+24,,<music21.note.Note B->,note,busoni539,1.5,142.0,GeneralNote
+24,,<music21.chord.Chord D3 F3 B-3>,note,busoni540,2.0,142.0,GeneralNote
+24,,<music21.note.Note A->,note,busoni541,0.0,143.5,GeneralNote
+24,,<music21.note.Note B->,note,busoni542,0.0,143.5,GeneralNote
+24,,<music21.note.Note C->,note,busoni543,0.25,143.5,GeneralNote
+24,,<music21.articulations.Staccato>,staccato,busoni544,0.0,0.0,Articulation
+24,,<music21.note.Note A->,note,busoni545,0.25,143.75,GeneralNote
+24,,<music21.articulations.Staccato>,staccato,busoni546,0.0,0.0,Articulation
+24,24,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A->>,slur,busoni912,1.75,0.0,Slur
+24,,<music21.expressions.TextExpression 'dolce'>,dolce,busoni1004,0.0,138.0,TextExpression
+25,,<music21.chord.Chord E-4 G-4>,note,busoni547,2.0,144.0,GeneralNote
+25,,<music21.articulations.Tenuto>,tenuto,busoni548,0.0,0.0,Articulation
+25,,<music21.chord.Chord E-3 G-3 B-3>,note,busoni549,2.0,144.0,GeneralNote
+25,,<music21.note.Note G->,note,busoni550,0.25,146.0,GeneralNote
+25,,<music21.articulations.Tenuto>,tenuto,busoni551,0.0,0.0,Articulation
+25,,<music21.chord.Chord E-3 G-3 B-3>,note,busoni552,2.0,146.0,GeneralNote
+25,,<music21.note.Note E->,note,busoni553,0.25,146.25,GeneralNote
+25,,<music21.articulations.Fingering 2>,fingering,busoni554,0.0,0.0,Fingering
+25,,<music21.note.Note F>,note,busoni555,0.25,146.5,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,busoni556,0.0,0.0,Fingering
+25,,<music21.note.Note G->,note,busoni557,0.25,146.75,GeneralNote
+25,,<music21.note.Note A->,note,busoni558,0.25,147.0,GeneralNote
+25,,<music21.note.Note B->,note,busoni559,0.25,147.25,GeneralNote
+25,,<music21.note.Note C>,note,busoni560,0.25,147.5,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,busoni561,0.0,0.0,Fingering
+25,,<music21.note.Note D>,note,busoni562,0.25,147.75,GeneralNote
+25,,<music21.note.Note E->,note,busoni563,0.25,148.0,GeneralNote
+25,,<music21.articulations.Fingering 3>,fingering,busoni564,0.0,0.0,Fingering
+25,,<music21.chord.Chord E-3 G-3 B-3>,note,busoni565,2.0,148.0,GeneralNote
+25,,<music21.note.Note F>,note,busoni566,0.25,148.25,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,busoni567,0.0,0.0,Fingering
+25,,<music21.note.Note G->,note,busoni568,0.25,148.5,GeneralNote
+25,,<music21.articulations.Fingering 3>,fingering,busoni569,0.0,0.0,Fingering
+25,,<music21.note.Note A->,note,busoni570,0.25,148.75,GeneralNote
+25,,<music21.articulations.Fingering 4>,fingering,busoni571,0.0,0.0,Fingering
+25,,<music21.note.Note G->,note,busoni572,0.25,149.0,GeneralNote
+25,,<music21.articulations.Fingering 3>,fingering,busoni573,0.0,0.0,Fingering
+25,,<music21.note.Note F>,note,busoni574,0.25,149.25,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,busoni575,0.0,0.0,Fingering
+25,,<music21.note.Note G->,note,busoni576,0.25,149.5,GeneralNote
+25,,<music21.articulations.Fingering 4>,fingering,busoni577,0.0,0.0,Fingering
+25,,<music21.note.Note E->,note,busoni578,0.25,149.75,GeneralNote
+25,,<music21.articulations.Fingering 2>,fingering,busoni579,0.0,0.0,Fingering
+25,,<music21.dynamics.Dynamic pp>,pp,busoni934,,,DynamicPoint
+25,,<music21.dynamics.Dynamic p>,p,busoni935,,,DynamicPoint
+25,,<music21.dynamics.Dynamic mf>,mf,busoni936,,,DynamicPoint
+25,28,<music21.dynamics.Crescendo <music21.note.Note E-><music21.note.Note B->>,diminuendo,busoni967,,,DynamicRegion
+25,,<music21.expressions.TextExpression 'cresc.'>,cresc.,busoni1005,0.0,146.0,TextExpression
+25,,<music21.expressions.TextExpression 'subito'>,subito,busoni1006,0.0,146.25,TextExpression
+26,,<music21.chord.Chord F-4 A-4 C-5 F-5>,note,busoni580,1.5,150.0,GeneralNote
+26,,<music21.articulations.Accent>,accent,busoni581,0.0,0.0,Articulation
+26,,<music21.note.Rest half>,note,busoni582,2.0,150.0,GeneralNote
+26,,<music21.note.Rest half>,note,busoni583,2.0,150.0,GeneralNote
+26,,<music21.chord.Chord A-2 C-3 F-3 A-3>,note,busoni584,2.0,150.0,GeneralNote
+26,,<music21.note.Rest half>,note,busoni585,2.0,150.0,GeneralNote
 26,,<music21.note.Rest half>,note,busoni586,2.0,150.0,GeneralNote
-26,,<music21.note.Rest half>,note,busoni587,2.0,150.0,GeneralNote
-26,,<music21.chord.Chord A-2 C-3 F-3 A-3>,note,busoni588,2.0,150.0,GeneralNote
-26,,<music21.note.Rest half>,note,busoni589,2.0,150.0,GeneralNote
-26,,<music21.note.Rest half>,note,busoni590,2.0,150.0,GeneralNote
-26,,<music21.note.Rest dotted-whole>,note,busoni591,6.0,150.0,GeneralNote
-26,,<music21.note.Note C->,note,busoni592,0.25,151.5,GeneralNote
-26,,<music21.note.Rest eighth>,note,busoni593,0.5,151.5,GeneralNote
-26,,<music21.note.Rest eighth>,note,busoni594,0.5,151.5,GeneralNote
-26,,<music21.note.Note B-->,note,busoni595,0.25,151.75,GeneralNote
-26,,<music21.note.Note A->,note,busoni596,1.5,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,busoni597,2.0,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,busoni598,2.0,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,busoni599,2.0,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,busoni600,2.0,152.0,GeneralNote
-26,,<music21.note.Note B-->,note,busoni601,0.25,153.5,GeneralNote
-26,,<music21.note.Note C->,note,busoni602,0.25,153.75,GeneralNote
-26,,<music21.note.Note F->,note,busoni603,1.5,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,busoni604,2.0,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,busoni605,2.0,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,busoni606,2.0,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,busoni607,2.0,154.0,GeneralNote
-26,,<music21.note.Note G->,note,busoni608,0.25,155.5,GeneralNote
-26,,<music21.note.Note A->,note,busoni609,0.25,155.75,GeneralNote
+26,,<music21.note.Note C->,note,busoni587,0.25,151.5,GeneralNote
+26,,<music21.articulations.Fingering 3>,fingering,busoni588,0.0,0.0,Fingering
+26,,<music21.note.Note B-->,note,busoni589,0.25,151.75,GeneralNote
+26,,<music21.articulations.Fingering 1>,fingering,busoni590,0.0,0.0,Fingering
+26,,<music21.note.Note A->,note,busoni591,1.5,152.0,GeneralNote
+26,,<music21.articulations.Fingering 2>,fingering,busoni592,0.0,0.0,Fingering
+26,,<music21.note.Rest half>,note,busoni593,2.0,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,busoni594,2.0,152.0,GeneralNote
+26,,<music21.note.Note B-->,note,busoni595,0.25,153.5,GeneralNote
+26,,<music21.note.Note C->,note,busoni596,0.25,153.75,GeneralNote
+26,,<music21.note.Note F->,note,busoni597,1.5,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,busoni598,2.0,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,busoni599,2.0,154.0,GeneralNote
+26,,<music21.note.Note G->,note,busoni600,0.25,155.5,GeneralNote
+26,,<music21.note.Note A->,note,busoni601,0.25,155.75,GeneralNote
+26,,<music21.dynamics.Dynamic f>,f,busoni937,,,DynamicPoint
 26,,<music21.dynamics.Dynamic f>,f,busoni938,,,DynamicPoint
-26,,<music21.dynamics.Dynamic f>,f,busoni939,,,DynamicPoint
-26,,<music21.expressions.TextExpression 'drammatico'>,drammatico,busoni1010,0.0,150.0,TextExpression
-27,,<music21.note.Note D>,note,busoni610,1.5,156.0,GeneralNote
-27,,<music21.note.Rest half>,note,busoni611,2.0,156.0,GeneralNote
-27,,<music21.note.Rest half>,note,busoni612,2.0,156.0,GeneralNote
-27,,<music21.chord.Chord A-2 F3 B-3>,note,busoni613,2.0,156.0,GeneralNote
-27,,<music21.note.Rest half>,note,busoni614,2.0,156.0,GeneralNote
-27,,<music21.note.Rest half>,note,busoni615,2.0,156.0,GeneralNote
-27,,<music21.note.Rest dotted-whole>,note,busoni616,6.0,156.0,GeneralNote
-27,,<music21.note.Note F>,note,busoni617,0.25,157.5,GeneralNote
-27,,<music21.note.Note A->,note,busoni618,0.25,157.75,GeneralNote
-27,,<music21.note.Note C->,note,busoni619,1.5,158.0,GeneralNote
-27,,<music21.note.Rest half>,note,busoni620,2.0,158.0,GeneralNote
-27,,<music21.note.Rest half>,note,busoni621,2.0,158.0,GeneralNote
-27,,<music21.note.Note B->,note,busoni622,0.25,159.5,GeneralNote
-27,,<music21.note.Note A->,note,busoni623,0.25,159.75,GeneralNote
-27,,<music21.note.Note F>,note,busoni624,1.5,160.0,GeneralNote
-27,,<music21.note.Rest half>,note,busoni625,2.0,160.0,GeneralNote
-27,,<music21.note.Rest half>,note,busoni626,2.0,160.0,GeneralNote
-27,,<music21.note.Note E->,note,busoni627,0.25,161.5,GeneralNote
-27,,<music21.note.Note D>,note,busoni628,0.25,161.75,GeneralNote
-27,,<music21.expressions.TextExpression 'appassionato'>,appassionato,busoni1011,0.0,156.0,TextExpression
-27,,<music21.expressions.TextExpression 'rit.'>,rit.,busoni1012,0.0,158.0,TextExpression
-28,,<music21.note.Note C->,note,busoni629,0.5,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,busoni630,2.0,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,busoni631,2.0,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,busoni632,2.0,162.0,GeneralNote
-28,,<music21.note.Rest dotted-whole>,note,busoni633,6.0,162.0,GeneralNote
-28,,<music21.note.Note A>,note,busoni634,1.0,162.5,GeneralNote
-28,,<music21.articulations.Accent>,accent,busoni635,0.0,0.0,Articulation
-28,,<music21.note.Note B->,note,busoni636,0.5,163.5,GeneralNote
-28,,<music21.note.Note E->,note,busoni637,2.0,164.0,GeneralNote
-28,,<music21.chord.Chord G-4 B-4>,note,busoni638,2.0,164.0,GeneralNote
-28,,<music21.chord.Chord E-3 G-3 B-3>,note,busoni639,2.0,164.0,GeneralNote
-28,,<music21.note.Note B->,note,busoni640,2.0,164.0,GeneralNote
-28,,<music21.note.Note D>,note,busoni641,1.5,166.0,GeneralNote
-28,,<music21.chord.Chord F4 B-4>,note,busoni642,2.0,166.0,GeneralNote
-28,,<music21.chord.Chord F3 A-3 B-3>,note,busoni643,2.0,166.0,GeneralNote
-28,,<music21.note.Note B->,note,busoni644,2.0,166.0,GeneralNote
-28,,<music21.note.Note E->,note,busoni645,0.5,167.5,GeneralNote
-28,28,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A>>,slur,busoni914,0.5,0.0,Slur
-28,,<music21.dynamics.Dynamic ff>,ff,busoni940,,,DynamicPoint
-28,28,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note E->>,diminuendo,busoni970,,,DynamicRegion
-28,29,<music21.dynamics.Diminuendo <music21.note.Note D><music21.chord.Chord E-4 B-4>>,diminuendo,busoni972,,,DynamicRegion
-29,,<music21.note.Note E->,note,busoni646,6.0,168.0,GeneralNote
-29,,<music21.chord.Chord E-4 B-4>,note,busoni647,1.0,168.0,GeneralNote
-29,,<music21.note.Note E->,note,busoni648,2.0,168.0,GeneralNote
-29,,<music21.note.Note C->,note,busoni649,2.0,168.0,GeneralNote
-29,,<music21.note.Rest dotted-whole>,note,busoni650,6.0,168.0,GeneralNote
-29,,<music21.chord.Chord E-4 B-4>,note,busoni651,0.25,169.0,GeneralNote
-29,,<music21.note.Note A->,note,busoni652,0.25,169.25,GeneralNote
-29,,<music21.note.Note G>,note,busoni653,0.25,169.5,GeneralNote
-29,,<music21.note.Note A->,note,busoni654,0.25,169.75,GeneralNote
-29,,<music21.note.Note A->,note,busoni655,2.0,170.0,GeneralNote
-29,,<music21.note.Note E->,note,busoni656,2.0,170.0,GeneralNote
-29,,<music21.note.Note C->,note,busoni657,2.0,170.0,GeneralNote
-29,,<music21.note.Note A->,note,busoni658,1.5,172.0,GeneralNote
-29,,<music21.note.Note E->,note,busoni659,2.0,172.0,GeneralNote
-29,,<music21.note.Note C->,note,busoni660,2.0,172.0,GeneralNote
-29,,<music21.note.Note G>,note,busoni661,0.25,173.5,GeneralNote
-29,,<music21.note.Note A->,note,busoni662,0.25,173.75,GeneralNote
-29,,<music21.dynamics.Dynamic fz>,fz,busoni941,,,DynamicPoint
+26,,<music21.expressions.TextExpression 'drammatico'>,drammatico,busoni1007,0.0,150.0,TextExpression
+27,,<music21.note.Note D>,note,busoni602,1.5,156.0,GeneralNote
+27,,<music21.note.Rest half>,note,busoni603,2.0,156.0,GeneralNote
+27,,<music21.note.Rest half>,note,busoni604,2.0,156.0,GeneralNote
+27,,<music21.chord.Chord A-2 F3 B-3>,note,busoni605,2.0,156.0,GeneralNote
+27,,<music21.note.Rest half>,note,busoni606,2.0,156.0,GeneralNote
+27,,<music21.note.Rest half>,note,busoni607,2.0,156.0,GeneralNote
+27,,<music21.note.Note F>,note,busoni608,0.25,157.5,GeneralNote
+27,,<music21.note.Note A->,note,busoni609,0.25,157.75,GeneralNote
+27,,<music21.note.Note C->,note,busoni610,1.5,158.0,GeneralNote
+27,,<music21.note.Rest half>,note,busoni611,2.0,158.0,GeneralNote
+27,,<music21.note.Rest half>,note,busoni612,2.0,158.0,GeneralNote
+27,,<music21.note.Note B->,note,busoni613,0.25,159.5,GeneralNote
+27,,<music21.articulations.Fingering 3>,fingering,busoni614,0.0,0.0,Fingering
+27,,<music21.note.Note A->,note,busoni615,0.25,159.75,GeneralNote
+27,,<music21.articulations.Fingering 2>,fingering,busoni616,0.0,0.0,Fingering
+27,,<music21.note.Note F>,note,busoni617,1.5,160.0,GeneralNote
+27,,<music21.articulations.Fingering 5>,fingering,busoni618,0.0,0.0,Fingering
+27,,<music21.note.Rest half>,note,busoni619,2.0,160.0,GeneralNote
+27,,<music21.note.Rest half>,note,busoni620,2.0,160.0,GeneralNote
+27,,<music21.note.Note E->,note,busoni621,0.25,161.5,GeneralNote
+27,,<music21.articulations.Fingering 3>,fingering,busoni622,0.0,0.0,Fingering
+27,,<music21.note.Note D>,note,busoni623,0.25,161.75,GeneralNote
+27,,<music21.articulations.Fingering 1>,fingering,busoni624,0.0,0.0,Fingering
+27,,<music21.expressions.TextExpression 'appassionato'>,appassionato,busoni1008,0.0,156.0,TextExpression
+27,,<music21.expressions.TextExpression 'ritenuto'>,ritenuto,busoni1009,0.0,158.0,TextExpression
+28,,<music21.note.Note C->,note,busoni625,0.5,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,busoni626,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,busoni627,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,busoni628,2.0,162.0,GeneralNote
+28,,<music21.note.Note A>,note,busoni629,1.0,162.5,GeneralNote
+28,,<music21.articulations.Accent>,accent,busoni630,0.0,0.0,Articulation
+28,,<music21.note.Note B->,note,busoni631,0.5,163.5,GeneralNote
+28,,<music21.note.Note E->,note,busoni632,2.0,164.0,GeneralNote
+28,,<music21.chord.Chord G-4 B-4>,note,busoni633,2.0,164.0,GeneralNote
+28,,<music21.note.Rest half>,note,busoni634,2.0,164.0,GeneralNote
+28,,<music21.chord.Chord B-2 E-3 G-3 B-3>,note,busoni635,2.0,164.0,GeneralNote
+28,,<music21.note.Rest half>,note,busoni636,2.0,164.0,GeneralNote
+28,,<music21.note.Note D>,note,busoni637,1.5,166.0,GeneralNote
+28,,<music21.chord.Chord F4 B-4>,note,busoni638,2.0,166.0,GeneralNote
+28,,<music21.note.Rest half>,note,busoni639,2.0,166.0,GeneralNote
+28,,<music21.chord.Chord B-2 F3 A-3 B-3>,note,busoni640,2.0,166.0,GeneralNote
+28,,<music21.note.Rest half>,note,busoni641,2.0,166.0,GeneralNote
+28,,<music21.note.Note E->,note,busoni642,0.5,167.5,GeneralNote
+28,28,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A>>,slur,busoni913,0.5,0.0,Slur
+28,,<music21.dynamics.Dynamic ff>,ff,busoni939,,,DynamicPoint
+28,28,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note E->>,diminuendo,busoni969,,,DynamicRegion
+29,,<music21.note.Note E->,note,busoni643,6.0,168.0,GeneralNote
+29,,<music21.chord.Chord E-4 B-4>,note,busoni644,1.5,168.0,GeneralNote
+29,,<music21.chord.Chord C-3 C-4>,note,busoni645,2.0,168.0,GeneralNote
+29,,<music21.note.Note A->,note,busoni646,1/6,169.5,GeneralNote
+29,,<music21.note.Note G>,note,busoni647,1/6,509/3,GeneralNote
+29,,<music21.note.Note A->,note,busoni648,1/6,1019/6,GeneralNote
+29,,<music21.note.Note A->,note,busoni649,2.0,170.0,GeneralNote
+29,,<music21.articulations.Fingering 13231323>,fingering,busoni650,0.0,0.0,Fingering
+29,,<music21.chord.Chord C-4 E-4>,note,busoni651,2.0,170.0,GeneralNote
+29,,<music21.note.Note A->,note,busoni652,1.5,172.0,GeneralNote
+29,,<music21.chord.Chord C-4 E-4>,note,busoni653,2.0,172.0,GeneralNote
+29,,<music21.note.Note G>,note,busoni654,0.25,173.5,GeneralNote
+29,,<music21.note.Note A->,note,busoni655,0.25,173.75,GeneralNote
+29,,<music21.dynamics.Dynamic fz>,fz,busoni940,,,DynamicPoint
+29,,<music21.dynamics.Dynamic p>,p,busoni941,,,DynamicPoint
 29,,<music21.dynamics.Dynamic p>,p,busoni942,,,DynamicPoint
-29,,<music21.dynamics.Dynamic p>,p,busoni943,,,DynamicPoint
-29,29,<music21.dynamics.Diminuendo <music21.note.Note E-><music21.note.Note E->>,diminuendo,busoni974,,,DynamicRegion
-29,34,<music21.dynamics.Diminuendo <music21.note.Note E-><music21.note.Note C->>,diminuendo,busoni976,,,DynamicRegion
-29,,<music21.expressions.TextExpression 'ten.'>,ten.,busoni1013,0.0,168.0,TextExpression
-29,,<music21.expressions.TextExpression 'una'>,una,busoni1014,0.0,168.0,TextExpression
-29,,<music21.expressions.TextExpression 'corda'>,corda,busoni1015,0.0,168.0,TextExpression
-30,,<music21.note.Note E->,note,busoni663,2.0,174.0,GeneralNote
-30,,<music21.note.Note B->,note,busoni664,6.0,174.0,GeneralNote
-30,,<music21.chord.Chord B-3 E-4>,note,busoni665,2.0,174.0,GeneralNote
-30,,<music21.note.Note G>,note,busoni666,2.0,174.0,GeneralNote
-30,,<music21.note.Rest dotted-whole>,note,busoni667,6.0,174.0,GeneralNote
-30,,<music21.note.Note E->,note,busoni668,1.0,176.0,GeneralNote
-30,,<music21.chord.Chord B-3 E-4>,note,busoni669,2.0,176.0,GeneralNote
-30,,<music21.note.Note G>,note,busoni670,2.0,176.0,GeneralNote
-30,,<music21.note.Note E->,note,busoni671,0.25,177.0,GeneralNote
-30,,<music21.note.Note E->,note,busoni672,0.25,177.25,GeneralNote
-30,,<music21.note.Note D->,note,busoni673,0.25,177.5,GeneralNote
-30,,<music21.note.Note C->,note,busoni674,0.25,177.75,GeneralNote
-30,,<music21.note.Note D->,note,busoni675,1.5,178.0,GeneralNote
-30,,<music21.chord.Chord B-3 E-4>,note,busoni676,2.0,178.0,GeneralNote
-30,,<music21.note.Note G>,note,busoni677,2.0,178.0,GeneralNote
-30,,<music21.note.Note B->,note,busoni678,0.5,179.5,GeneralNote
-30,30,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D->>,slur,busoni915,0.75,0.0,Slur
-30,,<music21.expressions.TextExpression 'espress.'>,espress.,busoni1016,0.0,177.0,TextExpression
-31,,<music21.note.Note C->,note,busoni679,2.0,180.0,GeneralNote
-31,,<music21.note.Note A->,note,busoni680,2.0,180.0,GeneralNote
-31,,<music21.note.Note E->,note,busoni681,2.0,180.0,GeneralNote
-31,,<music21.chord.Chord A-3 C-4>,note,busoni682,2.0,180.0,GeneralNote
-31,,<music21.articulations.Staccato>,staccato,busoni683,0.0,0.0,Articulation
-31,,<music21.note.Rest dotted-whole>,note,busoni684,6.0,180.0,GeneralNote
-31,,<music21.note.Note C->,note,busoni685,1.0,182.0,GeneralNote
-31,,<music21.note.Rest half>,note,busoni686,2.0,182.0,GeneralNote
-31,,<music21.note.Note E->,note,busoni687,1.0,182.0,GeneralNote
-31,,<music21.note.Rest half>,note,busoni688,2.0,182.0,GeneralNote
-31,,<music21.note.Note F->,note,busoni689,2.0,182.0,GeneralNote
-31,,<music21.articulations.Staccato>,staccato,busoni690,0.0,0.0,Articulation
-31,,<music21.note.Note C->,note,busoni691,0.25,183.0,GeneralNote
-31,,<music21.note.Note E->,note,busoni692,0.25,183.0,GeneralNote
-31,,<music21.note.Note C->,note,busoni693,0.25,183.25,GeneralNote
-31,,<music21.note.Note E->,note,busoni694,0.25,183.25,GeneralNote
-31,,<music21.note.Note B->,note,busoni695,0.25,183.5,GeneralNote
-31,,<music21.note.Note D->,note,busoni696,0.25,183.5,GeneralNote
-31,,<music21.note.Note A->,note,busoni697,0.25,183.75,GeneralNote
-31,,<music21.note.Note C->,note,busoni698,0.25,183.75,GeneralNote
-31,,<music21.note.Note B->,note,busoni699,1.5,184.0,GeneralNote
-31,,<music21.note.Rest half>,note,busoni700,2.0,184.0,GeneralNote
-31,,<music21.note.Rest half>,note,busoni701,2.0,184.0,GeneralNote
-31,,<music21.note.Note D->,note,busoni702,1.5,184.0,GeneralNote
-31,,<music21.note.Note F->,note,busoni703,2.0,184.0,GeneralNote
-31,,<music21.articulations.Staccato>,staccato,busoni704,0.0,0.0,Articulation
-31,,<music21.note.Note G>,note,busoni705,0.5,185.5,GeneralNote
-31,,<music21.note.Note B->,note,busoni706,0.5,185.5,GeneralNote
-31,31,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,slur,busoni916,0.75,0.0,Slur
-31,31,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D->>,slur,busoni917,0.75,0.0,Slur
-31,31,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note F->>,slur,busoni918,2.0,0.0,Slur
-32,,<music21.chord.Chord C-4 A-4>,note,busoni707,2.0,186.0,GeneralNote
-32,,<music21.articulations.Staccato>,staccato,busoni708,0.0,0.0,Articulation
-32,,<music21.articulations.Tenuto>,tenuto,busoni709,0.0,0.0,Articulation
-32,,<music21.note.Note D>,note,busoni710,2.0,186.0,GeneralNote
-32,,<music21.note.Note F>,note,busoni711,2.0,186.0,GeneralNote
-32,,<music21.articulations.Tenuto>,tenuto,busoni712,0.0,0.0,Articulation
-32,,<music21.note.Rest dotted-whole>,note,busoni713,6.0,186.0,GeneralNote
-32,,<music21.chord.Chord C-4 A-4>,note,busoni714,2.0,188.0,GeneralNote
-32,,<music21.articulations.Tenuto>,tenuto,busoni715,0.0,0.0,Articulation
-32,,<music21.note.Note D>,note,busoni716,2.0,188.0,GeneralNote
-32,,<music21.note.Note F>,note,busoni717,1.0,188.0,GeneralNote
-32,,<music21.note.Note F>,note,busoni718,0.25,189.0,GeneralNote
-32,,<music21.note.Note G->,note,busoni719,0.25,189.25,GeneralNote
-32,,<music21.note.Note F>,note,busoni720,0.25,189.5,GeneralNote
-32,,<music21.note.Note E->,note,busoni721,0.25,189.75,GeneralNote
-32,,<music21.chord.Chord C-4 A-4>,note,busoni722,2.0,190.0,GeneralNote
-32,,<music21.articulations.Tenuto>,tenuto,busoni723,0.0,0.0,Articulation
-32,,<music21.note.Note D>,note,busoni724,2.0,190.0,GeneralNote
-32,,<music21.note.Note F>,note,busoni725,0.75,190.0,GeneralNote
-32,,<music21.note.Note G->,note,busoni726,0.25,190.75,GeneralNote
-32,,<music21.note.Note A->,note,busoni727,0.25,191.0,GeneralNote
-32,,<music21.note.Note F>,note,busoni728,0.25,191.25,GeneralNote
-32,,<music21.note.Note G->,note,busoni729,0.25,191.5,GeneralNote
-32,,<music21.note.Note A->,note,busoni730,0.25,191.75,GeneralNote
-32,32,<music21.spanner.Slur <music21.chord.Chord C-4 A-4><music21.chord.Chord C-4 A-4>>,slur,busoni919,4.0,0.0,Slur
-32,32,<music21.spanner.Slur <music21.note.Note F><music21.note.Note A->>,slur,busoni920,5.75,0.0,Slur
-32,,<music21.dynamics.Dynamic pp>,pp,busoni944,,,DynamicPoint
-32,,<music21.expressions.TextExpression 'misterioso'>,misterioso,busoni1017,0.0,186.0,TextExpression
-33,,<music21.chord.Chord C-4 A-4>,note,busoni731,2.0,192.0,GeneralNote
-33,,<music21.note.Note F>,note,busoni732,2.0,192.0,GeneralNote
-33,,<music21.note.Note D>,note,busoni733,2.0,192.0,GeneralNote
-33,,<music21.note.Rest dotted-whole>,note,busoni734,6.0,192.0,GeneralNote
-33,,<music21.chord.Chord C-4 A-4>,note,busoni735,2.0,194.0,GeneralNote
-33,,<music21.note.Note F>,note,busoni736,2.0,194.0,GeneralNote
-33,,<music21.note.Note D>,note,busoni737,1.0,194.0,GeneralNote
-33,,<music21.note.Note D>,note,busoni738,0.25,195.0,GeneralNote
-33,,<music21.note.Note E->,note,busoni739,0.25,195.25,GeneralNote
-33,,<music21.note.Note D>,note,busoni740,0.25,195.5,GeneralNote
-33,,<music21.note.Note C>,note,busoni741,0.25,195.75,GeneralNote
-33,,<music21.chord.Chord C-4 A-4>,note,busoni742,2.0,196.0,GeneralNote
-33,,<music21.note.Note F>,note,busoni743,2.0,196.0,GeneralNote
-33,,<music21.note.Note D>,note,busoni744,0.75,196.0,GeneralNote
-33,,<music21.note.Note E->,note,busoni745,0.25,196.75,GeneralNote
-33,,<music21.note.Note F>,note,busoni746,0.25,197.0,GeneralNote
-33,,<music21.note.Note D>,note,busoni747,0.25,197.25,GeneralNote
-33,,<music21.note.Note E->,note,busoni748,0.25,197.5,GeneralNote
-33,,<music21.note.Note F>,note,busoni749,0.25,197.75,GeneralNote
-33,33,<music21.spanner.Slur <music21.note.Note D><music21.note.Note F>>,slur,busoni921,5.75,0.0,Slur
-34,,<music21.chord.Chord D4 A-4>,note,busoni750,2.0,198.0,GeneralNote
-34,,<music21.note.Note F>,note,busoni751,2.0,198.0,GeneralNote
-34,,<music21.note.Note C->,note,busoni752,2.0,198.0,GeneralNote
-34,,<music21.note.Rest dotted-whole>,note,busoni753,6.0,198.0,GeneralNote
-34,,<music21.chord.Chord D4 A-4>,note,busoni754,2.0,200.0,GeneralNote
-34,,<music21.note.Note F>,note,busoni755,2.0,200.0,GeneralNote
-34,,<music21.note.Note C->,note,busoni756,1.0,200.0,GeneralNote
-34,,<music21.note.Note C->,note,busoni757,0.25,201.0,GeneralNote
-34,,<music21.note.Note D->,note,busoni758,0.25,201.25,GeneralNote
-34,,<music21.note.Note C->,note,busoni759,0.25,201.5,GeneralNote
-34,,<music21.note.Note B->,note,busoni760,0.25,201.75,GeneralNote
-34,,<music21.chord.Chord D4 A-4>,note,busoni761,2.0,202.0,GeneralNote
-34,,<music21.note.Note F>,note,busoni762,2.0,202.0,GeneralNote
-34,,<music21.note.Note C->,note,busoni763,0.25,202.0,GeneralNote
-34,,<music21.note.Note B->,note,busoni764,0.25,202.25,GeneralNote
-34,,<music21.note.Note A->,note,busoni765,0.25,202.5,GeneralNote
-34,,<music21.note.Note B->,note,busoni766,0.25,202.75,GeneralNote
-34,,<music21.note.Note C->,note,busoni767,0.25,203.0,GeneralNote
-34,,<music21.note.Note A->,note,busoni768,0.25,203.25,GeneralNote
-34,,<music21.articulations.Tenuto>,tenuto,busoni769,0.0,0.0,Articulation
-34,,<music21.note.Note B->,note,busoni770,0.25,203.5,GeneralNote
-34,,<music21.articulations.Tenuto>,tenuto,busoni771,0.0,0.0,Articulation
-34,,<music21.note.Note C->,note,busoni772,0.25,203.75,GeneralNote
-34,,<music21.articulations.Tenuto>,tenuto,busoni773,0.0,0.0,Articulation
-34,34,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note C->>,slur,busoni922,2.75,0.0,Slur
-34,35,<music21.dynamics.Crescendo <music21.note.Note A-><music21.note.Note D>>,diminuendo,busoni978,,,DynamicRegion
-35,,<music21.note.Note C->,note,busoni774,2.0,204.0,GeneralNote
-35,,<music21.articulations.Accent>,accent,busoni775,0.0,0.0,Articulation
-35,,<music21.chord.Chord D4 F4 A-4>,note,busoni776,2.0,204.0,GeneralNote
-35,,<music21.note.Note D>,note,busoni777,2.0,204.0,GeneralNote
-35,,<music21.articulations.Tenuto>,tenuto,busoni778,0.0,0.0,Articulation
-35,,<music21.note.Rest dotted-whole>,note,busoni779,6.0,204.0,GeneralNote
-35,,<music21.note.Note C->,note,busoni780,0.25,206.0,GeneralNote
-35,,<music21.note.Rest half>,note,busoni781,2.0,206.0,GeneralNote
-35,,<music21.note.Rest half>,note,busoni782,2.0,206.0,GeneralNote
-35,,<music21.note.Rest half>,note,busoni783,2.0,206.0,GeneralNote
-35,,<music21.note.Note B->,note,busoni784,0.25,206.25,GeneralNote
-35,,<music21.note.Note A->,note,busoni785,0.25,206.5,GeneralNote
-35,,<music21.note.Note G->,note,busoni786,0.25,206.75,GeneralNote
-35,,<music21.note.Note F>,note,busoni787,0.25,207.0,GeneralNote
-35,,<music21.note.Note E->,note,busoni788,0.25,207.25,GeneralNote
-35,,<music21.note.Note D>,note,busoni789,0.25,207.5,GeneralNote
-35,,<music21.note.Note F>,note,busoni790,0.25,207.75,GeneralNote
-35,,<music21.note.Note A->,note,busoni791,0.25,208.0,GeneralNote
-35,,<music21.note.Rest half>,note,busoni792,2.0,208.0,GeneralNote
-35,,<music21.note.Rest half>,note,busoni793,2.0,208.0,GeneralNote
-35,,<music21.note.Rest half>,note,busoni794,2.0,208.0,GeneralNote
-35,,<music21.note.Note C->,note,busoni795,0.25,208.25,GeneralNote
-35,,<music21.note.Note D>,note,busoni796,0.25,208.5,GeneralNote
-35,,<music21.note.Note F>,note,busoni797,0.25,208.75,GeneralNote
-35,,<music21.note.Note A->,note,busoni798,0.25,209.0,GeneralNote
-35,,<music21.note.Note C->,note,busoni799,0.25,209.25,GeneralNote
-35,,<music21.note.Note B->,note,busoni800,0.25,209.5,GeneralNote
-35,,<music21.note.Note D>,note,busoni801,0.25,209.75,GeneralNote
-35,36,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note E->>,slur,busoni923,4.0,0.0,Slur
-35,36,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note B->>,diminuendo,busoni980,,,DynamicRegion
-35,,<music21.expressions.TextExpression '3 corde'>,3 corde,busoni1018,0.0,204.0,TextExpression
-36,,<music21.note.Note E->,note,busoni802,1.5,210.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,busoni803,1.0,210.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,busoni804,1.0,210.0,GeneralNote
-36,,<music21.note.Rest dotted-quarter>,note,busoni805,1.5,210.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,busoni806,1.0,210.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,busoni807,1.0,210.0,GeneralNote
-36,,<music21.note.Rest dotted-quarter>,note,busoni808,1.5,210.0,GeneralNote
-36,,<music21.note.Rest dotted-whole>,note,busoni809,6.0,210.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,busoni810,0.5,211.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,busoni811,0.5,211.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,busoni812,0.5,211.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,busoni813,0.5,211.0,GeneralNote
-36,,<music21.note.Note B->,note,busoni814,0.5,211.5,GeneralNote
-36,,<music21.note.Note G->,note,busoni815,0.5,211.5,GeneralNote
-36,,<music21.note.Note E->,note,busoni816,0.5,211.5,GeneralNote
-36,,<music21.note.Note E->,note,busoni817,0.5,211.5,GeneralNote
-36,,<music21.note.Note G->,note,busoni818,2.0,212.0,GeneralNote
-36,,<music21.note.Note E->,note,busoni819,2.0,212.0,GeneralNote
-36,,<music21.chord.Chord E-3 G-3>,note,busoni820,2.0,212.0,GeneralNote
-36,,<music21.note.Note B->,note,busoni821,2.0,212.0,GeneralNote
-36,,<music21.note.Note F>,note,busoni822,0.5,214.0,GeneralNote
+29,29,<music21.dynamics.Diminuendo <music21.chord.Chord C-3 C-4>>,diminuendo,busoni971,,,DynamicRegion
+29,,<music21.expressions.TextExpression 'ten.'>,ten.,busoni1010,0.0,168.0,TextExpression
+29,,<music21.expressions.TextExpression 'una'>,una,busoni1011,0.0,168.0,TextExpression
+29,,<music21.expressions.TextExpression 'corda'>,corda,busoni1012,0.0,168.0,TextExpression
+30,,<music21.note.Note E->,note,busoni656,2.0,174.0,GeneralNote
+30,,<music21.note.Note B->,note,busoni657,6.0,174.0,GeneralNote
+30,,<music21.chord.Chord G3 B-3 E-4>,note,busoni658,2.0,174.0,GeneralNote
+30,,<music21.note.Note E->,note,busoni659,1.0,176.0,GeneralNote
+30,,<music21.chord.Chord G3 B-3 E-4>,note,busoni660,2.0,176.0,GeneralNote
+30,,<music21.note.Note E->,note,busoni661,0.25,177.0,GeneralNote
+30,,<music21.note.Note E->,note,busoni662,0.25,177.25,GeneralNote
+30,,<music21.note.Note D->,note,busoni663,0.25,177.5,GeneralNote
+30,,<music21.note.Note C->,note,busoni664,0.25,177.75,GeneralNote
+30,,<music21.note.Note D->,note,busoni665,1.5,178.0,GeneralNote
+30,,<music21.chord.Chord G3 B-3 E-4>,note,busoni666,2.0,178.0,GeneralNote
+30,,<music21.note.Note B->,note,busoni667,0.5,179.5,GeneralNote
+30,30,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D->>,slur,busoni914,0.75,0.0,Slur
+30,,<music21.expressions.TextExpression 'espress.'>,espress.,busoni1013,0.0,177.0,TextExpression
+31,,<music21.note.Note C->,note,busoni668,2.0,180.0,GeneralNote
+31,,<music21.note.Note A->,note,busoni669,2.0,180.0,GeneralNote
+31,,<music21.note.Note E->,note,busoni670,2.0,180.0,GeneralNote
+31,,<music21.chord.Chord A-3 C-4>,note,busoni671,2.0,180.0,GeneralNote
+31,,<music21.articulations.Staccato>,staccato,busoni672,0.0,0.0,Articulation
+31,,<music21.note.Note C->,note,busoni673,1.0,182.0,GeneralNote
+31,,<music21.note.Rest half>,note,busoni674,2.0,182.0,GeneralNote
+31,,<music21.note.Note E->,note,busoni675,1.0,182.0,GeneralNote
+31,,<music21.note.Rest half>,note,busoni676,2.0,182.0,GeneralNote
+31,,<music21.note.Note F->,note,busoni677,2.0,182.0,GeneralNote
+31,,<music21.articulations.Staccato>,staccato,busoni678,0.0,0.0,Articulation
+31,,<music21.note.Note C->,note,busoni679,0.25,183.0,GeneralNote
+31,,<music21.note.Note E->,note,busoni680,0.25,183.0,GeneralNote
+31,,<music21.note.Note C->,note,busoni681,0.25,183.25,GeneralNote
+31,,<music21.note.Note E->,note,busoni682,0.25,183.25,GeneralNote
+31,,<music21.note.Note B->,note,busoni683,0.25,183.5,GeneralNote
+31,,<music21.note.Note D->,note,busoni684,0.25,183.5,GeneralNote
+31,,<music21.note.Note A->,note,busoni685,0.25,183.75,GeneralNote
+31,,<music21.note.Note C->,note,busoni686,0.25,183.75,GeneralNote
+31,,<music21.note.Note B->,note,busoni687,1.5,184.0,GeneralNote
+31,,<music21.articulations.Fingering 5>,fingering,busoni688,0.0,0.0,Fingering
+31,,<music21.note.Rest half>,note,busoni689,2.0,184.0,GeneralNote
+31,,<music21.note.Rest half>,note,busoni690,2.0,184.0,GeneralNote
+31,,<music21.note.Note D->,note,busoni691,1.5,184.0,GeneralNote
+31,,<music21.note.Note F->,note,busoni692,2.0,184.0,GeneralNote
+31,,<music21.articulations.Staccato>,staccato,busoni693,0.0,0.0,Articulation
+31,,<music21.note.Note G>,note,busoni694,0.5,185.5,GeneralNote
+31,,<music21.note.Note B->,note,busoni695,0.5,185.5,GeneralNote
+31,31,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,slur,busoni915,0.75,0.0,Slur
+31,31,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D->>,slur,busoni916,0.75,0.0,Slur
+31,31,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note F->>,slur,busoni917,2.0,0.0,Slur
+32,,<music21.chord.Chord C-4 D4 A-4>,note,busoni696,2.0,186.0,GeneralNote
+32,,<music21.articulations.Staccato>,staccato,busoni697,0.0,0.0,Articulation
+32,,<music21.articulations.Tenuto>,tenuto,busoni698,0.0,0.0,Articulation
+32,,<music21.note.Note F>,note,busoni699,2.0,186.0,GeneralNote
+32,,<music21.articulations.Fingering 3>,fingering,busoni700,0.0,0.0,Fingering
+32,,<music21.articulations.Tenuto>,tenuto,busoni701,0.0,0.0,Articulation
+32,,<music21.chord.Chord C-4 D4 A-4>,note,busoni702,2.0,188.0,GeneralNote
+32,,<music21.articulations.Tenuto>,tenuto,busoni703,0.0,0.0,Articulation
+32,,<music21.note.Note F>,note,busoni704,1.0,188.0,GeneralNote
+32,,<music21.note.Note F>,note,busoni705,0.25,189.0,GeneralNote
+32,,<music21.note.Note G->,note,busoni706,0.25,189.25,GeneralNote
+32,,<music21.note.Note F>,note,busoni707,0.25,189.5,GeneralNote
+32,,<music21.note.Note E->,note,busoni708,0.25,189.75,GeneralNote
+32,,<music21.chord.Chord C-4 D4 A-4>,note,busoni709,2.0,190.0,GeneralNote
+32,,<music21.articulations.Tenuto>,tenuto,busoni710,0.0,0.0,Articulation
+32,,<music21.note.Note F>,note,busoni711,0.75,190.0,GeneralNote
+32,,<music21.note.Note G->,note,busoni712,0.25,190.75,GeneralNote
+32,,<music21.note.Note A->,note,busoni713,0.25,191.0,GeneralNote
+32,,<music21.note.Note F>,note,busoni714,0.25,191.25,GeneralNote
+32,,<music21.note.Note G->,note,busoni715,0.25,191.5,GeneralNote
+32,,<music21.note.Note A->,note,busoni716,0.25,191.75,GeneralNote
+32,32,<music21.spanner.Slur <music21.chord.Chord C-4 D4 A-4><music21.chord.Chord C-4 D4 A-4>>,slur,busoni918,4.0,0.0,Slur
+32,32,<music21.spanner.Slur <music21.note.Note F><music21.note.Note A->>,slur,busoni919,5.75,0.0,Slur
+32,,<music21.dynamics.Dynamic pp>,pp,busoni943,,,DynamicPoint
+32,,<music21.expressions.TextExpression 'misterioso'>,misterioso,busoni1014,0.0,186.0,TextExpression
+33,,<music21.chord.Chord C-4 F4 A-4>,note,busoni717,2.0,192.0,GeneralNote
+33,,<music21.note.Note D>,note,busoni718,2.0,192.0,GeneralNote
+33,,<music21.chord.Chord C-4 F4 A-4>,note,busoni719,2.0,194.0,GeneralNote
+33,,<music21.note.Note D>,note,busoni720,1.0,194.0,GeneralNote
+33,,<music21.note.Note D>,note,busoni721,0.25,195.0,GeneralNote
+33,,<music21.note.Note E->,note,busoni722,0.25,195.25,GeneralNote
+33,,<music21.note.Note D>,note,busoni723,0.25,195.5,GeneralNote
+33,,<music21.note.Note C>,note,busoni724,0.25,195.75,GeneralNote
+33,,<music21.chord.Chord C-4 F4 A-4>,note,busoni725,2.0,196.0,GeneralNote
+33,,<music21.note.Note D>,note,busoni726,0.75,196.0,GeneralNote
+33,,<music21.note.Note E->,note,busoni727,0.25,196.75,GeneralNote
+33,,<music21.note.Note F>,note,busoni728,0.25,197.0,GeneralNote
+33,,<music21.note.Note D>,note,busoni729,0.25,197.25,GeneralNote
+33,,<music21.note.Note E->,note,busoni730,0.25,197.5,GeneralNote
+33,,<music21.note.Note F>,note,busoni731,0.25,197.75,GeneralNote
+33,33,<music21.spanner.Slur <music21.note.Note D><music21.note.Note F>>,slur,busoni920,5.75,0.0,Slur
+34,,<music21.chord.Chord D4 F4 A-4>,note,busoni732,2.0,198.0,GeneralNote
+34,,<music21.note.Note C->,note,busoni733,2.0,198.0,GeneralNote
+34,,<music21.articulations.Fingering 3>,fingering,busoni734,0.0,0.0,Fingering
+34,,<music21.chord.Chord D4 F4 A-4>,note,busoni735,2.0,200.0,GeneralNote
+34,,<music21.note.Note C->,note,busoni736,1.0,200.0,GeneralNote
+34,,<music21.note.Note C->,note,busoni737,0.25,201.0,GeneralNote
+34,,<music21.note.Note D->,note,busoni738,0.25,201.25,GeneralNote
+34,,<music21.note.Note C->,note,busoni739,0.25,201.5,GeneralNote
+34,,<music21.note.Note B->,note,busoni740,0.25,201.75,GeneralNote
+34,,<music21.chord.Chord D4 F4 A-4>,note,busoni741,2.0,202.0,GeneralNote
+34,,<music21.note.Note C->,note,busoni742,0.25,202.0,GeneralNote
+34,,<music21.note.Note B->,note,busoni743,0.25,202.25,GeneralNote
+34,,<music21.note.Note A->,note,busoni744,0.25,202.5,GeneralNote
+34,,<music21.note.Note B->,note,busoni745,0.25,202.75,GeneralNote
+34,,<music21.note.Note C->,note,busoni746,0.25,203.0,GeneralNote
+34,,<music21.note.Note A->,note,busoni747,0.25,203.25,GeneralNote
+34,,<music21.articulations.Tenuto>,tenuto,busoni748,0.0,0.0,Articulation
+34,,<music21.note.Note B->,note,busoni749,0.25,203.5,GeneralNote
+34,,<music21.articulations.Tenuto>,tenuto,busoni750,0.0,0.0,Articulation
+34,,<music21.note.Note C->,note,busoni751,0.25,203.75,GeneralNote
+34,,<music21.articulations.Tenuto>,tenuto,busoni752,0.0,0.0,Articulation
+34,34,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note C->>,slur,busoni921,2.75,0.0,Slur
+34,34,<music21.dynamics.Crescendo <music21.note.Note A-><music21.note.Note C->>,diminuendo,busoni973,,,DynamicRegion
+34,,<music21.expressions.TextExpression 'allargando'>,allargando,busoni1015,0.0,201.25,TextExpression
+35,,<music21.note.Note C->,note,busoni753,2.0,204.0,GeneralNote
+35,,<music21.articulations.Accent>,accent,busoni754,0.0,0.0,Articulation
+35,,<music21.chord.Chord D4 F4 A-4>,note,busoni755,2.0,204.0,GeneralNote
+35,,<music21.note.Note D>,note,busoni756,2.0,204.0,GeneralNote
+35,,<music21.articulations.Tenuto>,tenuto,busoni757,0.0,0.0,Articulation
+35,,<music21.note.Note C->,note,busoni758,0.25,206.0,GeneralNote
+35,,<music21.note.Rest half>,note,busoni759,2.0,206.0,GeneralNote
+35,,<music21.note.Rest half>,note,busoni760,2.0,206.0,GeneralNote
+35,,<music21.note.Rest half>,note,busoni761,2.0,206.0,GeneralNote
+35,,<music21.note.Note B->,note,busoni762,0.25,206.25,GeneralNote
+35,,<music21.articulations.Fingering 4>,fingering,busoni763,0.0,0.0,Fingering
+35,,<music21.note.Note A->,note,busoni764,0.25,206.5,GeneralNote
+35,,<music21.note.Note G->,note,busoni765,0.25,206.75,GeneralNote
+35,,<music21.note.Note F>,note,busoni766,0.25,207.0,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,busoni767,0.0,0.0,Fingering
+35,,<music21.note.Note E->,note,busoni768,0.25,207.25,GeneralNote
+35,,<music21.articulations.Fingering 2>,fingering,busoni769,0.0,0.0,Fingering
+35,,<music21.note.Note D>,note,busoni770,0.25,207.5,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,busoni771,0.0,0.0,Fingering
+35,,<music21.note.Note F>,note,busoni772,0.25,207.75,GeneralNote
+35,,<music21.note.Note A->,note,busoni773,0.25,208.0,GeneralNote
+35,,<music21.articulations.Fingering 3>,fingering,busoni774,0.0,0.0,Fingering
+35,,<music21.note.Rest half>,note,busoni775,2.0,208.0,GeneralNote
+35,,<music21.note.Rest half>,note,busoni776,2.0,208.0,GeneralNote
+35,,<music21.note.Rest half>,note,busoni777,2.0,208.0,GeneralNote
+35,,<music21.note.Note C->,note,busoni778,0.25,208.25,GeneralNote
+35,,<music21.articulations.Fingering 5>,fingering,busoni779,0.0,0.0,Fingering
+35,,<music21.note.Note D>,note,busoni780,0.25,208.5,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,busoni781,0.0,0.0,Fingering
+35,,<music21.note.Note F>,note,busoni782,0.25,208.75,GeneralNote
+35,,<music21.note.Note A->,note,busoni783,0.25,209.0,GeneralNote
+35,,<music21.note.Note C->,note,busoni784,0.25,209.25,GeneralNote
+35,,<music21.articulations.Fingering 5>,fingering,busoni785,0.0,0.0,Fingering
+35,,<music21.note.Note B->,note,busoni786,0.25,209.5,GeneralNote
+35,,<music21.articulations.Fingering 4>,fingering,busoni787,0.0,0.0,Fingering
+35,,<music21.note.Note D>,note,busoni788,0.25,209.75,GeneralNote
+35,36,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note E->>,slur,busoni922,4.0,0.0,Slur
+35,35,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note D>>,diminuendo,busoni975,,,DynamicRegion
+35,,<music21.expressions.TextExpression '3 corde'>,3 corde,busoni1016,0.0,204.0,TextExpression
+36,,<music21.note.Note E->,note,busoni789,1.5,210.0,GeneralNote
+36,,"<music21.articulations.Fingering 5
+3>",fingering,busoni790,0.0,0.0,Fingering
+36,,<music21.note.Rest quarter>,note,busoni791,1.0,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,busoni792,1.0,210.0,GeneralNote
+36,,<music21.note.Rest dotted-quarter>,note,busoni793,1.5,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,busoni794,1.0,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,busoni795,1.0,210.0,GeneralNote
+36,,<music21.note.Rest dotted-quarter>,note,busoni796,1.5,210.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,busoni797,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,busoni798,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,busoni799,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,busoni800,0.5,211.0,GeneralNote
+36,,<music21.note.Note B->,note,busoni801,0.5,211.5,GeneralNote
+36,,"<music21.articulations.Fingering 3
+1>",fingering,busoni802,0.0,0.0,Fingering
+36,,<music21.note.Note G->,note,busoni803,0.5,211.5,GeneralNote
+36,,<music21.note.Note E->,note,busoni804,0.5,211.5,GeneralNote
+36,,<music21.articulations.Fingering 1>,fingering,busoni805,0.0,0.0,Fingering
+36,,<music21.note.Note E->,note,busoni806,0.5,211.5,GeneralNote
+36,,<music21.note.Note G->,note,busoni807,2.0,212.0,GeneralNote
+36,,"<music21.articulations.Fingering 4
+2>",fingering,busoni808,0.0,0.0,Fingering
+36,,<music21.note.Note E->,note,busoni809,2.0,212.0,GeneralNote
+36,,<music21.chord.Chord E-3 G-3>,note,busoni810,2.0,212.0,GeneralNote
+36,,<music21.articulations.Fingering 3>,fingering,busoni811,0.0,0.0,Fingering
+36,,<music21.articulations.Fingering 2>,fingering,busoni812,0.0,0.0,Fingering
+36,,<music21.note.Note B->,note,busoni813,2.0,212.0,GeneralNote
+36,,<music21.articulations.Fingering 5>,fingering,busoni814,0.0,0.0,Fingering
+36,,<music21.note.Note F>,note,busoni815,0.5,214.0,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,busoni816,0.0,0.0,Articulation
+36,,<music21.note.Note D>,note,busoni817,2.0,214.0,GeneralNote
+36,,<music21.chord.Chord F3 A-3>,note,busoni818,2.0,214.0,GeneralNote
+36,,<music21.note.Note B->,note,busoni819,2.0,214.0,GeneralNote
+36,,<music21.note.Note E->,note,busoni820,0.5,214.5,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,busoni821,0.0,0.0,Articulation
+36,,<music21.note.Note F>,note,busoni822,1.0,215.0,GeneralNote
 36,,<music21.articulations.Staccato>,staccato,busoni823,0.0,0.0,Articulation
-36,,<music21.note.Note D>,note,busoni824,2.0,214.0,GeneralNote
-36,,<music21.chord.Chord F3 A-3>,note,busoni825,2.0,214.0,GeneralNote
-36,,<music21.note.Note B->,note,busoni826,2.0,214.0,GeneralNote
-36,,<music21.note.Note E->,note,busoni827,0.5,214.5,GeneralNote
-36,,<music21.articulations.Staccato>,staccato,busoni828,0.0,0.0,Articulation
-36,,<music21.note.Note F>,note,busoni829,1.0,215.0,GeneralNote
-36,,<music21.articulations.Staccato>,staccato,busoni830,0.0,0.0,Articulation
-36,36,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,busoni924,1.0,0.0,Slur
-37,,<music21.note.Note E->,note,busoni831,2.0,216.0,GeneralNote
-37,,<music21.chord.Chord G3 B-3 D-4>,note,busoni832,2.0,216.0,GeneralNote
-37,,<music21.note.Note E->,note,busoni833,2.0,216.0,GeneralNote
-37,,<music21.note.Rest dotted-whole>,note,busoni834,6.0,216.0,GeneralNote
-37,,<music21.note.Note E->,note,busoni835,1.0,218.0,GeneralNote
-37,,<music21.chord.Chord G3 B-3 D-4>,note,busoni836,2.0,218.0,GeneralNote
-37,,<music21.note.Note E->,note,busoni837,2.0,218.0,GeneralNote
-37,,<music21.note.Note E->,note,busoni838,0.25,219.0,GeneralNote
-37,,<music21.note.Note F>,note,busoni839,0.25,219.25,GeneralNote
-37,,<music21.note.Note G>,note,busoni840,0.25,219.5,GeneralNote
-37,,<music21.note.Note A->,note,busoni841,0.25,219.75,GeneralNote
-37,,<music21.note.Note B->,note,busoni842,1.0,220.0,GeneralNote
-37,,<music21.chord.Chord G3 B-3 D-4>,note,busoni843,2.0,220.0,GeneralNote
-37,,<music21.note.Note E->,note,busoni844,2.0,220.0,GeneralNote
-37,,<music21.note.Note B->,note,busoni845,0.25,221.0,GeneralNote
-37,,<music21.note.Note F->,note,busoni846,0.25,221.25,GeneralNote
-37,,<music21.note.Note E->,note,busoni847,0.25,221.5,GeneralNote
-37,,<music21.note.Note D->,note,busoni848,0.25,221.75,GeneralNote
-37,38,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,busoni925,3.0,0.0,Slur
-37,,<music21.dynamics.Dynamic pp>,pp,busoni945,,,DynamicPoint
-37,,<music21.dynamics.Dynamic ppp>,ppp,busoni946,,,DynamicPoint
-37,,<music21.expressions.TextExpression 'una corda'>,una corda,busoni1019,0.0,216.0,TextExpression
-38,,<music21.note.Note C->,note,busoni849,2.0,222.0,GeneralNote
-38,,<music21.chord.Chord E-3 A-3>,note,busoni850,2.0,222.0,GeneralNote
-38,,<music21.note.Rest dotted-whole>,note,busoni851,6.0,222.0,GeneralNote
-38,,<music21.note.Note C->,note,busoni852,0.75,224.0,GeneralNote
-38,,<music21.chord.Chord E-3 A-3>,note,busoni853,2.0,224.0,GeneralNote
-38,,<music21.note.Note E->,note,busoni854,0.25,224.75,GeneralNote
-38,,<music21.note.Note F>,note,busoni855,0.25,225.0,GeneralNote
-38,,<music21.note.Note G>,note,busoni856,0.25,225.25,GeneralNote
-38,,<music21.note.Note A->,note,busoni857,0.25,225.5,GeneralNote
-38,,<music21.note.Note B->,note,busoni858,0.25,225.75,GeneralNote
-38,,<music21.note.Note C->,note,busoni859,0.5,226.0,GeneralNote
-38,,<music21.chord.Chord E-3 A-3>,note,busoni860,2.0,226.0,GeneralNote
-38,,<music21.note.Note C->,note,busoni861,0.125,226.5,GeneralNote
-38,,<music21.note.Note B->,note,busoni862,0.125,226.625,GeneralNote
-38,,<music21.note.Note A->,note,busoni863,0.125,226.75,GeneralNote
-38,,<music21.note.Note G->,note,busoni864,0.125,226.875,GeneralNote
-38,,<music21.note.Note F>,note,busoni865,0.25,227.0,GeneralNote
-38,,<music21.note.Note G->,note,busoni866,0.25,227.25,GeneralNote
-38,,<music21.note.Note A->,note,busoni867,0.25,227.5,GeneralNote
-38,,<music21.note.Note F>,note,busoni868,0.25,227.75,GeneralNote
-38,38,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note F>>,slur,busoni926,3.75,0.0,Slur
-39,,<music21.note.Note D>,note,busoni869,4.0,228.0,GeneralNote
-39,,<music21.articulations.Tenuto>,tenuto,busoni870,0.0,0.0,Articulation
-39,,<music21.note.Rest quarter>,note,busoni871,1.0,228.0,GeneralNote
-39,,<music21.note.Note F>,note,busoni872,2.0,228.0,GeneralNote
-39,,<music21.note.Note E->,note,busoni873,2.0,228.0,GeneralNote
-39,,<music21.note.Rest dotted-whole>,note,busoni874,6.0,228.0,GeneralNote
-39,,<music21.note.Rest eighth>,note,busoni875,0.5,229.0,GeneralNote
-39,,<music21.note.Note C->,note,busoni876,0.25,229.5,GeneralNote
-39,,<music21.note.Note B->,note,busoni877,0.25,229.75,GeneralNote
-39,,<music21.note.Note C->,note,busoni878,1.5,230.0,GeneralNote
-39,,<music21.note.Note F>,note,busoni879,2.0,230.0,GeneralNote
-39,,<music21.note.Note E->,note,busoni880,2.0,230.0,GeneralNote
-39,,<music21.note.Note A->,note,busoni881,0.5,231.5,GeneralNote
+36,36,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,busoni923,1.0,0.0,Slur
+36,36,<music21.dynamics.Diminuendo <music21.note.Note E-><music21.note.Note B->>,diminuendo,busoni977,,,DynamicRegion
+37,,<music21.note.Note E->,note,busoni824,2.0,216.0,GeneralNote
+37,,<music21.articulations.Fingering 1>,fingering,busoni825,0.0,0.0,Fingering
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,busoni826,2.0,216.0,GeneralNote
+37,,<music21.note.Note E->,note,busoni827,1.0,218.0,GeneralNote
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,busoni828,2.0,218.0,GeneralNote
+37,,<music21.note.Note E->,note,busoni829,0.25,219.0,GeneralNote
+37,,<music21.note.Note F>,note,busoni830,0.25,219.25,GeneralNote
+37,,<music21.note.Note G>,note,busoni831,0.25,219.5,GeneralNote
+37,,<music21.note.Note A->,note,busoni832,0.25,219.75,GeneralNote
+37,,<music21.note.Note B->,note,busoni833,1.0,220.0,GeneralNote
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,busoni834,2.0,220.0,GeneralNote
+37,,<music21.note.Note B->,note,busoni835,0.25,221.0,GeneralNote
+37,,<music21.note.Note F->,note,busoni836,0.25,221.25,GeneralNote
+37,,<music21.articulations.Fingering 1>,fingering,busoni837,0.0,0.0,Fingering
+37,,<music21.note.Note E->,note,busoni838,0.25,221.5,GeneralNote
+37,,<music21.articulations.Fingering 3>,fingering,busoni839,0.0,0.0,Fingering
+37,,<music21.note.Note D->,note,busoni840,0.25,221.75,GeneralNote
+37,,<music21.articulations.Fingering 2>,fingering,busoni841,0.0,0.0,Fingering
+37,38,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,busoni924,3.0,0.0,Slur
+37,,<music21.dynamics.Dynamic pp>,pp,busoni944,,,DynamicPoint
+37,,<music21.dynamics.Dynamic ppp>,ppp,busoni945,,,DynamicPoint
+37,,<music21.expressions.TextExpression 'una corda'>,una corda,busoni1017,0.0,216.0,TextExpression
+38,,<music21.note.Note C->,note,busoni842,2.0,222.0,GeneralNote
+38,,<music21.chord.Chord E-3 A-3>,note,busoni843,2.0,222.0,GeneralNote
+38,,<music21.note.Note C->,note,busoni844,0.75,224.0,GeneralNote
+38,,<music21.chord.Chord E-3 A-3>,note,busoni845,2.0,224.0,GeneralNote
+38,,<music21.note.Note E->,note,busoni846,0.25,224.75,GeneralNote
+38,,<music21.note.Note F>,note,busoni847,0.25,225.0,GeneralNote
+38,,<music21.articulations.Fingering 1>,fingering,busoni848,0.0,0.0,Fingering
+38,,<music21.note.Note G>,note,busoni849,0.25,225.25,GeneralNote
+38,,<music21.note.Note A->,note,busoni850,0.25,225.5,GeneralNote
+38,,<music21.note.Note B->,note,busoni851,0.25,225.75,GeneralNote
+38,,<music21.note.Note C->,note,busoni852,0.5,226.0,GeneralNote
+38,,<music21.articulations.Fingering 5>,fingering,busoni853,0.0,0.0,Fingering
+38,,<music21.chord.Chord E-3 A-3>,note,busoni854,2.0,226.0,GeneralNote
+38,,<music21.note.Note C->,note,busoni855,0.125,226.5,GeneralNote
+38,,<music21.note.Note B->,note,busoni856,0.125,226.625,GeneralNote
+38,,<music21.note.Note A->,note,busoni857,0.125,226.75,GeneralNote
+38,,<music21.note.Note G->,note,busoni858,0.125,226.875,GeneralNote
+38,,<music21.note.Note F>,note,busoni859,0.25,227.0,GeneralNote
+38,,<music21.articulations.Fingering 1>,fingering,busoni860,0.0,0.0,Fingering
+38,,<music21.note.Note G->,note,busoni861,0.25,227.25,GeneralNote
+38,,<music21.articulations.Fingering 3>,fingering,busoni862,0.0,0.0,Fingering
+38,,<music21.note.Note A->,note,busoni863,0.25,227.5,GeneralNote
+38,,<music21.note.Note F>,note,busoni864,0.25,227.75,GeneralNote
+38,38,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note F>>,slur,busoni925,3.75,0.0,Slur
+39,,<music21.note.Note D>,note,busoni865,4.0,228.0,GeneralNote
+39,,<music21.articulations.Fingering 14>,fingering,busoni866,0.0,0.0,Fingering
+39,,<music21.articulations.Tenuto>,tenuto,busoni867,0.0,0.0,Articulation
+39,,<music21.note.Rest quarter>,note,busoni868,1.0,228.0,GeneralNote
+39,,<music21.note.Note F>,note,busoni869,2.0,228.0,GeneralNote
+39,,<music21.note.Note E->,note,busoni870,2.0,228.0,GeneralNote
+39,,<music21.note.Rest eighth>,note,busoni871,0.5,229.0,GeneralNote
+39,,<music21.note.Note C->,note,busoni872,0.25,229.5,GeneralNote
+39,,<music21.articulations.Fingering 1>,fingering,busoni873,0.0,0.0,Fingering
+39,,<music21.note.Note B->,note,busoni874,0.25,229.75,GeneralNote
+39,,<music21.articulations.Fingering 2>,fingering,busoni875,0.0,0.0,Fingering
+39,,<music21.note.Note C->,note,busoni876,1.5,230.0,GeneralNote
+39,,<music21.articulations.Fingering 1>,fingering,busoni877,0.0,0.0,Fingering
+39,,<music21.note.Note F>,note,busoni878,2.0,230.0,GeneralNote
+39,,<music21.note.Note E->,note,busoni879,2.0,230.0,GeneralNote
+39,,<music21.note.Note A->,note,busoni880,0.5,231.5,GeneralNote
+39,,<music21.articulations.Fingering 2>,fingering,busoni881,0.0,0.0,Fingering
 39,,<music21.note.Note D>,note,busoni882,1.5,232.0,GeneralNote
 39,,<music21.note.Rest half>,note,busoni883,2.0,232.0,GeneralNote
 39,,<music21.note.Rest half>,note,busoni884,2.0,232.0,GeneralNote
 39,,<music21.note.Note F>,note,busoni885,2.0,232.0,GeneralNote
 39,,<music21.note.Note E->,note,busoni886,2.0,232.0,GeneralNote
 39,,<music21.note.Note D>,note,busoni887,0.5,233.5,GeneralNote
-39,40,<music21.spanner.Slur <music21.note.Note D><music21.note.Note E->>,slur,busoni927,0.5,0.0,Slur
+39,40,<music21.spanner.Slur <music21.note.Note D><music21.note.Note E->>,slur,busoni926,0.5,0.0,Slur
 40,,<music21.note.Note E->,note,busoni888,6.0,234.0,GeneralNote
 40,,<music21.chord.Chord G3 B-3>,note,busoni889,6.0,234.0,GeneralNote
 40,,<music21.chord.Chord E-2 B-2 E-3>,note,busoni890,6.0,234.0,GeneralNote
-40,,<music21.note.Rest dotted-whole>,note,busoni891,6.0,234.0,GeneralNote

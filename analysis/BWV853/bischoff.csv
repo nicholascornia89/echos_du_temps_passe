@@ -10,12 +10,12 @@ measure_start,measure_end,object,value,id,quarterlength,offset,type
 1,,<music21.note.Note E->,note,bischoff9,1.5,4.0,GeneralNote
 1,,<music21.chord.Chord E-4 G-4>,note,bischoff10,2.0,4.0,GeneralNote
 1,,<music21.note.Note G->,note,bischoff11,0.5,5.5,GeneralNote
-1,,<music21.expressions.TextExpression 'Sostenuto'>,Sostenuto,bischoff781,0.0,0.0,TextExpression
-1,,<music21.expressions.TextExpression 'espressivo'>,espressivo,bischoff782,0.0,0.0,TextExpression
-1,,<music21.tempo.MetronomeMark Quarter=35 (playback only)>,None,bischoff783,0.0,0.0,TempoIndication
-1,,<music21.tempo.MetronomeMark lento Half=50>,lento,bischoff784,0.0,0.0,TempoIndication
-1,,<music21.tempo.MetronomeMark Quarter=35 (playback only)>,None None,bischoff785,0.0,0.0,MetronomeMark
-1,,<music21.tempo.MetronomeMark lento Half=50>,lento 50,bischoff786,0.0,0.0,MetronomeMark
+1,,<music21.expressions.TextExpression 'Sostenuto'>,Sostenuto,bischoff768,0.0,0.0,TextExpression
+1,,<music21.expressions.TextExpression 'espressivo'>,espressivo,bischoff769,0.0,0.0,TextExpression
+1,,<music21.tempo.MetronomeMark Quarter=35 (playback only)>,None,bischoff770,0.0,0.0,TempoIndication
+1,,<music21.tempo.MetronomeMark lento Half=50>,lento,bischoff771,0.0,0.0,TempoIndication
+1,,<music21.tempo.MetronomeMark Quarter=35 (playback only)>,None None,bischoff772,0.0,0.0,MetronomeMark
+1,,<music21.tempo.MetronomeMark lento Half=50>,lento 50,bischoff773,0.0,0.0,MetronomeMark
 2,,<music21.note.Note C->,note,bischoff12,2.0,6.0,GeneralNote
 2,,<music21.chord.Chord E-4 A-4>,note,bischoff13,2.0,6.0,GeneralNote
 2,,<music21.note.Rest dotted-whole>,note,bischoff14,6.0,6.0,GeneralNote
@@ -40,748 +40,738 @@ measure_start,measure_end,object,value,id,quarterlength,offset,type
 3,,<music21.note.Note A->,note,bischoff33,0.25,17.0,GeneralNote
 3,,<music21.note.Note G->,note,bischoff34,0.25,17.25,GeneralNote
 3,,<music21.note.Note A->,note,bischoff35,0.25,17.5,GeneralNote
-3,,<music21.note.Note B->,note,bischoff36,0.25,17.75,GeneralNote
-4,,<music21.note.Note G->,note,bischoff37,1.5,18.0,GeneralNote
-4,,<music21.note.Note E->,note,bischoff38,2.0,18.0,GeneralNote
-4,,<music21.note.Rest half>,note,bischoff39,2.0,18.0,GeneralNote
-4,,<music21.note.Rest dotted-whole>,note,bischoff40,6.0,18.0,GeneralNote
-4,,<music21.note.Note F>,note,bischoff41,0.25,19.5,GeneralNote
-4,,<music21.note.Note E->,note,bischoff42,0.25,19.75,GeneralNote
-4,,<music21.note.Rest half>,note,bischoff43,2.0,20.0,GeneralNote
-4,,<music21.note.Note G->,note,bischoff44,2.0,20.0,GeneralNote
-4,,<music21.note.Rest quarter>,note,bischoff45,1.0,20.0,GeneralNote
-4,,<music21.note.Rest eighth>,note,bischoff46,0.5,21.0,GeneralNote
-4,,<music21.note.Note B->,note,bischoff47,0.5,21.5,GeneralNote
-4,,<music21.note.Note G->,note,bischoff48,2.0,22.0,GeneralNote
-4,,<music21.chord.Chord G-4 B-4 E-5>,note,bischoff49,2.0,22.0,GeneralNote
-4,,<music21.note.Note G->,note,bischoff50,1.5,22.0,GeneralNote
-4,,<music21.note.Note E->,note,bischoff51,0.5,23.5,GeneralNote
-5,,<music21.note.Note G->,note,bischoff52,2.0,24.0,GeneralNote
-5,,<music21.chord.Chord G-4 B-4 D-5>,note,bischoff53,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,bischoff54,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,bischoff55,2.0,24.0,GeneralNote
-5,,<music21.note.Note B->,note,bischoff56,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,bischoff57,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,bischoff58,2.0,24.0,GeneralNote
-5,,<music21.note.Rest dotted-whole>,note,bischoff59,6.0,24.0,GeneralNote
-5,,<music21.note.Rest whole>,note,bischoff60,4.0,26.0,GeneralNote
-5,,<music21.note.Rest quarter>,note,bischoff61,1.0,26.0,GeneralNote
-5,,<music21.note.Note B->,note,bischoff62,2.0,26.0,GeneralNote
-5,,<music21.chord.Chord D-3 G-3 B-3>,note,bischoff63,2.0,26.0,GeneralNote
-5,,<music21.note.Rest 16th>,note,bischoff64,0.25,27.0,GeneralNote
-5,,<music21.note.Note G->,note,bischoff65,0.25,27.25,GeneralNote
-5,,<music21.note.Note F->,note,bischoff66,0.25,27.5,GeneralNote
-5,,<music21.note.Note E->,note,bischoff67,0.25,27.75,GeneralNote
-5,,<music21.note.Note F->,note,bischoff68,1.5,28.0,GeneralNote
-5,,<music21.note.Note B->,note,bischoff69,2.0,28.0,GeneralNote
-5,,<music21.chord.Chord D-3 G-3 B-3>,note,bischoff70,2.0,28.0,GeneralNote
-5,,<music21.note.Note D->,note,bischoff71,0.5,29.5,GeneralNote
-6,,<music21.note.Note E->,note,bischoff72,2.0,30.0,GeneralNote
-6,,<music21.chord.Chord E-4 G-4 C-5>,note,bischoff73,2.0,30.0,GeneralNote
-6,,<music21.chord.Chord G-3 C-4>,note,bischoff74,2.0,30.0,GeneralNote
-6,,<music21.chord.Chord C-3 E-3>,note,bischoff75,2.0,30.0,GeneralNote
-6,,<music21.note.Rest dotted-whole>,note,bischoff76,6.0,30.0,GeneralNote
-6,,<music21.note.Note E->,note,bischoff77,2.0,32.0,GeneralNote
-6,,<music21.chord.Chord G-4 C-5>,note,bischoff78,2.0,32.0,GeneralNote
-6,,<music21.note.Rest half>,note,bischoff79,2.0,32.0,GeneralNote
-6,,<music21.note.Rest quarter>,note,bischoff80,1.0,32.0,GeneralNote
-6,,<music21.note.Rest half>,note,bischoff81,2.0,32.0,GeneralNote
-6,,<music21.note.Rest eighth>,note,bischoff82,0.5,33.0,GeneralNote
-6,,<music21.note.Note G->,note,bischoff83,0.5,33.5,GeneralNote
-6,,<music21.note.Note E->,note,bischoff84,2.0,34.0,GeneralNote
-6,,<music21.chord.Chord G-4 C-5>,note,bischoff85,2.0,34.0,GeneralNote
-6,,<music21.note.Rest half>,note,bischoff86,2.0,34.0,GeneralNote
-6,,<music21.note.Note E->,note,bischoff87,1.5,34.0,GeneralNote
-6,,<music21.note.Rest half>,note,bischoff88,2.0,34.0,GeneralNote
-6,,<music21.note.Note C->,note,bischoff89,0.5,35.5,GeneralNote
-7,,<music21.note.Note B->,note,bischoff90,2.0,36.0,GeneralNote
-7,,<music21.chord.Chord B-4 E-5>,note,bischoff91,2.0,36.0,GeneralNote
-7,,<music21.note.Note G>,note,bischoff92,2.0,36.0,GeneralNote
-7,,<music21.note.Rest dotted-whole>,note,bischoff93,6.0,36.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,bischoff94,1.0,38.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,bischoff95,1.0,38.0,GeneralNote
-7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,bischoff96,2.0,38.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,bischoff97,1.0,39.0,GeneralNote
-7,,<music21.note.Rest 16th>,note,bischoff98,0.25,39.0,GeneralNote
-7,,<music21.note.Note E->,note,bischoff99,0.25,39.25,GeneralNote
-7,,<music21.note.Note D->,note,bischoff100,0.25,39.5,GeneralNote
-7,,<music21.note.Note C->,note,bischoff101,0.25,39.75,GeneralNote
-7,,<music21.note.Rest quarter>,note,bischoff102,1.0,40.0,GeneralNote
-7,,<music21.note.Note D->,note,bischoff103,1.5,40.0,GeneralNote
-7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,bischoff104,2.0,40.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,bischoff105,1.0,41.0,GeneralNote
-7,,<music21.note.Note B->,note,bischoff106,0.5,41.5,GeneralNote
-8,,<music21.note.Rest half>,note,bischoff107,2.0,42.0,GeneralNote
-8,,<music21.note.Note C->,note,bischoff108,1.5,42.0,GeneralNote
-8,,<music21.chord.Chord A-2 C-3 E-3 A-3>,note,bischoff109,2.0,42.0,GeneralNote
-8,,<music21.note.Rest dotted-whole>,note,bischoff110,6.0,42.0,GeneralNote
-8,,<music21.note.Note B->,note,bischoff111,0.25,43.5,GeneralNote
-8,,<music21.note.Note A->,note,bischoff112,0.25,43.75,GeneralNote
-8,,<music21.articulations.Staccato>,staccato,bischoff113,0.0,0.0,Articulation
-8,,<music21.chord.Chord E-5 A-5 C-6>,note,bischoff114,2.0,44.0,GeneralNote
-8,,<music21.note.Rest quarter>,note,bischoff115,1.0,44.0,GeneralNote
-8,,<music21.note.Rest whole>,note,bischoff116,4.0,44.0,GeneralNote
-8,,<music21.note.Rest eighth>,note,bischoff117,0.5,45.0,GeneralNote
-8,,<music21.note.Note C->,note,bischoff118,0.5,45.5,GeneralNote
-8,,<music21.chord.Chord E-5 A-5 C-6>,note,bischoff119,2.0,46.0,GeneralNote
-8,,<music21.note.Note A->,note,bischoff120,1.5,46.0,GeneralNote
-8,,<music21.note.Note F>,note,bischoff121,0.5,47.5,GeneralNote
-9,,<music21.chord.Chord F5 A-5 C-6>,note,bischoff122,2.0,48.0,GeneralNote
-9,,<music21.note.Note D>,note,bischoff123,2.0,48.0,GeneralNote
-9,,<music21.note.Rest dotted-whole>,note,bischoff124,6.0,48.0,GeneralNote
-9,,<music21.note.Rest dotted-whole>,note,bischoff125,6.0,48.0,GeneralNote
-9,,<music21.note.Rest quarter>,note,bischoff126,1.0,50.0,GeneralNote
-9,,<music21.chord.Chord D4 F4 B-4>,note,bischoff127,2.0,50.0,GeneralNote
-9,,<music21.note.Rest 16th>,note,bischoff128,0.25,51.0,GeneralNote
-9,,<music21.note.Note B->,note,bischoff129,0.25,51.25,GeneralNote
-9,,<music21.note.Note A->,note,bischoff130,0.25,51.5,GeneralNote
-9,,<music21.note.Note G->,note,bischoff131,0.25,51.75,GeneralNote
-9,,<music21.note.Note F>,note,bischoff132,0.25,52.0,GeneralNote
-9,,<music21.chord.Chord D4 F4 B-4>,note,bischoff133,2.0,52.0,GeneralNote
-9,,<music21.note.Note G->,note,bischoff134,0.25,52.25,GeneralNote
-9,,<music21.note.Note F>,note,bischoff135,0.25,52.5,GeneralNote
-9,,<music21.note.Note G->,note,bischoff136,0.25,52.75,GeneralNote
-9,,<music21.note.Note A->,note,bischoff137,0.25,53.0,GeneralNote
-9,,<music21.note.Note G->,note,bischoff138,0.25,53.25,GeneralNote
-9,,<music21.note.Note A->,note,bischoff139,0.25,53.5,GeneralNote
-9,,<music21.note.Note F>,note,bischoff140,0.25,53.75,GeneralNote
-10,,<music21.note.Note G->,note,bischoff141,1.5,54.0,GeneralNote
-10,,<music21.chord.Chord E-4 G-4 B-4>,note,bischoff142,2.0,54.0,GeneralNote
-10,,<music21.note.Rest dotted-whole>,note,bischoff143,6.0,54.0,GeneralNote
-10,,<music21.note.Rest dotted-whole>,note,bischoff144,6.0,54.0,GeneralNote
-10,,<music21.note.Note F>,note,bischoff145,0.25,55.5,GeneralNote
-10,,<music21.note.Note E->,note,bischoff146,0.25,55.75,GeneralNote
-10,,<music21.chord.Chord B-4 E-5 G-5 B-5>,note,bischoff147,2.0,56.0,GeneralNote
-10,,<music21.note.Rest quarter>,note,bischoff148,1.0,56.0,GeneralNote
-10,,<music21.note.Rest eighth>,note,bischoff149,0.5,57.0,GeneralNote
-10,,<music21.note.Note G->,note,bischoff150,0.5,57.5,GeneralNote
-10,,<music21.chord.Chord D-5 E-5 G-5 B-5>,note,bischoff151,2.0,58.0,GeneralNote
-10,,<music21.note.Note E->,note,bischoff152,1.5,58.0,GeneralNote
-10,,<music21.note.Note C>,note,bischoff153,0.5,59.5,GeneralNote
-11,,<music21.note.Note C>,note,bischoff154,2.0,60.0,GeneralNote
-11,,<music21.chord.Chord C5 E-5 G-5>,note,bischoff155,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,bischoff156,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,bischoff157,2.0,60.0,GeneralNote
-11,,<music21.note.Note A>,note,bischoff158,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,bischoff159,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,bischoff160,2.0,60.0,GeneralNote
-11,,<music21.note.Rest dotted-whole>,note,bischoff161,6.0,60.0,GeneralNote
-11,,<music21.note.Rest whole>,note,bischoff162,4.0,62.0,GeneralNote
-11,,<music21.note.Rest quarter>,note,bischoff163,1.0,62.0,GeneralNote
-11,,<music21.note.Note A>,note,bischoff164,2.0,62.0,GeneralNote
-11,,<music21.chord.Chord C4 F4>,note,bischoff165,2.0,62.0,GeneralNote
-11,,<music21.note.Rest 16th>,note,bischoff166,0.25,63.0,GeneralNote
-11,,<music21.note.Note F>,note,bischoff167,0.25,63.25,GeneralNote
-11,,<music21.note.Note E->,note,bischoff168,0.25,63.5,GeneralNote
-11,,<music21.note.Note D->,note,bischoff169,0.25,63.75,GeneralNote
-11,,<music21.note.Note C>,note,bischoff170,0.25,64.0,GeneralNote
-11,,<music21.note.Note A>,note,bischoff171,2.0,64.0,GeneralNote
-11,,<music21.chord.Chord C4 F4>,note,bischoff172,2.0,64.0,GeneralNote
-11,,<music21.note.Note D->,note,bischoff173,0.25,64.25,GeneralNote
-11,,<music21.note.Note C>,note,bischoff174,0.25,64.5,GeneralNote
-11,,<music21.note.Note D->,note,bischoff175,0.25,64.75,GeneralNote
-11,,<music21.note.Note E->,note,bischoff176,0.25,65.0,GeneralNote
-11,,<music21.note.Note D->,note,bischoff177,0.25,65.25,GeneralNote
-11,,<music21.note.Note E->,note,bischoff178,0.25,65.5,GeneralNote
-11,,<music21.note.Note C>,note,bischoff179,0.25,65.75,GeneralNote
-12,,<music21.note.Note D->,note,bischoff180,1.5,66.0,GeneralNote
-12,,<music21.chord.Chord D-4 F4>,note,bischoff181,2.0,66.0,GeneralNote
-12,,<music21.note.Note B->,note,bischoff182,2.0,66.0,GeneralNote
-12,,<music21.note.Rest dotted-whole>,note,bischoff183,6.0,66.0,GeneralNote
-12,,<music21.note.Note C>,note,bischoff184,0.25,67.5,GeneralNote
-12,,<music21.note.Note B->,note,bischoff185,0.25,67.75,GeneralNote
-12,,<music21.note.Note F>,note,bischoff186,1.0,68.0,GeneralNote
-12,,<music21.chord.Chord D-4 F4>,note,bischoff187,2.0,68.0,GeneralNote
-12,,<music21.note.Note B->,note,bischoff188,2.0,68.0,GeneralNote
-12,,<music21.note.Note F>,note,bischoff189,0.25,69.0,GeneralNote
-12,,<music21.note.Note G->,note,bischoff190,0.25,69.25,GeneralNote
-12,,<music21.note.Note F>,note,bischoff191,0.25,69.5,GeneralNote
-12,,<music21.note.Note E->,note,bischoff192,0.25,69.75,GeneralNote
-12,,<music21.note.Note D->,note,bischoff193,0.25,70.0,GeneralNote
-12,,<music21.chord.Chord D-4 F4>,note,bischoff194,2.0,70.0,GeneralNote
-12,,<music21.note.Note B->,note,bischoff195,2.0,70.0,GeneralNote
-12,,<music21.note.Note C>,note,bischoff196,0.25,70.25,GeneralNote
-12,,<music21.note.Note B->,note,bischoff197,0.25,70.5,GeneralNote
-12,,<music21.note.Note A->,note,bischoff198,0.25,70.75,GeneralNote
-12,,<music21.note.Note G->,note,bischoff199,0.5,71.0,GeneralNote
-12,,<music21.note.Note A->,note,bischoff200,0.25,71.5,GeneralNote
-12,,<music21.note.Note F>,note,bischoff201,0.25,71.75,GeneralNote
-13,,<music21.chord.Chord E-4 G-4>,note,bischoff202,1.0,72.0,GeneralNote
-13,,<music21.note.Note D->,note,bischoff203,2.0,72.0,GeneralNote
-13,,<music21.chord.Chord E-3 B-3>,note,bischoff204,2.0,72.0,GeneralNote
-13,,<music21.note.Rest dotted-whole>,note,bischoff205,6.0,72.0,GeneralNote
-13,,<music21.note.Note G->,note,bischoff206,0.5,73.0,GeneralNote
-13,,<music21.note.Note B->,note,bischoff207,0.25,73.5,GeneralNote
-13,,<music21.note.Note D->,note,bischoff208,0.25,73.75,GeneralNote
-13,,<music21.note.Note G->,note,bischoff209,1.0,74.0,GeneralNote
-13,,<music21.note.Note C>,note,bischoff210,2.0,74.0,GeneralNote
-13,,<music21.chord.Chord E-3 B-3>,note,bischoff211,2.0,74.0,GeneralNote
-13,,<music21.note.Note G->,note,bischoff212,0.25,75.0,GeneralNote
-13,,<music21.note.Note F>,note,bischoff213,0.25,75.25,GeneralNote
-13,,<music21.note.Note E->,note,bischoff214,0.25,75.5,GeneralNote
-13,,<music21.note.Note D->,note,bischoff215,0.25,75.75,GeneralNote
-13,,<music21.note.Note C>,note,bischoff216,0.75,76.0,GeneralNote
-13,,<music21.note.Note C>,note,bischoff217,2.0,76.0,GeneralNote
-13,,<music21.chord.Chord E-3 B-3>,note,bischoff218,2.0,76.0,GeneralNote
-13,,<music21.note.Note E->,note,bischoff219,0.125,76.75,GeneralNote
-13,,<music21.note.Note D->,note,bischoff220,0.125,76.875,GeneralNote
-13,,<music21.note.Note C>,note,bischoff221,0.25,77.0,GeneralNote
-13,,<music21.note.Note D->,note,bischoff222,0.25,77.25,GeneralNote
-13,,<music21.note.Note E->,note,bischoff223,0.5,77.5,GeneralNote
-14,,<music21.note.Note F>,note,bischoff224,0.75,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,bischoff225,2.0,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,bischoff226,2.0,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,bischoff227,2.0,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,bischoff228,2.0,78.0,GeneralNote
-14,,<music21.chord.Chord A3 C4>,note,bischoff229,2.0,78.0,GeneralNote
-14,,<music21.note.Note E->,note,bischoff230,2.0,78.0,GeneralNote
-14,,<music21.note.Rest dotted-whole>,note,bischoff231,6.0,78.0,GeneralNote
-14,,<music21.note.Note G>,note,bischoff232,0.125,78.75,GeneralNote
-14,,<music21.note.Note A>,note,bischoff233,0.125,78.875,GeneralNote
-14,,<music21.note.Note A>,note,bischoff234,0.75,79.0,GeneralNote
-14,,<music21.note.Note G>,note,bischoff235,0.125,79.75,GeneralNote
-14,,<music21.note.Note A>,note,bischoff236,0.125,79.875,GeneralNote
-14,,<music21.note.Note B->,note,bischoff237,4.0,80.0,GeneralNote
-14,,<music21.note.Rest quarter>,note,bischoff238,1.0,80.0,GeneralNote
-14,,<music21.chord.Chord F3 B-3>,note,bischoff239,2.0,80.0,GeneralNote
-14,,<music21.note.Note D->,note,bischoff240,2.0,80.0,GeneralNote
-14,,<music21.note.Rest eighth>,note,bischoff241,0.5,81.0,GeneralNote
-14,,<music21.note.Note F>,note,bischoff242,0.5,81.5,GeneralNote
-14,,<music21.note.Note G->,note,bischoff243,1.5,82.0,GeneralNote
-14,,<music21.note.Note B->,note,bischoff244,2.0,82.0,GeneralNote
-14,,<music21.note.Note E->,note,bischoff245,2.0,82.0,GeneralNote
-14,,<music21.note.Note E->,note,bischoff246,0.5,83.5,GeneralNote
-15,,<music21.note.Note D->,note,bischoff247,0.0,84.0,GeneralNote
-15,,<music21.note.Note B->,note,bischoff248,4.0,84.0,GeneralNote
-15,,<music21.note.Note C>,note,bischoff249,1.0,84.0,GeneralNote
-15,,<music21.note.Note F>,note,bischoff250,2.0,84.0,GeneralNote
-15,,<music21.note.Note F>,note,bischoff251,2.0,84.0,GeneralNote
-15,,<music21.note.Rest dotted-whole>,note,bischoff252,6.0,84.0,GeneralNote
-15,,<music21.note.Note C>,note,bischoff253,0.25,85.0,GeneralNote
-15,,<music21.note.Note D->,note,bischoff254,0.25,85.25,GeneralNote
-15,,<music21.note.Note C>,note,bischoff255,0.25,85.5,GeneralNote
-15,,<music21.note.Note D->,note,bischoff256,0.25,85.75,GeneralNote
-15,,<music21.note.Note E->,note,bischoff257,0.25,86.0,GeneralNote
-15,,<music21.note.Note F>,note,bischoff258,2.0,86.0,GeneralNote
-15,,<music21.note.Note F>,note,bischoff259,2.0,86.0,GeneralNote
-15,,<music21.note.Note D->,note,bischoff260,0.25,86.25,GeneralNote
-15,,<music21.note.Note C>,note,bischoff261,0.25,86.5,GeneralNote
-15,,<music21.note.Note D->,note,bischoff262,0.25,86.75,GeneralNote
-15,,<music21.note.Note E->,note,bischoff263,0.25,87.0,GeneralNote
-15,,<music21.note.Note F>,note,bischoff264,0.25,87.25,GeneralNote
-15,,<music21.note.Note E->,note,bischoff265,0.25,87.5,GeneralNote
-15,,<music21.note.Note F>,note,bischoff266,0.25,87.75,GeneralNote
-15,,<music21.note.Note A>,note,bischoff267,2.0,88.0,GeneralNote
-15,,<music21.note.Note G->,note,bischoff268,1.0,88.0,GeneralNote
-15,,<music21.note.Note C>,note,bischoff269,2.0,88.0,GeneralNote
-15,,<music21.chord.Chord F2 F3>,note,bischoff270,2.0,88.0,GeneralNote
-15,,<music21.note.Note F>,note,bischoff271,0.75,89.0,GeneralNote
-15,,<music21.note.Note E->,note,bischoff272,0.25,89.75,GeneralNote
-16,,<music21.note.Note B->,note,bischoff273,1.5,90.0,GeneralNote
-16,,<music21.note.Note D->,note,bischoff274,1.5,90.0,GeneralNote
-16,,<music21.note.Note B->,note,bischoff275,2.0,90.0,GeneralNote
-16,,<music21.chord.Chord F3 B-3>,note,bischoff276,2.0,90.0,GeneralNote
-16,,<music21.note.Rest dotted-whole>,note,bischoff277,6.0,90.0,GeneralNote
-16,,<music21.note.Note C>,note,bischoff278,0.5,91.5,GeneralNote
-16,,<music21.note.Note E->,note,bischoff279,0.5,91.5,GeneralNote
-16,,<music21.note.Note D->,note,bischoff280,2.0,92.0,GeneralNote
-16,,<music21.chord.Chord F4 B-4>,note,bischoff281,2.0,92.0,GeneralNote
-16,,<music21.note.Rest half>,note,bischoff282,2.0,92.0,GeneralNote
-16,,<music21.note.Rest quarter>,note,bischoff283,1.0,92.0,GeneralNote
-16,,<music21.note.Rest half>,note,bischoff284,2.0,92.0,GeneralNote
-16,,<music21.note.Rest eighth>,note,bischoff285,0.5,93.0,GeneralNote
-16,,<music21.note.Note B->,note,bischoff286,0.5,93.5,GeneralNote
-16,,<music21.note.Note D->,note,bischoff287,2.0,94.0,GeneralNote
-16,,<music21.chord.Chord F4 B-4>,note,bischoff288,2.0,94.0,GeneralNote
-16,,<music21.note.Rest half>,note,bischoff289,2.0,94.0,GeneralNote
-16,,<music21.note.Note D->,note,bischoff290,1.5,94.0,GeneralNote
-16,,<music21.note.Rest half>,note,bischoff291,2.0,94.0,GeneralNote
-16,,<music21.note.Note F>,note,bischoff292,0.5,95.5,GeneralNote
-17,,<music21.note.Note D->,note,bischoff293,1.5,96.0,GeneralNote
-17,,<music21.chord.Chord F-4 B-4>,note,bischoff294,1.5,96.0,GeneralNote
-17,,<music21.note.Note G>,note,bischoff295,2.0,96.0,GeneralNote
-17,,<music21.note.Rest dotted-whole>,note,bischoff296,6.0,96.0,GeneralNote
-17,,<music21.note.Note C->,note,bischoff297,0.25,97.5,GeneralNote
-17,,<music21.note.Rest eighth>,note,bischoff298,0.5,97.5,GeneralNote
-17,,<music21.note.Rest eighth>,note,bischoff299,0.5,97.5,GeneralNote
-17,,<music21.note.Note B->,note,bischoff300,0.25,97.75,GeneralNote
-17,,<music21.note.Note F->,note,bischoff301,2.0,98.0,GeneralNote
-17,,<music21.chord.Chord B-4 D-5>,note,bischoff302,2.0,98.0,GeneralNote
-17,,<music21.note.Note G>,note,bischoff303,1.0,98.0,GeneralNote
-17,,<music21.note.Note G>,note,bischoff304,0.25,99.0,GeneralNote
-17,,<music21.note.Note B->,note,bischoff305,0.25,99.25,GeneralNote
-17,,<music21.note.Note A->,note,bischoff306,0.25,99.5,GeneralNote
-17,,<music21.note.Note G>,note,bischoff307,0.25,99.75,GeneralNote
-17,,<music21.chord.Chord D-5 F-5>,note,bischoff308,1.5,100.0,GeneralNote
-17,,<music21.chord.Chord B-4 D-5>,note,bischoff309,1.5,100.0,GeneralNote
-17,,<music21.note.Note D->,note,bischoff310,2.0,100.0,GeneralNote
-17,,<music21.note.Note E->,note,bischoff311,0.25,101.5,GeneralNote
-17,,<music21.note.Rest eighth>,note,bischoff312,0.5,101.5,GeneralNote
-17,,<music21.note.Rest eighth>,note,bischoff313,0.5,101.5,GeneralNote
-17,,<music21.note.Note D->,note,bischoff314,0.25,101.75,GeneralNote
-18,,<music21.note.Note G>,note,bischoff315,2.0,102.0,GeneralNote
-18,,<music21.chord.Chord B-4 D-5>,note,bischoff316,2.0,102.0,GeneralNote
-18,,<music21.note.Rest half>,note,bischoff317,2.0,102.0,GeneralNote
-18,,<music21.note.Rest whole>,note,bischoff318,4.0,102.0,GeneralNote
-18,,<music21.note.Rest half>,note,bischoff319,2.0,102.0,GeneralNote
-18,,<music21.note.Rest whole>,note,bischoff320,4.0,102.0,GeneralNote
-18,,<music21.note.Note D->,note,bischoff321,1.5,102.0,GeneralNote
-18,,<music21.note.Rest dotted-whole>,note,bischoff322,6.0,102.0,GeneralNote
-18,,<music21.note.Note C->,note,bischoff323,0.25,103.5,GeneralNote
-18,,<music21.note.Note B->,note,bischoff324,0.25,103.75,GeneralNote
-18,,<music21.note.Note G>,note,bischoff325,1.5,104.0,GeneralNote
-18,,<music21.chord.Chord B-4 D-5>,note,bischoff326,1.5,104.0,GeneralNote
-18,,<music21.note.Rest half>,note,bischoff327,2.0,104.0,GeneralNote
-18,,<music21.note.Rest half>,note,bischoff328,2.0,104.0,GeneralNote
-18,,<music21.note.Note F->,note,bischoff329,0.5,104.0,GeneralNote
-18,,<music21.note.Note E->,note,bischoff330,0.5,104.5,GeneralNote
-18,,<music21.note.Note F->,note,bischoff331,0.5,105.0,GeneralNote
-18,,<music21.note.Note F>,note,bischoff332,0.25,105.5,GeneralNote
-18,,<music21.note.Rest eighth>,note,bischoff333,0.5,105.5,GeneralNote
-18,,<music21.note.Rest eighth>,note,bischoff334,0.5,105.5,GeneralNote
-18,,<music21.note.Note D->,note,bischoff335,0.5,105.5,GeneralNote
-18,,<music21.note.Note E->,note,bischoff336,0.25,105.75,GeneralNote
-18,,<music21.note.Note A->,note,bischoff337,2.0,106.0,GeneralNote
-18,,<music21.note.Rest half>,note,bischoff338,2.0,106.0,GeneralNote
-18,,<music21.chord.Chord C-5 E-5>,note,bischoff339,2.0,106.0,GeneralNote
-18,,<music21.note.Rest half>,note,bischoff340,2.0,106.0,GeneralNote
-18,,<music21.note.Note C->,note,bischoff341,0.25,106.0,GeneralNote
-18,,<music21.note.Note B->,note,bischoff342,0.25,106.25,GeneralNote
-18,,<music21.note.Note A->,note,bischoff343,0.25,106.5,GeneralNote
-18,,<music21.note.Note B->,note,bischoff344,0.25,106.75,GeneralNote
-18,,<music21.note.Note C->,note,bischoff345,0.25,107.0,GeneralNote
-18,,<music21.note.Note A->,note,bischoff346,0.25,107.25,GeneralNote
-18,,<music21.note.Note B->,note,bischoff347,0.25,107.5,GeneralNote
-18,,<music21.note.Note C->,note,bischoff348,0.25,107.75,GeneralNote
-19,,<music21.note.Note A->,note,bischoff349,0.5,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,bischoff350,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,bischoff351,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,bischoff352,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,bischoff353,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,bischoff354,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,bischoff355,2.0,108.0,GeneralNote
-19,,<music21.note.Note F->,note,bischoff356,1.0,108.0,GeneralNote
-19,,<music21.note.Rest dotted-whole>,note,bischoff357,6.0,108.0,GeneralNote
-19,,<music21.note.Note G>,note,bischoff358,0.5,108.5,GeneralNote
-19,,<music21.note.Note A->,note,bischoff359,0.5,109.0,GeneralNote
-19,,<music21.note.Note F->,note,bischoff360,0.25,109.0,GeneralNote
-19,,<music21.note.Note F->,note,bischoff361,0.25,109.25,GeneralNote
-19,,<music21.note.Note B->,note,bischoff362,0.5,109.5,GeneralNote
-19,,<music21.note.Note E->,note,bischoff363,0.25,109.5,GeneralNote
-19,,<music21.note.Note D->,note,bischoff364,0.25,109.75,GeneralNote
-19,,<music21.note.Note B->,note,bischoff365,3.0,110.0,GeneralNote
-19,,<music21.note.Note G>,note,bischoff366,4.0,110.0,GeneralNote
-19,,<music21.note.Note E->,note,bischoff367,2.0,110.0,GeneralNote
-19,,<music21.note.Note E->,note,bischoff368,1.5,110.0,GeneralNote
-19,,<music21.note.Note D->,note,bischoff369,0.5,111.5,GeneralNote
-19,,<music21.note.Note D->,note,bischoff370,2.0,112.0,GeneralNote
-19,,<music21.note.Note E->,note,bischoff371,1.5,112.0,GeneralNote
-19,,<music21.note.Note A->,note,bischoff372,1.0,113.0,GeneralNote
-19,,<music21.note.Note E->,note,bischoff373,0.5,113.5,GeneralNote
-20,,<music21.note.Note A->,note,bischoff374,1.5,114.0,GeneralNote
-20,,<music21.chord.Chord C-5 E-5>,note,bischoff375,1.5,114.0,GeneralNote
-20,,<music21.note.Note A->,note,bischoff376,2.0,114.0,GeneralNote
-20,,<music21.note.Rest dotted-whole>,note,bischoff377,6.0,114.0,GeneralNote
-20,,<music21.note.Rest dotted-whole>,note,bischoff378,4.5,115.5,GeneralNote
-20,,<music21.note.Note C->,note,bischoff379,0.5,115.5,GeneralNote
-20,,<music21.note.Note F>,note,bischoff380,1.5,116.0,GeneralNote
-20,,<music21.note.Rest quarter>,note,bischoff381,1.0,116.0,GeneralNote
-20,,<music21.note.Rest eighth>,note,bischoff382,0.5,117.0,GeneralNote
-20,,<music21.note.Note G->,note,bischoff383,0.25,117.5,GeneralNote
-20,,<music21.note.Note C->,note,bischoff384,0.5,117.5,GeneralNote
-20,,<music21.note.Note A->,note,bischoff385,0.25,117.75,GeneralNote
-20,,<music21.note.Note D>,note,bischoff386,1.5,118.0,GeneralNote
-20,,<music21.note.Note F>,note,bischoff387,1.5,118.0,GeneralNote
-20,,<music21.note.Note E->,note,bischoff388,0.25,119.5,GeneralNote
-20,,<music21.note.Note G->,note,bischoff389,0.25,119.5,GeneralNote
-20,,<music21.note.Note F>,note,bischoff390,0.25,119.75,GeneralNote
-20,,<music21.note.Note A->,note,bischoff391,0.25,119.75,GeneralNote
-21,,<music21.note.Note B->,note,bischoff392,1.5,120.0,GeneralNote
-21,,<music21.note.Note D>,note,bischoff393,1.5,120.0,GeneralNote
-21,,<music21.note.Rest dotted-whole>,note,bischoff394,6.0,120.0,GeneralNote
-21,,<music21.note.Note A->,note,bischoff395,0.5,121.5,GeneralNote
-21,,<music21.note.Note E->,note,bischoff396,0.25,121.5,GeneralNote
-21,,<music21.note.Note F>,note,bischoff397,0.25,121.75,GeneralNote
-21,,<music21.note.Note D>,note,bischoff398,1.5,122.0,GeneralNote
-21,,<music21.note.Note B->,note,bischoff399,1.5,122.0,GeneralNote
-21,,<music21.note.Note E->,note,bischoff400,0.25,123.5,GeneralNote
-21,,<music21.note.Note A->,note,bischoff401,0.5,123.5,GeneralNote
-21,,<music21.note.Note F>,note,bischoff402,0.25,123.75,GeneralNote
-21,,<music21.note.Note B->,note,bischoff403,1.5,124.0,GeneralNote
-21,,<music21.note.Note D>,note,bischoff404,1.5,124.0,GeneralNote
-21,,<music21.note.Note C>,note,bischoff405,0.25,125.5,GeneralNote
-21,,<music21.note.Note E->,note,bischoff406,0.25,125.5,GeneralNote
-21,,<music21.note.Note D>,note,bischoff407,0.25,125.75,GeneralNote
-21,,<music21.note.Note F>,note,bischoff408,0.25,125.75,GeneralNote
-22,,<music21.note.Note E->,note,bischoff409,1.5,126.0,GeneralNote
-22,,<music21.note.Rest half>,note,bischoff410,2.0,126.0,GeneralNote
-22,,<music21.note.Rest whole>,note,bischoff411,4.0,126.0,GeneralNote
-22,,<music21.note.Rest half>,note,bischoff412,2.0,126.0,GeneralNote
-22,,<music21.note.Rest whole>,note,bischoff413,4.0,126.0,GeneralNote
-22,,<music21.note.Note G->,note,bischoff414,2.0,126.0,GeneralNote
-22,,<music21.note.Rest dotted-whole>,note,bischoff415,6.0,126.0,GeneralNote
-22,,<music21.note.Note D->,note,bischoff416,0.25,127.5,GeneralNote
-22,,<music21.note.Note C->,note,bischoff417,0.25,127.75,GeneralNote
-22,,<music21.note.Note D->,note,bischoff418,2.0,128.0,GeneralNote
-22,,<music21.note.Rest half>,note,bischoff419,2.0,128.0,GeneralNote
-22,,<music21.note.Rest half>,note,bischoff420,2.0,128.0,GeneralNote
-22,,<music21.note.Note G>,note,bischoff421,1.5,128.0,GeneralNote
-22,,<music21.note.Note B->,note,bischoff422,0.5,129.5,GeneralNote
-22,,<music21.note.Note D->,note,bischoff423,2.0,130.0,GeneralNote
-22,,<music21.chord.Chord E-4 B-4>,note,bischoff424,2.0,130.0,GeneralNote
-22,,<music21.note.Note G>,note,bischoff425,1.5,130.0,GeneralNote
-22,,<music21.note.Note E->,note,bischoff426,0.5,131.5,GeneralNote
-23,,<music21.note.Note D->,note,bischoff427,1.5,132.0,GeneralNote
-23,,<music21.chord.Chord E-4 B-4>,note,bischoff428,1.5,132.0,GeneralNote
-23,,<music21.note.Note A->,note,bischoff429,2.0,132.0,GeneralNote
-23,,<music21.note.Rest dotted-whole>,note,bischoff430,6.0,132.0,GeneralNote
-23,,<music21.note.Note C->,note,bischoff431,0.25,133.5,GeneralNote
-23,,<music21.note.Rest eighth>,note,bischoff432,0.5,133.5,GeneralNote
-23,,<music21.note.Note B->,note,bischoff433,0.25,133.75,GeneralNote
-23,,<music21.note.Note C->,note,bischoff434,2.0,134.0,GeneralNote
-23,,<music21.note.Rest half>,note,bischoff435,2.0,134.0,GeneralNote
-23,,<music21.note.Rest quarter>,note,bischoff436,1.0,134.0,GeneralNote
-23,,<music21.note.Rest eighth>,note,bischoff437,0.5,135.0,GeneralNote
-23,,<music21.note.Note C->,note,bischoff438,0.5,135.5,GeneralNote
-23,,<music21.note.Note C->,note,bischoff439,2.0,136.0,GeneralNote
-23,,<music21.chord.Chord E-4 A-4>,note,bischoff440,2.0,136.0,GeneralNote
-23,,<music21.note.Note A->,note,bischoff441,1.5,136.0,GeneralNote
-23,,<music21.note.Note F>,note,bischoff442,0.5,137.5,GeneralNote
-24,,<music21.note.Note C->,note,bischoff443,1.5,138.0,GeneralNote
-24,,<music21.chord.Chord F4 A-4>,note,bischoff444,1.5,138.0,GeneralNote
-24,,<music21.chord.Chord F3 A-3>,note,bischoff445,2.0,138.0,GeneralNote
-24,,<music21.note.Note D>,note,bischoff446,2.0,138.0,GeneralNote
-24,,<music21.note.Rest dotted-whole>,note,bischoff447,6.0,138.0,GeneralNote
-24,,<music21.note.Note B->,note,bischoff448,0.25,139.5,GeneralNote
-24,,<music21.note.Rest eighth>,note,bischoff449,0.5,139.5,GeneralNote
-24,,<music21.note.Rest eighth>,note,bischoff450,0.5,139.5,GeneralNote
-24,,<music21.note.Note A->,note,bischoff451,0.25,139.75,GeneralNote
-24,,<music21.note.Note A->,note,bischoff452,0.0,140.0,GeneralNote
-24,,<music21.note.Note F>,note,bischoff453,1.5,140.0,GeneralNote
-24,,<music21.note.Rest half>,note,bischoff454,2.0,140.0,GeneralNote
-24,,<music21.note.Rest half>,note,bischoff455,2.0,140.0,GeneralNote
-24,,<music21.chord.Chord F3 B-3>,note,bischoff456,2.0,140.0,GeneralNote
-24,,<music21.note.Note D>,note,bischoff457,2.0,140.0,GeneralNote
-24,,<music21.note.Note C->,note,bischoff458,0.5,141.5,GeneralNote
-24,,<music21.note.Note B->,note,bischoff459,1.5,142.0,GeneralNote
-24,,<music21.note.Rest half>,note,bischoff460,2.0,142.0,GeneralNote
-24,,<music21.note.Rest half>,note,bischoff461,2.0,142.0,GeneralNote
-24,,<music21.chord.Chord F3 B-3>,note,bischoff462,2.0,142.0,GeneralNote
-24,,<music21.note.Note D>,note,bischoff463,2.0,142.0,GeneralNote
-24,,<music21.note.Note C->,note,bischoff464,0.25,143.5,GeneralNote
-24,,<music21.note.Note A->,note,bischoff465,0.25,143.75,GeneralNote
-25,,<music21.note.Note G->,note,bischoff466,2.0,144.0,GeneralNote
-25,,<music21.note.Note E->,note,bischoff467,2.0,144.0,GeneralNote
-25,,<music21.chord.Chord G-3 B-3>,note,bischoff468,2.0,144.0,GeneralNote
-25,,<music21.note.Note E->,note,bischoff469,2.0,144.0,GeneralNote
-25,,<music21.note.Rest dotted-whole>,note,bischoff470,6.0,144.0,GeneralNote
-25,,<music21.note.Note G->,note,bischoff471,0.25,146.0,GeneralNote
-25,,<music21.note.Rest half>,note,bischoff472,2.0,146.0,GeneralNote
-25,,<music21.note.Rest half>,note,bischoff473,2.0,146.0,GeneralNote
-25,,<music21.chord.Chord G-3 B-3>,note,bischoff474,2.0,146.0,GeneralNote
-25,,<music21.note.Note E->,note,bischoff475,2.0,146.0,GeneralNote
-25,,<music21.note.Note E->,note,bischoff476,0.25,146.25,GeneralNote
-25,,<music21.note.Note F>,note,bischoff477,0.25,146.5,GeneralNote
-25,,<music21.note.Note G->,note,bischoff478,0.25,146.75,GeneralNote
-25,,<music21.note.Note A->,note,bischoff479,0.25,147.0,GeneralNote
-25,,<music21.note.Note B->,note,bischoff480,0.25,147.25,GeneralNote
-25,,<music21.note.Note C>,note,bischoff481,0.25,147.5,GeneralNote
-25,,<music21.note.Note D>,note,bischoff482,0.25,147.75,GeneralNote
-25,,<music21.note.Note E->,note,bischoff483,0.25,148.0,GeneralNote
-25,,<music21.note.Rest half>,note,bischoff484,2.0,148.0,GeneralNote
-25,,<music21.note.Rest half>,note,bischoff485,2.0,148.0,GeneralNote
-25,,<music21.chord.Chord G-3 B-3>,note,bischoff486,2.0,148.0,GeneralNote
-25,,<music21.chord.Chord E-3 G-3>,note,bischoff487,2.0,148.0,GeneralNote
-25,,<music21.note.Note F>,note,bischoff488,0.25,148.25,GeneralNote
-25,,<music21.note.Note G->,note,bischoff489,0.25,148.5,GeneralNote
-25,,<music21.note.Note A->,note,bischoff490,0.25,148.75,GeneralNote
-25,,<music21.note.Note G->,note,bischoff491,0.25,149.0,GeneralNote
-25,,<music21.note.Note F>,note,bischoff492,0.25,149.25,GeneralNote
-25,,<music21.note.Note G->,note,bischoff493,0.25,149.5,GeneralNote
-25,,<music21.note.Note E->,note,bischoff494,0.25,149.75,GeneralNote
-26,,<music21.note.Note F->,note,bischoff495,1.5,150.0,GeneralNote
-26,,<music21.chord.Chord F-4 A-4 C-5>,note,bischoff496,1.5,150.0,GeneralNote
-26,,<music21.chord.Chord C-3 F-3 A-3>,note,bischoff497,2.0,150.0,GeneralNote
-26,,<music21.note.Note A->,note,bischoff498,2.0,150.0,GeneralNote
-26,,<music21.note.Rest dotted-whole>,note,bischoff499,6.0,150.0,GeneralNote
-26,,<music21.note.Note C->,note,bischoff500,0.25,151.5,GeneralNote
-26,,<music21.note.Rest eighth>,note,bischoff501,0.5,151.5,GeneralNote
-26,,<music21.note.Rest eighth>,note,bischoff502,0.5,151.5,GeneralNote
-26,,<music21.note.Note B-->,note,bischoff503,0.25,151.75,GeneralNote
-26,,<music21.note.Note A->,note,bischoff504,1.5,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,bischoff505,2.0,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,bischoff506,2.0,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,bischoff507,2.0,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,bischoff508,2.0,152.0,GeneralNote
-26,,<music21.note.Note B-->,note,bischoff509,0.25,153.5,GeneralNote
-26,,<music21.note.Note C->,note,bischoff510,0.25,153.75,GeneralNote
-26,,<music21.note.Note F->,note,bischoff511,1.5,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,bischoff512,2.0,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,bischoff513,2.0,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,bischoff514,2.0,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,bischoff515,2.0,154.0,GeneralNote
-26,,<music21.note.Note G->,note,bischoff516,0.25,155.5,GeneralNote
-26,,<music21.note.Note A->,note,bischoff517,0.25,155.75,GeneralNote
-27,,<music21.note.Note D>,note,bischoff518,1.5,156.0,GeneralNote
-27,,<music21.note.Note B->,note,bischoff519,2.0,156.0,GeneralNote
-27,,<music21.chord.Chord A-2 F3>,note,bischoff520,2.0,156.0,GeneralNote
-27,,<music21.note.Rest dotted-whole>,note,bischoff521,6.0,156.0,GeneralNote
-27,,<music21.note.Note F>,note,bischoff522,0.25,157.5,GeneralNote
-27,,<music21.note.Note A->,note,bischoff523,0.25,157.75,GeneralNote
-27,,<music21.note.Note C->,note,bischoff524,1.5,158.0,GeneralNote
-27,,<music21.note.Rest half>,note,bischoff525,2.0,158.0,GeneralNote
-27,,<music21.note.Rest half>,note,bischoff526,2.0,158.0,GeneralNote
-27,,<music21.note.Note B->,note,bischoff527,0.25,159.5,GeneralNote
-27,,<music21.note.Note A->,note,bischoff528,0.25,159.75,GeneralNote
-27,,<music21.note.Note F>,note,bischoff529,1.5,160.0,GeneralNote
-27,,<music21.note.Rest half>,note,bischoff530,2.0,160.0,GeneralNote
-27,,<music21.note.Rest half>,note,bischoff531,2.0,160.0,GeneralNote
-27,,<music21.note.Note E->,note,bischoff532,0.25,161.5,GeneralNote
-27,,<music21.note.Note D>,note,bischoff533,0.25,161.75,GeneralNote
-28,,<music21.note.Note C->,note,bischoff534,0.5,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,bischoff535,2.0,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,bischoff536,2.0,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,bischoff537,2.0,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,bischoff538,2.0,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,bischoff539,2.0,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,bischoff540,2.0,162.0,GeneralNote
-28,,<music21.note.Rest dotted-whole>,note,bischoff541,6.0,162.0,GeneralNote
-28,,<music21.note.Note A>,note,bischoff542,1.0,162.5,GeneralNote
-28,,<music21.note.Note B->,note,bischoff543,0.5,163.5,GeneralNote
-28,,<music21.note.Note E->,note,bischoff544,2.0,164.0,GeneralNote
-28,,<music21.chord.Chord G-4 B-4>,note,bischoff545,2.0,164.0,GeneralNote
-28,,<music21.chord.Chord E-3 G-3 B-3>,note,bischoff546,2.0,164.0,GeneralNote
-28,,<music21.note.Note B->,note,bischoff547,2.0,164.0,GeneralNote
-28,,<music21.note.Note D>,note,bischoff548,1.5,166.0,GeneralNote
-28,,<music21.chord.Chord F4 B-4>,note,bischoff549,2.0,166.0,GeneralNote
-28,,<music21.chord.Chord F3 A-3 B-3>,note,bischoff550,2.0,166.0,GeneralNote
-28,,<music21.note.Note B->,note,bischoff551,2.0,166.0,GeneralNote
-28,,<music21.note.Note E->,note,bischoff552,0.5,167.5,GeneralNote
-28,28,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A>>,slur,bischoff777,0.5,0.0,Slur
-29,,<music21.note.Note E->,note,bischoff553,6.0,168.0,GeneralNote
-29,,<music21.chord.Chord E-4 B-4>,note,bischoff554,1.0,168.0,GeneralNote
-29,,<music21.note.Rest half>,note,bischoff555,2.0,168.0,GeneralNote
-29,,<music21.note.Rest half>,note,bischoff556,2.0,168.0,GeneralNote
-29,,<music21.chord.Chord C-3 C-4>,note,bischoff557,2.0,168.0,GeneralNote
-29,,<music21.note.Rest half>,note,bischoff558,2.0,168.0,GeneralNote
-29,,<music21.note.Rest half>,note,bischoff559,2.0,168.0,GeneralNote
-29,,<music21.note.Rest dotted-whole>,note,bischoff560,6.0,168.0,GeneralNote
-29,,<music21.chord.Chord E-4 B-4>,note,bischoff561,0.25,169.0,GeneralNote
-29,,<music21.note.Note A->,note,bischoff562,0.25,169.25,GeneralNote
-29,,<music21.note.Note G>,note,bischoff563,0.25,169.5,GeneralNote
-29,,<music21.note.Note A->,note,bischoff564,0.25,169.75,GeneralNote
-29,,<music21.note.Note A->,note,bischoff565,2.0,170.0,GeneralNote
-29,,<music21.note.Note E->,note,bischoff566,2.0,170.0,GeneralNote
-29,,<music21.note.Note C->,note,bischoff567,2.0,170.0,GeneralNote
-29,,<music21.note.Note A->,note,bischoff568,1.5,172.0,GeneralNote
-29,,<music21.note.Note E->,note,bischoff569,2.0,172.0,GeneralNote
-29,,<music21.note.Note C->,note,bischoff570,2.0,172.0,GeneralNote
-29,,<music21.note.Note G>,note,bischoff571,0.25,173.5,GeneralNote
-29,,<music21.note.Note A->,note,bischoff572,0.25,173.75,GeneralNote
-30,,<music21.note.Note E->,note,bischoff573,2.0,174.0,GeneralNote
-30,,<music21.note.Note B->,note,bischoff574,6.0,174.0,GeneralNote
-30,,<music21.chord.Chord B-3 E-4>,note,bischoff575,2.0,174.0,GeneralNote
-30,,<music21.note.Note G>,note,bischoff576,2.0,174.0,GeneralNote
-30,,<music21.note.Rest dotted-whole>,note,bischoff577,6.0,174.0,GeneralNote
-30,,<music21.note.Note E->,note,bischoff578,1.0,176.0,GeneralNote
-30,,<music21.chord.Chord B-3 E-4>,note,bischoff579,2.0,176.0,GeneralNote
-30,,<music21.note.Note G>,note,bischoff580,2.0,176.0,GeneralNote
-30,,<music21.note.Note E->,note,bischoff581,0.25,177.0,GeneralNote
-30,,<music21.note.Note E->,note,bischoff582,0.25,177.25,GeneralNote
-30,,<music21.note.Note D->,note,bischoff583,0.25,177.5,GeneralNote
-30,,<music21.note.Note C->,note,bischoff584,0.25,177.75,GeneralNote
-30,,<music21.note.Note D->,note,bischoff585,1.5,178.0,GeneralNote
-30,,<music21.chord.Chord B-3 E-4>,note,bischoff586,2.0,178.0,GeneralNote
-30,,<music21.note.Note G>,note,bischoff587,2.0,178.0,GeneralNote
-30,,<music21.note.Note B->,note,bischoff588,0.5,179.5,GeneralNote
-31,,<music21.note.Note C->,note,bischoff589,2.0,180.0,GeneralNote
-31,,<music21.note.Note A->,note,bischoff590,2.0,180.0,GeneralNote
-31,,<music21.note.Note E->,note,bischoff591,2.0,180.0,GeneralNote
-31,,<music21.chord.Chord A-3 C-4>,note,bischoff592,2.0,180.0,GeneralNote
-31,,<music21.note.Rest dotted-whole>,note,bischoff593,6.0,180.0,GeneralNote
-31,,<music21.note.Note C->,note,bischoff594,1.0,182.0,GeneralNote
-31,,<music21.note.Rest half>,note,bischoff595,2.0,182.0,GeneralNote
-31,,<music21.note.Note E->,note,bischoff596,1.0,182.0,GeneralNote
-31,,<music21.note.Rest half>,note,bischoff597,2.0,182.0,GeneralNote
-31,,<music21.note.Note F->,note,bischoff598,2.0,182.0,GeneralNote
-31,,<music21.note.Note C->,note,bischoff599,0.25,183.0,GeneralNote
-31,,<music21.note.Note E->,note,bischoff600,0.25,183.0,GeneralNote
-31,,<music21.note.Note C->,note,bischoff601,0.25,183.25,GeneralNote
-31,,<music21.note.Note E->,note,bischoff602,0.25,183.25,GeneralNote
-31,,<music21.note.Note B->,note,bischoff603,0.25,183.5,GeneralNote
-31,,<music21.note.Note D->,note,bischoff604,0.25,183.5,GeneralNote
-31,,<music21.note.Note A->,note,bischoff605,0.25,183.75,GeneralNote
-31,,<music21.note.Note C->,note,bischoff606,0.25,183.75,GeneralNote
-31,,<music21.note.Note B->,note,bischoff607,1.5,184.0,GeneralNote
-31,,<music21.note.Rest half>,note,bischoff608,2.0,184.0,GeneralNote
-31,,<music21.note.Note D->,note,bischoff609,1.5,184.0,GeneralNote
-31,,<music21.note.Rest half>,note,bischoff610,2.0,184.0,GeneralNote
-31,,<music21.note.Note F->,note,bischoff611,2.0,184.0,GeneralNote
-31,,<music21.note.Note G>,note,bischoff612,0.5,185.5,GeneralNote
-31,,<music21.note.Note B->,note,bischoff613,0.5,185.5,GeneralNote
-32,,<music21.chord.Chord C-4 D4 A-4>,note,bischoff614,2.0,186.0,GeneralNote
-32,,<music21.note.Note F>,note,bischoff615,2.0,186.0,GeneralNote
-32,,<music21.note.Rest dotted-whole>,note,bischoff616,6.0,186.0,GeneralNote
-32,,<music21.chord.Chord C-4 D4 A-4>,note,bischoff617,2.0,188.0,GeneralNote
-32,,<music21.note.Note F>,note,bischoff618,1.0,188.0,GeneralNote
-32,,<music21.note.Note F>,note,bischoff619,0.25,189.0,GeneralNote
-32,,<music21.note.Note G->,note,bischoff620,0.25,189.25,GeneralNote
-32,,<music21.note.Note F>,note,bischoff621,0.25,189.5,GeneralNote
-32,,<music21.note.Note E->,note,bischoff622,0.25,189.75,GeneralNote
-32,,<music21.chord.Chord C-4 D4 A-4>,note,bischoff623,2.0,190.0,GeneralNote
-32,,<music21.note.Note F>,note,bischoff624,0.75,190.0,GeneralNote
-32,,<music21.note.Note G->,note,bischoff625,0.25,190.75,GeneralNote
-32,,<music21.note.Note A->,note,bischoff626,0.25,191.0,GeneralNote
-32,,<music21.note.Note F>,note,bischoff627,0.25,191.25,GeneralNote
-32,,<music21.note.Note G->,note,bischoff628,0.25,191.5,GeneralNote
-32,,<music21.note.Note A->,note,bischoff629,0.25,191.75,GeneralNote
-33,,<music21.chord.Chord C-4 F4 A-4>,note,bischoff630,2.0,192.0,GeneralNote
-33,,<music21.note.Note D>,note,bischoff631,2.0,192.0,GeneralNote
-33,,<music21.note.Rest dotted-whole>,note,bischoff632,6.0,192.0,GeneralNote
-33,,<music21.chord.Chord C-4 F4 A-4>,note,bischoff633,2.0,194.0,GeneralNote
-33,,<music21.note.Note D>,note,bischoff634,1.0,194.0,GeneralNote
-33,,<music21.note.Note D>,note,bischoff635,0.25,195.0,GeneralNote
-33,,<music21.note.Note E->,note,bischoff636,0.25,195.25,GeneralNote
-33,,<music21.note.Note D>,note,bischoff637,0.25,195.5,GeneralNote
-33,,<music21.note.Note C>,note,bischoff638,0.25,195.75,GeneralNote
-33,,<music21.chord.Chord C-4 F4 A-4>,note,bischoff639,2.0,196.0,GeneralNote
-33,,<music21.note.Note D>,note,bischoff640,0.75,196.0,GeneralNote
-33,,<music21.note.Note E->,note,bischoff641,0.25,196.75,GeneralNote
-33,,<music21.note.Note F>,note,bischoff642,0.25,197.0,GeneralNote
-33,,<music21.note.Note D>,note,bischoff643,0.25,197.25,GeneralNote
-33,,<music21.note.Note E->,note,bischoff644,0.25,197.5,GeneralNote
-33,,<music21.note.Note F>,note,bischoff645,0.25,197.75,GeneralNote
-34,,<music21.chord.Chord D4 F4 A-4>,note,bischoff646,2.0,198.0,GeneralNote
-34,,<music21.note.Note C->,note,bischoff647,2.0,198.0,GeneralNote
-34,,<music21.note.Rest dotted-whole>,note,bischoff648,6.0,198.0,GeneralNote
-34,,<music21.chord.Chord D4 F4 A-4>,note,bischoff649,2.0,200.0,GeneralNote
-34,,<music21.note.Note C->,note,bischoff650,1.0,200.0,GeneralNote
-34,,<music21.note.Note C->,note,bischoff651,0.25,201.0,GeneralNote
-34,,<music21.note.Note D->,note,bischoff652,0.25,201.25,GeneralNote
-34,,<music21.note.Note C->,note,bischoff653,0.25,201.5,GeneralNote
-34,,<music21.note.Note B->,note,bischoff654,0.25,201.75,GeneralNote
-34,,<music21.chord.Chord D4 F4 A-4>,note,bischoff655,2.0,202.0,GeneralNote
-34,,<music21.note.Note C->,note,bischoff656,0.25,202.0,GeneralNote
-34,,<music21.note.Note B->,note,bischoff657,0.25,202.25,GeneralNote
-34,,<music21.note.Note A->,note,bischoff658,0.25,202.5,GeneralNote
-34,,<music21.note.Note B->,note,bischoff659,0.25,202.75,GeneralNote
-34,,<music21.note.Note C->,note,bischoff660,0.25,203.0,GeneralNote
-34,,<music21.note.Note A->,note,bischoff661,0.25,203.25,GeneralNote
-34,,<music21.note.Note B->,note,bischoff662,0.25,203.5,GeneralNote
-34,,<music21.note.Note C->,note,bischoff663,0.25,203.75,GeneralNote
-35,,<music21.chord.Chord F4 A-4 C-5>,note,bischoff664,2.0,204.0,GeneralNote
-35,,<music21.note.Note D>,note,bischoff665,2.0,204.0,GeneralNote
-35,,<music21.note.Note D>,note,bischoff666,2.0,204.0,GeneralNote
-35,,<music21.note.Rest dotted-whole>,note,bischoff667,6.0,204.0,GeneralNote
-35,,<music21.note.Note C->,note,bischoff668,0.25,206.0,GeneralNote
-35,,<music21.note.Rest half>,note,bischoff669,2.0,206.0,GeneralNote
-35,,<music21.note.Rest half>,note,bischoff670,2.0,206.0,GeneralNote
-35,,<music21.note.Rest half>,note,bischoff671,2.0,206.0,GeneralNote
-35,,<music21.note.Note B->,note,bischoff672,0.25,206.25,GeneralNote
-35,,<music21.note.Note A->,note,bischoff673,0.25,206.5,GeneralNote
-35,,<music21.note.Note G->,note,bischoff674,0.25,206.75,GeneralNote
-35,,<music21.note.Note F>,note,bischoff675,0.25,207.0,GeneralNote
-35,,<music21.note.Note E->,note,bischoff676,0.25,207.25,GeneralNote
-35,,<music21.note.Note D>,note,bischoff677,0.25,207.5,GeneralNote
-35,,<music21.note.Note F>,note,bischoff678,0.25,207.75,GeneralNote
-35,,<music21.note.Note A->,note,bischoff679,0.25,208.0,GeneralNote
-35,,<music21.note.Rest half>,note,bischoff680,2.0,208.0,GeneralNote
-35,,<music21.note.Rest half>,note,bischoff681,2.0,208.0,GeneralNote
-35,,<music21.note.Rest half>,note,bischoff682,2.0,208.0,GeneralNote
-35,,<music21.note.Note C->,note,bischoff683,0.25,208.25,GeneralNote
-35,,<music21.note.Note D>,note,bischoff684,0.25,208.5,GeneralNote
-35,,<music21.note.Note F>,note,bischoff685,0.25,208.75,GeneralNote
-35,,<music21.note.Note A->,note,bischoff686,0.25,209.0,GeneralNote
-35,,<music21.note.Note C->,note,bischoff687,0.25,209.25,GeneralNote
-35,,<music21.note.Note B->,note,bischoff688,0.25,209.5,GeneralNote
-35,,<music21.note.Note D>,note,bischoff689,0.25,209.75,GeneralNote
-36,,<music21.note.Note E->,note,bischoff690,1.5,210.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,bischoff691,1.0,210.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,bischoff692,1.0,210.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,bischoff693,1.0,210.0,GeneralNote
-36,,<music21.note.Rest dotted-whole>,note,bischoff694,6.0,210.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,bischoff695,0.5,211.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,bischoff696,0.5,211.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,bischoff697,0.5,211.0,GeneralNote
-36,,<music21.note.Note B->,note,bischoff698,0.5,211.5,GeneralNote
-36,,<music21.note.Note G->,note,bischoff699,0.5,211.5,GeneralNote
-36,,<music21.note.Note E->,note,bischoff700,0.5,211.5,GeneralNote
-36,,<music21.note.Note E->,note,bischoff701,0.5,211.5,GeneralNote
-36,,<music21.note.Note A->,note,bischoff702,0.0,212.0,GeneralNote
-36,,<music21.note.Note G->,note,bischoff703,2.0,212.0,GeneralNote
-36,,<music21.note.Note E->,note,bischoff704,2.0,212.0,GeneralNote
-36,,<music21.chord.Chord E-3 G-3>,note,bischoff705,2.0,212.0,GeneralNote
-36,,<music21.note.Note B->,note,bischoff706,2.0,212.0,GeneralNote
-36,,<music21.note.Note F>,note,bischoff707,0.5,214.0,GeneralNote
-36,,<music21.note.Note D>,note,bischoff708,2.0,214.0,GeneralNote
-36,,<music21.chord.Chord F3 A-3>,note,bischoff709,2.0,214.0,GeneralNote
-36,,<music21.note.Note B->,note,bischoff710,2.0,214.0,GeneralNote
-36,,<music21.note.Note E->,note,bischoff711,0.5,214.5,GeneralNote
-36,,<music21.note.Note F>,note,bischoff712,1.0,215.0,GeneralNote
-36,36,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G->>,slur,bischoff778,0.0,0.0,Slur
-36,36,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,bischoff779,1.0,0.0,Slur
-37,,<music21.note.Note E->,note,bischoff713,2.0,216.0,GeneralNote
-37,,<music21.chord.Chord G3 B-3 D-4>,note,bischoff714,2.0,216.0,GeneralNote
-37,,<music21.note.Note E->,note,bischoff715,2.0,216.0,GeneralNote
-37,,<music21.note.Rest dotted-whole>,note,bischoff716,6.0,216.0,GeneralNote
-37,,<music21.note.Note E->,note,bischoff717,1.0,218.0,GeneralNote
-37,,<music21.chord.Chord G3 B-3 D-4>,note,bischoff718,2.0,218.0,GeneralNote
-37,,<music21.note.Note E->,note,bischoff719,2.0,218.0,GeneralNote
-37,,<music21.note.Note E->,note,bischoff720,0.25,219.0,GeneralNote
-37,,<music21.note.Note F>,note,bischoff721,0.25,219.25,GeneralNote
-37,,<music21.note.Note G>,note,bischoff722,0.25,219.5,GeneralNote
-37,,<music21.note.Note A->,note,bischoff723,0.25,219.75,GeneralNote
-37,,<music21.note.Note B->,note,bischoff724,1.0,220.0,GeneralNote
-37,,<music21.chord.Chord G3 B-3 D-4>,note,bischoff725,2.0,220.0,GeneralNote
-37,,<music21.note.Note E->,note,bischoff726,2.0,220.0,GeneralNote
-37,,<music21.note.Note B->,note,bischoff727,0.25,221.0,GeneralNote
-37,,<music21.note.Note F->,note,bischoff728,0.25,221.25,GeneralNote
-37,,<music21.note.Note E->,note,bischoff729,0.25,221.5,GeneralNote
-37,,<music21.note.Note D->,note,bischoff730,0.25,221.75,GeneralNote
-37,,<music21.dynamics.Dynamic p>,p,bischoff780,,,DynamicPoint
-38,,<music21.note.Note D->,note,bischoff731,0.0,222.0,GeneralNote
-38,,<music21.note.Note C->,note,bischoff732,2.0,222.0,GeneralNote
-38,,<music21.note.Note A->,note,bischoff733,2.0,222.0,GeneralNote
-38,,<music21.note.Note E->,note,bischoff734,2.0,222.0,GeneralNote
-38,,<music21.note.Rest dotted-whole>,note,bischoff735,6.0,222.0,GeneralNote
-38,,<music21.note.Note C->,note,bischoff736,0.75,224.0,GeneralNote
-38,,<music21.note.Note A->,note,bischoff737,2.0,224.0,GeneralNote
-38,,<music21.note.Note E->,note,bischoff738,2.0,224.0,GeneralNote
-38,,<music21.note.Note E->,note,bischoff739,0.25,224.75,GeneralNote
-38,,<music21.note.Note F>,note,bischoff740,0.25,225.0,GeneralNote
-38,,<music21.note.Note G>,note,bischoff741,0.25,225.25,GeneralNote
-38,,<music21.note.Note A->,note,bischoff742,0.25,225.5,GeneralNote
-38,,<music21.note.Note B->,note,bischoff743,0.25,225.75,GeneralNote
-38,,<music21.note.Note C->,note,bischoff744,0.5,226.0,GeneralNote
-38,,<music21.note.Note A->,note,bischoff745,2.0,226.0,GeneralNote
-38,,<music21.note.Note E->,note,bischoff746,2.0,226.0,GeneralNote
-38,,<music21.note.Note C->,note,bischoff747,0.125,226.5,GeneralNote
-38,,<music21.note.Note B->,note,bischoff748,0.125,226.625,GeneralNote
-38,,<music21.note.Note A->,note,bischoff749,0.125,226.75,GeneralNote
-38,,<music21.note.Note G->,note,bischoff750,0.125,226.875,GeneralNote
-38,,<music21.note.Note F>,note,bischoff751,0.25,227.0,GeneralNote
-38,,<music21.note.Note G->,note,bischoff752,0.25,227.25,GeneralNote
-38,,<music21.note.Note A->,note,bischoff753,0.25,227.5,GeneralNote
-38,,<music21.note.Note F>,note,bischoff754,0.25,227.75,GeneralNote
-39,,<music21.note.Note D>,note,bischoff755,4.0,228.0,GeneralNote
-39,,<music21.note.Rest quarter>,note,bischoff756,1.0,228.0,GeneralNote
-39,,<music21.note.Note F>,note,bischoff757,2.0,228.0,GeneralNote
-39,,<music21.note.Note E->,note,bischoff758,2.0,228.0,GeneralNote
-39,,<music21.note.Rest dotted-whole>,note,bischoff759,6.0,228.0,GeneralNote
-39,,<music21.note.Rest eighth>,note,bischoff760,0.5,229.0,GeneralNote
-39,,<music21.note.Note C->,note,bischoff761,0.25,229.5,GeneralNote
-39,,<music21.note.Note B->,note,bischoff762,0.25,229.75,GeneralNote
-39,,<music21.note.Note C->,note,bischoff763,1.5,230.0,GeneralNote
-39,,<music21.note.Note F>,note,bischoff764,2.0,230.0,GeneralNote
-39,,<music21.note.Note E->,note,bischoff765,2.0,230.0,GeneralNote
-39,,<music21.note.Note A->,note,bischoff766,0.5,231.5,GeneralNote
-39,,<music21.note.Note D>,note,bischoff767,1.5,232.0,GeneralNote
-39,,<music21.note.Rest half>,note,bischoff768,2.0,232.0,GeneralNote
-39,,<music21.note.Rest half>,note,bischoff769,2.0,232.0,GeneralNote
-39,,<music21.note.Note F>,note,bischoff770,2.0,232.0,GeneralNote
-39,,<music21.note.Note E->,note,bischoff771,2.0,232.0,GeneralNote
-39,,<music21.note.Note D>,note,bischoff772,0.5,233.5,GeneralNote
-40,,<music21.note.Note E->,note,bischoff773,6.0,234.0,GeneralNote
-40,,<music21.chord.Chord G3 B-3>,note,bischoff774,6.0,234.0,GeneralNote
-40,,<music21.chord.Chord E-2 B-2 E-3>,note,bischoff775,6.0,234.0,GeneralNote
-40,,<music21.note.Rest dotted-whole>,note,bischoff776,6.0,234.0,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,bischoff36,0.0,0.0,Fingering
+3,,<music21.note.Note B->,note,bischoff37,0.25,17.75,GeneralNote
+4,,<music21.note.Note G->,note,bischoff38,1.5,18.0,GeneralNote
+4,,<music21.note.Note E->,note,bischoff39,2.0,18.0,GeneralNote
+4,,<music21.note.Rest half>,note,bischoff40,2.0,18.0,GeneralNote
+4,,<music21.note.Rest dotted-whole>,note,bischoff41,6.0,18.0,GeneralNote
+4,,<music21.note.Note F>,note,bischoff42,0.25,19.5,GeneralNote
+4,,<music21.note.Note E->,note,bischoff43,0.25,19.75,GeneralNote
+4,,<music21.note.Rest half>,note,bischoff44,2.0,20.0,GeneralNote
+4,,<music21.note.Note G->,note,bischoff45,2.0,20.0,GeneralNote
+4,,<music21.note.Rest quarter>,note,bischoff46,1.0,20.0,GeneralNote
+4,,<music21.note.Rest eighth>,note,bischoff47,0.5,21.0,GeneralNote
+4,,<music21.note.Note B->,note,bischoff48,0.5,21.5,GeneralNote
+4,,<music21.chord.Chord G-4 B-4 E-5 G-5>,note,bischoff49,2.0,22.0,GeneralNote
+4,,<music21.note.Rest half>,note,bischoff50,2.0,22.0,GeneralNote
+4,,<music21.note.Rest half>,note,bischoff51,2.0,22.0,GeneralNote
+4,,<music21.note.Note G->,note,bischoff52,1.5,22.0,GeneralNote
+4,,<music21.note.Note E->,note,bischoff53,0.5,23.5,GeneralNote
+5,,<music21.chord.Chord G-4 B-4 D-5 G-5>,note,bischoff54,2.0,24.0,GeneralNote
+5,,<music21.note.Note B->,note,bischoff55,2.0,24.0,GeneralNote
+5,,<music21.note.Rest dotted-whole>,note,bischoff56,6.0,24.0,GeneralNote
+5,,<music21.note.Rest quarter>,note,bischoff57,1.0,26.0,GeneralNote
+5,,<music21.chord.Chord B-2 D-3 G-3 B-3>,note,bischoff58,2.0,26.0,GeneralNote
+5,,<music21.note.Rest 16th>,note,bischoff59,0.25,27.0,GeneralNote
+5,,<music21.note.Note G->,note,bischoff60,0.25,27.25,GeneralNote
+5,,<music21.note.Note F->,note,bischoff61,0.25,27.5,GeneralNote
+5,,<music21.note.Note E->,note,bischoff62,0.25,27.75,GeneralNote
+5,,<music21.note.Note F->,note,bischoff63,1.5,28.0,GeneralNote
+5,,<music21.articulations.Fingering 5>,fingering,bischoff64,0.0,0.0,Fingering
+5,,<music21.chord.Chord B-2 D-3 G-3 B-3>,note,bischoff65,2.0,28.0,GeneralNote
+5,,<music21.note.Note D->,note,bischoff66,0.5,29.5,GeneralNote
+6,,<music21.note.Note E->,note,bischoff67,2.0,30.0,GeneralNote
+6,,<music21.chord.Chord E-4 G-4 C-5>,note,bischoff68,2.0,30.0,GeneralNote
+6,,<music21.chord.Chord C-3 E-3 G-3 C-4>,note,bischoff69,2.0,30.0,GeneralNote
+6,,<music21.note.Rest dotted-whole>,note,bischoff70,6.0,30.0,GeneralNote
+6,,<music21.chord.Chord G-4 C-5 E-5>,note,bischoff71,2.0,32.0,GeneralNote
+6,,<music21.note.Rest half>,note,bischoff72,2.0,32.0,GeneralNote
+6,,<music21.note.Rest half>,note,bischoff73,2.0,32.0,GeneralNote
+6,,<music21.note.Rest quarter>,note,bischoff74,1.0,32.0,GeneralNote
+6,,<music21.note.Rest eighth>,note,bischoff75,0.5,33.0,GeneralNote
+6,,<music21.note.Note G->,note,bischoff76,0.5,33.5,GeneralNote
+6,,<music21.chord.Chord G-4 C-5 E-5>,note,bischoff77,2.0,34.0,GeneralNote
+6,,<music21.note.Rest half>,note,bischoff78,2.0,34.0,GeneralNote
+6,,<music21.note.Rest half>,note,bischoff79,2.0,34.0,GeneralNote
+6,,<music21.note.Note E->,note,bischoff80,1.5,34.0,GeneralNote
+6,,<music21.note.Note C->,note,bischoff81,0.5,35.5,GeneralNote
+7,,<music21.chord.Chord B-4 E-5 B-5>,note,bischoff82,2.0,36.0,GeneralNote
+7,,<music21.note.Note G>,note,bischoff83,2.0,36.0,GeneralNote
+7,,<music21.note.Rest dotted-whole>,note,bischoff84,6.0,36.0,GeneralNote
+7,,<music21.note.Rest quarter>,note,bischoff85,1.0,38.0,GeneralNote
+7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,bischoff86,2.0,38.0,GeneralNote
+7,,<music21.note.Rest 16th>,note,bischoff87,0.25,39.0,GeneralNote
+7,,<music21.note.Note E->,note,bischoff88,0.25,39.25,GeneralNote
+7,,<music21.note.Note D->,note,bischoff89,0.25,39.5,GeneralNote
+7,,<music21.note.Note C->,note,bischoff90,0.25,39.75,GeneralNote
+7,,<music21.note.Note D->,note,bischoff91,1.5,40.0,GeneralNote
+7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,bischoff92,2.0,40.0,GeneralNote
+7,,<music21.note.Note B->,note,bischoff93,0.5,41.5,GeneralNote
+8,,<music21.note.Rest half>,note,bischoff94,2.0,42.0,GeneralNote
+8,,<music21.note.Note C->,note,bischoff95,1.5,42.0,GeneralNote
+8,,<music21.articulations.Fingering 31>,fingering,bischoff96,0.0,0.0,Fingering
+8,,<music21.chord.Chord A-2 C-3 E-3 A-3>,note,bischoff97,2.0,42.0,GeneralNote
+8,,<music21.note.Rest dotted-whole>,note,bischoff98,6.0,42.0,GeneralNote
+8,,<music21.note.Note B->,note,bischoff99,0.25,43.5,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,bischoff100,0.0,0.0,Fingering
+8,,<music21.note.Note A->,note,bischoff101,0.25,43.75,GeneralNote
+8,,<music21.chord.Chord E-5 A-5 C-6>,note,bischoff102,2.0,44.0,GeneralNote
+8,,<music21.note.Rest quarter>,note,bischoff103,1.0,44.0,GeneralNote
+8,,<music21.note.Rest whole>,note,bischoff104,4.0,44.0,GeneralNote
+8,,<music21.note.Rest eighth>,note,bischoff105,0.5,45.0,GeneralNote
+8,,<music21.note.Note C->,note,bischoff106,0.5,45.5,GeneralNote
+8,,<music21.chord.Chord E-5 A-5 C-6>,note,bischoff107,2.0,46.0,GeneralNote
+8,,<music21.note.Note A->,note,bischoff108,1.5,46.0,GeneralNote
+8,,<music21.note.Note F>,note,bischoff109,0.5,47.5,GeneralNote
+9,,<music21.chord.Chord F5 A-5 C-6>,note,bischoff110,2.0,48.0,GeneralNote
+9,,<music21.note.Note D>,note,bischoff111,2.0,48.0,GeneralNote
+9,,<music21.note.Rest dotted-whole>,note,bischoff112,6.0,48.0,GeneralNote
+9,,<music21.note.Rest dotted-whole>,note,bischoff113,6.0,48.0,GeneralNote
+9,,<music21.note.Rest quarter>,note,bischoff114,1.0,50.0,GeneralNote
+9,,<music21.chord.Chord D4 F4 B-4>,note,bischoff115,2.0,50.0,GeneralNote
+9,,<music21.note.Rest 16th>,note,bischoff116,0.25,51.0,GeneralNote
+9,,<music21.note.Note B->,note,bischoff117,0.25,51.25,GeneralNote
+9,,<music21.note.Note A->,note,bischoff118,0.25,51.5,GeneralNote
+9,,<music21.note.Note G->,note,bischoff119,0.25,51.75,GeneralNote
+9,,<music21.note.Note F>,note,bischoff120,0.25,52.0,GeneralNote
+9,,<music21.chord.Chord D4 F4 B-4>,note,bischoff121,2.0,52.0,GeneralNote
+9,,<music21.note.Note G->,note,bischoff122,0.25,52.25,GeneralNote
+9,,<music21.note.Note F>,note,bischoff123,0.25,52.5,GeneralNote
+9,,<music21.note.Note G->,note,bischoff124,0.25,52.75,GeneralNote
+9,,<music21.note.Note A->,note,bischoff125,0.25,53.0,GeneralNote
+9,,<music21.note.Note G->,note,bischoff126,0.25,53.25,GeneralNote
+9,,<music21.note.Note A->,note,bischoff127,0.25,53.5,GeneralNote
+9,,<music21.note.Note F>,note,bischoff128,0.25,53.75,GeneralNote
+10,,<music21.note.Note G->,note,bischoff129,1.5,54.0,GeneralNote
+10,,<music21.chord.Chord E-4 G-4 B-4>,note,bischoff130,2.0,54.0,GeneralNote
+10,,<music21.note.Rest dotted-whole>,note,bischoff131,6.0,54.0,GeneralNote
+10,,<music21.note.Rest dotted-whole>,note,bischoff132,6.0,54.0,GeneralNote
+10,,<music21.note.Note F>,note,bischoff133,0.25,55.5,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,bischoff134,0.0,0.0,Fingering
+10,,<music21.note.Note E->,note,bischoff135,0.25,55.75,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,bischoff136,0.0,0.0,Fingering
+10,,<music21.chord.Chord B-4 E-5 G-5 B-5>,note,bischoff137,2.0,56.0,GeneralNote
+10,,<music21.note.Rest quarter>,note,bischoff138,1.0,56.0,GeneralNote
+10,,<music21.note.Rest eighth>,note,bischoff139,0.5,57.0,GeneralNote
+10,,<music21.note.Note G->,note,bischoff140,0.5,57.5,GeneralNote
+10,,<music21.chord.Chord D-5 E-5 G-5 B-5>,note,bischoff141,2.0,58.0,GeneralNote
+10,,<music21.note.Note E->,note,bischoff142,1.5,58.0,GeneralNote
+10,,<music21.note.Note C>,note,bischoff143,0.5,59.5,GeneralNote
+11,,<music21.chord.Chord C5 E-5 G-5 C6>,note,bischoff144,2.0,60.0,GeneralNote
+11,,<music21.note.Rest half>,note,bischoff145,2.0,60.0,GeneralNote
+11,,<music21.note.Rest half>,note,bischoff146,2.0,60.0,GeneralNote
+11,,<music21.note.Rest half>,note,bischoff147,2.0,60.0,GeneralNote
+11,,<music21.note.Rest half>,note,bischoff148,2.0,60.0,GeneralNote
+11,,<music21.note.Note A>,note,bischoff149,2.0,60.0,GeneralNote
+11,,<music21.note.Rest dotted-whole>,note,bischoff150,6.0,60.0,GeneralNote
+11,,<music21.note.Rest whole>,note,bischoff151,4.0,62.0,GeneralNote
+11,,<music21.note.Rest quarter>,note,bischoff152,1.0,62.0,GeneralNote
+11,,<music21.chord.Chord A3 C4 F4>,note,bischoff153,2.0,62.0,GeneralNote
+11,,<music21.note.Rest 16th>,note,bischoff154,0.25,63.0,GeneralNote
+11,,<music21.note.Note F>,note,bischoff155,0.25,63.25,GeneralNote
+11,,<music21.note.Note E->,note,bischoff156,0.25,63.5,GeneralNote
+11,,<music21.note.Note D->,note,bischoff157,0.25,63.75,GeneralNote
+11,,<music21.note.Note C>,note,bischoff158,0.25,64.0,GeneralNote
+11,,<music21.chord.Chord A3 C4 F4>,note,bischoff159,2.0,64.0,GeneralNote
+11,,<music21.note.Note D->,note,bischoff160,0.25,64.25,GeneralNote
+11,,<music21.note.Note C>,note,bischoff161,0.25,64.5,GeneralNote
+11,,<music21.note.Note D->,note,bischoff162,0.25,64.75,GeneralNote
+11,,<music21.note.Note E->,note,bischoff163,0.25,65.0,GeneralNote
+11,,<music21.note.Note D->,note,bischoff164,0.25,65.25,GeneralNote
+11,,<music21.note.Note E->,note,bischoff165,0.25,65.5,GeneralNote
+11,,<music21.note.Note C>,note,bischoff166,0.25,65.75,GeneralNote
+12,,<music21.note.Note D->,note,bischoff167,1.5,66.0,GeneralNote
+12,,<music21.chord.Chord B-3 D-4 F4>,note,bischoff168,2.0,66.0,GeneralNote
+12,,<music21.note.Rest dotted-whole>,note,bischoff169,6.0,66.0,GeneralNote
+12,,<music21.note.Note C>,note,bischoff170,0.25,67.5,GeneralNote
+12,,<music21.note.Note B->,note,bischoff171,0.25,67.75,GeneralNote
+12,,<music21.chord.Chord B-4 D-5 F5>,note,bischoff172,1.0,68.0,GeneralNote
+12,,<music21.articulations.Fingering 4>,fingering,bischoff173,0.0,0.0,Fingering
+12,,<music21.chord.Chord B-3 D-4 F4>,note,bischoff174,2.0,68.0,GeneralNote
+12,,<music21.note.Note F>,note,bischoff175,0.25,69.0,GeneralNote
+12,,<music21.note.Note G->,note,bischoff176,0.25,69.25,GeneralNote
+12,,<music21.note.Note F>,note,bischoff177,0.25,69.5,GeneralNote
+12,,<music21.note.Note E->,note,bischoff178,0.25,69.75,GeneralNote
+12,,<music21.note.Note D->,note,bischoff179,0.25,70.0,GeneralNote
+12,,<music21.chord.Chord B-3 D-4 F4>,note,bischoff180,2.0,70.0,GeneralNote
+12,,<music21.note.Note C>,note,bischoff181,0.25,70.25,GeneralNote
+12,,<music21.note.Note B->,note,bischoff182,0.25,70.5,GeneralNote
+12,,<music21.articulations.Fingering 4>,fingering,bischoff183,0.0,0.0,Fingering
+12,,<music21.note.Note A->,note,bischoff184,0.25,70.75,GeneralNote
+12,,<music21.note.Note G->,note,bischoff185,0.5,71.0,GeneralNote
+12,,<music21.note.Note A->,note,bischoff186,0.25,71.5,GeneralNote
+12,,<music21.note.Note F>,note,bischoff187,0.25,71.75,GeneralNote
+12,,<music21.articulations.Fingering 1>,fingering,bischoff188,0.0,0.0,Fingering
+13,,<music21.chord.Chord E-4 G-4>,note,bischoff189,1.0,72.0,GeneralNote
+13,,<music21.articulations.Fingering 2>,fingering,bischoff190,0.0,0.0,Fingering
+13,,<music21.articulations.Fingering 3>,fingering,bischoff191,0.0,0.0,Fingering
+13,,<music21.chord.Chord E-3 B-3 D-4>,note,bischoff192,2.0,72.0,GeneralNote
+13,,<music21.note.Rest dotted-whole>,note,bischoff193,6.0,72.0,GeneralNote
+13,,<music21.note.Note G->,note,bischoff194,0.5,73.0,GeneralNote
+13,,<music21.articulations.Fingering 1>,fingering,bischoff195,0.0,0.0,Fingering
+13,,<music21.note.Note B->,note,bischoff196,0.25,73.5,GeneralNote
+13,,<music21.note.Note D->,note,bischoff197,0.25,73.75,GeneralNote
+13,,<music21.note.Note G->,note,bischoff198,1.0,74.0,GeneralNote
+13,,<music21.chord.Chord E-3 B-3 C4>,note,bischoff199,2.0,74.0,GeneralNote
+13,,<music21.note.Note G->,note,bischoff200,0.25,75.0,GeneralNote
+13,,<music21.note.Note F>,note,bischoff201,0.25,75.25,GeneralNote
+13,,<music21.note.Note E->,note,bischoff202,0.25,75.5,GeneralNote
+13,,<music21.note.Note D->,note,bischoff203,0.25,75.75,GeneralNote
+13,,<music21.note.Note C>,note,bischoff204,0.75,76.0,GeneralNote
+13,,<music21.chord.Chord E-3 B-3 C4>,note,bischoff205,2.0,76.0,GeneralNote
+13,,<music21.note.Note E->,note,bischoff206,0.125,76.75,GeneralNote
+13,,<music21.note.Note D->,note,bischoff207,0.125,76.875,GeneralNote
+13,,<music21.note.Note C>,note,bischoff208,0.25,77.0,GeneralNote
+13,,<music21.note.Note D->,note,bischoff209,0.25,77.25,GeneralNote
+13,,<music21.note.Note E->,note,bischoff210,0.5,77.5,GeneralNote
+14,,<music21.note.Note F>,note,bischoff211,0.75,78.0,GeneralNote
+14,,<music21.articulations.Fingering 1>,fingering,bischoff212,0.0,0.0,Fingering
+14,,<music21.note.Rest half>,note,bischoff213,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,bischoff214,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,bischoff215,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,bischoff216,2.0,78.0,GeneralNote
+14,,<music21.chord.Chord E-3 A3 C4>,note,bischoff217,2.0,78.0,GeneralNote
+14,,<music21.note.Rest dotted-whole>,note,bischoff218,6.0,78.0,GeneralNote
+14,,<music21.note.Note G>,note,bischoff219,0.125,78.75,GeneralNote
+14,,<music21.note.Note A>,note,bischoff220,0.125,78.875,GeneralNote
+14,,<music21.note.Note A>,note,bischoff221,0.75,79.0,GeneralNote
+14,,<music21.note.Note G>,note,bischoff222,0.125,79.75,GeneralNote
+14,,<music21.note.Note A>,note,bischoff223,0.125,79.875,GeneralNote
+14,,<music21.note.Note B->,note,bischoff224,4.0,80.0,GeneralNote
+14,,<music21.articulations.Fingering 4>,fingering,bischoff225,0.0,0.0,Fingering
+14,,<music21.note.Rest quarter>,note,bischoff226,1.0,80.0,GeneralNote
+14,,<music21.chord.Chord D-3 F3 B-3>,note,bischoff227,2.0,80.0,GeneralNote
+14,,<music21.note.Rest eighth>,note,bischoff228,0.5,81.0,GeneralNote
+14,,<music21.note.Note F>,note,bischoff229,0.5,81.5,GeneralNote
+14,,<music21.note.Note G->,note,bischoff230,1.5,82.0,GeneralNote
+14,,<music21.chord.Chord E-3 B-3>,note,bischoff231,2.0,82.0,GeneralNote
+14,,<music21.note.Note E->,note,bischoff232,0.5,83.5,GeneralNote
+14,,<music21.articulations.Fingering 5>,fingering,bischoff233,0.0,0.0,Fingering
+15,,<music21.note.Note D->,note,bischoff234,0.0,84.0,GeneralNote
+15,,<music21.note.Note B->,note,bischoff235,4.0,84.0,GeneralNote
+15,,<music21.note.Note C>,note,bischoff236,1.0,84.0,GeneralNote
+15,,<music21.note.Note F>,note,bischoff237,2.0,84.0,GeneralNote
+15,,<music21.note.Note F>,note,bischoff238,2.0,84.0,GeneralNote
+15,,<music21.note.Rest dotted-whole>,note,bischoff239,6.0,84.0,GeneralNote
+15,,<music21.note.Note C>,note,bischoff240,0.25,85.0,GeneralNote
+15,,<music21.note.Note D->,note,bischoff241,0.25,85.25,GeneralNote
+15,,<music21.note.Note C>,note,bischoff242,0.25,85.5,GeneralNote
+15,,<music21.note.Note D->,note,bischoff243,0.25,85.75,GeneralNote
+15,,<music21.note.Note E->,note,bischoff244,0.25,86.0,GeneralNote
+15,,<music21.note.Rest half>,note,bischoff245,2.0,86.0,GeneralNote
+15,,<music21.chord.Chord F2 F3>,note,bischoff246,2.0,86.0,GeneralNote
+15,,<music21.note.Rest half>,note,bischoff247,2.0,86.0,GeneralNote
+15,,<music21.note.Note D->,note,bischoff248,0.25,86.25,GeneralNote
+15,,<music21.note.Note C>,note,bischoff249,0.25,86.5,GeneralNote
+15,,<music21.note.Note D->,note,bischoff250,0.25,86.75,GeneralNote
+15,,<music21.note.Note E->,note,bischoff251,0.25,87.0,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,bischoff252,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,bischoff253,0.25,87.25,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,bischoff254,0.0,0.0,Fingering
+15,,<music21.note.Note E->,note,bischoff255,0.25,87.5,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,bischoff256,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,bischoff257,0.25,87.75,GeneralNote
+15,,<music21.note.Note A>,note,bischoff258,2.0,88.0,GeneralNote
+15,,<music21.note.Note G->,note,bischoff259,1.0,88.0,GeneralNote
+15,,<music21.note.Note C>,note,bischoff260,2.0,88.0,GeneralNote
+15,,<music21.chord.Chord F2 F3>,note,bischoff261,2.0,88.0,GeneralNote
+15,,<music21.note.Note F>,note,bischoff262,0.75,89.0,GeneralNote
+15,,<music21.note.Note E->,note,bischoff263,0.25,89.75,GeneralNote
+16,,<music21.note.Note B->,note,bischoff264,1.5,90.0,GeneralNote
+16,,<music21.note.Note D->,note,bischoff265,1.5,90.0,GeneralNote
+16,,<music21.note.Note B->,note,bischoff266,2.0,90.0,GeneralNote
+16,,<music21.chord.Chord F3 B-3>,note,bischoff267,2.0,90.0,GeneralNote
+16,,<music21.note.Rest dotted-whole>,note,bischoff268,6.0,90.0,GeneralNote
+16,,<music21.note.Note C>,note,bischoff269,0.5,91.5,GeneralNote
+16,,<music21.note.Note E->,note,bischoff270,0.5,91.5,GeneralNote
+16,,<music21.note.Note D->,note,bischoff271,2.0,92.0,GeneralNote
+16,,<music21.chord.Chord F4 B-4>,note,bischoff272,2.0,92.0,GeneralNote
+16,,<music21.note.Rest half>,note,bischoff273,2.0,92.0,GeneralNote
+16,,<music21.note.Rest quarter>,note,bischoff274,1.0,92.0,GeneralNote
+16,,<music21.note.Rest half>,note,bischoff275,2.0,92.0,GeneralNote
+16,,<music21.note.Rest eighth>,note,bischoff276,0.5,93.0,GeneralNote
+16,,<music21.note.Note B->,note,bischoff277,0.5,93.5,GeneralNote
+16,,<music21.note.Note D->,note,bischoff278,2.0,94.0,GeneralNote
+16,,<music21.chord.Chord F4 B-4>,note,bischoff279,2.0,94.0,GeneralNote
+16,,<music21.note.Rest half>,note,bischoff280,2.0,94.0,GeneralNote
+16,,<music21.note.Note D->,note,bischoff281,1.5,94.0,GeneralNote
+16,,<music21.note.Rest half>,note,bischoff282,2.0,94.0,GeneralNote
+16,,<music21.note.Note F>,note,bischoff283,0.5,95.5,GeneralNote
+17,,<music21.note.Note D->,note,bischoff284,1.5,96.0,GeneralNote
+17,,<music21.chord.Chord F-4 B-4>,note,bischoff285,1.5,96.0,GeneralNote
+17,,<music21.note.Note G>,note,bischoff286,2.0,96.0,GeneralNote
+17,,<music21.note.Rest dotted-whole>,note,bischoff287,6.0,96.0,GeneralNote
+17,,<music21.note.Note C->,note,bischoff288,0.25,97.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,bischoff289,0.5,97.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,bischoff290,0.5,97.5,GeneralNote
+17,,<music21.note.Note B->,note,bischoff291,0.25,97.75,GeneralNote
+17,,<music21.note.Note F->,note,bischoff292,2.0,98.0,GeneralNote
+17,,<music21.chord.Chord B-4 D-5>,note,bischoff293,2.0,98.0,GeneralNote
+17,,<music21.note.Note G>,note,bischoff294,1.0,98.0,GeneralNote
+17,,<music21.note.Note G>,note,bischoff295,0.25,99.0,GeneralNote
+17,,<music21.note.Note B->,note,bischoff296,0.25,99.25,GeneralNote
+17,,<music21.note.Note A->,note,bischoff297,0.25,99.5,GeneralNote
+17,,<music21.note.Note G>,note,bischoff298,0.25,99.75,GeneralNote
+17,,<music21.chord.Chord D-5 F-5>,note,bischoff299,1.5,100.0,GeneralNote
+17,,<music21.chord.Chord B-4 D-5>,note,bischoff300,1.5,100.0,GeneralNote
+17,,<music21.note.Note D->,note,bischoff301,2.0,100.0,GeneralNote
+17,,<music21.note.Note E->,note,bischoff302,0.25,101.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,bischoff303,0.5,101.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,bischoff304,0.5,101.5,GeneralNote
+17,,<music21.note.Note D->,note,bischoff305,0.25,101.75,GeneralNote
+18,,<music21.note.Note G>,note,bischoff306,2.0,102.0,GeneralNote
+18,,<music21.chord.Chord B-4 D-5>,note,bischoff307,2.0,102.0,GeneralNote
+18,,<music21.note.Rest half>,note,bischoff308,2.0,102.0,GeneralNote
+18,,<music21.note.Rest whole>,note,bischoff309,4.0,102.0,GeneralNote
+18,,<music21.note.Rest half>,note,bischoff310,2.0,102.0,GeneralNote
+18,,<music21.note.Rest whole>,note,bischoff311,4.0,102.0,GeneralNote
+18,,<music21.note.Note D->,note,bischoff312,1.5,102.0,GeneralNote
+18,,<music21.note.Rest dotted-whole>,note,bischoff313,6.0,102.0,GeneralNote
+18,,<music21.note.Note C->,note,bischoff314,0.25,103.5,GeneralNote
+18,,<music21.note.Note B->,note,bischoff315,0.25,103.75,GeneralNote
+18,,<music21.note.Note G>,note,bischoff316,1.5,104.0,GeneralNote
+18,,<music21.chord.Chord B-4 D-5>,note,bischoff317,1.5,104.0,GeneralNote
+18,,<music21.note.Rest half>,note,bischoff318,2.0,104.0,GeneralNote
+18,,<music21.note.Rest half>,note,bischoff319,2.0,104.0,GeneralNote
+18,,<music21.note.Note F->,note,bischoff320,0.5,104.0,GeneralNote
+18,,<music21.note.Note E->,note,bischoff321,0.5,104.5,GeneralNote
+18,,<music21.note.Note F->,note,bischoff322,0.5,105.0,GeneralNote
+18,,<music21.note.Note F>,note,bischoff323,0.25,105.5,GeneralNote
+18,,<music21.note.Rest eighth>,note,bischoff324,0.5,105.5,GeneralNote
+18,,<music21.note.Rest eighth>,note,bischoff325,0.5,105.5,GeneralNote
+18,,<music21.note.Note D->,note,bischoff326,0.5,105.5,GeneralNote
+18,,<music21.note.Note E->,note,bischoff327,0.25,105.75,GeneralNote
+18,,<music21.note.Note A->,note,bischoff328,2.0,106.0,GeneralNote
+18,,<music21.note.Rest half>,note,bischoff329,2.0,106.0,GeneralNote
+18,,<music21.chord.Chord C-5 E-5>,note,bischoff330,2.0,106.0,GeneralNote
+18,,<music21.note.Rest half>,note,bischoff331,2.0,106.0,GeneralNote
+18,,<music21.note.Note C->,note,bischoff332,0.25,106.0,GeneralNote
+18,,<music21.articulations.Fingering 1>,fingering,bischoff333,0.0,0.0,Fingering
+18,,<music21.note.Note B->,note,bischoff334,0.25,106.25,GeneralNote
+18,,<music21.note.Note A->,note,bischoff335,0.25,106.5,GeneralNote
+18,,<music21.note.Note B->,note,bischoff336,0.25,106.75,GeneralNote
+18,,<music21.note.Note C->,note,bischoff337,0.25,107.0,GeneralNote
+18,,<music21.note.Note A->,note,bischoff338,0.25,107.25,GeneralNote
+18,,<music21.note.Note B->,note,bischoff339,0.25,107.5,GeneralNote
+18,,<music21.note.Note C->,note,bischoff340,0.25,107.75,GeneralNote
+19,,<music21.note.Note A->,note,bischoff341,0.5,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,bischoff342,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,bischoff343,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,bischoff344,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,bischoff345,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,bischoff346,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,bischoff347,2.0,108.0,GeneralNote
+19,,<music21.note.Note F->,note,bischoff348,1.0,108.0,GeneralNote
+19,,<music21.note.Rest dotted-whole>,note,bischoff349,6.0,108.0,GeneralNote
+19,,<music21.note.Note G>,note,bischoff350,0.5,108.5,GeneralNote
+19,,<music21.note.Note A->,note,bischoff351,0.5,109.0,GeneralNote
+19,,<music21.note.Note F->,note,bischoff352,0.25,109.0,GeneralNote
+19,,<music21.note.Note F->,note,bischoff353,0.25,109.25,GeneralNote
+19,,<music21.note.Note B->,note,bischoff354,0.5,109.5,GeneralNote
+19,,<music21.note.Note E->,note,bischoff355,0.25,109.5,GeneralNote
+19,,<music21.note.Note D->,note,bischoff356,0.25,109.75,GeneralNote
+19,,<music21.note.Note B->,note,bischoff357,3.0,110.0,GeneralNote
+19,,<music21.note.Note G>,note,bischoff358,4.0,110.0,GeneralNote
+19,,<music21.note.Note E->,note,bischoff359,2.0,110.0,GeneralNote
+19,,<music21.note.Note E->,note,bischoff360,1.5,110.0,GeneralNote
+19,,<music21.note.Note D->,note,bischoff361,0.5,111.5,GeneralNote
+19,,<music21.note.Note D->,note,bischoff362,2.0,112.0,GeneralNote
+19,,<music21.note.Note E->,note,bischoff363,1.5,112.0,GeneralNote
+19,,<music21.note.Note A->,note,bischoff364,1.0,113.0,GeneralNote
+19,,<music21.note.Note E->,note,bischoff365,0.5,113.5,GeneralNote
+20,,<music21.note.Note A->,note,bischoff366,1.5,114.0,GeneralNote
+20,,<music21.chord.Chord C-5 E-5>,note,bischoff367,1.5,114.0,GeneralNote
+20,,<music21.note.Note A->,note,bischoff368,2.0,114.0,GeneralNote
+20,,<music21.note.Rest dotted-whole>,note,bischoff369,6.0,114.0,GeneralNote
+20,,<music21.note.Rest dotted-whole>,note,bischoff370,4.5,115.5,GeneralNote
+20,,<music21.note.Note C->,note,bischoff371,0.5,115.5,GeneralNote
+20,,<music21.note.Note F>,note,bischoff372,1.5,116.0,GeneralNote
+20,,<music21.note.Rest quarter>,note,bischoff373,1.0,116.0,GeneralNote
+20,,<music21.note.Rest eighth>,note,bischoff374,0.5,117.0,GeneralNote
+20,,<music21.note.Note G->,note,bischoff375,0.25,117.5,GeneralNote
+20,,<music21.note.Note C->,note,bischoff376,0.5,117.5,GeneralNote
+20,,<music21.note.Note A->,note,bischoff377,0.25,117.75,GeneralNote
+20,,<music21.note.Note D>,note,bischoff378,1.5,118.0,GeneralNote
+20,,<music21.note.Note F>,note,bischoff379,1.5,118.0,GeneralNote
+20,,<music21.note.Note E->,note,bischoff380,0.25,119.5,GeneralNote
+20,,<music21.note.Note G->,note,bischoff381,0.25,119.5,GeneralNote
+20,,<music21.note.Note F>,note,bischoff382,0.25,119.75,GeneralNote
+20,,<music21.note.Note A->,note,bischoff383,0.25,119.75,GeneralNote
+21,,<music21.note.Note B->,note,bischoff384,1.5,120.0,GeneralNote
+21,,<music21.note.Note D>,note,bischoff385,1.5,120.0,GeneralNote
+21,,<music21.note.Rest dotted-whole>,note,bischoff386,6.0,120.0,GeneralNote
+21,,<music21.note.Note A->,note,bischoff387,0.5,121.5,GeneralNote
+21,,<music21.note.Note E->,note,bischoff388,0.25,121.5,GeneralNote
+21,,<music21.note.Note F>,note,bischoff389,0.25,121.75,GeneralNote
+21,,<music21.note.Note D>,note,bischoff390,1.5,122.0,GeneralNote
+21,,<music21.note.Note B->,note,bischoff391,1.5,122.0,GeneralNote
+21,,<music21.note.Note E->,note,bischoff392,0.25,123.5,GeneralNote
+21,,<music21.note.Note A->,note,bischoff393,0.5,123.5,GeneralNote
+21,,<music21.note.Note F>,note,bischoff394,0.25,123.75,GeneralNote
+21,,<music21.note.Note B->,note,bischoff395,1.5,124.0,GeneralNote
+21,,<music21.note.Note D>,note,bischoff396,1.5,124.0,GeneralNote
+21,,<music21.note.Note C>,note,bischoff397,0.25,125.5,GeneralNote
+21,,<music21.note.Note E->,note,bischoff398,0.25,125.5,GeneralNote
+21,,<music21.note.Note D>,note,bischoff399,0.25,125.75,GeneralNote
+21,,<music21.note.Note F>,note,bischoff400,0.25,125.75,GeneralNote
+22,,<music21.note.Note E->,note,bischoff401,1.5,126.0,GeneralNote
+22,,<music21.note.Rest half>,note,bischoff402,2.0,126.0,GeneralNote
+22,,<music21.note.Rest whole>,note,bischoff403,4.0,126.0,GeneralNote
+22,,<music21.note.Rest half>,note,bischoff404,2.0,126.0,GeneralNote
+22,,<music21.note.Rest whole>,note,bischoff405,4.0,126.0,GeneralNote
+22,,<music21.note.Note G->,note,bischoff406,2.0,126.0,GeneralNote
+22,,<music21.note.Rest dotted-whole>,note,bischoff407,6.0,126.0,GeneralNote
+22,,<music21.note.Note D->,note,bischoff408,0.25,127.5,GeneralNote
+22,,<music21.note.Note C->,note,bischoff409,0.25,127.75,GeneralNote
+22,,<music21.note.Note D->,note,bischoff410,2.0,128.0,GeneralNote
+22,,<music21.note.Rest half>,note,bischoff411,2.0,128.0,GeneralNote
+22,,<music21.note.Rest half>,note,bischoff412,2.0,128.0,GeneralNote
+22,,<music21.note.Note G>,note,bischoff413,1.5,128.0,GeneralNote
+22,,<music21.note.Note B->,note,bischoff414,0.5,129.5,GeneralNote
+22,,<music21.note.Note D->,note,bischoff415,2.0,130.0,GeneralNote
+22,,<music21.chord.Chord E-4 B-4>,note,bischoff416,2.0,130.0,GeneralNote
+22,,<music21.note.Note G>,note,bischoff417,1.5,130.0,GeneralNote
+22,,<music21.note.Note E->,note,bischoff418,0.5,131.5,GeneralNote
+23,,<music21.note.Note D->,note,bischoff419,1.5,132.0,GeneralNote
+23,,<music21.chord.Chord E-4 B-4>,note,bischoff420,1.5,132.0,GeneralNote
+23,,<music21.note.Note A->,note,bischoff421,2.0,132.0,GeneralNote
+23,,<music21.note.Rest dotted-whole>,note,bischoff422,6.0,132.0,GeneralNote
+23,,<music21.note.Note C->,note,bischoff423,0.25,133.5,GeneralNote
+23,,<music21.note.Rest eighth>,note,bischoff424,0.5,133.5,GeneralNote
+23,,<music21.note.Note B->,note,bischoff425,0.25,133.75,GeneralNote
+23,,<music21.note.Note C->,note,bischoff426,2.0,134.0,GeneralNote
+23,,<music21.note.Rest half>,note,bischoff427,2.0,134.0,GeneralNote
+23,,<music21.note.Rest quarter>,note,bischoff428,1.0,134.0,GeneralNote
+23,,<music21.note.Rest eighth>,note,bischoff429,0.5,135.0,GeneralNote
+23,,<music21.note.Note C->,note,bischoff430,0.5,135.5,GeneralNote
+23,,<music21.note.Note C->,note,bischoff431,2.0,136.0,GeneralNote
+23,,<music21.chord.Chord E-4 A-4>,note,bischoff432,2.0,136.0,GeneralNote
+23,,<music21.note.Note A->,note,bischoff433,1.5,136.0,GeneralNote
+23,,<music21.note.Note F>,note,bischoff434,0.5,137.5,GeneralNote
+24,,<music21.note.Note C->,note,bischoff435,1.5,138.0,GeneralNote
+24,,<music21.chord.Chord F4 A-4>,note,bischoff436,1.5,138.0,GeneralNote
+24,,<music21.chord.Chord D3 F3 A-3>,note,bischoff437,2.0,138.0,GeneralNote
+24,,<music21.note.Rest dotted-whole>,note,bischoff438,6.0,138.0,GeneralNote
+24,,<music21.note.Note B->,note,bischoff439,0.25,139.5,GeneralNote
+24,,<music21.note.Rest eighth>,note,bischoff440,0.5,139.5,GeneralNote
+24,,<music21.note.Rest eighth>,note,bischoff441,0.5,139.5,GeneralNote
+24,,<music21.note.Note A->,note,bischoff442,0.25,139.75,GeneralNote
+24,,<music21.note.Note A->,note,bischoff443,0.0,140.0,GeneralNote
+24,,<music21.note.Note F>,note,bischoff444,1.5,140.0,GeneralNote
+24,,<music21.note.Rest half>,note,bischoff445,2.0,140.0,GeneralNote
+24,,<music21.note.Rest half>,note,bischoff446,2.0,140.0,GeneralNote
+24,,<music21.chord.Chord D3 F3 B-3>,note,bischoff447,2.0,140.0,GeneralNote
+24,,<music21.note.Note C->,note,bischoff448,0.5,141.5,GeneralNote
+24,,<music21.articulations.Fingering 1>,fingering,bischoff449,0.0,0.0,Fingering
+24,,<music21.note.Note B->,note,bischoff450,1.5,142.0,GeneralNote
+24,,<music21.note.Rest half>,note,bischoff451,2.0,142.0,GeneralNote
+24,,<music21.note.Rest half>,note,bischoff452,2.0,142.0,GeneralNote
+24,,<music21.chord.Chord D3 F3 B-3>,note,bischoff453,2.0,142.0,GeneralNote
+24,,<music21.note.Note C->,note,bischoff454,0.25,143.5,GeneralNote
+24,,<music21.articulations.Fingering 5>,fingering,bischoff455,0.0,0.0,Fingering
+24,,<music21.note.Note A->,note,bischoff456,0.25,143.75,GeneralNote
+24,,<music21.articulations.Fingering 4>,fingering,bischoff457,0.0,0.0,Fingering
+25,,<music21.note.Note G->,note,bischoff458,2.0,144.0,GeneralNote
+25,,<music21.note.Note E->,note,bischoff459,2.0,144.0,GeneralNote
+25,,<music21.chord.Chord E-3 G-3 B-3>,note,bischoff460,2.0,144.0,GeneralNote
+25,,<music21.note.Rest dotted-whole>,note,bischoff461,6.0,144.0,GeneralNote
+25,,<music21.note.Note G->,note,bischoff462,0.25,146.0,GeneralNote
+25,,<music21.note.Rest half>,note,bischoff463,2.0,146.0,GeneralNote
+25,,<music21.note.Rest half>,note,bischoff464,2.0,146.0,GeneralNote
+25,,<music21.chord.Chord E-3 G-3 B-3>,note,bischoff465,2.0,146.0,GeneralNote
+25,,<music21.note.Note E->,note,bischoff466,0.25,146.25,GeneralNote
+25,,<music21.articulations.Fingering 2>,fingering,bischoff467,0.0,0.0,Fingering
+25,,<music21.note.Note F>,note,bischoff468,0.25,146.5,GeneralNote
+25,,<music21.note.Note G->,note,bischoff469,0.25,146.75,GeneralNote
+25,,<music21.note.Note A->,note,bischoff470,0.25,147.0,GeneralNote
+25,,<music21.note.Note B->,note,bischoff471,0.25,147.25,GeneralNote
+25,,<music21.note.Note C>,note,bischoff472,0.25,147.5,GeneralNote
+25,,<music21.note.Note D>,note,bischoff473,0.25,147.75,GeneralNote
+25,,<music21.note.Note E->,note,bischoff474,0.25,148.0,GeneralNote
+25,,<music21.note.Rest half>,note,bischoff475,2.0,148.0,GeneralNote
+25,,<music21.note.Rest half>,note,bischoff476,2.0,148.0,GeneralNote
+25,,<music21.chord.Chord E-3 G-3 B-3>,note,bischoff477,2.0,148.0,GeneralNote
+25,,<music21.note.Note F>,note,bischoff478,0.25,148.25,GeneralNote
+25,,<music21.note.Note G->,note,bischoff479,0.25,148.5,GeneralNote
+25,,<music21.note.Note A->,note,bischoff480,0.25,148.75,GeneralNote
+25,,<music21.note.Note G->,note,bischoff481,0.25,149.0,GeneralNote
+25,,<music21.note.Note F>,note,bischoff482,0.25,149.25,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,bischoff483,0.0,0.0,Fingering
+25,,<music21.note.Note G->,note,bischoff484,0.25,149.5,GeneralNote
+25,,<music21.articulations.Fingering 5>,fingering,bischoff485,0.0,0.0,Fingering
+25,,<music21.note.Note E->,note,bischoff486,0.25,149.75,GeneralNote
+25,,<music21.articulations.Fingering 4>,fingering,bischoff487,0.0,0.0,Fingering
+26,,<music21.note.Note F->,note,bischoff488,1.5,150.0,GeneralNote
+26,,<music21.chord.Chord F-4 A-4 C-5>,note,bischoff489,1.5,150.0,GeneralNote
+26,,<music21.chord.Chord C-3 F-3 A-3>,note,bischoff490,2.0,150.0,GeneralNote
+26,,<music21.note.Note A->,note,bischoff491,2.0,150.0,GeneralNote
+26,,<music21.note.Rest dotted-whole>,note,bischoff492,6.0,150.0,GeneralNote
+26,,<music21.note.Note C->,note,bischoff493,0.25,151.5,GeneralNote
+26,,<music21.note.Rest eighth>,note,bischoff494,0.5,151.5,GeneralNote
+26,,<music21.note.Rest eighth>,note,bischoff495,0.5,151.5,GeneralNote
+26,,<music21.note.Note B-->,note,bischoff496,0.25,151.75,GeneralNote
+26,,<music21.note.Note A->,note,bischoff497,1.5,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,bischoff498,2.0,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,bischoff499,2.0,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,bischoff500,2.0,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,bischoff501,2.0,152.0,GeneralNote
+26,,<music21.note.Note B-->,note,bischoff502,0.25,153.5,GeneralNote
+26,,<music21.note.Note C->,note,bischoff503,0.25,153.75,GeneralNote
+26,,<music21.note.Note F->,note,bischoff504,1.5,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,bischoff505,2.0,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,bischoff506,2.0,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,bischoff507,2.0,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,bischoff508,2.0,154.0,GeneralNote
+26,,<music21.note.Note G->,note,bischoff509,0.25,155.5,GeneralNote
+26,,<music21.note.Note A->,note,bischoff510,0.25,155.75,GeneralNote
+27,,<music21.note.Note D>,note,bischoff511,1.5,156.0,GeneralNote
+27,,<music21.note.Note B->,note,bischoff512,2.0,156.0,GeneralNote
+27,,<music21.chord.Chord A-2 F3>,note,bischoff513,2.0,156.0,GeneralNote
+27,,<music21.note.Rest dotted-whole>,note,bischoff514,6.0,156.0,GeneralNote
+27,,<music21.note.Note F>,note,bischoff515,0.25,157.5,GeneralNote
+27,,<music21.note.Note A->,note,bischoff516,0.25,157.75,GeneralNote
+27,,<music21.note.Note C->,note,bischoff517,1.5,158.0,GeneralNote
+27,,<music21.note.Rest half>,note,bischoff518,2.0,158.0,GeneralNote
+27,,<music21.note.Rest half>,note,bischoff519,2.0,158.0,GeneralNote
+27,,<music21.note.Note B->,note,bischoff520,0.25,159.5,GeneralNote
+27,,<music21.note.Note A->,note,bischoff521,0.25,159.75,GeneralNote
+27,,<music21.note.Note F>,note,bischoff522,1.5,160.0,GeneralNote
+27,,<music21.note.Rest half>,note,bischoff523,2.0,160.0,GeneralNote
+27,,<music21.note.Rest half>,note,bischoff524,2.0,160.0,GeneralNote
+27,,<music21.note.Note E->,note,bischoff525,0.25,161.5,GeneralNote
+27,,<music21.note.Note D>,note,bischoff526,0.25,161.75,GeneralNote
+28,,<music21.note.Note C->,note,bischoff527,0.5,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,bischoff528,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,bischoff529,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,bischoff530,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,bischoff531,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,bischoff532,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,bischoff533,2.0,162.0,GeneralNote
+28,,<music21.note.Rest dotted-whole>,note,bischoff534,6.0,162.0,GeneralNote
+28,,<music21.note.Note A>,note,bischoff535,1.0,162.5,GeneralNote
+28,,<music21.note.Note B->,note,bischoff536,0.5,163.5,GeneralNote
+28,,<music21.note.Note E->,note,bischoff537,2.0,164.0,GeneralNote
+28,,<music21.chord.Chord G-4 B-4>,note,bischoff538,2.0,164.0,GeneralNote
+28,,<music21.chord.Chord E-3 G-3 B-3>,note,bischoff539,2.0,164.0,GeneralNote
+28,,<music21.note.Note B->,note,bischoff540,2.0,164.0,GeneralNote
+28,,<music21.note.Note D>,note,bischoff541,1.5,166.0,GeneralNote
+28,,<music21.chord.Chord F4 B-4>,note,bischoff542,2.0,166.0,GeneralNote
+28,,<music21.chord.Chord F3 A-3 B-3>,note,bischoff543,2.0,166.0,GeneralNote
+28,,<music21.note.Note B->,note,bischoff544,2.0,166.0,GeneralNote
+28,,<music21.note.Note E->,note,bischoff545,0.5,167.5,GeneralNote
+28,28,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A>>,slur,bischoff765,0.5,0.0,Slur
+29,,<music21.note.Note E->,note,bischoff546,6.0,168.0,GeneralNote
+29,,<music21.chord.Chord E-4 B-4>,note,bischoff547,1.5,168.0,GeneralNote
+29,,<music21.chord.Chord C-3 C-4>,note,bischoff548,2.0,168.0,GeneralNote
+29,,<music21.note.Rest dotted-whole>,note,bischoff549,6.0,168.0,GeneralNote
+29,,<music21.note.Note A->,note,bischoff550,1/6,169.5,GeneralNote
+29,,<music21.note.Note G>,note,bischoff551,1/6,509/3,GeneralNote
+29,,<music21.note.Note A->,note,bischoff552,1/6,1019/6,GeneralNote
+29,,<music21.note.Note A->,note,bischoff553,2.0,170.0,GeneralNote
+29,,<music21.chord.Chord C-4 E-4>,note,bischoff554,2.0,170.0,GeneralNote
+29,,<music21.note.Note A->,note,bischoff555,1.5,172.0,GeneralNote
+29,,<music21.chord.Chord C-4 E-4>,note,bischoff556,2.0,172.0,GeneralNote
+29,,<music21.note.Note G>,note,bischoff557,0.25,173.5,GeneralNote
+29,,<music21.note.Note A->,note,bischoff558,0.25,173.75,GeneralNote
+30,,<music21.note.Note E->,note,bischoff559,2.0,174.0,GeneralNote
+30,,<music21.note.Note B->,note,bischoff560,6.0,174.0,GeneralNote
+30,,<music21.chord.Chord G3 B-3 E-4>,note,bischoff561,2.0,174.0,GeneralNote
+30,,<music21.note.Rest dotted-whole>,note,bischoff562,6.0,174.0,GeneralNote
+30,,<music21.note.Note E->,note,bischoff563,1.0,176.0,GeneralNote
+30,,<music21.chord.Chord G3 B-3 E-4>,note,bischoff564,2.0,176.0,GeneralNote
+30,,<music21.note.Note E->,note,bischoff565,0.25,177.0,GeneralNote
+30,,<music21.note.Note E->,note,bischoff566,0.25,177.25,GeneralNote
+30,,<music21.note.Note D->,note,bischoff567,0.25,177.5,GeneralNote
+30,,<music21.note.Note C->,note,bischoff568,0.25,177.75,GeneralNote
+30,,<music21.note.Note D->,note,bischoff569,1.5,178.0,GeneralNote
+30,,<music21.chord.Chord G3 B-3 E-4>,note,bischoff570,2.0,178.0,GeneralNote
+30,,<music21.note.Note B->,note,bischoff571,0.5,179.5,GeneralNote
+30,,<music21.articulations.Fingering 3>,fingering,bischoff572,0.0,0.0,Fingering
+31,,<music21.note.Note C->,note,bischoff573,2.0,180.0,GeneralNote
+31,,<music21.note.Note A->,note,bischoff574,2.0,180.0,GeneralNote
+31,,<music21.note.Note E->,note,bischoff575,2.0,180.0,GeneralNote
+31,,<music21.chord.Chord A-3 C-4>,note,bischoff576,2.0,180.0,GeneralNote
+31,,<music21.note.Rest dotted-whole>,note,bischoff577,6.0,180.0,GeneralNote
+31,,<music21.note.Note C->,note,bischoff578,1.0,182.0,GeneralNote
+31,,<music21.note.Rest half>,note,bischoff579,2.0,182.0,GeneralNote
+31,,<music21.note.Note E->,note,bischoff580,1.0,182.0,GeneralNote
+31,,<music21.note.Rest half>,note,bischoff581,2.0,182.0,GeneralNote
+31,,<music21.note.Note F->,note,bischoff582,2.0,182.0,GeneralNote
+31,,<music21.note.Note C->,note,bischoff583,0.25,183.0,GeneralNote
+31,,<music21.note.Note E->,note,bischoff584,0.25,183.0,GeneralNote
+31,,<music21.note.Note C->,note,bischoff585,0.25,183.25,GeneralNote
+31,,"<music21.articulations.Fingering 5
+2>",fingering,bischoff586,0.0,0.0,Fingering
+31,,<music21.note.Note E->,note,bischoff587,0.25,183.25,GeneralNote
+31,,<music21.note.Note B->,note,bischoff588,0.25,183.5,GeneralNote
+31,,<music21.articulations.Fingering 4>,fingering,bischoff589,0.0,0.0,Fingering
+31,,<music21.note.Note D->,note,bischoff590,0.25,183.5,GeneralNote
+31,,<music21.note.Note A->,note,bischoff591,0.25,183.75,GeneralNote
+31,,<music21.articulations.Fingering 3>,fingering,bischoff592,0.0,0.0,Fingering
+31,,<music21.note.Note C->,note,bischoff593,0.25,183.75,GeneralNote
+31,,<music21.note.Note B->,note,bischoff594,1.5,184.0,GeneralNote
+31,,"<music21.articulations.Fingering 5
+2>",fingering,bischoff595,0.0,0.0,Fingering
+31,,<music21.note.Rest half>,note,bischoff596,2.0,184.0,GeneralNote
+31,,<music21.note.Note D->,note,bischoff597,1.5,184.0,GeneralNote
+31,,<music21.note.Rest half>,note,bischoff598,2.0,184.0,GeneralNote
+31,,<music21.note.Note F->,note,bischoff599,2.0,184.0,GeneralNote
+31,,<music21.note.Note G>,note,bischoff600,0.5,185.5,GeneralNote
+31,,<music21.note.Note B->,note,bischoff601,0.5,185.5,GeneralNote
+32,,<music21.chord.Chord C-4 D4 A-4>,note,bischoff602,2.0,186.0,GeneralNote
+32,,<music21.note.Note F>,note,bischoff603,2.0,186.0,GeneralNote
+32,,<music21.note.Rest dotted-whole>,note,bischoff604,6.0,186.0,GeneralNote
+32,,<music21.chord.Chord C-4 D4 A-4>,note,bischoff605,2.0,188.0,GeneralNote
+32,,<music21.note.Note F>,note,bischoff606,1.0,188.0,GeneralNote
+32,,<music21.note.Note F>,note,bischoff607,0.25,189.0,GeneralNote
+32,,<music21.note.Note G->,note,bischoff608,0.25,189.25,GeneralNote
+32,,<music21.note.Note F>,note,bischoff609,0.25,189.5,GeneralNote
+32,,<music21.note.Note E->,note,bischoff610,0.25,189.75,GeneralNote
+32,,<music21.chord.Chord C-4 D4 A-4>,note,bischoff611,2.0,190.0,GeneralNote
+32,,<music21.note.Note F>,note,bischoff612,0.75,190.0,GeneralNote
+32,,<music21.note.Note G->,note,bischoff613,0.25,190.75,GeneralNote
+32,,<music21.note.Note A->,note,bischoff614,0.25,191.0,GeneralNote
+32,,<music21.note.Note F>,note,bischoff615,0.25,191.25,GeneralNote
+32,,<music21.note.Note G->,note,bischoff616,0.25,191.5,GeneralNote
+32,,<music21.note.Note A->,note,bischoff617,0.25,191.75,GeneralNote
+33,,<music21.chord.Chord C-4 F4 A-4>,note,bischoff618,2.0,192.0,GeneralNote
+33,,<music21.note.Note D>,note,bischoff619,2.0,192.0,GeneralNote
+33,,<music21.note.Rest dotted-whole>,note,bischoff620,6.0,192.0,GeneralNote
+33,,<music21.chord.Chord C-4 F4 A-4>,note,bischoff621,2.0,194.0,GeneralNote
+33,,<music21.note.Note D>,note,bischoff622,1.0,194.0,GeneralNote
+33,,<music21.note.Note D>,note,bischoff623,0.25,195.0,GeneralNote
+33,,<music21.note.Note E->,note,bischoff624,0.25,195.25,GeneralNote
+33,,<music21.note.Note D>,note,bischoff625,0.25,195.5,GeneralNote
+33,,<music21.note.Note C>,note,bischoff626,0.25,195.75,GeneralNote
+33,,<music21.chord.Chord C-4 F4 A-4>,note,bischoff627,2.0,196.0,GeneralNote
+33,,<music21.note.Note D>,note,bischoff628,0.75,196.0,GeneralNote
+33,,<music21.note.Note E->,note,bischoff629,0.25,196.75,GeneralNote
+33,,<music21.note.Note F>,note,bischoff630,0.25,197.0,GeneralNote
+33,,<music21.note.Note D>,note,bischoff631,0.25,197.25,GeneralNote
+33,,<music21.note.Note E->,note,bischoff632,0.25,197.5,GeneralNote
+33,,<music21.note.Note F>,note,bischoff633,0.25,197.75,GeneralNote
+34,,<music21.chord.Chord D4 F4 A-4>,note,bischoff634,2.0,198.0,GeneralNote
+34,,<music21.note.Note C->,note,bischoff635,2.0,198.0,GeneralNote
+34,,<music21.note.Rest dotted-whole>,note,bischoff636,6.0,198.0,GeneralNote
+34,,<music21.chord.Chord D4 F4 A-4>,note,bischoff637,2.0,200.0,GeneralNote
+34,,<music21.note.Note C->,note,bischoff638,1.0,200.0,GeneralNote
+34,,<music21.note.Note C->,note,bischoff639,0.25,201.0,GeneralNote
+34,,<music21.note.Note D->,note,bischoff640,0.25,201.25,GeneralNote
+34,,<music21.note.Note C->,note,bischoff641,0.25,201.5,GeneralNote
+34,,<music21.note.Note B->,note,bischoff642,0.25,201.75,GeneralNote
+34,,<music21.chord.Chord D4 F4 A-4>,note,bischoff643,2.0,202.0,GeneralNote
+34,,<music21.note.Note C->,note,bischoff644,0.25,202.0,GeneralNote
+34,,<music21.articulations.Fingering 1>,fingering,bischoff645,0.0,0.0,Fingering
+34,,<music21.note.Note B->,note,bischoff646,0.25,202.25,GeneralNote
+34,,<music21.note.Note A->,note,bischoff647,0.25,202.5,GeneralNote
+34,,<music21.note.Note B->,note,bischoff648,0.25,202.75,GeneralNote
+34,,<music21.note.Note C->,note,bischoff649,0.25,203.0,GeneralNote
+34,,<music21.note.Note A->,note,bischoff650,0.25,203.25,GeneralNote
+34,,<music21.note.Note B->,note,bischoff651,0.25,203.5,GeneralNote
+34,,<music21.note.Note C->,note,bischoff652,0.25,203.75,GeneralNote
+35,,<music21.chord.Chord F4 A-4 C-5>,note,bischoff653,2.0,204.0,GeneralNote
+35,,<music21.note.Note D>,note,bischoff654,2.0,204.0,GeneralNote
+35,,<music21.note.Note D>,note,bischoff655,2.0,204.0,GeneralNote
+35,,<music21.note.Rest dotted-whole>,note,bischoff656,6.0,204.0,GeneralNote
+35,,<music21.note.Note C->,note,bischoff657,0.25,206.0,GeneralNote
+35,,<music21.note.Rest half>,note,bischoff658,2.0,206.0,GeneralNote
+35,,<music21.note.Rest half>,note,bischoff659,2.0,206.0,GeneralNote
+35,,<music21.note.Rest half>,note,bischoff660,2.0,206.0,GeneralNote
+35,,<music21.note.Note B->,note,bischoff661,0.25,206.25,GeneralNote
+35,,<music21.note.Note A->,note,bischoff662,0.25,206.5,GeneralNote
+35,,<music21.note.Note G->,note,bischoff663,0.25,206.75,GeneralNote
+35,,<music21.note.Note F>,note,bischoff664,0.25,207.0,GeneralNote
+35,,<music21.note.Note E->,note,bischoff665,0.25,207.25,GeneralNote
+35,,<music21.note.Note D>,note,bischoff666,0.25,207.5,GeneralNote
+35,,<music21.note.Note F>,note,bischoff667,0.25,207.75,GeneralNote
+35,,<music21.note.Note A->,note,bischoff668,0.25,208.0,GeneralNote
+35,,<music21.note.Rest half>,note,bischoff669,2.0,208.0,GeneralNote
+35,,<music21.note.Rest half>,note,bischoff670,2.0,208.0,GeneralNote
+35,,<music21.note.Rest half>,note,bischoff671,2.0,208.0,GeneralNote
+35,,<music21.note.Note C->,note,bischoff672,0.25,208.25,GeneralNote
+35,,<music21.note.Note D>,note,bischoff673,0.25,208.5,GeneralNote
+35,,<music21.note.Note F>,note,bischoff674,0.25,208.75,GeneralNote
+35,,<music21.note.Note A->,note,bischoff675,0.25,209.0,GeneralNote
+35,,<music21.note.Note C->,note,bischoff676,0.25,209.25,GeneralNote
+35,,<music21.note.Note B->,note,bischoff677,0.25,209.5,GeneralNote
+35,,<music21.note.Note D>,note,bischoff678,0.25,209.75,GeneralNote
+36,,<music21.note.Note E->,note,bischoff679,1.5,210.0,GeneralNote
+36,,<music21.articulations.Fingering 5>,fingering,bischoff680,0.0,0.0,Fingering
+36,,<music21.note.Rest quarter>,note,bischoff681,1.0,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,bischoff682,1.0,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,bischoff683,1.0,210.0,GeneralNote
+36,,<music21.note.Rest dotted-whole>,note,bischoff684,6.0,210.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,bischoff685,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,bischoff686,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,bischoff687,0.5,211.0,GeneralNote
+36,,<music21.note.Note B->,note,bischoff688,0.5,211.5,GeneralNote
+36,,"<music21.articulations.Fingering 4
+2>",fingering,bischoff689,0.0,0.0,Fingering
+36,,<music21.note.Note G->,note,bischoff690,0.5,211.5,GeneralNote
+36,,<music21.note.Note E->,note,bischoff691,0.5,211.5,GeneralNote
+36,,<music21.note.Note E->,note,bischoff692,0.5,211.5,GeneralNote
+36,,<music21.note.Note A->,note,bischoff693,0.0,212.0,GeneralNote
+36,,<music21.note.Note G->,note,bischoff694,2.0,212.0,GeneralNote
+36,,<music21.articulations.Fingering 21>,fingering,bischoff695,0.0,0.0,Fingering
+36,,<music21.note.Note E->,note,bischoff696,2.0,212.0,GeneralNote
+36,,<music21.chord.Chord E-3 G-3>,note,bischoff697,2.0,212.0,GeneralNote
+36,,<music21.note.Note B->,note,bischoff698,2.0,212.0,GeneralNote
+36,,<music21.note.Note F>,note,bischoff699,0.5,214.0,GeneralNote
+36,,<music21.note.Note D>,note,bischoff700,2.0,214.0,GeneralNote
+36,,<music21.chord.Chord F3 A-3>,note,bischoff701,2.0,214.0,GeneralNote
+36,,<music21.note.Note B->,note,bischoff702,2.0,214.0,GeneralNote
+36,,<music21.note.Note E->,note,bischoff703,0.5,214.5,GeneralNote
+36,,<music21.note.Note F>,note,bischoff704,1.0,215.0,GeneralNote
+36,36,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G->>,slur,bischoff766,0.0,0.0,Slur
+36,36,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,bischoff767,1.0,0.0,Slur
+37,,<music21.note.Note E->,note,bischoff705,2.0,216.0,GeneralNote
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,bischoff706,2.0,216.0,GeneralNote
+37,,<music21.note.Rest dotted-whole>,note,bischoff707,6.0,216.0,GeneralNote
+37,,<music21.note.Note E->,note,bischoff708,1.0,218.0,GeneralNote
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,bischoff709,2.0,218.0,GeneralNote
+37,,<music21.note.Note E->,note,bischoff710,0.25,219.0,GeneralNote
+37,,<music21.note.Note F>,note,bischoff711,0.25,219.25,GeneralNote
+37,,<music21.note.Note G>,note,bischoff712,0.25,219.5,GeneralNote
+37,,<music21.note.Note A->,note,bischoff713,0.25,219.75,GeneralNote
+37,,<music21.note.Note B->,note,bischoff714,1.0,220.0,GeneralNote
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,bischoff715,2.0,220.0,GeneralNote
+37,,<music21.note.Note B->,note,bischoff716,0.25,221.0,GeneralNote
+37,,<music21.note.Note F->,note,bischoff717,0.25,221.25,GeneralNote
+37,,<music21.note.Note E->,note,bischoff718,0.25,221.5,GeneralNote
+37,,<music21.note.Note D->,note,bischoff719,0.25,221.75,GeneralNote
+38,,<music21.note.Note D->,note,bischoff720,0.0,222.0,GeneralNote
+38,,<music21.note.Note C->,note,bischoff721,2.0,222.0,GeneralNote
+38,,<music21.chord.Chord E-3 A-3>,note,bischoff722,2.0,222.0,GeneralNote
+38,,<music21.note.Rest dotted-whole>,note,bischoff723,6.0,222.0,GeneralNote
+38,,<music21.note.Note C->,note,bischoff724,0.75,224.0,GeneralNote
+38,,<music21.chord.Chord E-3 A-3>,note,bischoff725,2.0,224.0,GeneralNote
+38,,<music21.note.Note E->,note,bischoff726,0.25,224.75,GeneralNote
+38,,<music21.note.Note F>,note,bischoff727,0.25,225.0,GeneralNote
+38,,<music21.note.Note G>,note,bischoff728,0.25,225.25,GeneralNote
+38,,<music21.note.Note A->,note,bischoff729,0.25,225.5,GeneralNote
+38,,<music21.note.Note B->,note,bischoff730,0.25,225.75,GeneralNote
+38,,<music21.note.Note C->,note,bischoff731,0.5,226.0,GeneralNote
+38,,<music21.chord.Chord E-3 A-3>,note,bischoff732,2.0,226.0,GeneralNote
+38,,<music21.note.Note C->,note,bischoff733,0.125,226.5,GeneralNote
+38,,<music21.note.Note B->,note,bischoff734,0.125,226.625,GeneralNote
+38,,<music21.note.Note A->,note,bischoff735,0.125,226.75,GeneralNote
+38,,<music21.note.Note G->,note,bischoff736,0.125,226.875,GeneralNote
+38,,<music21.note.Note F>,note,bischoff737,0.25,227.0,GeneralNote
+38,,<music21.note.Note G->,note,bischoff738,0.25,227.25,GeneralNote
+38,,<music21.articulations.Fingering 3>,fingering,bischoff739,0.0,0.0,Fingering
+38,,<music21.note.Note A->,note,bischoff740,0.25,227.5,GeneralNote
+38,,<music21.note.Note F>,note,bischoff741,0.25,227.75,GeneralNote
+39,,<music21.note.Note D>,note,bischoff742,4.0,228.0,GeneralNote
+39,,<music21.articulations.Fingering 14>,fingering,bischoff743,0.0,0.0,Fingering
+39,,<music21.note.Rest quarter>,note,bischoff744,1.0,228.0,GeneralNote
+39,,<music21.note.Note F>,note,bischoff745,2.0,228.0,GeneralNote
+39,,<music21.note.Note E->,note,bischoff746,2.0,228.0,GeneralNote
+39,,<music21.note.Rest dotted-whole>,note,bischoff747,6.0,228.0,GeneralNote
+39,,<music21.note.Rest eighth>,note,bischoff748,0.5,229.0,GeneralNote
+39,,<music21.note.Note C->,note,bischoff749,0.25,229.5,GeneralNote
+39,,<music21.note.Note B->,note,bischoff750,0.25,229.75,GeneralNote
+39,,<music21.note.Note C->,note,bischoff751,1.5,230.0,GeneralNote
+39,,<music21.note.Note F>,note,bischoff752,2.0,230.0,GeneralNote
+39,,<music21.note.Note E->,note,bischoff753,2.0,230.0,GeneralNote
+39,,<music21.note.Note A->,note,bischoff754,0.5,231.5,GeneralNote
+39,,<music21.note.Note D>,note,bischoff755,1.5,232.0,GeneralNote
+39,,<music21.note.Rest half>,note,bischoff756,2.0,232.0,GeneralNote
+39,,<music21.note.Rest half>,note,bischoff757,2.0,232.0,GeneralNote
+39,,<music21.note.Note F>,note,bischoff758,2.0,232.0,GeneralNote
+39,,<music21.note.Note E->,note,bischoff759,2.0,232.0,GeneralNote
+39,,<music21.note.Note D>,note,bischoff760,0.5,233.5,GeneralNote
+40,,<music21.note.Note E->,note,bischoff761,6.0,234.0,GeneralNote
+40,,<music21.chord.Chord G3 B-3>,note,bischoff762,6.0,234.0,GeneralNote
+40,,<music21.chord.Chord E-2 B-2 E-3>,note,bischoff763,6.0,234.0,GeneralNote
+40,,<music21.note.Rest dotted-whole>,note,bischoff764,6.0,234.0,GeneralNote

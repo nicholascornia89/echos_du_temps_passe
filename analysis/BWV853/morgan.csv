@@ -1,1118 +1,1226 @@
 measure_start,measure_end,object,value,id,quarterlength,offset,type
 1,,<music21.note.Rest dotted-whole>,note,morgan1,6.0,0.0,GeneralNote
 1,,<music21.note.Note B->,note,morgan2,2.0,0.0,GeneralNote
-1,,<music21.chord.Chord E-4 G-4>,note,morgan3,2.0,0.0,GeneralNote
-1,,<music21.note.Rest dotted-whole>,note,morgan4,6.0,0.0,GeneralNote
-1,,<music21.note.Rest quarter>,note,morgan5,1.0,2.0,GeneralNote
-1,,<music21.chord.Chord E-4 G-4>,note,morgan6,2.0,2.0,GeneralNote
-1,,<music21.note.Rest eighth>,note,morgan7,0.5,3.0,GeneralNote
-1,,<music21.note.Note B->,note,morgan8,0.5,3.5,GeneralNote
-1,,<music21.note.Note E->,note,morgan9,1.5,4.0,GeneralNote
-1,,<music21.chord.Chord E-4 G-4>,note,morgan10,2.0,4.0,GeneralNote
-1,,<music21.note.Note G->,note,morgan11,0.5,5.5,GeneralNote
-1,2,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note C->>,slur,morgan1027,2.5,0.0,Slur
-1,,<music21.dynamics.Dynamic pp>,pp,morgan1069,,,DynamicPoint
-1,,<music21.expressions.TextExpression 'Lento'>,Lento,morgan1125,0.0,0.0,TextExpression
-1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None,morgan1133,0.0,0.0,TempoIndication
-1,,<music21.tempo.MetronomeMark largo Half=48>,largo,morgan1134,0.0,0.0,TempoIndication
-1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None None,morgan1135,0.0,0.0,MetronomeMark
-1,,<music21.tempo.MetronomeMark largo Half=48>,largo 48,morgan1136,0.0,0.0,MetronomeMark
-2,,<music21.note.Rest dotted-whole>,note,morgan12,6.0,6.0,GeneralNote
-2,,<music21.note.Note C->,note,morgan13,2.0,6.0,GeneralNote
-2,,<music21.chord.Chord E-4 A-4>,note,morgan14,2.0,6.0,GeneralNote
-2,,<music21.note.Rest dotted-whole>,note,morgan15,6.0,6.0,GeneralNote
-2,,<music21.note.Rest quarter>,note,morgan16,1.0,8.0,GeneralNote
-2,,<music21.chord.Chord E-4 A-4 C-5>,note,morgan17,2.0,8.0,GeneralNote
-2,,<music21.note.Rest eighth>,note,morgan18,0.5,9.0,GeneralNote
-2,,<music21.note.Note E->,note,morgan19,0.5,9.5,GeneralNote
-2,,<music21.note.Note A->,note,morgan20,1.5,10.0,GeneralNote
-2,,<music21.chord.Chord E-4 A-4 C-5>,note,morgan21,2.0,10.0,GeneralNote
-2,,<music21.note.Note C->,note,morgan22,0.5,11.5,GeneralNote
-2,3,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D>>,slur,morgan1028,2.5,0.0,Slur
-2,3,<music21.dynamics.Crescendo <music21.note.Note E-><music21.note.Note D>>,diminuendo,morgan1088,,,DynamicRegion
-3,,<music21.note.Rest half>,note,morgan23,2.0,12.0,GeneralNote
-3,,<music21.note.Note D>,note,morgan24,2.0,12.0,GeneralNote
-3,,<music21.chord.Chord E-4 F4 A-4>,note,morgan25,2.0,12.0,GeneralNote
-3,,<music21.note.Rest dotted-whole>,note,morgan26,6.0,12.0,GeneralNote
-3,,<music21.note.Rest quarter>,note,morgan27,1.0,13.0,GeneralNote
-3,,<music21.note.Rest quarter>,note,morgan28,1.0,13.0,GeneralNote
-3,,<music21.note.Rest quarter>,note,morgan29,1.0,14.0,GeneralNote
-3,,<music21.note.Rest quarter>,note,morgan30,1.0,14.0,GeneralNote
-3,,<music21.chord.Chord D4 F4 A-4>,note,morgan31,2.0,14.0,GeneralNote
-3,,<music21.note.Rest eighth>,note,morgan32,0.5,15.0,GeneralNote
-3,,<music21.note.Rest eighth>,note,morgan33,0.5,15.0,GeneralNote
-3,,<music21.note.Rest eighth>,note,morgan34,0.5,15.5,GeneralNote
-3,,<music21.note.Note F>,note,morgan35,0.5,15.5,GeneralNote
-3,,<music21.note.Note A->,note,morgan36,0.125,16.0,GeneralNote
-3,,<music21.note.Note A->,note,morgan37,1.0,16.0,GeneralNote
-3,,<music21.chord.Chord D4 F4>,note,morgan38,2.0,16.0,GeneralNote
-3,,<music21.note.Note B->,note,morgan39,0.125,16.125,GeneralNote
-3,,<music21.note.Note A->,note,morgan40,0.75,16.25,GeneralNote
-3,,<music21.note.Rest quarter>,note,morgan41,1.0,17.0,GeneralNote
-3,,<music21.note.Note A->,note,morgan42,0.25,17.0,GeneralNote
-3,,<music21.note.Note G->,note,morgan43,0.25,17.25,GeneralNote
-3,,<music21.note.Note A->,note,morgan44,0.25,17.5,GeneralNote
-3,,<music21.note.Note B->,note,morgan45,0.25,17.75,GeneralNote
-3,4,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G->>,slur,morgan1029,4.5,0.0,Slur
-4,,<music21.note.Note G->,note,morgan46,0.125,18.0,GeneralNote
-4,,<music21.note.Note G->,note,morgan47,1.5,18.0,GeneralNote
-4,,<music21.note.Note E->,note,morgan48,2.0,18.0,GeneralNote
-4,,<music21.note.Rest half>,note,morgan49,2.0,18.0,GeneralNote
-4,,<music21.note.Note A->,note,morgan50,0.125,18.125,GeneralNote
-4,,<music21.note.Note G->,note,morgan51,0.125,18.25,GeneralNote
-4,,<music21.note.Note A->,note,morgan52,0.125,18.375,GeneralNote
-4,,<music21.note.Note G->,note,morgan53,0.125,18.5,GeneralNote
-4,,<music21.note.Note A->,note,morgan54,0.125,18.625,GeneralNote
-4,,<music21.note.Note G->,note,morgan55,0.125,18.75,GeneralNote
-4,,<music21.note.Note A->,note,morgan56,0.125,18.875,GeneralNote
-4,,<music21.note.Note G->,note,morgan57,0.5,19.0,GeneralNote
-4,,<music21.note.Note F>,note,morgan58,0.25,19.5,GeneralNote
-4,,<music21.note.Note F>,note,morgan59,0.25,19.5,GeneralNote
-4,,<music21.articulations.Tenuto>,tenuto,morgan60,0.0,0.0,Articulation
-4,,<music21.note.Note E->,note,morgan61,0.25,19.75,GeneralNote
-4,,<music21.note.Note E->,note,morgan62,0.25,19.75,GeneralNote
-4,,<music21.articulations.Tenuto>,tenuto,morgan63,0.0,0.0,Articulation
-4,,<music21.note.Rest half>,note,morgan64,2.0,20.0,GeneralNote
-4,,<music21.note.Rest half>,note,morgan65,2.0,20.0,GeneralNote
-4,,<music21.note.Note G->,note,morgan66,2.0,20.0,GeneralNote
-4,,<music21.note.Rest quarter>,note,morgan67,1.0,20.0,GeneralNote
-4,,<music21.note.Rest eighth>,note,morgan68,0.5,21.0,GeneralNote
-4,,<music21.note.Note B->,note,morgan69,0.5,21.5,GeneralNote
-4,,<music21.note.Rest half>,note,morgan70,2.0,22.0,GeneralNote
-4,,<music21.note.Note G->,note,morgan71,2.0,22.0,GeneralNote
-4,,<music21.chord.Chord G-4 B-4 E-5>,note,morgan72,2.0,22.0,GeneralNote
-4,,<music21.note.Note G->,note,morgan73,1.5,22.0,GeneralNote
-4,,<music21.note.Note E->,note,morgan74,0.5,23.5,GeneralNote
-4,5,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note B->>,slur,morgan1030,2.5,0.0,Slur
-5,,<music21.note.Rest dotted-whole>,note,morgan75,6.0,24.0,GeneralNote
-5,,<music21.note.Note G->,note,morgan76,2.0,24.0,GeneralNote
-5,,<music21.chord.Chord G-4 B-4 D-5>,note,morgan77,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,morgan78,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,morgan79,2.0,24.0,GeneralNote
-5,,<music21.note.Note B->,note,morgan80,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,morgan81,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,morgan82,2.0,24.0,GeneralNote
-5,,<music21.note.Rest whole>,note,morgan83,4.0,26.0,GeneralNote
-5,,<music21.note.Rest quarter>,note,morgan84,1.0,26.0,GeneralNote
-5,,<music21.note.Note B->,note,morgan85,2.0,26.0,GeneralNote
-5,,<music21.chord.Chord D-3 G-3 B-3>,note,morgan86,2.0,26.0,GeneralNote
-5,,<music21.note.Rest 16th>,note,morgan87,0.25,27.0,GeneralNote
-5,,<music21.note.Note G->,note,morgan88,0.25,27.25,GeneralNote
-5,,<music21.note.Note F->,note,morgan89,0.25,27.5,GeneralNote
-5,,<music21.note.Note E->,note,morgan90,0.25,27.75,GeneralNote
-5,,<music21.note.Note F->,note,morgan91,1.5,28.0,GeneralNote
-5,,<music21.note.Note B->,note,morgan92,2.0,28.0,GeneralNote
-5,,<music21.chord.Chord D-3 G-3 B-3>,note,morgan93,2.0,28.0,GeneralNote
-5,,<music21.note.Note D->,note,morgan94,0.5,29.5,GeneralNote
-5,6,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note E->>,slur,morgan1031,2.75,0.0,Slur
-5,,<music21.dynamics.Dynamic p>,p,morgan1070,,,DynamicPoint
-6,,<music21.note.Rest dotted-whole>,note,morgan95,6.0,30.0,GeneralNote
-6,,<music21.note.Note E->,note,morgan96,2.0,30.0,GeneralNote
-6,,<music21.chord.Chord E-4 G-4 C-5>,note,morgan97,2.0,30.0,GeneralNote
-6,,<music21.chord.Chord E-3 G-3 C-4>,note,morgan98,2.0,30.0,GeneralNote
-6,,<music21.chord.Chord C-3 E-3>,note,morgan99,2.0,30.0,GeneralNote
-6,,<music21.note.Note E->,note,morgan100,2.0,32.0,GeneralNote
-6,,<music21.chord.Chord G-4 C-5>,note,morgan101,2.0,32.0,GeneralNote
-6,,<music21.note.Rest half>,note,morgan102,2.0,32.0,GeneralNote
-6,,<music21.note.Rest quarter>,note,morgan103,1.0,32.0,GeneralNote
-6,,<music21.note.Rest half>,note,morgan104,2.0,32.0,GeneralNote
-6,,<music21.note.Rest eighth>,note,morgan105,0.5,33.0,GeneralNote
-6,,<music21.note.Note G->,note,morgan106,0.5,33.5,GeneralNote
-6,,<music21.note.Note E->,note,morgan107,2.0,34.0,GeneralNote
-6,,<music21.chord.Chord G-4 C-5>,note,morgan108,2.0,34.0,GeneralNote
-6,,<music21.note.Rest half>,note,morgan109,2.0,34.0,GeneralNote
-6,,<music21.note.Note E->,note,morgan110,1.5,34.0,GeneralNote
-6,,<music21.note.Rest half>,note,morgan111,2.0,34.0,GeneralNote
-6,,<music21.note.Note C->,note,morgan112,0.5,35.5,GeneralNote
-6,7,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note G>>,slur,morgan1032,2.5,0.0,Slur
-6,7,<music21.dynamics.Crescendo <music21.note.Note E-><music21.note.Note B->>,diminuendo,morgan1090,,,DynamicRegion
-7,,<music21.note.Rest dotted-whole>,note,morgan113,6.0,36.0,GeneralNote
-7,,<music21.note.Note B->,note,morgan114,2.0,36.0,GeneralNote
-7,,<music21.chord.Chord B-4 E-5>,note,morgan115,2.0,36.0,GeneralNote
-7,,<music21.note.Rest half>,note,morgan116,2.0,36.0,GeneralNote
-7,,<music21.note.Rest half>,note,morgan117,2.0,36.0,GeneralNote
-7,,<music21.note.Note G>,note,morgan118,2.0,36.0,GeneralNote
-7,,<music21.note.Rest half>,note,morgan119,2.0,36.0,GeneralNote
-7,,<music21.note.Rest half>,note,morgan120,2.0,36.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,morgan121,1.0,38.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,morgan122,1.0,38.0,GeneralNote
-7,,<music21.note.Note G>,note,morgan123,2.0,38.0,GeneralNote
-7,,<music21.chord.Chord B-2 E-3 G3>,note,morgan124,2.0,38.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,morgan125,1.0,39.0,GeneralNote
-7,,<music21.note.Rest 16th>,note,morgan126,0.25,39.0,GeneralNote
-7,,<music21.note.Note E->,note,morgan127,0.25,39.25,GeneralNote
-7,,<music21.note.Note D->,note,morgan128,0.25,39.5,GeneralNote
-7,,<music21.note.Note C->,note,morgan129,0.25,39.75,GeneralNote
-7,,<music21.note.Rest quarter>,note,morgan130,1.0,40.0,GeneralNote
-7,,<music21.note.Note D->,note,morgan131,1.5,40.0,GeneralNote
-7,,<music21.note.Note G>,note,morgan132,2.0,40.0,GeneralNote
-7,,<music21.chord.Chord B-2 E-3 G3>,note,morgan133,2.0,40.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,morgan134,1.0,41.0,GeneralNote
-7,,<music21.note.Note B->,note,morgan135,0.5,41.5,GeneralNote
-7,8,<music21.spanner.Slur <music21.note.Note E-><music21.chord.Chord E-5 A-5 C-6>>,slur,morgan1033,4.75,0.0,Slur
-8,,<music21.note.Note C->,note,morgan136,0.125,42.0,GeneralNote
-8,,<music21.note.Rest half>,note,morgan137,2.0,42.0,GeneralNote
-8,,<music21.note.Note C->,note,morgan138,1.5,42.0,GeneralNote
-8,,<music21.chord.Chord C-3 E-3 A-3>,note,morgan139,2.0,42.0,GeneralNote
-8,,<music21.note.Note A->,note,morgan140,2.0,42.0,GeneralNote
-8,,<music21.note.Note D->,note,morgan141,0.125,42.125,GeneralNote
-8,,<music21.note.Note C->,note,morgan142,0.125,42.25,GeneralNote
-8,,<music21.note.Note D->,note,morgan143,0.125,42.375,GeneralNote
-8,,<music21.note.Note C->,note,morgan144,0.125,42.5,GeneralNote
-8,,<music21.note.Note D->,note,morgan145,0.125,42.625,GeneralNote
-8,,<music21.note.Note C->,note,morgan146,0.125,42.75,GeneralNote
-8,,<music21.note.Note D->,note,morgan147,0.125,42.875,GeneralNote
-8,,<music21.note.Note C->,note,morgan148,0.5,43.0,GeneralNote
-8,,<music21.note.Note B->,note,morgan149,0.25,43.5,GeneralNote
-8,,<music21.note.Note B->,note,morgan150,0.25,43.5,GeneralNote
-8,,<music21.note.Note A->,note,morgan151,0.25,43.75,GeneralNote
-8,,<music21.note.Note A->,note,morgan152,0.25,43.75,GeneralNote
-8,,<music21.articulations.Staccato>,staccato,morgan153,0.0,0.0,Articulation
-8,,<music21.note.Rest half>,note,morgan154,2.0,44.0,GeneralNote
-8,,<music21.chord.Chord E-5 A-5 C-6>,note,morgan155,2.0,44.0,GeneralNote
-8,,<music21.note.Rest quarter>,note,morgan156,1.0,44.0,GeneralNote
-8,,<music21.note.Rest half>,note,morgan157,2.0,44.0,GeneralNote
-8,,<music21.note.Rest whole>,note,morgan158,4.0,44.0,GeneralNote
-8,,<music21.note.Rest half>,note,morgan159,2.0,44.0,GeneralNote
-8,,<music21.note.Rest eighth>,note,morgan160,0.5,45.0,GeneralNote
-8,,<music21.note.Note C->,note,morgan161,0.5,45.5,GeneralNote
-8,,<music21.note.Rest half>,note,morgan162,2.0,46.0,GeneralNote
-8,,<music21.chord.Chord E-5 A-5 C-6>,note,morgan163,2.0,46.0,GeneralNote
-8,,<music21.note.Rest half>,note,morgan164,2.0,46.0,GeneralNote
-8,,<music21.note.Note A->,note,morgan165,1.5,46.0,GeneralNote
-8,,<music21.note.Rest half>,note,morgan166,2.0,46.0,GeneralNote
-8,,<music21.note.Note F>,note,morgan167,0.5,47.5,GeneralNote
-8,9,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,morgan1034,2.5,0.0,Slur
-8,8,<music21.dynamics.Diminuendo <music21.note.Rest half><music21.chord.Chord E-5 A-5 C-6>>,diminuendo,morgan1092,,,DynamicRegion
-9,,<music21.note.Rest dotted-whole>,note,morgan168,6.0,48.0,GeneralNote
-9,,<music21.chord.Chord F5 A-5 C-6>,note,morgan169,2.0,48.0,GeneralNote
-9,,<music21.note.Note D>,note,morgan170,2.0,48.0,GeneralNote
-9,,<music21.note.Rest dotted-whole>,note,morgan171,6.0,48.0,GeneralNote
-9,,<music21.note.Rest quarter>,note,morgan172,1.0,50.0,GeneralNote
-9,,<music21.chord.Chord D4 F4 B-4>,note,morgan173,2.0,50.0,GeneralNote
-9,,<music21.note.Rest 16th>,note,morgan174,0.25,51.0,GeneralNote
-9,,<music21.note.Note B->,note,morgan175,0.25,51.25,GeneralNote
-9,,<music21.note.Note A->,note,morgan176,0.25,51.5,GeneralNote
-9,,<music21.note.Note G->,note,morgan177,0.25,51.75,GeneralNote
-9,,<music21.note.Note F>,note,morgan178,0.25,52.0,GeneralNote
-9,,<music21.chord.Chord D4 F4 B-4>,note,morgan179,2.0,52.0,GeneralNote
-9,,<music21.note.Note G->,note,morgan180,0.25,52.25,GeneralNote
-9,,<music21.note.Note F>,note,morgan181,0.25,52.5,GeneralNote
-9,,<music21.note.Note G->,note,morgan182,0.25,52.75,GeneralNote
-9,,<music21.note.Note A->,note,morgan183,0.25,53.0,GeneralNote
-9,,<music21.note.Note G->,note,morgan184,0.25,53.25,GeneralNote
-9,,<music21.note.Note A->,note,morgan185,0.25,53.5,GeneralNote
-9,,<music21.note.Note F>,note,morgan186,0.25,53.75,GeneralNote
-9,10,<music21.spanner.Slur <music21.note.Note B-><music21.chord.Chord B-4 E-5 G-5 B-5>>,slur,morgan1035,4.75,0.0,Slur
-9,,<music21.dynamics.Dynamic p>,p,morgan1071,,,DynamicPoint
-10,,<music21.note.Note G->,note,morgan187,0.125,54.0,GeneralNote
-10,,<music21.note.Note G->,note,morgan188,1.5,54.0,GeneralNote
-10,,<music21.chord.Chord E-4 G-4 B-4>,note,morgan189,2.0,54.0,GeneralNote
-10,,<music21.note.Rest dotted-whole>,note,morgan190,6.0,54.0,GeneralNote
-10,,<music21.note.Note A->,note,morgan191,0.125,54.125,GeneralNote
-10,,<music21.note.Note G->,note,morgan192,0.125,54.25,GeneralNote
-10,,<music21.note.Note A->,note,morgan193,0.125,54.375,GeneralNote
-10,,<music21.note.Note G->,note,morgan194,0.125,54.5,GeneralNote
-10,,<music21.note.Note A->,note,morgan195,0.125,54.625,GeneralNote
-10,,<music21.note.Note G->,note,morgan196,0.125,54.75,GeneralNote
-10,,<music21.note.Note A->,note,morgan197,0.125,54.875,GeneralNote
-10,,<music21.note.Note G->,note,morgan198,0.5,55.0,GeneralNote
-10,,<music21.note.Note F>,note,morgan199,0.25,55.5,GeneralNote
-10,,<music21.note.Note F>,note,morgan200,0.25,55.5,GeneralNote
-10,,<music21.articulations.Tenuto>,tenuto,morgan201,0.0,0.0,Articulation
-10,,<music21.note.Note E->,note,morgan202,0.25,55.75,GeneralNote
-10,,<music21.note.Note E->,note,morgan203,0.25,55.75,GeneralNote
-10,,<music21.articulations.Tenuto>,tenuto,morgan204,0.0,0.0,Articulation
-10,,<music21.note.Rest half>,note,morgan205,2.0,56.0,GeneralNote
-10,,<music21.chord.Chord B-4 E-5 G-5 B-5>,note,morgan206,2.0,56.0,GeneralNote
-10,,<music21.note.Rest quarter>,note,morgan207,1.0,56.0,GeneralNote
-10,,<music21.note.Rest eighth>,note,morgan208,0.5,57.0,GeneralNote
-10,,<music21.note.Note G->,note,morgan209,0.5,57.5,GeneralNote
-10,,<music21.note.Rest half>,note,morgan210,2.0,58.0,GeneralNote
-10,,<music21.chord.Chord D-5 E-5 G-5 B-5>,note,morgan211,2.0,58.0,GeneralNote
-10,,<music21.note.Note E->,note,morgan212,1.5,58.0,GeneralNote
-10,,<music21.note.Note C>,note,morgan213,0.5,59.5,GeneralNote
-10,11,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note A>>,slur,morgan1036,2.5,0.0,Slur
-10,11,<music21.dynamics.Crescendo <music21.chord.Chord D-5 E-5 G-5 B-5><music21.note.Note C>>,diminuendo,morgan1094,,,DynamicRegion
-11,,<music21.note.Rest dotted-whole>,note,morgan214,6.0,60.0,GeneralNote
-11,,<music21.note.Note C>,note,morgan215,2.0,60.0,GeneralNote
-11,,<music21.chord.Chord C5 E-5 G-5>,note,morgan216,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,morgan217,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,morgan218,2.0,60.0,GeneralNote
-11,,<music21.note.Note A>,note,morgan219,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,morgan220,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,morgan221,2.0,60.0,GeneralNote
-11,,<music21.note.Rest quarter>,note,morgan222,1.0,61.0,GeneralNote
-11,,<music21.note.Rest quarter>,note,morgan223,1.0,61.0,GeneralNote
-11,,<music21.note.Rest whole>,note,morgan224,4.0,62.0,GeneralNote
-11,,<music21.note.Rest quarter>,note,morgan225,1.0,62.0,GeneralNote
-11,,<music21.note.Note A>,note,morgan226,2.0,62.0,GeneralNote
-11,,<music21.chord.Chord C4 F4>,note,morgan227,2.0,62.0,GeneralNote
-11,,<music21.note.Rest 16th>,note,morgan228,0.25,63.0,GeneralNote
-11,,<music21.note.Note F>,note,morgan229,0.25,63.25,GeneralNote
-11,,<music21.note.Note E->,note,morgan230,0.25,63.5,GeneralNote
-11,,<music21.note.Note D->,note,morgan231,0.25,63.75,GeneralNote
-11,,<music21.note.Note C>,note,morgan232,0.25,64.0,GeneralNote
-11,,<music21.note.Note A>,note,morgan233,2.0,64.0,GeneralNote
-11,,<music21.chord.Chord C4 F4>,note,morgan234,2.0,64.0,GeneralNote
-11,,<music21.note.Note D->,note,morgan235,0.25,64.25,GeneralNote
-11,,<music21.note.Note C>,note,morgan236,0.25,64.5,GeneralNote
-11,,<music21.note.Note D->,note,morgan237,0.25,64.75,GeneralNote
-11,,<music21.note.Note E->,note,morgan238,0.25,65.0,GeneralNote
-11,,<music21.note.Note D->,note,morgan239,0.25,65.25,GeneralNote
-11,,<music21.note.Note E->,note,morgan240,0.25,65.5,GeneralNote
-11,,<music21.note.Note C>,note,morgan241,0.25,65.75,GeneralNote
-11,12,<music21.spanner.Slur <music21.note.Note F><music21.chord.Chord B-4 D-5 F5>>,slur,morgan1037,4.75,0.0,Slur
-11,11,<music21.dynamics.Diminuendo <music21.note.Note C><music21.note.Note E->>,diminuendo,morgan1096,,,DynamicRegion
-12,,<music21.note.Note D->,note,morgan242,0.125,66.0,GeneralNote
-12,,<music21.note.Note D->,note,morgan243,1.5,66.0,GeneralNote
-12,,<music21.chord.Chord D-4 F4>,note,morgan244,2.0,66.0,GeneralNote
-12,,<music21.note.Note B->,note,morgan245,2.0,66.0,GeneralNote
-12,,<music21.note.Note E->,note,morgan246,0.125,66.125,GeneralNote
-12,,<music21.note.Note D->,note,morgan247,0.125,66.25,GeneralNote
-12,,<music21.note.Note E->,note,morgan248,0.125,66.375,GeneralNote
-12,,<music21.note.Note D->,note,morgan249,0.125,66.5,GeneralNote
-12,,<music21.note.Note E->,note,morgan250,0.125,66.625,GeneralNote
-12,,<music21.note.Note D->,note,morgan251,0.125,66.75,GeneralNote
-12,,<music21.note.Note E->,note,morgan252,0.125,66.875,GeneralNote
-12,,<music21.note.Note D->,note,morgan253,0.5,67.0,GeneralNote
-12,,<music21.note.Note C>,note,morgan254,0.25,67.5,GeneralNote
-12,,<music21.note.Note C>,note,morgan255,0.25,67.5,GeneralNote
-12,,<music21.articulations.Tenuto>,tenuto,morgan256,0.0,0.0,Articulation
-12,,<music21.note.Note B->,note,morgan257,0.25,67.75,GeneralNote
-12,,<music21.note.Note B->,note,morgan258,0.25,67.75,GeneralNote
-12,,<music21.articulations.Tenuto>,tenuto,morgan259,0.0,0.0,Articulation
-12,,<music21.note.Rest half>,note,morgan260,2.0,68.0,GeneralNote
-12,,<music21.chord.Chord B-4 D-5 F5>,note,morgan261,1.0,68.0,GeneralNote
-12,,<music21.chord.Chord D-4 F4>,note,morgan262,2.0,68.0,GeneralNote
-12,,<music21.note.Note B->,note,morgan263,2.0,68.0,GeneralNote
-12,,<music21.note.Note F>,note,morgan264,0.25,69.0,GeneralNote
-12,,<music21.note.Note G->,note,morgan265,0.25,69.25,GeneralNote
-12,,<music21.note.Note F>,note,morgan266,0.25,69.5,GeneralNote
-12,,<music21.note.Note E->,note,morgan267,0.25,69.75,GeneralNote
-12,,<music21.note.Rest half>,note,morgan268,2.0,70.0,GeneralNote
-12,,<music21.note.Note D->,note,morgan269,0.25,70.0,GeneralNote
-12,,<music21.chord.Chord D-4 F4>,note,morgan270,2.0,70.0,GeneralNote
-12,,<music21.note.Note B->,note,morgan271,2.0,70.0,GeneralNote
-12,,<music21.note.Note C>,note,morgan272,0.25,70.25,GeneralNote
-12,,<music21.note.Note B->,note,morgan273,0.25,70.5,GeneralNote
-12,,<music21.note.Note A->,note,morgan274,0.25,70.75,GeneralNote
-12,,<music21.note.Note G->,note,morgan275,0.5,71.0,GeneralNote
-12,,<music21.note.Note A->,note,morgan276,0.25,71.5,GeneralNote
-12,,<music21.note.Note F>,note,morgan277,0.25,71.75,GeneralNote
-12,14,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note B->>,slur,morgan1038,10.75,0.0,Slur
-13,,<music21.note.Rest dotted-whole>,note,morgan278,6.0,72.0,GeneralNote
-13,,<music21.note.Note G->,note,morgan279,1.0,72.0,GeneralNote
-13,,<music21.note.Note E->,note,morgan280,1.0,72.0,GeneralNote
-13,,<music21.chord.Chord B-3 D-4>,note,morgan281,2.0,72.0,GeneralNote
-13,,<music21.note.Note E->,note,morgan282,2.0,72.0,GeneralNote
-13,,<music21.note.Note G->,note,morgan283,0.5,73.0,GeneralNote
-13,,<music21.note.Rest quarter>,note,morgan284,1.0,73.0,GeneralNote
-13,,<music21.note.Rest quarter>,note,morgan285,1.0,73.0,GeneralNote
-13,,<music21.note.Note B->,note,morgan286,0.25,73.5,GeneralNote
-13,,<music21.note.Note D->,note,morgan287,0.25,73.75,GeneralNote
-13,,<music21.note.Note G->,note,morgan288,1.0,74.0,GeneralNote
-13,,<music21.note.Rest half>,note,morgan289,2.0,74.0,GeneralNote
-13,,<music21.note.Rest half>,note,morgan290,2.0,74.0,GeneralNote
-13,,<music21.chord.Chord B-3 C4>,note,morgan291,2.0,74.0,GeneralNote
-13,,<music21.note.Note E->,note,morgan292,2.0,74.0,GeneralNote
-13,,<music21.note.Note G->,note,morgan293,0.25,75.0,GeneralNote
-13,,<music21.note.Note F>,note,morgan294,0.25,75.25,GeneralNote
-13,,<music21.note.Note E->,note,morgan295,0.25,75.5,GeneralNote
-13,,<music21.note.Note D->,note,morgan296,0.25,75.75,GeneralNote
-13,,<music21.note.Note C>,note,morgan297,0.75,76.0,GeneralNote
-13,,<music21.note.Rest half>,note,morgan298,2.0,76.0,GeneralNote
-13,,<music21.note.Rest half>,note,morgan299,2.0,76.0,GeneralNote
-13,,<music21.chord.Chord B-3 C4>,note,morgan300,2.0,76.0,GeneralNote
-13,,<music21.note.Note E->,note,morgan301,2.0,76.0,GeneralNote
-13,,<music21.note.Note E->,note,morgan302,0.125,76.75,GeneralNote
-13,,<music21.note.Note D->,note,morgan303,0.125,76.875,GeneralNote
-13,,<music21.note.Note C>,note,morgan304,0.25,77.0,GeneralNote
-13,,<music21.articulations.Tenuto>,tenuto,morgan305,0.0,0.0,Articulation
-13,,<music21.note.Note D->,note,morgan306,0.25,77.25,GeneralNote
-13,,<music21.articulations.Tenuto>,tenuto,morgan307,0.0,0.0,Articulation
-13,,<music21.note.Note E->,note,morgan308,0.5,77.5,GeneralNote
-13,,<music21.articulations.Tenuto>,tenuto,morgan309,0.0,0.0,Articulation
-13,,<music21.dynamics.Dynamic mf>,mf,morgan1072,,,DynamicPoint
-14,,<music21.note.Rest quarter>,note,morgan310,1.0,78.0,GeneralNote
-14,,<music21.note.Note F>,note,morgan311,0.75,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,morgan312,2.0,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,morgan313,2.0,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,morgan314,2.0,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,morgan315,2.0,78.0,GeneralNote
-14,,<music21.chord.Chord A3 C4>,note,morgan316,2.0,78.0,GeneralNote
-14,,<music21.note.Note E->,note,morgan317,2.0,78.0,GeneralNote
-14,,<music21.note.Note G>,note,morgan318,0.125,78.75,GeneralNote
-14,,<music21.note.Note A>,note,morgan319,0.125,78.875,GeneralNote
-14,,<music21.note.Note B->,note,morgan320,0.125,79.0,GeneralNote
-14,,<music21.note.Note A>,note,morgan321,0.75,79.0,GeneralNote
-14,,<music21.note.Note A->,note,morgan322,0.125,79.125,GeneralNote
-14,,<music21.note.Note B->,note,morgan323,0.125,79.25,GeneralNote
-14,,<music21.note.Note A->,note,morgan324,0.125,79.375,GeneralNote
-14,,<music21.note.Note B->,note,morgan325,0.125,79.5,GeneralNote
-14,,<music21.note.Note A->,note,morgan326,0.125,79.625,GeneralNote
-14,,<music21.note.Note G->,note,morgan327,0.125,79.75,GeneralNote
-14,,<music21.note.Note G>,note,morgan328,0.125,79.75,GeneralNote
-14,,<music21.note.Note A->,note,morgan329,0.125,79.875,GeneralNote
-14,,<music21.note.Note A>,note,morgan330,0.125,79.875,GeneralNote
-14,,<music21.note.Rest half>,note,morgan331,2.0,80.0,GeneralNote
-14,,<music21.note.Note B->,note,morgan332,4.0,80.0,GeneralNote
-14,,<music21.articulations.Accent>,accent,morgan333,0.0,0.0,Articulation
-14,,<music21.note.Rest quarter>,note,morgan334,1.0,80.0,GeneralNote
-14,,<music21.chord.Chord F3 B-3>,note,morgan335,2.0,80.0,GeneralNote
-14,,<music21.note.Note D->,note,morgan336,2.0,80.0,GeneralNote
-14,,<music21.note.Rest eighth>,note,morgan337,0.5,81.0,GeneralNote
-14,,<music21.note.Note F>,note,morgan338,0.5,81.5,GeneralNote
-14,,<music21.note.Rest half>,note,morgan339,2.0,82.0,GeneralNote
-14,,<music21.note.Note G->,note,morgan340,1.5,82.0,GeneralNote
-14,,<music21.note.Note B->,note,morgan341,2.0,82.0,GeneralNote
-14,,<music21.note.Note E->,note,morgan342,2.0,82.0,GeneralNote
-14,,<music21.note.Note E->,note,morgan343,0.5,83.5,GeneralNote
-14,15,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C>>,slur,morgan1039,2.5,0.0,Slur
-14,,<music21.expressions.TextExpression 'dim.'>,dim.,morgan1126,0.0,81.5,TextExpression
-15,,<music21.note.Rest whole>,note,morgan344,4.0,84.0,GeneralNote
-15,,<music21.note.Note B->,note,morgan345,4.0,84.0,GeneralNote
-15,,<music21.note.Note C>,note,morgan346,1.0,84.0,GeneralNote
-15,,<music21.note.Rest half>,note,morgan347,2.0,84.0,GeneralNote
-15,,<music21.note.Rest whole>,note,morgan348,4.0,84.0,GeneralNote
-15,,<music21.note.Rest half>,note,morgan349,2.0,84.0,GeneralNote
-15,,<music21.note.Rest whole>,note,morgan350,4.0,84.0,GeneralNote
-15,,<music21.note.Note F>,note,morgan351,2.0,84.0,GeneralNote
-15,,<music21.note.Note F>,note,morgan352,2.0,84.0,GeneralNote
-15,,<music21.note.Note C>,note,morgan353,0.25,85.0,GeneralNote
-15,,<music21.note.Note D->,note,morgan354,0.25,85.25,GeneralNote
-15,,<music21.note.Note C>,note,morgan355,0.25,85.5,GeneralNote
-15,,<music21.note.Note D->,note,morgan356,0.25,85.75,GeneralNote
-15,,<music21.note.Note E->,note,morgan357,0.25,86.0,GeneralNote
-15,,<music21.note.Rest half>,note,morgan358,2.0,86.0,GeneralNote
-15,,<music21.note.Rest half>,note,morgan359,2.0,86.0,GeneralNote
-15,,<music21.note.Note F>,note,morgan360,2.0,86.0,GeneralNote
-15,,<music21.note.Note F>,note,morgan361,2.0,86.0,GeneralNote
-15,,<music21.note.Note D->,note,morgan362,0.25,86.25,GeneralNote
-15,,<music21.note.Note C>,note,morgan363,0.25,86.5,GeneralNote
-15,,<music21.note.Note D->,note,morgan364,0.25,86.75,GeneralNote
-15,,<music21.note.Note E->,note,morgan365,0.25,87.0,GeneralNote
-15,,<music21.note.Note F>,note,morgan366,0.25,87.25,GeneralNote
-15,,<music21.note.Note E->,note,morgan367,0.25,87.5,GeneralNote
-15,,<music21.note.Note F>,note,morgan368,0.25,87.75,GeneralNote
-15,,<music21.note.Rest quarter>,note,morgan369,1.0,88.0,GeneralNote
-15,,<music21.note.Note A>,note,morgan370,2.0,88.0,GeneralNote
-15,,<music21.note.Note G->,note,morgan371,1.0,88.0,GeneralNote
-15,,<music21.note.Note C>,note,morgan372,2.0,88.0,GeneralNote
-15,,<music21.note.Note F>,note,morgan373,2.0,88.0,GeneralNote
-15,,<music21.note.Note F>,note,morgan374,2.0,88.0,GeneralNote
-15,,<music21.note.Note F>,note,morgan375,0.125,89.0,GeneralNote
-15,,<music21.note.Note F>,note,morgan376,0.75,89.0,GeneralNote
-15,,<music21.note.Note G->,note,morgan377,0.125,89.125,GeneralNote
-15,,<music21.note.Note F>,note,morgan378,0.25,89.25,GeneralNote
-15,,<music21.note.Note F>,note,morgan379,0.375,89.5,GeneralNote
-15,,<music21.note.Note E->,note,morgan380,0.25,89.75,GeneralNote
-15,,<music21.note.Note E->,note,morgan381,0.125,89.875,GeneralNote
-15,16,<music21.spanner.Slur <music21.note.Note D-><music21.chord.Chord F4 B-4>>,slur,morgan1040,6.75,0.0,Slur
-15,17,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note D->>,diminuendo,morgan1098,,,DynamicRegion
-16,,<music21.note.Rest dotted-whole>,note,morgan382,6.0,90.0,GeneralNote
-16,,<music21.note.Note B->,note,morgan383,1.5,90.0,GeneralNote
-16,,<music21.note.Note D->,note,morgan384,1.5,90.0,GeneralNote
-16,,<music21.note.Note B->,note,morgan385,2.0,90.0,GeneralNote
-16,,<music21.chord.Chord F3 B-3>,note,morgan386,2.0,90.0,GeneralNote
-16,,<music21.note.Note C>,note,morgan387,0.5,91.5,GeneralNote
-16,,<music21.note.Note E->,note,morgan388,0.5,91.5,GeneralNote
-16,,<music21.note.Note D->,note,morgan389,2.0,92.0,GeneralNote
-16,,<music21.chord.Chord F4 B-4>,note,morgan390,2.0,92.0,GeneralNote
-16,,<music21.note.Rest half>,note,morgan391,2.0,92.0,GeneralNote
-16,,<music21.note.Rest quarter>,note,morgan392,1.0,92.0,GeneralNote
-16,,<music21.note.Rest half>,note,morgan393,2.0,92.0,GeneralNote
-16,,<music21.note.Rest eighth>,note,morgan394,0.5,93.0,GeneralNote
-16,,<music21.note.Note B->,note,morgan395,0.5,93.5,GeneralNote
-16,,<music21.note.Note D->,note,morgan396,2.0,94.0,GeneralNote
-16,,<music21.chord.Chord F4 B-4>,note,morgan397,2.0,94.0,GeneralNote
-16,,<music21.note.Rest half>,note,morgan398,2.0,94.0,GeneralNote
-16,,<music21.note.Note D->,note,morgan399,1.5,94.0,GeneralNote
-16,,<music21.note.Rest half>,note,morgan400,2.0,94.0,GeneralNote
-16,,<music21.note.Note F>,note,morgan401,0.5,95.5,GeneralNote
-16,17,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note G>>,slur,morgan1041,2.5,0.0,Slur
-16,,<music21.dynamics.Dynamic p>,p,morgan1073,,,DynamicPoint
-17,,<music21.note.Rest dotted-whole>,note,morgan402,6.0,96.0,GeneralNote
-17,,<music21.note.Note D->,note,morgan403,1.5,96.0,GeneralNote
-17,,<music21.chord.Chord F-4 B-4>,note,morgan404,1.5,96.0,GeneralNote
-17,,<music21.note.Note G>,note,morgan405,2.0,96.0,GeneralNote
-17,,<music21.note.Note C->,note,morgan406,0.25,97.5,GeneralNote
-17,,<music21.articulations.Tenuto>,tenuto,morgan407,0.0,0.0,Articulation
-17,,<music21.note.Rest eighth>,note,morgan408,0.5,97.5,GeneralNote
-17,,<music21.note.Rest eighth>,note,morgan409,0.5,97.5,GeneralNote
-17,,<music21.note.Note B->,note,morgan410,0.25,97.75,GeneralNote
-17,,<music21.articulations.Tenuto>,tenuto,morgan411,0.0,0.0,Articulation
-17,,<music21.note.Note F->,note,morgan412,2.0,98.0,GeneralNote
-17,,<music21.chord.Chord B-4 D-5>,note,morgan413,2.0,98.0,GeneralNote
-17,,<music21.note.Note G>,note,morgan414,1.0,98.0,GeneralNote
-17,,<music21.note.Note G>,note,morgan415,0.25,99.0,GeneralNote
-17,,<music21.note.Note B->,note,morgan416,0.25,99.25,GeneralNote
-17,,<music21.note.Note A->,note,morgan417,0.25,99.5,GeneralNote
-17,,<music21.note.Note G>,note,morgan418,0.25,99.75,GeneralNote
-17,,<music21.chord.Chord D-5 F-5>,note,morgan419,1.5,100.0,GeneralNote
-17,,<music21.chord.Chord B-4 D-5>,note,morgan420,1.5,100.0,GeneralNote
-17,,<music21.note.Note D->,note,morgan421,2.0,100.0,GeneralNote
-17,,<music21.note.Note E->,note,morgan422,0.25,101.5,GeneralNote
-17,,<music21.articulations.Tenuto>,tenuto,morgan423,0.0,0.0,Articulation
-17,,<music21.note.Rest eighth>,note,morgan424,0.5,101.5,GeneralNote
-17,,<music21.note.Rest eighth>,note,morgan425,0.5,101.5,GeneralNote
-17,,<music21.note.Note D->,note,morgan426,0.25,101.75,GeneralNote
-17,,<music21.articulations.Tenuto>,tenuto,morgan427,0.0,0.0,Articulation
-17,17,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note B->>,slur,morgan1042,1.75,0.0,Slur
-17,17,<music21.spanner.Slur <music21.chord.Chord D-5 F-5><music21.note.Note D->>,slur,morgan1043,1.75,0.0,Slur
-17,20,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A->>,slur,morgan1044,14.75,0.0,Slur
-18,,<music21.note.Rest dotted-whole>,note,morgan428,6.0,102.0,GeneralNote
-18,,<music21.note.Note G>,note,morgan429,2.0,102.0,GeneralNote
-18,,<music21.chord.Chord B-4 D-5>,note,morgan430,2.0,102.0,GeneralNote
-18,,<music21.note.Rest half>,note,morgan431,2.0,102.0,GeneralNote
-18,,<music21.note.Rest whole>,note,morgan432,4.0,102.0,GeneralNote
-18,,<music21.note.Rest half>,note,morgan433,2.0,102.0,GeneralNote
-18,,<music21.note.Rest whole>,note,morgan434,4.0,102.0,GeneralNote
-18,,<music21.note.Note D->,note,morgan435,1.5,102.0,GeneralNote
-18,,<music21.note.Note C->,note,morgan436,0.25,103.5,GeneralNote
-18,,<music21.articulations.Tenuto>,tenuto,morgan437,0.0,0.0,Articulation
-18,,<music21.note.Note B->,note,morgan438,0.25,103.75,GeneralNote
-18,,<music21.articulations.Tenuto>,tenuto,morgan439,0.0,0.0,Articulation
-18,,<music21.note.Note G>,note,morgan440,1.5,104.0,GeneralNote
-18,,<music21.chord.Chord B-4 D-5>,note,morgan441,1.5,104.0,GeneralNote
-18,,<music21.note.Rest half>,note,morgan442,2.0,104.0,GeneralNote
-18,,<music21.note.Rest half>,note,morgan443,2.0,104.0,GeneralNote
-18,,<music21.note.Note F->,note,morgan444,0.5,104.0,GeneralNote
-18,,<music21.note.Note E->,note,morgan445,0.5,104.5,GeneralNote
-18,,<music21.note.Note F->,note,morgan446,0.5,105.0,GeneralNote
-18,,<music21.note.Note F>,note,morgan447,0.25,105.5,GeneralNote
-18,,<music21.articulations.Staccato>,staccato,morgan448,0.0,0.0,Articulation
-18,,<music21.note.Rest eighth>,note,morgan449,0.5,105.5,GeneralNote
-18,,<music21.note.Rest eighth>,note,morgan450,0.5,105.5,GeneralNote
-18,,<music21.note.Note D->,note,morgan451,0.5,105.5,GeneralNote
-18,,<music21.note.Note E->,note,morgan452,0.25,105.75,GeneralNote
-18,,<music21.articulations.Staccato>,staccato,morgan453,0.0,0.0,Articulation
-18,,<music21.note.Note A->,note,morgan454,2.0,106.0,GeneralNote
-18,,<music21.note.Rest half>,note,morgan455,2.0,106.0,GeneralNote
-18,,<music21.chord.Chord C-5 E-5>,note,morgan456,2.0,106.0,GeneralNote
-18,,<music21.note.Rest half>,note,morgan457,2.0,106.0,GeneralNote
-18,,<music21.note.Note C->,note,morgan458,0.25,106.0,GeneralNote
-18,,<music21.note.Note B->,note,morgan459,0.25,106.25,GeneralNote
-18,,<music21.note.Note A->,note,morgan460,0.25,106.5,GeneralNote
-18,,<music21.note.Note B->,note,morgan461,0.25,106.75,GeneralNote
-18,,<music21.note.Note C->,note,morgan462,0.25,107.0,GeneralNote
-18,,<music21.note.Note A->,note,morgan463,0.25,107.25,GeneralNote
-18,,<music21.note.Note B->,note,morgan464,0.25,107.5,GeneralNote
-18,,<music21.note.Note C->,note,morgan465,0.25,107.75,GeneralNote
-18,18,<music21.spanner.Slur <music21.note.Note G><music21.note.Note E->>,slur,morgan1045,1.75,0.0,Slur
-19,,<music21.note.Rest half>,note,morgan466,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,morgan467,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,morgan468,2.0,108.0,GeneralNote
-19,,<music21.note.Note A->,note,morgan469,0.5,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,morgan470,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,morgan471,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,morgan472,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,morgan473,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,morgan474,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,morgan475,2.0,108.0,GeneralNote
-19,,<music21.note.Note F->,note,morgan476,1.0,108.0,GeneralNote
-19,,<music21.note.Note G>,note,morgan477,0.5,108.5,GeneralNote
-19,,<music21.note.Note A->,note,morgan478,0.5,109.0,GeneralNote
-19,,<music21.note.Note F->,note,morgan479,0.25,109.0,GeneralNote
-19,,<music21.note.Note F->,note,morgan480,0.25,109.25,GeneralNote
-19,,<music21.note.Note B->,note,morgan481,0.5,109.5,GeneralNote
-19,,<music21.note.Note E->,note,morgan482,0.25,109.5,GeneralNote
-19,,<music21.note.Note D->,note,morgan483,0.25,109.75,GeneralNote
-19,,<music21.note.Note C->,note,morgan484,0.25,110.0,GeneralNote
-19,,<music21.note.Note G>,note,morgan485,4.0,110.0,GeneralNote
-19,,<music21.note.Note E->,note,morgan486,2.0,110.0,GeneralNote
-19,,<music21.note.Note B->,note,morgan487,3.0,110.0,GeneralNote
-19,,<music21.note.Note E->,note,morgan488,2.0,110.0,GeneralNote
-19,,<music21.note.Note G>,note,morgan489,4.0,110.0,GeneralNote
-19,,<music21.note.Note E->,note,morgan490,1.5,110.0,GeneralNote
-19,,<music21.note.Note B->,note,morgan491,0.125,110.25,GeneralNote
-19,,<music21.note.Note C->,note,morgan492,0.125,110.375,GeneralNote
-19,,<music21.note.Note B->,note,morgan493,0.125,110.5,GeneralNote
-19,,<music21.note.Note C->,note,morgan494,0.125,110.625,GeneralNote
-19,,<music21.note.Note B->,note,morgan495,0.125,110.75,GeneralNote
-19,,<music21.note.Note C->,note,morgan496,0.125,110.875,GeneralNote
-19,,<music21.note.Note B->,note,morgan497,0.125,111.0,GeneralNote
-19,,<music21.note.Note C->,note,morgan498,0.125,111.125,GeneralNote
-19,,<music21.note.Note B->,note,morgan499,0.125,111.25,GeneralNote
-19,,<music21.note.Note C->,note,morgan500,0.125,111.375,GeneralNote
-19,,<music21.note.Note B->,note,morgan501,0.125,111.5,GeneralNote
-19,,<music21.note.Note D->,note,morgan502,0.5,111.5,GeneralNote
-19,,<music21.note.Note C->,note,morgan503,0.125,111.625,GeneralNote
-19,,<music21.note.Note B->,note,morgan504,0.125,111.75,GeneralNote
-19,,<music21.note.Note C->,note,morgan505,0.125,111.875,GeneralNote
-19,,<music21.note.Note B->,note,morgan506,1.0,112.0,GeneralNote
-19,,<music21.note.Note D->,note,morgan507,2.0,112.0,GeneralNote
-19,,<music21.note.Note D->,note,morgan508,2.0,112.0,GeneralNote
-19,,<music21.note.Note E->,note,morgan509,1.5,112.0,GeneralNote
-19,,<music21.note.Note A->,note,morgan510,1.0,113.0,GeneralNote
-19,,<music21.note.Note A->,note,morgan511,1.0,113.0,GeneralNote
-19,,<music21.note.Note E->,note,morgan512,0.5,113.5,GeneralNote
-19,19,<music21.dynamics.Diminuendo <music21.note.Note D-><music21.note.Note E->>,diminuendo,morgan1100,,,DynamicRegion
-20,,<music21.note.Rest dotted-whole>,note,morgan513,6.0,114.0,GeneralNote
-20,,<music21.note.Note A->,note,morgan514,1.5,114.0,GeneralNote
-20,,<music21.chord.Chord C-5 E-5>,note,morgan515,1.5,114.0,GeneralNote
-20,,<music21.note.Note A->,note,morgan516,2.0,114.0,GeneralNote
-20,,<music21.note.Rest eighth>,note,morgan517,0.5,115.5,GeneralNote
-20,,<music21.note.Note C->,note,morgan518,0.5,115.5,GeneralNote
-20,,<music21.note.Note F>,note,morgan519,1.5,116.0,GeneralNote
-20,,<music21.articulations.Accent>,accent,morgan520,0.0,0.0,Articulation
-20,,<music21.note.Rest half>,note,morgan521,2.0,116.0,GeneralNote
-20,,<music21.note.Rest half>,note,morgan522,2.0,116.0,GeneralNote
-20,,<music21.note.Rest quarter>,note,morgan523,1.0,116.0,GeneralNote
-20,,<music21.note.Rest eighth>,note,morgan524,0.5,117.0,GeneralNote
-20,,<music21.note.Note G->,note,morgan525,0.25,117.5,GeneralNote
-20,,<music21.articulations.Tenuto>,tenuto,morgan526,0.0,0.0,Articulation
-20,,<music21.note.Note C->,note,morgan527,0.5,117.5,GeneralNote
-20,,<music21.note.Note A->,note,morgan528,0.25,117.75,GeneralNote
-20,,<music21.articulations.Tenuto>,tenuto,morgan529,0.0,0.0,Articulation
-20,,<music21.note.Note D>,note,morgan530,1.5,118.0,GeneralNote
-20,,<music21.note.Rest half>,note,morgan531,2.0,118.0,GeneralNote
-20,,<music21.note.Rest half>,note,morgan532,2.0,118.0,GeneralNote
-20,,<music21.note.Note F>,note,morgan533,1.5,118.0,GeneralNote
-20,,<music21.articulations.Accent>,accent,morgan534,0.0,0.0,Articulation
-20,,<music21.note.Note E->,note,morgan535,0.25,119.5,GeneralNote
-20,,<music21.articulations.Tenuto>,tenuto,morgan536,0.0,0.0,Articulation
-20,,<music21.note.Note G->,note,morgan537,0.25,119.5,GeneralNote
-20,,<music21.articulations.Tenuto>,tenuto,morgan538,0.0,0.0,Articulation
-20,,<music21.note.Note F>,note,morgan539,0.25,119.75,GeneralNote
-20,,<music21.articulations.Tenuto>,tenuto,morgan540,0.0,0.0,Articulation
-20,,<music21.note.Note A->,note,morgan541,0.25,119.75,GeneralNote
-20,,<music21.articulations.Tenuto>,tenuto,morgan542,0.0,0.0,Articulation
-20,21,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,slur,morgan1046,4.5,0.0,Slur
-20,21,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,slur,morgan1047,4.5,0.0,Slur
-20,,<music21.dynamics.Dynamic f>,f,morgan1074,,,DynamicPoint
-20,,<music21.dynamics.Dynamic f>,f,morgan1075,,,DynamicPoint
-21,,<music21.note.Rest dotted-whole>,note,morgan543,6.0,120.0,GeneralNote
-21,,<music21.note.Note B->,note,morgan544,1.5,120.0,GeneralNote
-21,,<music21.note.Note D>,note,morgan545,1.5,120.0,GeneralNote
-21,,<music21.articulations.Accent>,accent,morgan546,0.0,0.0,Articulation
-21,,<music21.note.Note A->,note,morgan547,0.5,121.5,GeneralNote
-21,,<music21.note.Note E->,note,morgan548,0.25,121.5,GeneralNote
-21,,<music21.articulations.Tenuto>,tenuto,morgan549,0.0,0.0,Articulation
-21,,<music21.note.Note F>,note,morgan550,0.25,121.75,GeneralNote
-21,,<music21.articulations.Tenuto>,tenuto,morgan551,0.0,0.0,Articulation
-21,,<music21.note.Note D>,note,morgan552,1.5,122.0,GeneralNote
-21,,<music21.articulations.Accent>,accent,morgan553,0.0,0.0,Articulation
-21,,<music21.note.Note B->,note,morgan554,1.5,122.0,GeneralNote
-21,,<music21.note.Note E->,note,morgan555,0.25,123.5,GeneralNote
-21,,<music21.articulations.Tenuto>,tenuto,morgan556,0.0,0.0,Articulation
-21,,<music21.note.Note A->,note,morgan557,0.5,123.5,GeneralNote
-21,,<music21.note.Note F>,note,morgan558,0.25,123.75,GeneralNote
-21,,<music21.articulations.Tenuto>,tenuto,morgan559,0.0,0.0,Articulation
-21,,<music21.note.Note B->,note,morgan560,1.5,124.0,GeneralNote
-21,,<music21.note.Note D>,note,morgan561,1.5,124.0,GeneralNote
-21,,<music21.articulations.Accent>,accent,morgan562,0.0,0.0,Articulation
-21,,<music21.note.Note C>,note,morgan563,0.25,125.5,GeneralNote
-21,,<music21.articulations.Tenuto>,tenuto,morgan564,0.0,0.0,Articulation
-21,,<music21.note.Note E->,note,morgan565,0.25,125.5,GeneralNote
-21,,<music21.articulations.Tenuto>,tenuto,morgan566,0.0,0.0,Articulation
-21,,<music21.note.Note D>,note,morgan567,0.25,125.75,GeneralNote
-21,,<music21.articulations.Tenuto>,tenuto,morgan568,0.0,0.0,Articulation
-21,,<music21.note.Note F>,note,morgan569,0.25,125.75,GeneralNote
-21,,<music21.articulations.Tenuto>,tenuto,morgan570,0.0,0.0,Articulation
-21,22,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note E->>,slur,morgan1048,4.5,0.0,Slur
-21,22,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G->>,slur,morgan1049,2.5,0.0,Slur
-22,,<music21.note.Rest dotted-whole>,note,morgan571,6.0,126.0,GeneralNote
-22,,<music21.note.Note E->,note,morgan572,1.5,126.0,GeneralNote
-22,,<music21.articulations.Accent>,accent,morgan573,0.0,0.0,Articulation
-22,,<music21.note.Rest half>,note,morgan574,2.0,126.0,GeneralNote
-22,,<music21.note.Rest whole>,note,morgan575,4.0,126.0,GeneralNote
-22,,<music21.note.Rest half>,note,morgan576,2.0,126.0,GeneralNote
-22,,<music21.note.Rest whole>,note,morgan577,4.0,126.0,GeneralNote
-22,,<music21.note.Note G->,note,morgan578,2.0,126.0,GeneralNote
-22,,<music21.note.Note D->,note,morgan579,0.25,127.5,GeneralNote
-22,,<music21.articulations.Tenuto>,tenuto,morgan580,0.0,0.0,Articulation
-22,,<music21.note.Note C->,note,morgan581,0.25,127.75,GeneralNote
-22,,<music21.articulations.Tenuto>,tenuto,morgan582,0.0,0.0,Articulation
-22,,<music21.note.Note D->,note,morgan583,2.0,128.0,GeneralNote
-22,,<music21.note.Rest half>,note,morgan584,2.0,128.0,GeneralNote
-22,,<music21.note.Rest half>,note,morgan585,2.0,128.0,GeneralNote
-22,,<music21.note.Note G>,note,morgan586,1.5,128.0,GeneralNote
-22,,<music21.note.Note B->,note,morgan587,0.5,129.5,GeneralNote
-22,,<music21.note.Note D->,note,morgan588,2.0,130.0,GeneralNote
-22,,<music21.chord.Chord E-4 B-4>,note,morgan589,2.0,130.0,GeneralNote
-22,,<music21.note.Note G>,note,morgan590,1.5,130.0,GeneralNote
-22,,<music21.note.Note E->,note,morgan591,0.5,131.5,GeneralNote
-22,22,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D->>,slur,morgan1050,2.0,0.0,Slur
-22,23,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A->>,slur,morgan1051,2.5,0.0,Slur
-22,,<music21.dynamics.Dynamic p>,p,morgan1076,,,DynamicPoint
-22,22,<music21.dynamics.Diminuendo <music21.note.Note E-><music21.note.Note C->>,diminuendo,morgan1102,,,DynamicRegion
-23,,<music21.note.Rest dotted-whole>,note,morgan592,6.0,132.0,GeneralNote
-23,,<music21.note.Note D->,note,morgan593,1.5,132.0,GeneralNote
-23,,<music21.articulations.Tenuto>,tenuto,morgan594,0.0,0.0,Articulation
-23,,<music21.chord.Chord E-4 B-4>,note,morgan595,1.5,132.0,GeneralNote
-23,,<music21.note.Note A->,note,morgan596,2.0,132.0,GeneralNote
-23,,<music21.note.Note C->,note,morgan597,0.25,133.5,GeneralNote
-23,,<music21.articulations.Staccato>,staccato,morgan598,0.0,0.0,Articulation
-23,,<music21.note.Rest eighth>,note,morgan599,0.5,133.5,GeneralNote
-23,,<music21.note.Note B->,note,morgan600,0.25,133.75,GeneralNote
-23,,<music21.articulations.Staccato>,staccato,morgan601,0.0,0.0,Articulation
-23,,<music21.note.Note C->,note,morgan602,2.0,134.0,GeneralNote
-23,,<music21.note.Rest half>,note,morgan603,2.0,134.0,GeneralNote
-23,,<music21.note.Rest quarter>,note,morgan604,1.0,134.0,GeneralNote
-23,,<music21.note.Rest eighth>,note,morgan605,0.5,135.0,GeneralNote
-23,,<music21.note.Note C->,note,morgan606,0.5,135.5,GeneralNote
-23,,<music21.note.Note C->,note,morgan607,2.0,136.0,GeneralNote
-23,,<music21.chord.Chord E-4 A-4>,note,morgan608,2.0,136.0,GeneralNote
-23,,<music21.note.Note A->,note,morgan609,1.5,136.0,GeneralNote
-23,,<music21.note.Note F>,note,morgan610,0.5,137.5,GeneralNote
-23,23,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note C->>,slur,morgan1052,2.0,0.0,Slur
-23,24,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,morgan1053,2.5,0.0,Slur
-23,23,<music21.dynamics.Diminuendo <music21.note.Note D-><music21.note.Note C->>,diminuendo,morgan1104,,,DynamicRegion
-24,,<music21.note.Rest whole>,note,morgan611,4.0,138.0,GeneralNote
-24,,<music21.note.Note C->,note,morgan612,1.5,138.0,GeneralNote
-24,,<music21.articulations.Tenuto>,tenuto,morgan613,0.0,0.0,Articulation
-24,,<music21.chord.Chord F4 A-4>,note,morgan614,1.5,138.0,GeneralNote
-24,,<music21.chord.Chord F3 A-3>,note,morgan615,2.0,138.0,GeneralNote
-24,,<music21.note.Note D>,note,morgan616,2.0,138.0,GeneralNote
-24,,<music21.note.Note B->,note,morgan617,0.25,139.5,GeneralNote
-24,,<music21.articulations.Tenuto>,tenuto,morgan618,0.0,0.0,Articulation
-24,,<music21.note.Rest eighth>,note,morgan619,0.5,139.5,GeneralNote
-24,,<music21.note.Rest eighth>,note,morgan620,0.5,139.5,GeneralNote
-24,,<music21.note.Note A->,note,morgan621,0.25,139.75,GeneralNote
-24,,<music21.articulations.Tenuto>,tenuto,morgan622,0.0,0.0,Articulation
-24,,<music21.note.Note F>,note,morgan623,1.5,140.0,GeneralNote
-24,,<music21.articulations.Tenuto>,tenuto,morgan624,0.0,0.0,Articulation
-24,,<music21.note.Rest half>,note,morgan625,2.0,140.0,GeneralNote
-24,,<music21.note.Rest half>,note,morgan626,2.0,140.0,GeneralNote
-24,,<music21.chord.Chord F3 B-3>,note,morgan627,2.0,140.0,GeneralNote
-24,,<music21.note.Note D>,note,morgan628,2.0,140.0,GeneralNote
-24,,<music21.note.Note C->,note,morgan629,0.5,141.5,GeneralNote
-24,,<music21.note.Note B->,note,morgan630,0.125,142.0,GeneralNote
-24,,<music21.note.Note B->,note,morgan631,1.5,142.0,GeneralNote
-24,,<music21.note.Rest half>,note,morgan632,2.0,142.0,GeneralNote
-24,,<music21.note.Rest half>,note,morgan633,2.0,142.0,GeneralNote
-24,,<music21.chord.Chord F3 B-3>,note,morgan634,2.0,142.0,GeneralNote
-24,,<music21.note.Note D>,note,morgan635,2.0,142.0,GeneralNote
-24,,<music21.note.Note C->,note,morgan636,0.125,142.125,GeneralNote
-24,,<music21.note.Note B->,note,morgan637,0.125,142.25,GeneralNote
-24,,<music21.note.Note C->,note,morgan638,0.125,142.375,GeneralNote
-24,,<music21.note.Note B->,note,morgan639,0.125,142.5,GeneralNote
-24,,<music21.note.Note C->,note,morgan640,0.125,142.625,GeneralNote
-24,,<music21.note.Note B->,note,morgan641,0.125,142.75,GeneralNote
-24,,<music21.note.Note C->,note,morgan642,0.125,142.875,GeneralNote
-24,,<music21.note.Note B->,note,morgan643,0.5,143.0,GeneralNote
-24,,<music21.note.Note C->,note,morgan644,0.25,143.5,GeneralNote
-24,,<music21.note.Note C->,note,morgan645,0.25,143.5,GeneralNote
-24,,<music21.articulations.Staccato>,staccato,morgan646,0.0,0.0,Articulation
-24,,<music21.note.Note A->,note,morgan647,0.25,143.75,GeneralNote
-24,,<music21.note.Note A->,note,morgan648,0.25,143.75,GeneralNote
-24,,<music21.articulations.Staccato>,staccato,morgan649,0.0,0.0,Articulation
-24,25,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note G->>,slur,morgan1054,6.0,0.0,Slur
-24,24,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note F>>,diminuendo,morgan1106,,,DynamicRegion
-24,24,<music21.dynamics.Diminuendo <music21.note.Note C-><music21.note.Note A->>,diminuendo,morgan1108,,,DynamicRegion
-25,,<music21.note.Rest dotted-whole>,note,morgan650,6.0,144.0,GeneralNote
-25,,<music21.note.Note G->,note,morgan651,2.0,144.0,GeneralNote
-25,,<music21.note.Note E->,note,morgan652,2.0,144.0,GeneralNote
-25,,<music21.note.Rest half>,note,morgan653,2.0,144.0,GeneralNote
-25,,<music21.note.Rest whole>,note,morgan654,4.0,144.0,GeneralNote
-25,,<music21.chord.Chord E-3 G-3 B-3>,note,morgan655,2.0,144.0,GeneralNote
-25,,<music21.note.Rest half>,note,morgan656,2.0,144.0,GeneralNote
-25,,<music21.note.Rest whole>,note,morgan657,4.0,144.0,GeneralNote
-25,,<music21.note.Note G->,note,morgan658,0.25,146.0,GeneralNote
-25,,<music21.note.Rest half>,note,morgan659,2.0,146.0,GeneralNote
-25,,<music21.note.Rest half>,note,morgan660,2.0,146.0,GeneralNote
-25,,<music21.note.Rest half>,note,morgan661,2.0,146.0,GeneralNote
-25,,<music21.chord.Chord E-3 G-3 B-3>,note,morgan662,2.0,146.0,GeneralNote
-25,,<music21.note.Rest half>,note,morgan663,2.0,146.0,GeneralNote
-25,,<music21.note.Note E->,note,morgan664,0.25,146.25,GeneralNote
-25,,<music21.note.Note F>,note,morgan665,0.25,146.5,GeneralNote
-25,,<music21.note.Note G->,note,morgan666,0.25,146.75,GeneralNote
-25,,<music21.note.Note A->,note,morgan667,0.25,147.0,GeneralNote
-25,,<music21.note.Note B->,note,morgan668,0.25,147.25,GeneralNote
-25,,<music21.note.Note C>,note,morgan669,0.25,147.5,GeneralNote
-25,,<music21.note.Note D>,note,morgan670,0.25,147.75,GeneralNote
-25,,<music21.note.Note E->,note,morgan671,0.25,148.0,GeneralNote
-25,,<music21.note.Rest half>,note,morgan672,2.0,148.0,GeneralNote
-25,,<music21.note.Rest half>,note,morgan673,2.0,148.0,GeneralNote
-25,,<music21.chord.Chord E-3 B-3>,note,morgan674,2.0,148.0,GeneralNote
-25,,<music21.note.Note G->,note,morgan675,2.0,148.0,GeneralNote
-25,,<music21.note.Note F>,note,morgan676,0.25,148.25,GeneralNote
-25,,<music21.note.Note G->,note,morgan677,0.25,148.5,GeneralNote
-25,,<music21.note.Note A->,note,morgan678,0.25,148.75,GeneralNote
-25,,<music21.note.Note G->,note,morgan679,0.25,149.0,GeneralNote
-25,,<music21.note.Note F>,note,morgan680,0.25,149.25,GeneralNote
-25,,<music21.note.Note G->,note,morgan681,0.25,149.5,GeneralNote
-25,,<music21.note.Note E->,note,morgan682,0.25,149.75,GeneralNote
-25,26,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note F->>,slur,morgan1055,4.0,0.0,Slur
-25,,<music21.dynamics.Dynamic p>,p,morgan1077,,,DynamicPoint
-25,25,<music21.dynamics.Crescendo <music21.note.Note G-><music21.note.Note E->>,diminuendo,morgan1110,,,DynamicRegion
-26,,<music21.note.Rest dotted-whole>,note,morgan683,6.0,150.0,GeneralNote
-26,,<music21.note.Note F->,note,morgan684,1.5,150.0,GeneralNote
-26,,<music21.chord.Chord F-4 A-4 C-5>,note,morgan685,1.5,150.0,GeneralNote
-26,,<music21.note.Rest half>,note,morgan686,2.0,150.0,GeneralNote
-26,,<music21.note.Rest half>,note,morgan687,2.0,150.0,GeneralNote
-26,,<music21.chord.Chord A-2 C-3 F-3 A-3>,note,morgan688,2.0,150.0,GeneralNote
-26,,<music21.note.Rest half>,note,morgan689,2.0,150.0,GeneralNote
-26,,<music21.note.Rest half>,note,morgan690,2.0,150.0,GeneralNote
-26,,<music21.note.Note C->,note,morgan691,0.25,151.5,GeneralNote
-26,,<music21.note.Rest eighth>,note,morgan692,0.5,151.5,GeneralNote
-26,,<music21.note.Rest eighth>,note,morgan693,0.5,151.5,GeneralNote
-26,,<music21.note.Note B-->,note,morgan694,0.25,151.75,GeneralNote
-26,,<music21.note.Note A->,note,morgan695,1.5,152.0,GeneralNote
-26,,<music21.articulations.Tenuto>,tenuto,morgan696,0.0,0.0,Articulation
-26,,<music21.note.Rest half>,note,morgan697,2.0,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,morgan698,2.0,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,morgan699,2.0,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,morgan700,2.0,152.0,GeneralNote
-26,,<music21.note.Note B-->,note,morgan701,0.25,153.5,GeneralNote
-26,,<music21.note.Note C->,note,morgan702,0.25,153.75,GeneralNote
-26,,<music21.note.Note F->,note,morgan703,1.5,154.0,GeneralNote
-26,,<music21.articulations.Tenuto>,tenuto,morgan704,0.0,0.0,Articulation
-26,,<music21.note.Rest half>,note,morgan705,2.0,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,morgan706,2.0,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,morgan707,2.0,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,morgan708,2.0,154.0,GeneralNote
-26,,<music21.note.Note G->,note,morgan709,0.25,155.5,GeneralNote
-26,,<music21.note.Note A->,note,morgan710,0.25,155.75,GeneralNote
-26,,<music21.dynamics.Dynamic f>,f,morgan1078,,,DynamicPoint
-26,27,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note D>>,diminuendo,morgan1112,,,DynamicRegion
-26,,<music21.expressions.TextExpression 'non legato'>,non legato,morgan1127,0.0,150.0,TextExpression
-27,,<music21.note.Rest dotted-whole>,note,morgan711,6.0,156.0,GeneralNote
-27,,<music21.note.Note D>,note,morgan712,1.5,156.0,GeneralNote
-27,,<music21.articulations.Tenuto>,tenuto,morgan713,0.0,0.0,Articulation
-27,,<music21.note.Rest half>,note,morgan714,2.0,156.0,GeneralNote
-27,,<music21.note.Rest half>,note,morgan715,2.0,156.0,GeneralNote
-27,,<music21.chord.Chord A-2 F3 B-3>,note,morgan716,2.0,156.0,GeneralNote
-27,,<music21.note.Rest half>,note,morgan717,2.0,156.0,GeneralNote
-27,,<music21.note.Rest half>,note,morgan718,2.0,156.0,GeneralNote
-27,,<music21.note.Note F>,note,morgan719,0.25,157.5,GeneralNote
-27,,<music21.note.Note A->,note,morgan720,0.25,157.75,GeneralNote
-27,,<music21.note.Note C->,note,morgan721,1.5,158.0,GeneralNote
-27,,<music21.articulations.Tenuto>,tenuto,morgan722,0.0,0.0,Articulation
-27,,<music21.note.Rest half>,note,morgan723,2.0,158.0,GeneralNote
-27,,<music21.note.Rest half>,note,morgan724,2.0,158.0,GeneralNote
-27,,<music21.note.Note B->,note,morgan725,0.25,159.5,GeneralNote
-27,,<music21.note.Note A->,note,morgan726,0.25,159.75,GeneralNote
-27,,<music21.note.Note F>,note,morgan727,1.5,160.0,GeneralNote
-27,,<music21.articulations.Tenuto>,tenuto,morgan728,0.0,0.0,Articulation
-27,,<music21.note.Rest half>,note,morgan729,2.0,160.0,GeneralNote
-27,,<music21.note.Rest half>,note,morgan730,2.0,160.0,GeneralNote
-27,,<music21.note.Note E->,note,morgan731,0.25,161.5,GeneralNote
-27,,<music21.note.Note D>,note,morgan732,0.25,161.75,GeneralNote
-27,,<music21.dynamics.Dynamic fz>,fz,morgan1079,,,DynamicPoint
-27,,<music21.expressions.TextExpression 'poco rit.'>,poco rit.,morgan1128,0.0,158.0,TextExpression
-28,,<music21.note.Rest dotted-whole>,note,morgan733,6.0,162.0,GeneralNote
-28,,<music21.note.Note C->,note,morgan734,0.5,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,morgan735,2.0,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,morgan736,2.0,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,morgan737,2.0,162.0,GeneralNote
-28,,<music21.note.Note A>,note,morgan738,1.0,162.5,GeneralNote
-28,,<music21.articulations.Accent>,accent,morgan739,0.0,0.0,Articulation
-28,,<music21.note.Note B->,note,morgan740,0.5,163.5,GeneralNote
-28,,<music21.note.Note E->,note,morgan741,2.0,164.0,GeneralNote
-28,,<music21.chord.Chord G-4 B-4>,note,morgan742,2.0,164.0,GeneralNote
-28,,<music21.chord.Chord E-3 G-3 B-3>,note,morgan743,2.0,164.0,GeneralNote
-28,,<music21.note.Note B->,note,morgan744,2.0,164.0,GeneralNote
-28,,<music21.note.Note D>,note,morgan745,1.5,166.0,GeneralNote
-28,,<music21.chord.Chord F4 B-4>,note,morgan746,2.0,166.0,GeneralNote
-28,,<music21.chord.Chord F3 A-3 B-3>,note,morgan747,2.0,166.0,GeneralNote
-28,,<music21.note.Note B->,note,morgan748,2.0,166.0,GeneralNote
-28,,<music21.note.Note E->,note,morgan749,0.5,167.5,GeneralNote
-28,28,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A>>,slur,morgan1056,0.5,0.0,Slur
-28,,<music21.dynamics.Dynamic ff>,ff,morgan1080,,,DynamicPoint
-28,28,<music21.dynamics.Diminuendo <music21.note.Note D><music21.note.Note E->>,diminuendo,morgan1114,,,DynamicRegion
-28,,<music21.expressions.TextExpression 'a tempo'>,a tempo,morgan1129,0.0,164.0,TextExpression
-29,,<music21.note.Rest half>,note,morgan750,2.0,168.0,GeneralNote
-29,,<music21.note.Note E->,note,morgan751,6.0,168.0,GeneralNote
-29,,<music21.articulations.Accent>,accent,morgan752,0.0,0.0,Articulation
-29,,<music21.chord.Chord E-4 B-4>,note,morgan753,1.0,168.0,GeneralNote
-29,,<music21.note.Note E->,note,morgan754,2.0,168.0,GeneralNote
-29,,<music21.note.Note C->,note,morgan755,2.0,168.0,GeneralNote
-29,,<music21.chord.Chord E-4 B-4>,note,morgan756,0.25,169.0,GeneralNote
-29,,<music21.note.Note A->,note,morgan757,0.25,169.25,GeneralNote
-29,,<music21.note.Note G>,note,morgan758,0.25,169.5,GeneralNote
-29,,<music21.note.Note A->,note,morgan759,0.25,169.75,GeneralNote
-29,,<music21.note.Note B->,note,morgan760,0.125,170.0,GeneralNote
-29,,<music21.note.Note A->,note,morgan761,2.0,170.0,GeneralNote
-29,,<music21.note.Note E->,note,morgan762,2.0,170.0,GeneralNote
-29,,<music21.note.Note C->,note,morgan763,2.0,170.0,GeneralNote
-29,,<music21.note.Note A->,note,morgan764,0.125,170.125,GeneralNote
-29,,<music21.note.Note B->,note,morgan765,0.125,170.25,GeneralNote
-29,,<music21.note.Note A->,note,morgan766,0.125,170.375,GeneralNote
-29,,<music21.note.Note B->,note,morgan767,0.125,170.5,GeneralNote
-29,,<music21.note.Note A->,note,morgan768,0.125,170.625,GeneralNote
-29,,<music21.note.Note B->,note,morgan769,0.125,170.75,GeneralNote
-29,,<music21.note.Note A->,note,morgan770,0.125,170.875,GeneralNote
-29,,<music21.note.Note B->,note,morgan771,0.125,171.0,GeneralNote
-29,,<music21.note.Note A->,note,morgan772,0.125,171.125,GeneralNote
-29,,<music21.note.Note B->,note,morgan773,0.125,171.25,GeneralNote
-29,,<music21.note.Note A->,note,morgan774,0.125,171.375,GeneralNote
-29,,<music21.note.Note B->,note,morgan775,0.125,171.5,GeneralNote
-29,,<music21.note.Note A->,note,morgan776,0.125,171.625,GeneralNote
-29,,<music21.note.Note B->,note,morgan777,0.125,171.75,GeneralNote
-29,,<music21.note.Note A->,note,morgan778,0.125,171.875,GeneralNote
-29,,<music21.note.Note B->,note,morgan779,0.125,172.0,GeneralNote
-29,,<music21.note.Note A->,note,morgan780,1.5,172.0,GeneralNote
-29,,<music21.note.Note E->,note,morgan781,2.0,172.0,GeneralNote
-29,,<music21.note.Note C->,note,morgan782,2.0,172.0,GeneralNote
-29,,<music21.note.Note A->,note,morgan783,0.125,172.125,GeneralNote
-29,,<music21.note.Note B->,note,morgan784,0.125,172.25,GeneralNote
-29,,<music21.note.Note A->,note,morgan785,0.125,172.375,GeneralNote
-29,,<music21.note.Note B->,note,morgan786,0.125,172.5,GeneralNote
-29,,<music21.note.Note A->,note,morgan787,0.125,172.625,GeneralNote
-29,,<music21.note.Note B->,note,morgan788,0.125,172.75,GeneralNote
-29,,<music21.note.Note A->,note,morgan789,0.125,172.875,GeneralNote
-29,,<music21.note.Note B->,note,morgan790,0.125,173.0,GeneralNote
-29,,<music21.note.Note A->,note,morgan791,0.125,173.125,GeneralNote
-29,,<music21.note.Note B->,note,morgan792,0.125,173.25,GeneralNote
-29,,<music21.note.Note A->,note,morgan793,0.125,173.375,GeneralNote
-29,,<music21.note.Note G>,note,morgan794,0.25,173.5,GeneralNote
-29,,<music21.note.Note G>,note,morgan795,0.25,173.5,GeneralNote
-29,,<music21.note.Note A->,note,morgan796,0.25,173.75,GeneralNote
-29,,<music21.note.Note A->,note,morgan797,0.25,173.75,GeneralNote
-29,,<music21.dynamics.Dynamic mf>,mf,morgan1081,,,DynamicPoint
-29,30,<music21.dynamics.Diminuendo <music21.chord.Chord E-4 B-4><music21.note.Note E->>,diminuendo,morgan1116,,,DynamicRegion
-30,,<music21.note.Rest dotted-whole>,note,morgan798,6.0,174.0,GeneralNote
-30,,<music21.note.Note E->,note,morgan799,2.0,174.0,GeneralNote
-30,,<music21.note.Note B->,note,morgan800,6.0,174.0,GeneralNote
-30,,<music21.chord.Chord B-3 E-4>,note,morgan801,2.0,174.0,GeneralNote
-30,,<music21.note.Note G>,note,morgan802,2.0,174.0,GeneralNote
-30,,<music21.note.Note E->,note,morgan803,1.0,176.0,GeneralNote
-30,,<music21.chord.Chord B-3 E-4>,note,morgan804,2.0,176.0,GeneralNote
-30,,<music21.note.Note G>,note,morgan805,2.0,176.0,GeneralNote
-30,,<music21.note.Note E->,note,morgan806,0.25,177.0,GeneralNote
-30,,<music21.note.Note E->,note,morgan807,0.25,177.25,GeneralNote
-30,,<music21.note.Note D->,note,morgan808,0.25,177.5,GeneralNote
-30,,<music21.note.Note C->,note,morgan809,0.25,177.75,GeneralNote
-30,,<music21.note.Note D->,note,morgan810,1.5,178.0,GeneralNote
-30,,<music21.chord.Chord B-3 E-4>,note,morgan811,2.0,178.0,GeneralNote
-30,,<music21.note.Note G>,note,morgan812,2.0,178.0,GeneralNote
-30,,<music21.note.Note B->,note,morgan813,0.5,179.5,GeneralNote
-30,31,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,morgan1057,2.75,0.0,Slur
-30,,<music21.dynamics.Dynamic p>,p,morgan1082,,,DynamicPoint
-31,,<music21.note.Rest dotted-whole>,note,morgan814,6.0,180.0,GeneralNote
-31,,<music21.note.Note C->,note,morgan815,2.0,180.0,GeneralNote
-31,,<music21.note.Note A->,note,morgan816,2.0,180.0,GeneralNote
-31,,<music21.note.Note E->,note,morgan817,2.0,180.0,GeneralNote
-31,,<music21.chord.Chord A-3 C-4>,note,morgan818,2.0,180.0,GeneralNote
-31,,<music21.note.Note C->,note,morgan819,1.0,182.0,GeneralNote
-31,,<music21.note.Rest half>,note,morgan820,2.0,182.0,GeneralNote
-31,,<music21.note.Note E->,note,morgan821,1.0,182.0,GeneralNote
-31,,<music21.note.Rest half>,note,morgan822,2.0,182.0,GeneralNote
-31,,<music21.note.Note F->,note,morgan823,2.0,182.0,GeneralNote
-31,,<music21.note.Note C->,note,morgan824,0.25,183.0,GeneralNote
-31,,<music21.note.Note E->,note,morgan825,0.25,183.0,GeneralNote
-31,,<music21.note.Note C->,note,morgan826,0.25,183.25,GeneralNote
-31,,<music21.note.Note E->,note,morgan827,0.25,183.25,GeneralNote
-31,,<music21.note.Note B->,note,morgan828,0.25,183.5,GeneralNote
-31,,<music21.note.Note D->,note,morgan829,0.25,183.5,GeneralNote
-31,,<music21.note.Note A->,note,morgan830,0.25,183.75,GeneralNote
-31,,<music21.note.Note C->,note,morgan831,0.25,183.75,GeneralNote
-31,,<music21.note.Note B->,note,morgan832,1.5,184.0,GeneralNote
-31,,<music21.note.Rest half>,note,morgan833,2.0,184.0,GeneralNote
-31,,<music21.note.Note D->,note,morgan834,1.5,184.0,GeneralNote
-31,,<music21.note.Rest half>,note,morgan835,2.0,184.0,GeneralNote
-31,,<music21.note.Note F->,note,morgan836,2.0,184.0,GeneralNote
-31,,<music21.note.Note G>,note,morgan837,0.5,185.5,GeneralNote
-31,,<music21.note.Note B->,note,morgan838,0.5,185.5,GeneralNote
-31,32,<music21.spanner.Slur <music21.note.Note C-><music21.chord.Chord C-4 A-4>>,slur,morgan1058,2.75,0.0,Slur
-32,,<music21.note.Rest dotted-whole>,note,morgan839,6.0,186.0,GeneralNote
-32,,<music21.chord.Chord C-4 A-4>,note,morgan840,2.0,186.0,GeneralNote
-32,,<music21.note.Note D>,note,morgan841,2.0,186.0,GeneralNote
-32,,<music21.note.Note F>,note,morgan842,2.0,186.0,GeneralNote
-32,,<music21.chord.Chord C-4 A-4>,note,morgan843,2.0,188.0,GeneralNote
-32,,<music21.note.Note D>,note,morgan844,2.0,188.0,GeneralNote
-32,,<music21.note.Note F>,note,morgan845,1.0,188.0,GeneralNote
-32,,<music21.note.Note F>,note,morgan846,0.25,189.0,GeneralNote
-32,,<music21.note.Note G->,note,morgan847,0.25,189.25,GeneralNote
-32,,<music21.note.Note F>,note,morgan848,0.25,189.5,GeneralNote
-32,,<music21.note.Note E->,note,morgan849,0.25,189.75,GeneralNote
-32,,<music21.chord.Chord C-4 A-4>,note,morgan850,2.0,190.0,GeneralNote
-32,,<music21.note.Note D>,note,morgan851,2.0,190.0,GeneralNote
-32,,<music21.note.Note F>,note,morgan852,0.75,190.0,GeneralNote
-32,,<music21.note.Note G->,note,morgan853,0.25,190.75,GeneralNote
-32,,<music21.note.Note A->,note,morgan854,0.25,191.0,GeneralNote
-32,,<music21.note.Note F>,note,morgan855,0.25,191.25,GeneralNote
-32,,<music21.note.Note G->,note,morgan856,0.25,191.5,GeneralNote
-32,,<music21.note.Note A->,note,morgan857,0.25,191.75,GeneralNote
-32,33,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note D>>,slur,morgan1059,2.75,0.0,Slur
-32,,<music21.dynamics.Dynamic pp>,pp,morgan1083,,,DynamicPoint
-33,,<music21.note.Rest dotted-whole>,note,morgan858,6.0,192.0,GeneralNote
-33,,<music21.chord.Chord C-4 A-4>,note,morgan859,2.0,192.0,GeneralNote
-33,,<music21.note.Note F>,note,morgan860,2.0,192.0,GeneralNote
-33,,<music21.note.Note D>,note,morgan861,2.0,192.0,GeneralNote
-33,,<music21.chord.Chord C-4 A-4>,note,morgan862,2.0,194.0,GeneralNote
-33,,<music21.note.Note F>,note,morgan863,2.0,194.0,GeneralNote
-33,,<music21.note.Note D>,note,morgan864,1.0,194.0,GeneralNote
-33,,<music21.note.Note D>,note,morgan865,0.25,195.0,GeneralNote
-33,,<music21.note.Note E->,note,morgan866,0.25,195.25,GeneralNote
-33,,<music21.note.Note D>,note,morgan867,0.25,195.5,GeneralNote
-33,,<music21.note.Note C>,note,morgan868,0.25,195.75,GeneralNote
-33,,<music21.chord.Chord C-4 A-4>,note,morgan869,2.0,196.0,GeneralNote
-33,,<music21.note.Note F>,note,morgan870,2.0,196.0,GeneralNote
-33,,<music21.note.Note D>,note,morgan871,0.75,196.0,GeneralNote
-33,,<music21.note.Note E->,note,morgan872,0.25,196.75,GeneralNote
-33,,<music21.note.Note F>,note,morgan873,0.25,197.0,GeneralNote
-33,,<music21.note.Note D>,note,morgan874,0.25,197.25,GeneralNote
-33,,<music21.note.Note E->,note,morgan875,0.25,197.5,GeneralNote
-33,,<music21.note.Note F>,note,morgan876,0.25,197.75,GeneralNote
-33,34,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,morgan1060,2.75,0.0,Slur
-33,,<music21.expressions.TextExpression 'cresc.'>,cresc.,morgan1130,0.0,194.0,TextExpression
-34,,<music21.note.Rest dotted-whole>,note,morgan877,6.0,198.0,GeneralNote
-34,,<music21.chord.Chord D4 A-4>,note,morgan878,2.0,198.0,GeneralNote
-34,,<music21.note.Note F>,note,morgan879,2.0,198.0,GeneralNote
-34,,<music21.note.Note C->,note,morgan880,2.0,198.0,GeneralNote
-34,,<music21.chord.Chord D4 A-4>,note,morgan881,2.0,200.0,GeneralNote
-34,,<music21.note.Note F>,note,morgan882,2.0,200.0,GeneralNote
-34,,<music21.note.Note C->,note,morgan883,1.0,200.0,GeneralNote
-34,,<music21.note.Note C->,note,morgan884,0.25,201.0,GeneralNote
-34,,<music21.note.Note D->,note,morgan885,0.25,201.25,GeneralNote
-34,,<music21.note.Note C->,note,morgan886,0.25,201.5,GeneralNote
-34,,<music21.note.Note B->,note,morgan887,0.25,201.75,GeneralNote
-34,,<music21.chord.Chord D4 A-4>,note,morgan888,2.0,202.0,GeneralNote
-34,,<music21.note.Note F>,note,morgan889,2.0,202.0,GeneralNote
-34,,<music21.note.Note C->,note,morgan890,0.25,202.0,GeneralNote
-34,,<music21.note.Note B->,note,morgan891,0.25,202.25,GeneralNote
-34,,<music21.note.Note A->,note,morgan892,0.25,202.5,GeneralNote
-34,,<music21.note.Note B->,note,morgan893,0.25,202.75,GeneralNote
-34,,<music21.note.Note C->,note,morgan894,0.25,203.0,GeneralNote
-34,,<music21.note.Note A->,note,morgan895,0.25,203.25,GeneralNote
-34,,<music21.articulations.Tenuto>,tenuto,morgan896,0.0,0.0,Articulation
-34,,<music21.note.Note B->,note,morgan897,0.25,203.5,GeneralNote
-34,,<music21.articulations.Tenuto>,tenuto,morgan898,0.0,0.0,Articulation
-34,,<music21.note.Note C->,note,morgan899,0.25,203.75,GeneralNote
-34,,<music21.articulations.Tenuto>,tenuto,morgan900,0.0,0.0,Articulation
-34,35,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note D>>,slur,morgan1061,2.75,0.0,Slur
-34,35,<music21.dynamics.Crescendo <music21.chord.Chord D4 A-4><music21.note.Note C->>,diminuendo,morgan1118,,,DynamicRegion
-34,34,<music21.dynamics.Crescendo <music21.note.Note D-><music21.note.Note C->>,diminuendo,morgan1120,,,DynamicRegion
-35,,<music21.note.Rest dotted-whole>,note,morgan901,6.0,204.0,GeneralNote
-35,,<music21.note.Note C->,note,morgan902,2.0,204.0,GeneralNote
-35,,<music21.articulations.Accent>,accent,morgan903,0.0,0.0,Articulation
-35,,<music21.chord.Chord D4 F4 A-4>,note,morgan904,2.0,204.0,GeneralNote
-35,,<music21.note.Note D>,note,morgan905,2.0,204.0,GeneralNote
-35,,<music21.note.Rest quarter>,note,morgan906,1.0,205.0,GeneralNote
-35,,<music21.note.Rest quarter>,note,morgan907,1.0,205.0,GeneralNote
-35,,<music21.note.Note C->,note,morgan908,0.25,206.0,GeneralNote
-35,,<music21.note.Rest half>,note,morgan909,2.0,206.0,GeneralNote
-35,,<music21.note.Rest half>,note,morgan910,2.0,206.0,GeneralNote
-35,,<music21.note.Rest half>,note,morgan911,2.0,206.0,GeneralNote
-35,,<music21.note.Note B->,note,morgan912,0.25,206.25,GeneralNote
-35,,<music21.note.Note A->,note,morgan913,0.25,206.5,GeneralNote
-35,,<music21.note.Note G->,note,morgan914,0.25,206.75,GeneralNote
-35,,<music21.note.Note F>,note,morgan915,0.25,207.0,GeneralNote
-35,,<music21.note.Note E->,note,morgan916,0.25,207.25,GeneralNote
-35,,<music21.note.Note D>,note,morgan917,0.25,207.5,GeneralNote
-35,,<music21.note.Note F>,note,morgan918,0.25,207.75,GeneralNote
-35,,<music21.note.Note A->,note,morgan919,0.25,208.0,GeneralNote
-35,,<music21.note.Rest half>,note,morgan920,2.0,208.0,GeneralNote
-35,,<music21.note.Rest half>,note,morgan921,2.0,208.0,GeneralNote
-35,,<music21.note.Rest half>,note,morgan922,2.0,208.0,GeneralNote
-35,,<music21.note.Note C->,note,morgan923,0.25,208.25,GeneralNote
-35,,<music21.note.Note D>,note,morgan924,0.25,208.5,GeneralNote
-35,,<music21.note.Note F>,note,morgan925,0.25,208.75,GeneralNote
-35,,<music21.note.Note A->,note,morgan926,0.25,209.0,GeneralNote
-35,,<music21.note.Note C->,note,morgan927,0.25,209.25,GeneralNote
-35,,<music21.note.Note B->,note,morgan928,0.25,209.5,GeneralNote
-35,,<music21.note.Note D>,note,morgan929,0.25,209.75,GeneralNote
-35,36,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note E->>,slur,morgan1062,6.0,0.0,Slur
-35,,<music21.dynamics.Dynamic f>,f,morgan1084,,,DynamicPoint
-35,36,<music21.dynamics.Crescendo <music21.note.Note A-><music21.note.Note B->>,diminuendo,morgan1122,,,DynamicRegion
-35,,<music21.expressions.TextExpression 'allargando'>,allargando,morgan1131,0.0,208.0,TextExpression
-36,,<music21.note.Rest half>,note,morgan930,2.0,210.0,GeneralNote
-36,,<music21.note.Rest half>,note,morgan931,2.0,210.0,GeneralNote
-36,,<music21.note.Note E->,note,morgan932,1.5,210.0,GeneralNote
-36,,<music21.articulations.Accent>,accent,morgan933,0.0,0.0,Articulation
-36,,<music21.note.Rest quarter>,note,morgan934,1.0,210.0,GeneralNote
-36,,<music21.note.Rest half>,note,morgan935,2.0,210.0,GeneralNote
-36,,<music21.note.Rest half>,note,morgan936,2.0,210.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,morgan937,1.0,210.0,GeneralNote
-36,,<music21.note.Rest half>,note,morgan938,2.0,210.0,GeneralNote
-36,,<music21.note.Rest half>,note,morgan939,2.0,210.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,morgan940,0.5,211.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,morgan941,0.5,211.0,GeneralNote
-36,,<music21.note.Note B->,note,morgan942,0.5,211.5,GeneralNote
-36,,<music21.note.Note G->,note,morgan943,0.5,211.5,GeneralNote
-36,,<music21.chord.Chord E-2 E-3>,note,morgan944,0.5,211.5,GeneralNote
-36,,<music21.note.Note A->,note,morgan945,0.0,212.0,GeneralNote
-36,,<music21.note.Note A->,note,morgan946,0.5,212.0,GeneralNote
-36,,<music21.note.Note E->,note,morgan947,2.0,212.0,GeneralNote
-36,,<music21.note.Note G->,note,morgan948,2.0,212.0,GeneralNote
-36,,<music21.note.Note E->,note,morgan949,2.0,212.0,GeneralNote
-36,,<music21.chord.Chord E-3 G-3>,note,morgan950,2.0,212.0,GeneralNote
-36,,<music21.note.Note B->,note,morgan951,2.0,212.0,GeneralNote
-36,,<music21.note.Note G->,note,morgan952,1.5,212.5,GeneralNote
-36,,<music21.note.Rest quarter>,note,morgan953,1.0,213.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,morgan954,1.0,213.0,GeneralNote
-36,,<music21.note.Note F>,note,morgan955,0.125,214.0,GeneralNote
-36,,<music21.note.Note D>,note,morgan956,2.0,214.0,GeneralNote
-36,,<music21.note.Note F>,note,morgan957,0.5,214.0,GeneralNote
-36,,<music21.note.Note D>,note,morgan958,2.0,214.0,GeneralNote
-36,,<music21.chord.Chord F3 A-3>,note,morgan959,2.0,214.0,GeneralNote
-36,,<music21.note.Note B->,note,morgan960,2.0,214.0,GeneralNote
-36,,<music21.note.Note G->,note,morgan961,0.125,214.125,GeneralNote
-36,,<music21.note.Note F>,note,morgan962,0.25,214.25,GeneralNote
-36,,<music21.note.Note E->,note,morgan963,0.5,214.5,GeneralNote
-36,,<music21.note.Note E->,note,morgan964,0.5,214.5,GeneralNote
-36,,<music21.note.Note F>,note,morgan965,1.0,215.0,GeneralNote
-36,,<music21.note.Note F>,note,morgan966,1.0,215.0,GeneralNote
-36,36,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G->>,slur,morgan1063,0.0,0.0,Slur
-36,36,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,morgan1064,1.0,0.0,Slur
-36,36,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note F>>,diminuendo,morgan1124,,,DynamicRegion
-37,,<music21.note.Rest dotted-whole>,note,morgan967,6.0,216.0,GeneralNote
-37,,<music21.note.Note E->,note,morgan968,2.0,216.0,GeneralNote
-37,,<music21.chord.Chord G3 B-3 D-4>,note,morgan969,2.0,216.0,GeneralNote
-37,,<music21.note.Note E->,note,morgan970,2.0,216.0,GeneralNote
-37,,<music21.note.Note E->,note,morgan971,1.0,218.0,GeneralNote
-37,,<music21.chord.Chord G3 B-3 D-4>,note,morgan972,2.0,218.0,GeneralNote
-37,,<music21.note.Note E->,note,morgan973,2.0,218.0,GeneralNote
-37,,<music21.note.Note E->,note,morgan974,0.25,219.0,GeneralNote
-37,,<music21.note.Note F>,note,morgan975,0.25,219.25,GeneralNote
-37,,<music21.note.Note G>,note,morgan976,0.25,219.5,GeneralNote
-37,,<music21.note.Note A->,note,morgan977,0.25,219.75,GeneralNote
-37,,<music21.note.Note B->,note,morgan978,1.0,220.0,GeneralNote
-37,,<music21.chord.Chord G3 B-3 D-4>,note,morgan979,2.0,220.0,GeneralNote
-37,,<music21.note.Note E->,note,morgan980,2.0,220.0,GeneralNote
-37,,<music21.note.Note B->,note,morgan981,0.25,221.0,GeneralNote
-37,,<music21.note.Note F->,note,morgan982,0.25,221.25,GeneralNote
-37,,<music21.note.Note E->,note,morgan983,0.25,221.5,GeneralNote
-37,,<music21.note.Note D->,note,morgan984,0.25,221.75,GeneralNote
-37,38,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,morgan1065,3.0,0.0,Slur
-37,,<music21.dynamics.Dynamic pp>,pp,morgan1085,,,DynamicPoint
-38,,<music21.note.Rest dotted-whole>,note,morgan985,6.0,222.0,GeneralNote
-38,,<music21.note.Note C->,note,morgan986,2.0,222.0,GeneralNote
-38,,<music21.chord.Chord E-3 A-3>,note,morgan987,2.0,222.0,GeneralNote
-38,,<music21.note.Note C->,note,morgan988,0.75,224.0,GeneralNote
-38,,<music21.chord.Chord E-3 A-3>,note,morgan989,2.0,224.0,GeneralNote
-38,,<music21.note.Note E->,note,morgan990,0.25,224.75,GeneralNote
-38,,<music21.note.Note F>,note,morgan991,0.25,225.0,GeneralNote
-38,,<music21.note.Note G>,note,morgan992,0.25,225.25,GeneralNote
-38,,<music21.note.Note A->,note,morgan993,0.25,225.5,GeneralNote
-38,,<music21.note.Note B->,note,morgan994,0.25,225.75,GeneralNote
-38,,<music21.note.Note C->,note,morgan995,0.5,226.0,GeneralNote
-38,,<music21.chord.Chord E-3 A-3>,note,morgan996,2.0,226.0,GeneralNote
-38,,<music21.note.Note C->,note,morgan997,0.125,226.5,GeneralNote
-38,,<music21.note.Note B->,note,morgan998,0.125,226.625,GeneralNote
-38,,<music21.note.Note A->,note,morgan999,0.125,226.75,GeneralNote
-38,,<music21.note.Note G->,note,morgan1000,0.125,226.875,GeneralNote
-38,,<music21.note.Note F>,note,morgan1001,0.25,227.0,GeneralNote
-38,,<music21.note.Note G->,note,morgan1002,0.25,227.25,GeneralNote
-38,,<music21.note.Note A->,note,morgan1003,0.25,227.5,GeneralNote
-38,,<music21.note.Note F>,note,morgan1004,0.25,227.75,GeneralNote
-38,39,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,morgan1066,4.0,0.0,Slur
-39,,<music21.note.Rest dotted-whole>,note,morgan1005,6.0,228.0,GeneralNote
-39,,<music21.note.Note D>,note,morgan1006,4.0,228.0,GeneralNote
-39,,<music21.articulations.Tenuto>,tenuto,morgan1007,0.0,0.0,Articulation
-39,,<music21.note.Rest quarter>,note,morgan1008,1.0,228.0,GeneralNote
-39,,<music21.note.Note F>,note,morgan1009,2.0,228.0,GeneralNote
-39,,<music21.note.Note E->,note,morgan1010,2.0,228.0,GeneralNote
-39,,<music21.note.Rest eighth>,note,morgan1011,0.5,229.0,GeneralNote
-39,,<music21.note.Note C->,note,morgan1012,0.25,229.5,GeneralNote
-39,,<music21.note.Note B->,note,morgan1013,0.25,229.75,GeneralNote
-39,,<music21.note.Note C->,note,morgan1014,1.5,230.0,GeneralNote
-39,,<music21.note.Note F>,note,morgan1015,2.0,230.0,GeneralNote
-39,,<music21.note.Note E->,note,morgan1016,2.0,230.0,GeneralNote
-39,,<music21.note.Note A->,note,morgan1017,0.5,231.5,GeneralNote
-39,,<music21.note.Note D>,note,morgan1018,1.5,232.0,GeneralNote
-39,,<music21.note.Rest half>,note,morgan1019,2.0,232.0,GeneralNote
-39,,<music21.note.Note F>,note,morgan1020,2.0,232.0,GeneralNote
-39,,<music21.note.Rest half>,note,morgan1021,2.0,232.0,GeneralNote
-39,,<music21.note.Note E->,note,morgan1022,2.0,232.0,GeneralNote
-39,,<music21.note.Note D>,note,morgan1023,0.5,233.5,GeneralNote
-39,40,<music21.spanner.Slur <music21.note.Note D><music21.chord.Chord G3 B-3 E-4>>,slur,morgan1067,0.5,0.0,Slur
-39,40,<music21.spanner.Slur <music21.note.Note C-><music21.chord.Chord G3 B-3 E-4>>,slur,morgan1068,4.5,0.0,Slur
-39,,<music21.expressions.TextExpression 'poco rit.'>,poco rit.,morgan1132,0.0,228.0,TextExpression
-40,,<music21.note.Rest dotted-whole>,note,morgan1024,6.0,234.0,GeneralNote
-40,,<music21.chord.Chord G3 B-3 E-4>,note,morgan1025,6.0,234.0,GeneralNote
-40,,<music21.chord.Chord E-2 B-2 E-3>,note,morgan1026,6.0,234.0,GeneralNote
-40,,<music21.dynamics.Dynamic pp>,pp,morgan1086,,,DynamicPoint
+1,,<music21.articulations.Fingering 2>,fingering,morgan3,0.0,0.0,Fingering
+1,,<music21.chord.Chord E-4 G-4>,note,morgan4,2.0,0.0,GeneralNote
+1,,<music21.articulations.Fingering 5>,fingering,morgan5,0.0,0.0,Fingering
+1,,<music21.articulations.Fingering 3>,fingering,morgan6,0.0,0.0,Fingering
+1,,<music21.note.Rest dotted-whole>,note,morgan7,6.0,0.0,GeneralNote
+1,,<music21.note.Rest quarter>,note,morgan8,1.0,2.0,GeneralNote
+1,,<music21.chord.Chord E-4 G-4>,note,morgan9,2.0,2.0,GeneralNote
+1,,<music21.note.Rest eighth>,note,morgan10,0.5,3.0,GeneralNote
+1,,<music21.note.Note B->,note,morgan11,0.5,3.5,GeneralNote
+1,,<music21.articulations.Fingering 1>,fingering,morgan12,0.0,0.0,Fingering
+1,,<music21.note.Note E->,note,morgan13,1.5,4.0,GeneralNote
+1,,<music21.articulations.Fingering 2>,fingering,morgan14,0.0,0.0,Fingering
+1,,<music21.chord.Chord E-4 G-4>,note,morgan15,2.0,4.0,GeneralNote
+1,,<music21.note.Note G->,note,morgan16,0.5,5.5,GeneralNote
+1,2,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note C->>,slur,morgan1120,2.5,0.0,Slur
+1,,<music21.dynamics.Dynamic pp>,pp,morgan1162,,,DynamicPoint
+1,,<music21.expressions.TextExpression 'Lento'>,Lento,morgan1220,0.0,0.0,TextExpression
+1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None,morgan1228,0.0,0.0,TempoIndication
+1,,<music21.tempo.MetronomeMark largo Half=48>,largo,morgan1229,0.0,0.0,TempoIndication
+1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None None,morgan1230,0.0,0.0,MetronomeMark
+1,,<music21.tempo.MetronomeMark largo Half=48>,largo 48,morgan1231,0.0,0.0,MetronomeMark
+2,,<music21.note.Rest dotted-whole>,note,morgan17,6.0,6.0,GeneralNote
+2,,<music21.note.Note C->,note,morgan18,2.0,6.0,GeneralNote
+2,,<music21.chord.Chord E-4 A-4>,note,morgan19,2.0,6.0,GeneralNote
+2,,<music21.note.Rest dotted-whole>,note,morgan20,6.0,6.0,GeneralNote
+2,,<music21.note.Rest quarter>,note,morgan21,1.0,8.0,GeneralNote
+2,,<music21.chord.Chord E-4 A-4 C-5>,note,morgan22,2.0,8.0,GeneralNote
+2,,<music21.note.Rest eighth>,note,morgan23,0.5,9.0,GeneralNote
+2,,<music21.note.Note E->,note,morgan24,0.5,9.5,GeneralNote
+2,,<music21.articulations.Fingering 2>,fingering,morgan25,0.0,0.0,Fingering
+2,,<music21.note.Note A->,note,morgan26,1.5,10.0,GeneralNote
+2,,<music21.articulations.Fingering 4>,fingering,morgan27,0.0,0.0,Fingering
+2,,<music21.chord.Chord E-4 A-4 C-5>,note,morgan28,2.0,10.0,GeneralNote
+2,,<music21.note.Note C->,note,morgan29,0.5,11.5,GeneralNote
+2,3,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D>>,slur,morgan1121,2.5,0.0,Slur
+2,3,<music21.dynamics.Crescendo <music21.note.Note E-><music21.note.Note D>>,diminuendo,morgan1181,,,DynamicRegion
+3,,<music21.note.Rest half>,note,morgan30,2.0,12.0,GeneralNote
+3,,<music21.note.Note D>,note,morgan31,2.0,12.0,GeneralNote
+3,,<music21.chord.Chord E-4 F4 A-4>,note,morgan32,2.0,12.0,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,morgan33,0.0,0.0,Fingering
+3,,<music21.articulations.Fingering 3>,fingering,morgan34,0.0,0.0,Fingering
+3,,<music21.articulations.Fingering 1>,fingering,morgan35,0.0,0.0,Fingering
+3,,<music21.note.Rest dotted-whole>,note,morgan36,6.0,12.0,GeneralNote
+3,,<music21.note.Rest quarter>,note,morgan37,1.0,13.0,GeneralNote
+3,,<music21.note.Rest quarter>,note,morgan38,1.0,13.0,GeneralNote
+3,,<music21.note.Rest quarter>,note,morgan39,1.0,14.0,GeneralNote
+3,,<music21.note.Rest quarter>,note,morgan40,1.0,14.0,GeneralNote
+3,,<music21.chord.Chord D4 F4 A-4>,note,morgan41,2.0,14.0,GeneralNote
+3,,<music21.note.Rest eighth>,note,morgan42,0.5,15.0,GeneralNote
+3,,<music21.note.Rest eighth>,note,morgan43,0.5,15.0,GeneralNote
+3,,<music21.note.Rest eighth>,note,morgan44,0.5,15.5,GeneralNote
+3,,<music21.note.Note F>,note,morgan45,0.5,15.5,GeneralNote
+3,,<music21.note.Note A->,note,morgan46,0.125,16.0,GeneralNote
+3,,<music21.articulations.Fingering 1>,fingering,morgan47,0.0,0.0,Fingering
+3,,<music21.note.Note A->,note,morgan48,1.0,16.0,GeneralNote
+3,,<music21.articulations.Fingering 132>,fingering,morgan49,0.0,0.0,Fingering
+3,,<music21.chord.Chord D4 F4>,note,morgan50,2.0,16.0,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,morgan51,0.0,0.0,Fingering
+3,,<music21.articulations.Fingering 2>,fingering,morgan52,0.0,0.0,Fingering
+3,,<music21.note.Note B->,note,morgan53,0.125,16.125,GeneralNote
+3,,<music21.articulations.Fingering 3>,fingering,morgan54,0.0,0.0,Fingering
+3,,<music21.note.Note A->,note,morgan55,0.75,16.25,GeneralNote
+3,,<music21.articulations.Fingering 2>,fingering,morgan56,0.0,0.0,Fingering
+3,,<music21.note.Rest quarter>,note,morgan57,1.0,17.0,GeneralNote
+3,,<music21.note.Note A->,note,morgan58,0.25,17.0,GeneralNote
+3,,<music21.note.Note G->,note,morgan59,0.25,17.25,GeneralNote
+3,,<music21.articulations.Fingering 1>,fingering,morgan60,0.0,0.0,Fingering
+3,,<music21.note.Note A->,note,morgan61,0.25,17.5,GeneralNote
+3,,<music21.articulations.Fingering 3>,fingering,morgan62,0.0,0.0,Fingering
+3,,<music21.note.Note B->,note,morgan63,0.25,17.75,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,morgan64,0.0,0.0,Fingering
+3,4,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G->>,slur,morgan1122,4.5,0.0,Slur
+3,3,<music21.dynamics.Diminuendo <music21.note.Note A-><music21.note.Note B->>,diminuendo,morgan1183,,,DynamicRegion
+4,,<music21.note.Note G->,note,morgan65,0.125,18.0,GeneralNote
+4,,<music21.articulations.Fingering 1>,fingering,morgan66,0.0,0.0,Fingering
+4,,<music21.note.Note G->,note,morgan67,1.5,18.0,GeneralNote
+4,,<music21.note.Note E->,note,morgan68,2.0,18.0,GeneralNote
+4,,<music21.note.Rest half>,note,morgan69,2.0,18.0,GeneralNote
+4,,<music21.note.Note A->,note,morgan70,0.125,18.125,GeneralNote
+4,,<music21.articulations.Fingering 3>,fingering,morgan71,0.0,0.0,Fingering
+4,,<music21.note.Note G->,note,morgan72,0.125,18.25,GeneralNote
+4,,<music21.articulations.Fingering 2>,fingering,morgan73,0.0,0.0,Fingering
+4,,<music21.note.Note A->,note,morgan74,0.125,18.375,GeneralNote
+4,,<music21.articulations.Fingering 3>,fingering,morgan75,0.0,0.0,Fingering
+4,,<music21.note.Note G->,note,morgan76,0.125,18.5,GeneralNote
+4,,<music21.note.Note A->,note,morgan77,0.125,18.625,GeneralNote
+4,,<music21.note.Note G->,note,morgan78,0.125,18.75,GeneralNote
+4,,<music21.note.Note A->,note,morgan79,0.125,18.875,GeneralNote
+4,,<music21.note.Note G->,note,morgan80,0.5,19.0,GeneralNote
+4,,<music21.articulations.Fingering 1>,fingering,morgan81,0.0,0.0,Fingering
+4,,<music21.note.Note F>,note,morgan82,0.25,19.5,GeneralNote
+4,,<music21.articulations.Fingering 2>,fingering,morgan83,0.0,0.0,Fingering
+4,,<music21.note.Note F>,note,morgan84,0.25,19.5,GeneralNote
+4,,<music21.articulations.Tenuto>,tenuto,morgan85,0.0,0.0,Articulation
+4,,<music21.note.Note E->,note,morgan86,0.25,19.75,GeneralNote
+4,,<music21.articulations.Fingering 1>,fingering,morgan87,0.0,0.0,Fingering
+4,,<music21.note.Note E->,note,morgan88,0.25,19.75,GeneralNote
+4,,<music21.articulations.Tenuto>,tenuto,morgan89,0.0,0.0,Articulation
+4,,<music21.note.Rest half>,note,morgan90,2.0,20.0,GeneralNote
+4,,<music21.note.Rest half>,note,morgan91,2.0,20.0,GeneralNote
+4,,<music21.note.Note G->,note,morgan92,2.0,20.0,GeneralNote
+4,,<music21.note.Rest quarter>,note,morgan93,1.0,20.0,GeneralNote
+4,,<music21.note.Rest eighth>,note,morgan94,0.5,21.0,GeneralNote
+4,,<music21.note.Note B->,note,morgan95,0.5,21.5,GeneralNote
+4,,<music21.note.Rest half>,note,morgan96,2.0,22.0,GeneralNote
+4,,<music21.note.Note G->,note,morgan97,2.0,22.0,GeneralNote
+4,,<music21.chord.Chord G-4 B-4 E-5>,note,morgan98,2.0,22.0,GeneralNote
+4,,<music21.note.Note G->,note,morgan99,1.5,22.0,GeneralNote
+4,,<music21.note.Note E->,note,morgan100,0.5,23.5,GeneralNote
+4,5,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note B->>,slur,morgan1123,2.5,0.0,Slur
+5,,<music21.note.Rest dotted-whole>,note,morgan101,6.0,24.0,GeneralNote
+5,,<music21.chord.Chord G-4 B-4 D-5 G-5>,note,morgan102,2.0,24.0,GeneralNote
+5,,<music21.note.Note B->,note,morgan103,2.0,24.0,GeneralNote
+5,,<music21.note.Rest quarter>,note,morgan104,1.0,26.0,GeneralNote
+5,,<music21.chord.Chord B-2 D-3 G-3 B-3>,note,morgan105,2.0,26.0,GeneralNote
+5,,<music21.note.Rest 16th>,note,morgan106,0.25,27.0,GeneralNote
+5,,<music21.note.Note G->,note,morgan107,0.25,27.25,GeneralNote
+5,,<music21.note.Note F->,note,morgan108,0.25,27.5,GeneralNote
+5,,<music21.note.Note E->,note,morgan109,0.25,27.75,GeneralNote
+5,,<music21.note.Note F->,note,morgan110,1.5,28.0,GeneralNote
+5,,<music21.chord.Chord B-2 D-3 G-3 B-3>,note,morgan111,2.0,28.0,GeneralNote
+5,,<music21.note.Note D->,note,morgan112,0.5,29.5,GeneralNote
+5,6,<music21.spanner.Slur <music21.note.Note G-><music21.chord.Chord E-4 G-4 C-5 E-5>>,slur,morgan1124,2.75,0.0,Slur
+5,,<music21.dynamics.Dynamic p>,p,morgan1163,,,DynamicPoint
+6,,<music21.note.Rest dotted-whole>,note,morgan113,6.0,30.0,GeneralNote
+6,,<music21.chord.Chord E-4 G-4 C-5 E-5>,note,morgan114,2.0,30.0,GeneralNote
+6,,<music21.chord.Chord C-3 E-3 G-3 C-4>,note,morgan115,2.0,30.0,GeneralNote
+6,,<music21.chord.Chord G-4 C-5 E-5>,note,morgan116,2.0,32.0,GeneralNote
+6,,<music21.articulations.Fingering 4>,fingering,morgan117,0.0,0.0,Fingering
+6,,<music21.note.Rest quarter>,note,morgan118,1.0,32.0,GeneralNote
+6,,<music21.note.Rest eighth>,note,morgan119,0.5,33.0,GeneralNote
+6,,<music21.note.Note G->,note,morgan120,0.5,33.5,GeneralNote
+6,,<music21.articulations.Fingering 1>,fingering,morgan121,0.0,0.0,Fingering
+6,,<music21.chord.Chord G-4 C-5 E-5>,note,morgan122,2.0,34.0,GeneralNote
+6,,<music21.note.Note E->,note,morgan123,1.5,34.0,GeneralNote
+6,,<music21.articulations.Fingering 2>,fingering,morgan124,0.0,0.0,Fingering
+6,,<music21.note.Note C->,note,morgan125,0.5,35.5,GeneralNote
+6,,<music21.articulations.Fingering 3>,fingering,morgan126,0.0,0.0,Fingering
+6,7,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note G>>,slur,morgan1125,2.5,0.0,Slur
+6,7,<music21.dynamics.Crescendo <music21.chord.Chord G-4 C-5 E-5><music21.chord.Chord B-4 E-5 B-5>>,diminuendo,morgan1185,,,DynamicRegion
+7,,<music21.note.Rest dotted-whole>,note,morgan127,6.0,36.0,GeneralNote
+7,,<music21.chord.Chord B-4 E-5 B-5>,note,morgan128,2.0,36.0,GeneralNote
+7,,<music21.note.Note G>,note,morgan129,2.0,36.0,GeneralNote
+7,,<music21.note.Rest quarter>,note,morgan130,1.0,38.0,GeneralNote
+7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,morgan131,2.0,38.0,GeneralNote
+7,,<music21.note.Rest 16th>,note,morgan132,0.25,39.0,GeneralNote
+7,,<music21.note.Note E->,note,morgan133,0.25,39.25,GeneralNote
+7,,<music21.articulations.Fingering 3>,fingering,morgan134,0.0,0.0,Fingering
+7,,<music21.note.Note D->,note,morgan135,0.25,39.5,GeneralNote
+7,,<music21.note.Note C->,note,morgan136,0.25,39.75,GeneralNote
+7,,<music21.note.Note D->,note,morgan137,1.5,40.0,GeneralNote
+7,,<music21.articulations.Fingering 4>,fingering,morgan138,0.0,0.0,Fingering
+7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,morgan139,2.0,40.0,GeneralNote
+7,,<music21.note.Note B->,note,morgan140,0.5,41.5,GeneralNote
+7,8,<music21.spanner.Slur <music21.note.Note E-><music21.chord.Chord E-5 A-5 C-6>>,slur,morgan1126,4.75,0.0,Slur
+8,,<music21.note.Note C->,note,morgan141,0.125,42.0,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,morgan142,0.0,0.0,Fingering
+8,,<music21.note.Note C->,note,morgan143,1.5,42.0,GeneralNote
+8,,<music21.articulations.Fingering 13>,fingering,morgan144,0.0,0.0,Fingering
+8,,<music21.note.Rest half>,note,morgan145,2.0,42.0,GeneralNote
+8,,<music21.note.Rest half>,note,morgan146,2.0,42.0,GeneralNote
+8,,<music21.note.Rest half>,note,morgan147,2.0,42.0,GeneralNote
+8,,<music21.note.Rest half>,note,morgan148,2.0,42.0,GeneralNote
+8,,<music21.chord.Chord A-2 C-3 E-3 A-3>,note,morgan149,2.0,42.0,GeneralNote
+8,,<music21.note.Note D->,note,morgan150,0.125,42.125,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,morgan151,0.0,0.0,Fingering
+8,,<music21.note.Note C->,note,morgan152,0.125,42.25,GeneralNote
+8,,<music21.note.Note D->,note,morgan153,0.125,42.375,GeneralNote
+8,,<music21.note.Note C->,note,morgan154,0.125,42.5,GeneralNote
+8,,<music21.note.Note D->,note,morgan155,0.125,42.625,GeneralNote
+8,,<music21.note.Note C->,note,morgan156,0.125,42.75,GeneralNote
+8,,<music21.note.Note D->,note,morgan157,0.125,42.875,GeneralNote
+8,,<music21.note.Note C->,note,morgan158,0.5,43.0,GeneralNote
+8,,<music21.note.Note B->,note,morgan159,0.25,43.5,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,morgan160,0.0,0.0,Fingering
+8,,<music21.note.Note B->,note,morgan161,0.25,43.5,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,morgan162,0.0,0.0,Fingering
+8,,<music21.articulations.Tenuto>,tenuto,morgan163,0.0,0.0,Articulation
+8,,<music21.note.Note A->,note,morgan164,0.25,43.75,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,morgan165,0.0,0.0,Fingering
+8,,<music21.note.Note A->,note,morgan166,0.25,43.75,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,morgan167,0.0,0.0,Fingering
+8,,<music21.articulations.Tenuto>,tenuto,morgan168,0.0,0.0,Articulation
+8,,<music21.note.Rest half>,note,morgan169,2.0,44.0,GeneralNote
+8,,<music21.chord.Chord E-5 A-5 C-6>,note,morgan170,2.0,44.0,GeneralNote
+8,,<music21.note.Rest quarter>,note,morgan171,1.0,44.0,GeneralNote
+8,,<music21.note.Rest whole>,note,morgan172,4.0,44.0,GeneralNote
+8,,<music21.note.Rest eighth>,note,morgan173,0.5,45.0,GeneralNote
+8,,<music21.note.Note C->,note,morgan174,0.5,45.5,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,morgan175,0.0,0.0,Fingering
+8,,<music21.note.Rest half>,note,morgan176,2.0,46.0,GeneralNote
+8,,<music21.chord.Chord E-5 A-5 C-6>,note,morgan177,2.0,46.0,GeneralNote
+8,,<music21.note.Note A->,note,morgan178,1.5,46.0,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,morgan179,0.0,0.0,Fingering
+8,,<music21.note.Note F>,note,morgan180,0.5,47.5,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,morgan181,0.0,0.0,Fingering
+8,9,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,morgan1127,2.5,0.0,Slur
+8,8,<music21.dynamics.Diminuendo <music21.note.Note C-><music21.chord.Chord E-5 A-5 C-6>>,diminuendo,morgan1187,,,DynamicRegion
+9,,<music21.note.Rest dotted-whole>,note,morgan182,6.0,48.0,GeneralNote
+9,,<music21.chord.Chord F5 A-5 C-6>,note,morgan183,2.0,48.0,GeneralNote
+9,,<music21.articulations.Fingering 1>,fingering,morgan184,0.0,0.0,Fingering
+9,,<music21.articulations.Fingering 3>,fingering,morgan185,0.0,0.0,Fingering
+9,,<music21.articulations.Fingering 5>,fingering,morgan186,0.0,0.0,Fingering
+9,,<music21.note.Note D>,note,morgan187,2.0,48.0,GeneralNote
+9,,<music21.note.Rest dotted-whole>,note,morgan188,6.0,48.0,GeneralNote
+9,,<music21.note.Rest quarter>,note,morgan189,1.0,50.0,GeneralNote
+9,,<music21.chord.Chord D4 F4 B-4>,note,morgan190,2.0,50.0,GeneralNote
+9,,<music21.note.Rest 16th>,note,morgan191,0.25,51.0,GeneralNote
+9,,<music21.note.Note B->,note,morgan192,0.25,51.25,GeneralNote
+9,,<music21.note.Note A->,note,morgan193,0.25,51.5,GeneralNote
+9,,<music21.note.Note G->,note,morgan194,0.25,51.75,GeneralNote
+9,,<music21.note.Note F>,note,morgan195,0.25,52.0,GeneralNote
+9,,<music21.chord.Chord D4 F4 B-4>,note,morgan196,2.0,52.0,GeneralNote
+9,,<music21.note.Note G->,note,morgan197,0.25,52.25,GeneralNote
+9,,<music21.note.Note F>,note,morgan198,0.25,52.5,GeneralNote
+9,,<music21.note.Note G->,note,morgan199,0.25,52.75,GeneralNote
+9,,<music21.note.Note A->,note,morgan200,0.25,53.0,GeneralNote
+9,,<music21.note.Note G->,note,morgan201,0.25,53.25,GeneralNote
+9,,<music21.note.Note A->,note,morgan202,0.25,53.5,GeneralNote
+9,,<music21.note.Note F>,note,morgan203,0.25,53.75,GeneralNote
+9,10,<music21.spanner.Slur <music21.note.Note B-><music21.chord.Chord B-4 E-5 G-5 B-5>>,slur,morgan1128,4.75,0.0,Slur
+9,,<music21.dynamics.Dynamic p>,p,morgan1164,,,DynamicPoint
+10,,<music21.note.Note G->,note,morgan204,0.125,54.0,GeneralNote
+10,,<music21.note.Note G->,note,morgan205,1.5,54.0,GeneralNote
+10,,<music21.chord.Chord E-4 G-4 B-4>,note,morgan206,2.0,54.0,GeneralNote
+10,,<music21.note.Rest dotted-whole>,note,morgan207,6.0,54.0,GeneralNote
+10,,<music21.note.Note A->,note,morgan208,0.125,54.125,GeneralNote
+10,,<music21.note.Note G->,note,morgan209,0.125,54.25,GeneralNote
+10,,<music21.note.Note A->,note,morgan210,0.125,54.375,GeneralNote
+10,,<music21.note.Note G->,note,morgan211,0.125,54.5,GeneralNote
+10,,<music21.note.Note A->,note,morgan212,0.125,54.625,GeneralNote
+10,,<music21.note.Note G->,note,morgan213,0.125,54.75,GeneralNote
+10,,<music21.note.Note A->,note,morgan214,0.125,54.875,GeneralNote
+10,,<music21.note.Note G->,note,morgan215,0.5,55.0,GeneralNote
+10,,<music21.note.Note F>,note,morgan216,0.25,55.5,GeneralNote
+10,,<music21.note.Note F>,note,morgan217,0.25,55.5,GeneralNote
+10,,<music21.articulations.Tenuto>,tenuto,morgan218,0.0,0.0,Articulation
+10,,<music21.note.Note E->,note,morgan219,0.25,55.75,GeneralNote
+10,,<music21.note.Note E->,note,morgan220,0.25,55.75,GeneralNote
+10,,<music21.articulations.Tenuto>,tenuto,morgan221,0.0,0.0,Articulation
+10,,<music21.note.Rest half>,note,morgan222,2.0,56.0,GeneralNote
+10,,<music21.chord.Chord B-4 E-5 G-5 B-5>,note,morgan223,2.0,56.0,GeneralNote
+10,,<music21.note.Rest quarter>,note,morgan224,1.0,56.0,GeneralNote
+10,,<music21.note.Rest eighth>,note,morgan225,0.5,57.0,GeneralNote
+10,,<music21.note.Note G->,note,morgan226,0.5,57.5,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,morgan227,0.0,0.0,Fingering
+10,,<music21.note.Rest half>,note,morgan228,2.0,58.0,GeneralNote
+10,,<music21.chord.Chord D-5 E-5 G-5 B-5>,note,morgan229,2.0,58.0,GeneralNote
+10,,<music21.note.Note E->,note,morgan230,1.5,58.0,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,morgan231,0.0,0.0,Fingering
+10,,<music21.note.Note C>,note,morgan232,0.5,59.5,GeneralNote
+10,,<music21.articulations.Fingering 3>,fingering,morgan233,0.0,0.0,Fingering
+10,11,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note A>>,slur,morgan1129,2.5,0.0,Slur
+10,11,<music21.dynamics.Crescendo <music21.chord.Chord D-5 E-5 G-5 B-5><music21.chord.Chord C5 E-5 G-5 C6>>,diminuendo,morgan1189,,,DynamicRegion
+11,,<music21.note.Rest dotted-whole>,note,morgan234,6.0,60.0,GeneralNote
+11,,<music21.chord.Chord C5 E-5 G-5 C6>,note,morgan235,2.0,60.0,GeneralNote
+11,,<music21.note.Note A>,note,morgan236,2.0,60.0,GeneralNote
+11,,<music21.note.Rest quarter>,note,morgan237,1.0,61.0,GeneralNote
+11,,<music21.note.Rest quarter>,note,morgan238,1.0,61.0,GeneralNote
+11,,<music21.note.Rest quarter>,note,morgan239,1.0,62.0,GeneralNote
+11,,<music21.chord.Chord A3 C4 F4>,note,morgan240,2.0,62.0,GeneralNote
+11,,<music21.note.Rest 16th>,note,morgan241,0.25,63.0,GeneralNote
+11,,<music21.note.Note F>,note,morgan242,0.25,63.25,GeneralNote
+11,,<music21.articulations.Fingering 4>,fingering,morgan243,0.0,0.0,Fingering
+11,,<music21.note.Note E->,note,morgan244,0.25,63.5,GeneralNote
+11,,<music21.note.Note D->,note,morgan245,0.25,63.75,GeneralNote
+11,,<music21.note.Note C>,note,morgan246,0.25,64.0,GeneralNote
+11,,<music21.chord.Chord A3 C4 F4>,note,morgan247,2.0,64.0,GeneralNote
+11,,<music21.note.Note D->,note,morgan248,0.25,64.25,GeneralNote
+11,,<music21.note.Note C>,note,morgan249,0.25,64.5,GeneralNote
+11,,<music21.note.Note D->,note,morgan250,0.25,64.75,GeneralNote
+11,,<music21.note.Note E->,note,morgan251,0.25,65.0,GeneralNote
+11,,<music21.note.Note D->,note,morgan252,0.25,65.25,GeneralNote
+11,,<music21.note.Note E->,note,morgan253,0.25,65.5,GeneralNote
+11,,<music21.note.Note C>,note,morgan254,0.25,65.75,GeneralNote
+11,12,<music21.spanner.Slur <music21.note.Note F><music21.chord.Chord B-4 D-5 F5>>,slur,morgan1130,4.75,0.0,Slur
+11,11,<music21.dynamics.Diminuendo <music21.note.Note C><music21.note.Note E->>,diminuendo,morgan1191,,,DynamicRegion
+12,,<music21.note.Note D->,note,morgan255,0.125,66.0,GeneralNote
+12,,<music21.articulations.Fingering 2>,fingering,morgan256,0.0,0.0,Fingering
+12,,<music21.note.Note D->,note,morgan257,1.5,66.0,GeneralNote
+12,,<music21.articulations.Fingering 23>,fingering,morgan258,0.0,0.0,Fingering
+12,,<music21.chord.Chord B-3 D-4 F4>,note,morgan259,2.0,66.0,GeneralNote
+12,,<music21.note.Note E->,note,morgan260,0.125,66.125,GeneralNote
+12,,<music21.articulations.Fingering 3>,fingering,morgan261,0.0,0.0,Fingering
+12,,<music21.note.Note D->,note,morgan262,0.125,66.25,GeneralNote
+12,,<music21.note.Note E->,note,morgan263,0.125,66.375,GeneralNote
+12,,<music21.note.Note D->,note,morgan264,0.125,66.5,GeneralNote
+12,,<music21.note.Note E->,note,morgan265,0.125,66.625,GeneralNote
+12,,<music21.note.Note D->,note,morgan266,0.125,66.75,GeneralNote
+12,,<music21.note.Note E->,note,morgan267,0.125,66.875,GeneralNote
+12,,<music21.note.Note D->,note,morgan268,0.5,67.0,GeneralNote
+12,,<music21.note.Note C>,note,morgan269,0.25,67.5,GeneralNote
+12,,<music21.articulations.Fingering 1>,fingering,morgan270,0.0,0.0,Fingering
+12,,<music21.note.Note C>,note,morgan271,0.25,67.5,GeneralNote
+12,,<music21.articulations.Fingering 1>,fingering,morgan272,0.0,0.0,Fingering
+12,,<music21.articulations.Tenuto>,tenuto,morgan273,0.0,0.0,Articulation
+12,,<music21.note.Note B->,note,morgan274,0.25,67.75,GeneralNote
+12,,<music21.articulations.Fingering 2>,fingering,morgan275,0.0,0.0,Fingering
+12,,<music21.note.Note B->,note,morgan276,0.25,67.75,GeneralNote
+12,,<music21.articulations.Fingering 2>,fingering,morgan277,0.0,0.0,Fingering
+12,,<music21.articulations.Tenuto>,tenuto,morgan278,0.0,0.0,Articulation
+12,,<music21.note.Rest half>,note,morgan279,2.0,68.0,GeneralNote
+12,,<music21.chord.Chord B-4 D-5 F5>,note,morgan280,1.0,68.0,GeneralNote
+12,,<music21.articulations.Fingering 1>,fingering,morgan281,0.0,0.0,Fingering
+12,,<music21.articulations.Fingering 2>,fingering,morgan282,0.0,0.0,Fingering
+12,,<music21.articulations.Fingering 4>,fingering,morgan283,0.0,0.0,Fingering
+12,,<music21.chord.Chord B-3 D-4 F4>,note,morgan284,2.0,68.0,GeneralNote
+12,,<music21.note.Note F>,note,morgan285,0.25,69.0,GeneralNote
+12,,<music21.note.Note G->,note,morgan286,0.25,69.25,GeneralNote
+12,,<music21.note.Note F>,note,morgan287,0.25,69.5,GeneralNote
+12,,<music21.note.Note E->,note,morgan288,0.25,69.75,GeneralNote
+12,,<music21.note.Rest half>,note,morgan289,2.0,70.0,GeneralNote
+12,,<music21.note.Note D->,note,morgan290,0.25,70.0,GeneralNote
+12,,<music21.chord.Chord B-3 D-4 F4>,note,morgan291,2.0,70.0,GeneralNote
+12,,<music21.note.Note C>,note,morgan292,0.25,70.25,GeneralNote
+12,,<music21.note.Note B->,note,morgan293,0.25,70.5,GeneralNote
+12,,<music21.note.Note A->,note,morgan294,0.25,70.75,GeneralNote
+12,,<music21.note.Note G->,note,morgan295,0.5,71.0,GeneralNote
+12,,<music21.note.Note A->,note,morgan296,0.25,71.5,GeneralNote
+12,,<music21.note.Note F>,note,morgan297,0.25,71.75,GeneralNote
+12,14,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note B->>,slur,morgan1131,10.75,0.0,Slur
+13,,<music21.note.Rest dotted-whole>,note,morgan298,6.0,72.0,GeneralNote
+13,,<music21.note.Note G->,note,morgan299,1.0,72.0,GeneralNote
+13,,<music21.articulations.Fingering 3>,fingering,morgan300,0.0,0.0,Fingering
+13,,<music21.note.Note E->,note,morgan301,1.0,72.0,GeneralNote
+13,,<music21.articulations.Fingering 2>,fingering,morgan302,0.0,0.0,Fingering
+13,,<music21.chord.Chord E-3 B-3 D-4>,note,morgan303,2.0,72.0,GeneralNote
+13,,<music21.note.Note G->,note,morgan304,0.5,73.0,GeneralNote
+13,,<music21.articulations.Fingering 1>,fingering,morgan305,0.0,0.0,Fingering
+13,,<music21.note.Rest quarter>,note,morgan306,1.0,73.0,GeneralNote
+13,,<music21.note.Rest quarter>,note,morgan307,1.0,73.0,GeneralNote
+13,,<music21.note.Note B->,note,morgan308,0.25,73.5,GeneralNote
+13,,<music21.note.Note D->,note,morgan309,0.25,73.75,GeneralNote
+13,,<music21.note.Note G->,note,morgan310,1.0,74.0,GeneralNote
+13,,<music21.note.Rest half>,note,morgan311,2.0,74.0,GeneralNote
+13,,<music21.note.Rest half>,note,morgan312,2.0,74.0,GeneralNote
+13,,<music21.chord.Chord E-3 B-3 C4>,note,morgan313,2.0,74.0,GeneralNote
+13,,<music21.note.Note G->,note,morgan314,0.25,75.0,GeneralNote
+13,,<music21.note.Note F>,note,morgan315,0.25,75.25,GeneralNote
+13,,<music21.note.Note E->,note,morgan316,0.25,75.5,GeneralNote
+13,,<music21.note.Note D->,note,morgan317,0.25,75.75,GeneralNote
+13,,<music21.note.Note C>,note,morgan318,0.75,76.0,GeneralNote
+13,,<music21.note.Rest half>,note,morgan319,2.0,76.0,GeneralNote
+13,,<music21.note.Rest half>,note,morgan320,2.0,76.0,GeneralNote
+13,,<music21.chord.Chord E-3 B-3 C4>,note,morgan321,2.0,76.0,GeneralNote
+13,,<music21.note.Note E->,note,morgan322,0.125,76.75,GeneralNote
+13,,<music21.note.Note D->,note,morgan323,0.125,76.875,GeneralNote
+13,,<music21.note.Note C>,note,morgan324,0.25,77.0,GeneralNote
+13,,<music21.articulations.Tenuto>,tenuto,morgan325,0.0,0.0,Articulation
+13,,<music21.note.Note D->,note,morgan326,0.25,77.25,GeneralNote
+13,,<music21.articulations.Tenuto>,tenuto,morgan327,0.0,0.0,Articulation
+13,,<music21.note.Note E->,note,morgan328,0.5,77.5,GeneralNote
+13,,<music21.articulations.Tenuto>,tenuto,morgan329,0.0,0.0,Articulation
+13,,<music21.dynamics.Dynamic mf>,mf,morgan1165,,,DynamicPoint
+14,,<music21.note.Rest quarter>,note,morgan330,1.0,78.0,GeneralNote
+14,,<music21.note.Note F>,note,morgan331,0.75,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,morgan332,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,morgan333,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,morgan334,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,morgan335,2.0,78.0,GeneralNote
+14,,<music21.chord.Chord E-3 A3 C4>,note,morgan336,2.0,78.0,GeneralNote
+14,,<music21.note.Note G>,note,morgan337,0.125,78.75,GeneralNote
+14,,<music21.articulations.Fingering 2>,fingering,morgan338,0.0,0.0,Fingering
+14,,<music21.note.Note A>,note,morgan339,0.125,78.875,GeneralNote
+14,,<music21.articulations.Fingering 1>,fingering,morgan340,0.0,0.0,Fingering
+14,,<music21.note.Note B->,note,morgan341,0.125,79.0,GeneralNote
+14,,<music21.note.Note A>,note,morgan342,0.75,79.0,GeneralNote
+14,,<music21.note.Note A->,note,morgan343,0.125,79.125,GeneralNote
+14,,<music21.note.Note B->,note,morgan344,0.125,79.25,GeneralNote
+14,,<music21.note.Note A->,note,morgan345,0.125,79.375,GeneralNote
+14,,<music21.note.Note B->,note,morgan346,0.125,79.5,GeneralNote
+14,,<music21.note.Note A->,note,morgan347,0.125,79.625,GeneralNote
+14,,<music21.note.Note G->,note,morgan348,0.125,79.75,GeneralNote
+14,,<music21.note.Note G>,note,morgan349,0.125,79.75,GeneralNote
+14,,<music21.articulations.Fingering 2>,fingering,morgan350,0.0,0.0,Fingering
+14,,<music21.note.Note A->,note,morgan351,0.125,79.875,GeneralNote
+14,,<music21.note.Note A>,note,morgan352,0.125,79.875,GeneralNote
+14,,<music21.articulations.Fingering 3>,fingering,morgan353,0.0,0.0,Fingering
+14,,<music21.note.Rest half>,note,morgan354,2.0,80.0,GeneralNote
+14,,<music21.note.Note B->,note,morgan355,4.0,80.0,GeneralNote
+14,,<music21.articulations.Fingering 45>,fingering,morgan356,0.0,0.0,Fingering
+14,,<music21.articulations.Accent>,accent,morgan357,0.0,0.0,Articulation
+14,,<music21.note.Rest quarter>,note,morgan358,1.0,80.0,GeneralNote
+14,,<music21.chord.Chord D-3 F3 B-3>,note,morgan359,2.0,80.0,GeneralNote
+14,,<music21.note.Rest eighth>,note,morgan360,0.5,81.0,GeneralNote
+14,,<music21.note.Note F>,note,morgan361,0.5,81.5,GeneralNote
+14,,<music21.articulations.Fingering 1>,fingering,morgan362,0.0,0.0,Fingering
+14,,<music21.note.Rest half>,note,morgan363,2.0,82.0,GeneralNote
+14,,<music21.note.Note G->,note,morgan364,1.5,82.0,GeneralNote
+14,,<music21.articulations.Fingering 3>,fingering,morgan365,0.0,0.0,Fingering
+14,,<music21.chord.Chord E-3 B-3>,note,morgan366,2.0,82.0,GeneralNote
+14,,<music21.note.Note E->,note,morgan367,0.5,83.5,GeneralNote
+14,15,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C>>,slur,morgan1132,2.5,0.0,Slur
+14,,<music21.expressions.TextExpression 'dim.'>,dim.,morgan1221,0.0,81.5,TextExpression
+15,,<music21.note.Rest whole>,note,morgan368,4.0,84.0,GeneralNote
+15,,<music21.note.Note B->,note,morgan369,4.0,84.0,GeneralNote
+15,,<music21.note.Note C>,note,morgan370,1.0,84.0,GeneralNote
+15,,<music21.note.Rest half>,note,morgan371,2.0,84.0,GeneralNote
+15,,<music21.note.Rest whole>,note,morgan372,4.0,84.0,GeneralNote
+15,,<music21.note.Rest half>,note,morgan373,2.0,84.0,GeneralNote
+15,,<music21.note.Rest whole>,note,morgan374,4.0,84.0,GeneralNote
+15,,<music21.note.Note F>,note,morgan375,2.0,84.0,GeneralNote
+15,,<music21.note.Note F>,note,morgan376,2.0,84.0,GeneralNote
+15,,<music21.note.Note C>,note,morgan377,0.25,85.0,GeneralNote
+15,,<music21.note.Note D->,note,morgan378,0.25,85.25,GeneralNote
+15,,<music21.note.Note C>,note,morgan379,0.25,85.5,GeneralNote
+15,,<music21.note.Note D->,note,morgan380,0.25,85.75,GeneralNote
+15,,<music21.note.Note E->,note,morgan381,0.25,86.0,GeneralNote
+15,,<music21.note.Rest half>,note,morgan382,2.0,86.0,GeneralNote
+15,,<music21.note.Rest half>,note,morgan383,2.0,86.0,GeneralNote
+15,,<music21.note.Note F>,note,morgan384,2.0,86.0,GeneralNote
+15,,<music21.note.Note F>,note,morgan385,2.0,86.0,GeneralNote
+15,,<music21.note.Note D->,note,morgan386,0.25,86.25,GeneralNote
+15,,<music21.note.Note C>,note,morgan387,0.25,86.5,GeneralNote
+15,,<music21.note.Note D->,note,morgan388,0.25,86.75,GeneralNote
+15,,<music21.note.Note E->,note,morgan389,0.25,87.0,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,morgan390,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,morgan391,0.25,87.25,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,morgan392,0.0,0.0,Fingering
+15,,<music21.note.Note E->,note,morgan393,0.25,87.5,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,morgan394,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,morgan395,0.25,87.75,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,morgan396,0.0,0.0,Fingering
+15,,<music21.note.Rest quarter>,note,morgan397,1.0,88.0,GeneralNote
+15,,<music21.note.Note A>,note,morgan398,2.0,88.0,GeneralNote
+15,,"<music21.articulations.Fingering 5
+4
+1>",fingering,morgan399,0.0,0.0,Fingering
+15,,<music21.note.Note G->,note,morgan400,1.0,88.0,GeneralNote
+15,,<music21.note.Note C>,note,morgan401,2.0,88.0,GeneralNote
+15,,<music21.note.Note F>,note,morgan402,2.0,88.0,GeneralNote
+15,,<music21.note.Note F>,note,morgan403,2.0,88.0,GeneralNote
+15,,<music21.note.Note F>,note,morgan404,0.125,89.0,GeneralNote
+15,,<music21.note.Note F>,note,morgan405,0.75,89.0,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,morgan406,0.0,0.0,Fingering
+15,,<music21.note.Note G->,note,morgan407,0.125,89.125,GeneralNote
+15,,<music21.note.Note F>,note,morgan408,0.25,89.25,GeneralNote
+15,,<music21.note.Note F>,note,morgan409,0.375,89.5,GeneralNote
+15,,<music21.note.Note E->,note,morgan410,0.25,89.75,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,morgan411,0.0,0.0,Fingering
+15,,<music21.note.Note E->,note,morgan412,0.125,89.875,GeneralNote
+15,16,<music21.spanner.Slur <music21.note.Note D-><music21.chord.Chord F4 B-4>>,slur,morgan1133,6.75,0.0,Slur
+15,17,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note D->>,diminuendo,morgan1193,,,DynamicRegion
+16,,<music21.note.Rest dotted-whole>,note,morgan413,6.0,90.0,GeneralNote
+16,,<music21.note.Note B->,note,morgan414,1.5,90.0,GeneralNote
+16,,"<music21.articulations.Fingering 4
+1>",fingering,morgan415,0.0,0.0,Fingering
+16,,<music21.note.Note D->,note,morgan416,1.5,90.0,GeneralNote
+16,,<music21.chord.Chord B-2 F3 B-3>,note,morgan417,2.0,90.0,GeneralNote
+16,,<music21.note.Note C>,note,morgan418,0.5,91.5,GeneralNote
+16,,"<music21.articulations.Fingering 5
+2>",fingering,morgan419,0.0,0.0,Fingering
+16,,<music21.note.Note E->,note,morgan420,0.5,91.5,GeneralNote
+16,,<music21.note.Note D->,note,morgan421,2.0,92.0,GeneralNote
+16,,"<music21.articulations.Fingering 4
+2
+1>",fingering,morgan422,0.0,0.0,Fingering
+16,,<music21.chord.Chord F4 B-4>,note,morgan423,2.0,92.0,GeneralNote
+16,,<music21.note.Rest quarter>,note,morgan424,1.0,92.0,GeneralNote
+16,,<music21.note.Rest eighth>,note,morgan425,0.5,93.0,GeneralNote
+16,,<music21.note.Note B->,note,morgan426,0.5,93.5,GeneralNote
+16,,<music21.note.Note D->,note,morgan427,2.0,94.0,GeneralNote
+16,,<music21.chord.Chord F4 B-4>,note,morgan428,2.0,94.0,GeneralNote
+16,,<music21.note.Note D->,note,morgan429,1.5,94.0,GeneralNote
+16,,<music21.note.Note F>,note,morgan430,0.5,95.5,GeneralNote
+16,17,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note G>>,slur,morgan1134,2.5,0.0,Slur
+16,,<music21.dynamics.Dynamic p>,p,morgan1166,,,DynamicPoint
+17,,<music21.note.Rest dotted-whole>,note,morgan431,6.0,96.0,GeneralNote
+17,,<music21.note.Note D->,note,morgan432,1.5,96.0,GeneralNote
+17,,<music21.articulations.Fingering 5>,fingering,morgan433,0.0,0.0,Fingering
+17,,<music21.chord.Chord F-4 B-4>,note,morgan434,1.5,96.0,GeneralNote
+17,,<music21.note.Note G>,note,morgan435,2.0,96.0,GeneralNote
+17,,<music21.note.Note C->,note,morgan436,0.25,97.5,GeneralNote
+17,,<music21.articulations.Fingering 4>,fingering,morgan437,0.0,0.0,Fingering
+17,,<music21.articulations.Tenuto>,tenuto,morgan438,0.0,0.0,Articulation
+17,,<music21.note.Rest eighth>,note,morgan439,0.5,97.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,morgan440,0.5,97.5,GeneralNote
+17,,<music21.note.Note B->,note,morgan441,0.25,97.75,GeneralNote
+17,,<music21.articulations.Tenuto>,tenuto,morgan442,0.0,0.0,Articulation
+17,,<music21.note.Note F->,note,morgan443,2.0,98.0,GeneralNote
+17,,"<music21.articulations.Fingering 5
+3
+2>",fingering,morgan444,0.0,0.0,Fingering
+17,,<music21.chord.Chord B-4 D-5>,note,morgan445,2.0,98.0,GeneralNote
+17,,<music21.note.Note G>,note,morgan446,1.0,98.0,GeneralNote
+17,,<music21.note.Note G>,note,morgan447,0.25,99.0,GeneralNote
+17,,<music21.note.Note B->,note,morgan448,0.25,99.25,GeneralNote
+17,,<music21.note.Note A->,note,morgan449,0.25,99.5,GeneralNote
+17,,<music21.note.Note G>,note,morgan450,0.25,99.75,GeneralNote
+17,,<music21.chord.Chord D-5 F-5>,note,morgan451,1.5,100.0,GeneralNote
+17,,<music21.chord.Chord B-4 D-5>,note,morgan452,1.5,100.0,GeneralNote
+17,,<music21.note.Note D->,note,morgan453,2.0,100.0,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,morgan454,0.0,0.0,Fingering
+17,,<music21.note.Note E->,note,morgan455,0.25,101.5,GeneralNote
+17,,<music21.articulations.Tenuto>,tenuto,morgan456,0.0,0.0,Articulation
+17,,<music21.note.Rest eighth>,note,morgan457,0.5,101.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,morgan458,0.5,101.5,GeneralNote
+17,,<music21.note.Note D->,note,morgan459,0.25,101.75,GeneralNote
+17,,<music21.articulations.Tenuto>,tenuto,morgan460,0.0,0.0,Articulation
+17,17,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note B->>,slur,morgan1135,1.75,0.0,Slur
+17,17,<music21.spanner.Slur <music21.chord.Chord D-5 F-5><music21.note.Note D->>,slur,morgan1136,1.75,0.0,Slur
+17,20,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A->>,slur,morgan1137,14.75,0.0,Slur
+18,,<music21.note.Rest dotted-whole>,note,morgan461,6.0,102.0,GeneralNote
+18,,<music21.note.Note G>,note,morgan462,2.0,102.0,GeneralNote
+18,,"<music21.articulations.Fingering 5
+2
+1>",fingering,morgan463,0.0,0.0,Fingering
+18,,<music21.chord.Chord B-4 D-5>,note,morgan464,2.0,102.0,GeneralNote
+18,,<music21.note.Note D->,note,morgan465,1.5,102.0,GeneralNote
+18,,<music21.note.Note C->,note,morgan466,0.25,103.5,GeneralNote
+18,,<music21.articulations.Tenuto>,tenuto,morgan467,0.0,0.0,Articulation
+18,,<music21.note.Note B->,note,morgan468,0.25,103.75,GeneralNote
+18,,<music21.articulations.Tenuto>,tenuto,morgan469,0.0,0.0,Articulation
+18,,<music21.note.Note G>,note,morgan470,1.5,104.0,GeneralNote
+18,,<music21.chord.Chord B-4 D-5>,note,morgan471,1.5,104.0,GeneralNote
+18,,<music21.note.Note F->,note,morgan472,0.5,104.0,GeneralNote
+18,,<music21.note.Note E->,note,morgan473,0.5,104.5,GeneralNote
+18,,<music21.note.Note F->,note,morgan474,0.5,105.0,GeneralNote
+18,,<music21.note.Note F>,note,morgan475,0.25,105.5,GeneralNote
+18,,<music21.articulations.Fingering 4>,fingering,morgan476,0.0,0.0,Fingering
+18,,<music21.articulations.Staccato>,staccato,morgan477,0.0,0.0,Articulation
+18,,<music21.note.Rest eighth>,note,morgan478,0.5,105.5,GeneralNote
+18,,<music21.note.Rest eighth>,note,morgan479,0.5,105.5,GeneralNote
+18,,<music21.note.Note D->,note,morgan480,0.5,105.5,GeneralNote
+18,,<music21.note.Note E->,note,morgan481,0.25,105.75,GeneralNote
+18,,<music21.articulations.Fingering 3>,fingering,morgan482,0.0,0.0,Fingering
+18,,<music21.articulations.Staccato>,staccato,morgan483,0.0,0.0,Articulation
+18,,<music21.note.Note A->,note,morgan484,2.0,106.0,GeneralNote
+18,,"<music21.articulations.Fingering 5
+2
+1>",fingering,morgan485,0.0,0.0,Fingering
+18,,<music21.chord.Chord C-5 E-5>,note,morgan486,2.0,106.0,GeneralNote
+18,,<music21.note.Note C->,note,morgan487,0.25,106.0,GeneralNote
+18,,<music21.articulations.Fingering 1>,fingering,morgan488,0.0,0.0,Fingering
+18,,<music21.note.Note B->,note,morgan489,0.25,106.25,GeneralNote
+18,,<music21.note.Note A->,note,morgan490,0.25,106.5,GeneralNote
+18,,<music21.note.Note B->,note,morgan491,0.25,106.75,GeneralNote
+18,,<music21.note.Note C->,note,morgan492,0.25,107.0,GeneralNote
+18,,<music21.note.Note A->,note,morgan493,0.25,107.25,GeneralNote
+18,,<music21.note.Note B->,note,morgan494,0.25,107.5,GeneralNote
+18,,<music21.note.Note C->,note,morgan495,0.25,107.75,GeneralNote
+18,18,<music21.spanner.Slur <music21.note.Note G><music21.note.Note E->>,slur,morgan1138,1.75,0.0,Slur
+19,,<music21.note.Rest half>,note,morgan496,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,morgan497,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,morgan498,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,morgan499,2.0,108.0,GeneralNote
+19,,<music21.note.Note A->,note,morgan500,0.5,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,morgan501,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,morgan502,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,morgan503,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,morgan504,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,morgan505,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,morgan506,2.0,108.0,GeneralNote
+19,,<music21.note.Note F->,note,morgan507,1.0,108.0,GeneralNote
+19,,<music21.note.Note G>,note,morgan508,0.5,108.5,GeneralNote
+19,,<music21.articulations.Fingering 1>,fingering,morgan509,0.0,0.0,Fingering
+19,,<music21.note.Note A->,note,morgan510,0.5,109.0,GeneralNote
+19,,<music21.articulations.Fingering 3>,fingering,morgan511,0.0,0.0,Fingering
+19,,<music21.note.Note F->,note,morgan512,0.25,109.0,GeneralNote
+19,,<music21.note.Note F->,note,morgan513,0.25,109.25,GeneralNote
+19,,<music21.note.Note B->,note,morgan514,0.5,109.5,GeneralNote
+19,,<music21.articulations.Fingering 4>,fingering,morgan515,0.0,0.0,Fingering
+19,,<music21.note.Note E->,note,morgan516,0.25,109.5,GeneralNote
+19,,<music21.note.Note D->,note,morgan517,0.25,109.75,GeneralNote
+19,,<music21.note.Note C->,note,morgan518,0.25,110.0,GeneralNote
+19,,<music21.articulations.Fingering 5>,fingering,morgan519,0.0,0.0,Fingering
+19,,<music21.note.Note G>,note,morgan520,4.0,110.0,GeneralNote
+19,,<music21.note.Note E->,note,morgan521,2.0,110.0,GeneralNote
+19,,<music21.note.Note B->,note,morgan522,3.0,110.0,GeneralNote
+19,,<music21.note.Note E->,note,morgan523,2.0,110.0,GeneralNote
+19,,<music21.note.Note G>,note,morgan524,4.0,110.0,GeneralNote
+19,,<music21.note.Note E->,note,morgan525,1.5,110.0,GeneralNote
+19,,<music21.articulations.Fingering 1>,fingering,morgan526,0.0,0.0,Fingering
+19,,<music21.note.Note B->,note,morgan527,0.125,110.25,GeneralNote
+19,,<music21.articulations.Fingering 4>,fingering,morgan528,0.0,0.0,Fingering
+19,,<music21.note.Note C->,note,morgan529,0.125,110.375,GeneralNote
+19,,<music21.note.Note B->,note,morgan530,0.125,110.5,GeneralNote
+19,,<music21.note.Note C->,note,morgan531,0.125,110.625,GeneralNote
+19,,<music21.note.Note B->,note,morgan532,0.125,110.75,GeneralNote
+19,,<music21.note.Note C->,note,morgan533,0.125,110.875,GeneralNote
+19,,<music21.note.Note B->,note,morgan534,0.125,111.0,GeneralNote
+19,,<music21.note.Note C->,note,morgan535,0.125,111.125,GeneralNote
+19,,<music21.note.Note B->,note,morgan536,0.125,111.25,GeneralNote
+19,,<music21.note.Note C->,note,morgan537,0.125,111.375,GeneralNote
+19,,<music21.note.Note B->,note,morgan538,0.125,111.5,GeneralNote
+19,,<music21.note.Note D->,note,morgan539,0.5,111.5,GeneralNote
+19,,<music21.note.Note C->,note,morgan540,0.125,111.625,GeneralNote
+19,,<music21.note.Note B->,note,morgan541,0.125,111.75,GeneralNote
+19,,<music21.note.Note C->,note,morgan542,0.125,111.875,GeneralNote
+19,,<music21.note.Note B->,note,morgan543,1.0,112.0,GeneralNote
+19,,<music21.articulations.Fingering 4>,fingering,morgan544,0.0,0.0,Fingering
+19,,<music21.note.Note D->,note,morgan545,2.0,112.0,GeneralNote
+19,,<music21.note.Note D->,note,morgan546,2.0,112.0,GeneralNote
+19,,<music21.note.Note E->,note,morgan547,1.5,112.0,GeneralNote
+19,,<music21.note.Note A->,note,morgan548,1.0,113.0,GeneralNote
+19,,<music21.note.Note A->,note,morgan549,1.0,113.0,GeneralNote
+19,,<music21.note.Note E->,note,morgan550,0.5,113.5,GeneralNote
+19,19,<music21.dynamics.Diminuendo <music21.note.Note D-><music21.note.Note E->>,diminuendo,morgan1195,,,DynamicRegion
+20,,<music21.note.Rest dotted-whole>,note,morgan551,6.0,114.0,GeneralNote
+20,,<music21.note.Note A->,note,morgan552,1.5,114.0,GeneralNote
+20,,<music21.articulations.Fingering 4>,fingering,morgan553,0.0,0.0,Fingering
+20,,<music21.chord.Chord C-5 E-5>,note,morgan554,1.5,114.0,GeneralNote
+20,,<music21.note.Note A->,note,morgan555,2.0,114.0,GeneralNote
+20,,<music21.note.Rest eighth>,note,morgan556,0.5,115.5,GeneralNote
+20,,<music21.note.Note C->,note,morgan557,0.5,115.5,GeneralNote
+20,,<music21.note.Note F>,note,morgan558,1.5,116.0,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,morgan559,0.0,0.0,Fingering
+20,,<music21.articulations.Accent>,accent,morgan560,0.0,0.0,Articulation
+20,,<music21.note.Rest half>,note,morgan561,2.0,116.0,GeneralNote
+20,,<music21.note.Rest half>,note,morgan562,2.0,116.0,GeneralNote
+20,,<music21.note.Rest quarter>,note,morgan563,1.0,116.0,GeneralNote
+20,,<music21.note.Rest eighth>,note,morgan564,0.5,117.0,GeneralNote
+20,,<music21.note.Note G->,note,morgan565,0.25,117.5,GeneralNote
+20,,<music21.articulations.Tenuto>,tenuto,morgan566,0.0,0.0,Articulation
+20,,<music21.note.Note C->,note,morgan567,0.5,117.5,GeneralNote
+20,,<music21.note.Note A->,note,morgan568,0.25,117.75,GeneralNote
+20,,<music21.articulations.Tenuto>,tenuto,morgan569,0.0,0.0,Articulation
+20,,<music21.note.Note D>,note,morgan570,1.5,118.0,GeneralNote
+20,,<music21.articulations.Fingering 1>,fingering,morgan571,0.0,0.0,Fingering
+20,,<music21.note.Rest half>,note,morgan572,2.0,118.0,GeneralNote
+20,,<music21.note.Rest half>,note,morgan573,2.0,118.0,GeneralNote
+20,,<music21.note.Note F>,note,morgan574,1.5,118.0,GeneralNote
+20,,<music21.articulations.Fingering 4>,fingering,morgan575,0.0,0.0,Fingering
+20,,<music21.articulations.Accent>,accent,morgan576,0.0,0.0,Articulation
+20,,<music21.note.Note E->,note,morgan577,0.25,119.5,GeneralNote
+20,,<music21.articulations.Fingering 3>,fingering,morgan578,0.0,0.0,Fingering
+20,,<music21.articulations.Tenuto>,tenuto,morgan579,0.0,0.0,Articulation
+20,,<music21.note.Note G->,note,morgan580,0.25,119.5,GeneralNote
+20,,<music21.articulations.Tenuto>,tenuto,morgan581,0.0,0.0,Articulation
+20,,<music21.note.Note F>,note,morgan582,0.25,119.75,GeneralNote
+20,,<music21.articulations.Fingering 5>,fingering,morgan583,0.0,0.0,Fingering
+20,,<music21.articulations.Tenuto>,tenuto,morgan584,0.0,0.0,Articulation
+20,,<music21.note.Note A->,note,morgan585,0.25,119.75,GeneralNote
+20,,<music21.articulations.Tenuto>,tenuto,morgan586,0.0,0.0,Articulation
+20,21,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,slur,morgan1139,4.5,0.0,Slur
+20,21,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,slur,morgan1140,4.5,0.0,Slur
+20,,<music21.dynamics.Dynamic f>,f,morgan1167,,,DynamicPoint
+20,,<music21.dynamics.Dynamic f>,f,morgan1168,,,DynamicPoint
+21,,<music21.note.Rest dotted-whole>,note,morgan587,6.0,120.0,GeneralNote
+21,,<music21.note.Note B->,note,morgan588,1.5,120.0,GeneralNote
+21,,<music21.note.Note D>,note,morgan589,1.5,120.0,GeneralNote
+21,,<music21.articulations.Accent>,accent,morgan590,0.0,0.0,Articulation
+21,,<music21.note.Note A->,note,morgan591,0.5,121.5,GeneralNote
+21,,<music21.note.Note E->,note,morgan592,0.25,121.5,GeneralNote
+21,,<music21.articulations.Fingering 3>,fingering,morgan593,0.0,0.0,Fingering
+21,,<music21.articulations.Tenuto>,tenuto,morgan594,0.0,0.0,Articulation
+21,,<music21.note.Note F>,note,morgan595,0.25,121.75,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,morgan596,0.0,0.0,Fingering
+21,,<music21.articulations.Tenuto>,tenuto,morgan597,0.0,0.0,Articulation
+21,,<music21.note.Note D>,note,morgan598,1.5,122.0,GeneralNote
+21,,<music21.articulations.Fingering 1>,fingering,morgan599,0.0,0.0,Fingering
+21,,<music21.articulations.Accent>,accent,morgan600,0.0,0.0,Articulation
+21,,<music21.note.Note B->,note,morgan601,1.5,122.0,GeneralNote
+21,,<music21.articulations.Fingering 5>,fingering,morgan602,0.0,0.0,Fingering
+21,,<music21.note.Note E->,note,morgan603,0.25,123.5,GeneralNote
+21,,<music21.articulations.Fingering 3>,fingering,morgan604,0.0,0.0,Fingering
+21,,<music21.articulations.Tenuto>,tenuto,morgan605,0.0,0.0,Articulation
+21,,<music21.note.Note A->,note,morgan606,0.5,123.5,GeneralNote
+21,,<music21.note.Note F>,note,morgan607,0.25,123.75,GeneralNote
+21,,<music21.articulations.Fingering 5>,fingering,morgan608,0.0,0.0,Fingering
+21,,<music21.articulations.Tenuto>,tenuto,morgan609,0.0,0.0,Articulation
+21,,<music21.note.Note B->,note,morgan610,1.5,124.0,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,morgan611,0.0,0.0,Fingering
+21,,<music21.note.Note D>,note,morgan612,1.5,124.0,GeneralNote
+21,,<music21.articulations.Fingering 3>,fingering,morgan613,0.0,0.0,Fingering
+21,,<music21.articulations.Accent>,accent,morgan614,0.0,0.0,Articulation
+21,,<music21.note.Note C>,note,morgan615,0.25,125.5,GeneralNote
+21,,<music21.articulations.Tenuto>,tenuto,morgan616,0.0,0.0,Articulation
+21,,<music21.note.Note E->,note,morgan617,0.25,125.5,GeneralNote
+21,,<music21.articulations.Tenuto>,tenuto,morgan618,0.0,0.0,Articulation
+21,,<music21.note.Note D>,note,morgan619,0.25,125.75,GeneralNote
+21,,<music21.articulations.Tenuto>,tenuto,morgan620,0.0,0.0,Articulation
+21,,<music21.note.Note F>,note,morgan621,0.25,125.75,GeneralNote
+21,,<music21.articulations.Tenuto>,tenuto,morgan622,0.0,0.0,Articulation
+21,22,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note E->>,slur,morgan1141,4.5,0.0,Slur
+21,22,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G->>,slur,morgan1142,2.5,0.0,Slur
+22,,<music21.note.Rest dotted-whole>,note,morgan623,6.0,126.0,GeneralNote
+22,,<music21.note.Note E->,note,morgan624,1.5,126.0,GeneralNote
+22,,<music21.articulations.Accent>,accent,morgan625,0.0,0.0,Articulation
+22,,<music21.note.Rest half>,note,morgan626,2.0,126.0,GeneralNote
+22,,<music21.note.Rest whole>,note,morgan627,4.0,126.0,GeneralNote
+22,,<music21.note.Rest half>,note,morgan628,2.0,126.0,GeneralNote
+22,,<music21.note.Rest whole>,note,morgan629,4.0,126.0,GeneralNote
+22,,<music21.note.Note G->,note,morgan630,2.0,126.0,GeneralNote
+22,,<music21.note.Note D->,note,morgan631,0.25,127.5,GeneralNote
+22,,<music21.articulations.Tenuto>,tenuto,morgan632,0.0,0.0,Articulation
+22,,<music21.note.Note C->,note,morgan633,0.25,127.75,GeneralNote
+22,,<music21.articulations.Tenuto>,tenuto,morgan634,0.0,0.0,Articulation
+22,,<music21.note.Note D->,note,morgan635,2.0,128.0,GeneralNote
+22,,<music21.note.Rest half>,note,morgan636,2.0,128.0,GeneralNote
+22,,<music21.note.Rest half>,note,morgan637,2.0,128.0,GeneralNote
+22,,<music21.note.Note G>,note,morgan638,1.5,128.0,GeneralNote
+22,,<music21.articulations.Fingering 5>,fingering,morgan639,0.0,0.0,Fingering
+22,,<music21.note.Note B->,note,morgan640,0.5,129.5,GeneralNote
+22,,<music21.note.Note D->,note,morgan641,2.0,130.0,GeneralNote
+22,,<music21.articulations.Fingering 4>,fingering,morgan642,0.0,0.0,Fingering
+22,,<music21.chord.Chord E-4 B-4>,note,morgan643,2.0,130.0,GeneralNote
+22,,<music21.note.Note G>,note,morgan644,1.5,130.0,GeneralNote
+22,,<music21.note.Note E->,note,morgan645,0.5,131.5,GeneralNote
+22,22,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D->>,slur,morgan1143,2.0,0.0,Slur
+22,23,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A->>,slur,morgan1144,2.5,0.0,Slur
+22,,<music21.dynamics.Dynamic p>,p,morgan1169,,,DynamicPoint
+22,22,<music21.dynamics.Diminuendo <music21.note.Note E-><music21.note.Note C->>,diminuendo,morgan1197,,,DynamicRegion
+23,,<music21.note.Rest dotted-whole>,note,morgan646,6.0,132.0,GeneralNote
+23,,<music21.note.Note D->,note,morgan647,1.5,132.0,GeneralNote
+23,,<music21.articulations.Tenuto>,tenuto,morgan648,0.0,0.0,Articulation
+23,,<music21.chord.Chord E-4 B-4>,note,morgan649,1.5,132.0,GeneralNote
+23,,<music21.note.Note A->,note,morgan650,2.0,132.0,GeneralNote
+23,,<music21.note.Note C->,note,morgan651,0.25,133.5,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,morgan652,0.0,0.0,Articulation
+23,,<music21.note.Rest eighth>,note,morgan653,0.5,133.5,GeneralNote
+23,,<music21.note.Note B->,note,morgan654,0.25,133.75,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,morgan655,0.0,0.0,Articulation
+23,,<music21.note.Note C->,note,morgan656,2.0,134.0,GeneralNote
+23,,<music21.note.Rest half>,note,morgan657,2.0,134.0,GeneralNote
+23,,<music21.note.Rest quarter>,note,morgan658,1.0,134.0,GeneralNote
+23,,<music21.note.Rest eighth>,note,morgan659,0.5,135.0,GeneralNote
+23,,<music21.note.Note C->,note,morgan660,0.5,135.5,GeneralNote
+23,,<music21.note.Note C->,note,morgan661,2.0,136.0,GeneralNote
+23,,<music21.articulations.Fingering 4>,fingering,morgan662,0.0,0.0,Fingering
+23,,<music21.chord.Chord E-4 A-4>,note,morgan663,2.0,136.0,GeneralNote
+23,,<music21.note.Note A->,note,morgan664,1.5,136.0,GeneralNote
+23,,<music21.note.Note F>,note,morgan665,0.5,137.5,GeneralNote
+23,23,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note C->>,slur,morgan1145,2.0,0.0,Slur
+23,24,<music21.spanner.Slur <music21.note.Note C-><music21.chord.Chord D3 F3 A-3>>,slur,morgan1146,2.5,0.0,Slur
+23,23,<music21.dynamics.Diminuendo <music21.note.Note D-><music21.note.Note C->>,diminuendo,morgan1199,,,DynamicRegion
+24,,<music21.note.Rest whole>,note,morgan666,4.0,138.0,GeneralNote
+24,,<music21.note.Note C->,note,morgan667,1.5,138.0,GeneralNote
+24,,<music21.articulations.Tenuto>,tenuto,morgan668,0.0,0.0,Articulation
+24,,<music21.chord.Chord F4 A-4>,note,morgan669,1.5,138.0,GeneralNote
+24,,<music21.chord.Chord D3 F3 A-3>,note,morgan670,2.0,138.0,GeneralNote
+24,,<music21.note.Note B->,note,morgan671,0.25,139.5,GeneralNote
+24,,<music21.articulations.Tenuto>,tenuto,morgan672,0.0,0.0,Articulation
+24,,<music21.note.Rest eighth>,note,morgan673,0.5,139.5,GeneralNote
+24,,<music21.note.Rest eighth>,note,morgan674,0.5,139.5,GeneralNote
+24,,<music21.note.Note A->,note,morgan675,0.25,139.75,GeneralNote
+24,,<music21.articulations.Tenuto>,tenuto,morgan676,0.0,0.0,Articulation
+24,,<music21.note.Note F>,note,morgan677,1.5,140.0,GeneralNote
+24,,<music21.articulations.Tenuto>,tenuto,morgan678,0.0,0.0,Articulation
+24,,<music21.note.Rest half>,note,morgan679,2.0,140.0,GeneralNote
+24,,<music21.note.Rest half>,note,morgan680,2.0,140.0,GeneralNote
+24,,<music21.chord.Chord D3 F3 B-3>,note,morgan681,2.0,140.0,GeneralNote
+24,,<music21.note.Note C->,note,morgan682,0.5,141.5,GeneralNote
+24,,<music21.articulations.Fingering 1>,fingering,morgan683,0.0,0.0,Fingering
+24,,<music21.note.Note B->,note,morgan684,0.125,142.0,GeneralNote
+24,,<music21.articulations.Fingering 3>,fingering,morgan685,0.0,0.0,Fingering
+24,,<music21.note.Note B->,note,morgan686,1.5,142.0,GeneralNote
+24,,<music21.articulations.Fingering 3>,fingering,morgan687,0.0,0.0,Fingering
+24,,<music21.note.Rest half>,note,morgan688,2.0,142.0,GeneralNote
+24,,<music21.note.Rest half>,note,morgan689,2.0,142.0,GeneralNote
+24,,<music21.chord.Chord D3 F3 B-3>,note,morgan690,2.0,142.0,GeneralNote
+24,,<music21.note.Note C->,note,morgan691,0.125,142.125,GeneralNote
+24,,<music21.articulations.Fingering 4>,fingering,morgan692,0.0,0.0,Fingering
+24,,<music21.note.Note B->,note,morgan693,0.125,142.25,GeneralNote
+24,,<music21.note.Note C->,note,morgan694,0.125,142.375,GeneralNote
+24,,<music21.note.Note B->,note,morgan695,0.125,142.5,GeneralNote
+24,,<music21.note.Note C->,note,morgan696,0.125,142.625,GeneralNote
+24,,<music21.note.Note B->,note,morgan697,0.125,142.75,GeneralNote
+24,,<music21.note.Note C->,note,morgan698,0.125,142.875,GeneralNote
+24,,<music21.note.Note B->,note,morgan699,0.5,143.0,GeneralNote
+24,,<music21.note.Note C->,note,morgan700,0.25,143.5,GeneralNote
+24,,<music21.articulations.Fingering 5>,fingering,morgan701,0.0,0.0,Fingering
+24,,<music21.note.Note C->,note,morgan702,0.25,143.5,GeneralNote
+24,,<music21.articulations.Fingering 5>,fingering,morgan703,0.0,0.0,Fingering
+24,,<music21.articulations.Staccato>,staccato,morgan704,0.0,0.0,Articulation
+24,,<music21.note.Note A->,note,morgan705,0.25,143.75,GeneralNote
+24,,<music21.articulations.Fingering 4>,fingering,morgan706,0.0,0.0,Fingering
+24,,<music21.note.Note A->,note,morgan707,0.25,143.75,GeneralNote
+24,,<music21.articulations.Fingering 4>,fingering,morgan708,0.0,0.0,Fingering
+24,,<music21.articulations.Staccato>,staccato,morgan709,0.0,0.0,Articulation
+24,25,<music21.spanner.Slur <music21.note.Note C-><music21.chord.Chord E-4 G-4>>,slur,morgan1147,6.0,0.0,Slur
+24,24,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note F>>,diminuendo,morgan1201,,,DynamicRegion
+24,24,<music21.dynamics.Diminuendo <music21.note.Note C-><music21.note.Note A->>,diminuendo,morgan1203,,,DynamicRegion
+25,,<music21.note.Rest dotted-whole>,note,morgan710,6.0,144.0,GeneralNote
+25,,<music21.chord.Chord E-4 G-4>,note,morgan711,2.0,144.0,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,morgan712,0.0,0.0,Fingering
+25,,<music21.articulations.Fingering 3>,fingering,morgan713,0.0,0.0,Fingering
+25,,<music21.chord.Chord E-3 G-3 B-3>,note,morgan714,2.0,144.0,GeneralNote
+25,,<music21.note.Note G->,note,morgan715,0.25,146.0,GeneralNote
+25,,<music21.chord.Chord E-3 G-3 B-3>,note,morgan716,2.0,146.0,GeneralNote
+25,,<music21.note.Note E->,note,morgan717,0.25,146.25,GeneralNote
+25,,<music21.articulations.Fingering 2>,fingering,morgan718,0.0,0.0,Fingering
+25,,<music21.note.Note F>,note,morgan719,0.25,146.5,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,morgan720,0.0,0.0,Fingering
+25,,<music21.note.Note G->,note,morgan721,0.25,146.75,GeneralNote
+25,,<music21.note.Note A->,note,morgan722,0.25,147.0,GeneralNote
+25,,<music21.note.Note B->,note,morgan723,0.25,147.25,GeneralNote
+25,,<music21.note.Note C>,note,morgan724,0.25,147.5,GeneralNote
+25,,<music21.note.Note D>,note,morgan725,0.25,147.75,GeneralNote
+25,,<music21.note.Note E->,note,morgan726,0.25,148.0,GeneralNote
+25,,<music21.chord.Chord E-3 G-3 B-3>,note,morgan727,2.0,148.0,GeneralNote
+25,,<music21.note.Note F>,note,morgan728,0.25,148.25,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,morgan729,0.0,0.0,Fingering
+25,,<music21.note.Note G->,note,morgan730,0.25,148.5,GeneralNote
+25,,<music21.articulations.Fingering 3>,fingering,morgan731,0.0,0.0,Fingering
+25,,<music21.note.Note A->,note,morgan732,0.25,148.75,GeneralNote
+25,,<music21.note.Note G->,note,morgan733,0.25,149.0,GeneralNote
+25,,<music21.note.Note F>,note,morgan734,0.25,149.25,GeneralNote
+25,,<music21.note.Note G->,note,morgan735,0.25,149.5,GeneralNote
+25,,<music21.articulations.Fingering 4>,fingering,morgan736,0.0,0.0,Fingering
+25,,<music21.note.Note E->,note,morgan737,0.25,149.75,GeneralNote
+25,26,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note F->>,slur,morgan1148,4.0,0.0,Slur
+25,,<music21.dynamics.Dynamic p>,p,morgan1170,,,DynamicPoint
+25,25,<music21.dynamics.Crescendo <music21.chord.Chord E-4 G-4><music21.note.Note E->>,diminuendo,morgan1205,,,DynamicRegion
+26,,<music21.note.Rest dotted-whole>,note,morgan738,6.0,150.0,GeneralNote
+26,,<music21.note.Note F->,note,morgan739,1.5,150.0,GeneralNote
+26,,<music21.chord.Chord F-4 A-4 C-5>,note,morgan740,1.5,150.0,GeneralNote
+26,,<music21.note.Rest half>,note,morgan741,2.0,150.0,GeneralNote
+26,,<music21.note.Rest half>,note,morgan742,2.0,150.0,GeneralNote
+26,,<music21.chord.Chord A-2 C-3 F-3 A-3>,note,morgan743,2.0,150.0,GeneralNote
+26,,<music21.note.Rest half>,note,morgan744,2.0,150.0,GeneralNote
+26,,<music21.note.Rest half>,note,morgan745,2.0,150.0,GeneralNote
+26,,<music21.note.Note C->,note,morgan746,0.25,151.5,GeneralNote
+26,,<music21.articulations.Fingering 4>,fingering,morgan747,0.0,0.0,Fingering
+26,,<music21.note.Rest eighth>,note,morgan748,0.5,151.5,GeneralNote
+26,,<music21.note.Rest eighth>,note,morgan749,0.5,151.5,GeneralNote
+26,,<music21.note.Note B-->,note,morgan750,0.25,151.75,GeneralNote
+26,,<music21.note.Note A->,note,morgan751,1.5,152.0,GeneralNote
+26,,<music21.articulations.Tenuto>,tenuto,morgan752,0.0,0.0,Articulation
+26,,<music21.note.Rest half>,note,morgan753,2.0,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,morgan754,2.0,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,morgan755,2.0,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,morgan756,2.0,152.0,GeneralNote
+26,,<music21.note.Note B-->,note,morgan757,0.25,153.5,GeneralNote
+26,,<music21.note.Note C->,note,morgan758,0.25,153.75,GeneralNote
+26,,<music21.note.Note F->,note,morgan759,1.5,154.0,GeneralNote
+26,,<music21.articulations.Tenuto>,tenuto,morgan760,0.0,0.0,Articulation
+26,,<music21.note.Rest half>,note,morgan761,2.0,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,morgan762,2.0,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,morgan763,2.0,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,morgan764,2.0,154.0,GeneralNote
+26,,<music21.note.Note G->,note,morgan765,0.25,155.5,GeneralNote
+26,,<music21.note.Note A->,note,morgan766,0.25,155.75,GeneralNote
+26,,<music21.dynamics.Dynamic f>,f,morgan1171,,,DynamicPoint
+26,27,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note D>>,diminuendo,morgan1207,,,DynamicRegion
+26,,<music21.expressions.TextExpression 'non legato'>,non legato,morgan1222,0.0,150.0,TextExpression
+27,,<music21.note.Rest dotted-whole>,note,morgan767,6.0,156.0,GeneralNote
+27,,<music21.note.Note D>,note,morgan768,1.5,156.0,GeneralNote
+27,,<music21.articulations.Tenuto>,tenuto,morgan769,0.0,0.0,Articulation
+27,,<music21.note.Rest half>,note,morgan770,2.0,156.0,GeneralNote
+27,,<music21.note.Rest half>,note,morgan771,2.0,156.0,GeneralNote
+27,,<music21.chord.Chord A-2 F3 B-3>,note,morgan772,2.0,156.0,GeneralNote
+27,,<music21.note.Rest half>,note,morgan773,2.0,156.0,GeneralNote
+27,,<music21.note.Rest half>,note,morgan774,2.0,156.0,GeneralNote
+27,,<music21.note.Note F>,note,morgan775,0.25,157.5,GeneralNote
+27,,<music21.note.Note A->,note,morgan776,0.25,157.75,GeneralNote
+27,,<music21.note.Note C->,note,morgan777,1.5,158.0,GeneralNote
+27,,<music21.articulations.Tenuto>,tenuto,morgan778,0.0,0.0,Articulation
+27,,<music21.note.Rest half>,note,morgan779,2.0,158.0,GeneralNote
+27,,<music21.note.Rest half>,note,morgan780,2.0,158.0,GeneralNote
+27,,<music21.note.Note B->,note,morgan781,0.25,159.5,GeneralNote
+27,,<music21.articulations.Fingering 3>,fingering,morgan782,0.0,0.0,Fingering
+27,,<music21.note.Note A->,note,morgan783,0.25,159.75,GeneralNote
+27,,<music21.note.Note F>,note,morgan784,1.5,160.0,GeneralNote
+27,,<music21.articulations.Tenuto>,tenuto,morgan785,0.0,0.0,Articulation
+27,,<music21.note.Rest half>,note,morgan786,2.0,160.0,GeneralNote
+27,,<music21.note.Rest half>,note,morgan787,2.0,160.0,GeneralNote
+27,,<music21.note.Note E->,note,morgan788,0.25,161.5,GeneralNote
+27,,<music21.articulations.Fingering 3>,fingering,morgan789,0.0,0.0,Fingering
+27,,<music21.note.Note D>,note,morgan790,0.25,161.75,GeneralNote
+27,,<music21.articulations.Fingering 1>,fingering,morgan791,0.0,0.0,Fingering
+27,,<music21.dynamics.Dynamic fz>,fz,morgan1172,,,DynamicPoint
+27,,<music21.expressions.TextExpression 'poco rit.'>,poco rit.,morgan1223,0.0,158.0,TextExpression
+28,,<music21.note.Rest dotted-whole>,note,morgan792,6.0,162.0,GeneralNote
+28,,<music21.note.Note C->,note,morgan793,0.5,162.0,GeneralNote
+28,,<music21.articulations.Fingering 5>,fingering,morgan794,0.0,0.0,Fingering
+28,,<music21.note.Rest half>,note,morgan795,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,morgan796,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,morgan797,2.0,162.0,GeneralNote
+28,,<music21.note.Note A>,note,morgan798,1.0,162.5,GeneralNote
+28,,<music21.articulations.Fingering 3>,fingering,morgan799,0.0,0.0,Fingering
+28,,<music21.articulations.Accent>,accent,morgan800,0.0,0.0,Articulation
+28,,<music21.note.Note B->,note,morgan801,0.5,163.5,GeneralNote
+28,,<music21.note.Note E->,note,morgan802,2.0,164.0,GeneralNote
+28,,<music21.articulations.Fingering 5>,fingering,morgan803,0.0,0.0,Fingering
+28,,<music21.chord.Chord G-4 B-4>,note,morgan804,2.0,164.0,GeneralNote
+28,,<music21.chord.Chord E-3 G-3 B-3>,note,morgan805,2.0,164.0,GeneralNote
+28,,<music21.note.Note B->,note,morgan806,2.0,164.0,GeneralNote
+28,,<music21.note.Note D>,note,morgan807,1.5,166.0,GeneralNote
+28,,<music21.articulations.Fingering 4>,fingering,morgan808,0.0,0.0,Fingering
+28,,<music21.chord.Chord F4 B-4>,note,morgan809,2.0,166.0,GeneralNote
+28,,<music21.chord.Chord F3 A-3 B-3>,note,morgan810,2.0,166.0,GeneralNote
+28,,<music21.note.Note B->,note,morgan811,2.0,166.0,GeneralNote
+28,,<music21.note.Note E->,note,morgan812,0.5,167.5,GeneralNote
+28,28,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A>>,slur,morgan1149,0.5,0.0,Slur
+28,,<music21.dynamics.Dynamic ff>,ff,morgan1173,,,DynamicPoint
+28,28,<music21.dynamics.Diminuendo <music21.note.Note D><music21.note.Note E->>,diminuendo,morgan1209,,,DynamicRegion
+28,,<music21.expressions.TextExpression 'a tempo'>,a tempo,morgan1224,0.0,164.0,TextExpression
+29,,<music21.note.Rest half>,note,morgan813,2.0,168.0,GeneralNote
+29,,<music21.note.Note E->,note,morgan814,6.0,168.0,GeneralNote
+29,,"<music21.articulations.Fingering 5
+3>",fingering,morgan815,0.0,0.0,Fingering
+29,,<music21.articulations.Accent>,accent,morgan816,0.0,0.0,Articulation
+29,,<music21.chord.Chord E-4 B-4>,note,morgan817,1.5,168.0,GeneralNote
+29,,<music21.chord.Chord C-3 C-4>,note,morgan818,2.0,168.0,GeneralNote
+29,,<music21.note.Rest 5ql>,note,morgan819,5.0,169.0,GeneralNote
+29,,<music21.note.Rest 5ql>,note,morgan820,5.0,169.0,GeneralNote
+29,,<music21.note.Note A->,note,morgan821,1/6,169.5,GeneralNote
+29,,<music21.note.Note G>,note,morgan822,1/6,509/3,GeneralNote
+29,,<music21.note.Note A->,note,morgan823,1/6,1019/6,GeneralNote
+29,,<music21.note.Note B->,note,morgan824,0.125,170.0,GeneralNote
+29,,<music21.articulations.Fingering 3>,fingering,morgan825,0.0,0.0,Fingering
+29,,<music21.note.Note A->,note,morgan826,2.0,170.0,GeneralNote
+29,,<music21.articulations.Fingering 32>,fingering,morgan827,0.0,0.0,Fingering
+29,,<music21.chord.Chord C-4 E-4>,note,morgan828,2.0,170.0,GeneralNote
+29,,<music21.note.Note A->,note,morgan829,0.125,170.125,GeneralNote
+29,,<music21.articulations.Fingering 2>,fingering,morgan830,0.0,0.0,Fingering
+29,,<music21.note.Note B->,note,morgan831,0.125,170.25,GeneralNote
+29,,<music21.note.Note A->,note,morgan832,0.125,170.375,GeneralNote
+29,,<music21.note.Note B->,note,morgan833,0.125,170.5,GeneralNote
+29,,<music21.note.Note A->,note,morgan834,0.125,170.625,GeneralNote
+29,,<music21.note.Note B->,note,morgan835,0.125,170.75,GeneralNote
+29,,<music21.note.Note A->,note,morgan836,0.125,170.875,GeneralNote
+29,,<music21.note.Note B->,note,morgan837,0.125,171.0,GeneralNote
+29,,<music21.note.Note A->,note,morgan838,0.125,171.125,GeneralNote
+29,,<music21.note.Note B->,note,morgan839,0.125,171.25,GeneralNote
+29,,<music21.note.Note A->,note,morgan840,0.125,171.375,GeneralNote
+29,,<music21.note.Note B->,note,morgan841,0.125,171.5,GeneralNote
+29,,<music21.note.Note A->,note,morgan842,0.125,171.625,GeneralNote
+29,,<music21.note.Note B->,note,morgan843,0.125,171.75,GeneralNote
+29,,<music21.note.Note A->,note,morgan844,0.125,171.875,GeneralNote
+29,,<music21.note.Note B->,note,morgan845,0.125,172.0,GeneralNote
+29,,<music21.note.Note A->,note,morgan846,1.5,172.0,GeneralNote
+29,,<music21.chord.Chord C-4 E-4>,note,morgan847,2.0,172.0,GeneralNote
+29,,<music21.note.Note A->,note,morgan848,0.125,172.125,GeneralNote
+29,,<music21.note.Note B->,note,morgan849,0.125,172.25,GeneralNote
+29,,<music21.note.Note A->,note,morgan850,0.125,172.375,GeneralNote
+29,,<music21.note.Note B->,note,morgan851,0.125,172.5,GeneralNote
+29,,<music21.note.Note A->,note,morgan852,0.125,172.625,GeneralNote
+29,,<music21.note.Note B->,note,morgan853,0.125,172.75,GeneralNote
+29,,<music21.note.Note A->,note,morgan854,0.125,172.875,GeneralNote
+29,,<music21.note.Note B->,note,morgan855,0.125,173.0,GeneralNote
+29,,<music21.note.Note A->,note,morgan856,0.125,173.125,GeneralNote
+29,,<music21.note.Note B->,note,morgan857,0.125,173.25,GeneralNote
+29,,<music21.note.Note A->,note,morgan858,0.125,173.375,GeneralNote
+29,,<music21.note.Note G>,note,morgan859,0.25,173.5,GeneralNote
+29,,<music21.note.Note G>,note,morgan860,0.25,173.5,GeneralNote
+29,,<music21.note.Note A->,note,morgan861,0.25,173.75,GeneralNote
+29,,<music21.note.Note A->,note,morgan862,0.25,173.75,GeneralNote
+29,,<music21.dynamics.Dynamic mf>,mf,morgan1174,,,DynamicPoint
+29,30,<music21.dynamics.Diminuendo <music21.chord.Chord E-4 B-4><music21.note.Note E->>,diminuendo,morgan1211,,,DynamicRegion
+30,,<music21.note.Rest dotted-whole>,note,morgan863,6.0,174.0,GeneralNote
+30,,<music21.note.Note E->,note,morgan864,2.0,174.0,GeneralNote
+30,,<music21.note.Note B->,note,morgan865,6.0,174.0,GeneralNote
+30,,<music21.articulations.Fingering 31>,fingering,morgan866,0.0,0.0,Fingering
+30,,<music21.chord.Chord G3 B-3 E-4>,note,morgan867,2.0,174.0,GeneralNote
+30,,<music21.note.Note E->,note,morgan868,1.0,176.0,GeneralNote
+30,,<music21.chord.Chord G3 B-3 E-4>,note,morgan869,2.0,176.0,GeneralNote
+30,,<music21.note.Note E->,note,morgan870,0.25,177.0,GeneralNote
+30,,<music21.note.Note E->,note,morgan871,0.25,177.25,GeneralNote
+30,,<music21.articulations.Fingering 4>,fingering,morgan872,0.0,0.0,Fingering
+30,,<music21.note.Note D->,note,morgan873,0.25,177.5,GeneralNote
+30,,<music21.note.Note C->,note,morgan874,0.25,177.75,GeneralNote
+30,,<music21.note.Note D->,note,morgan875,1.5,178.0,GeneralNote
+30,,<music21.chord.Chord G3 B-3 E-4>,note,morgan876,2.0,178.0,GeneralNote
+30,,<music21.note.Note B->,note,morgan877,0.5,179.5,GeneralNote
+30,,<music21.articulations.Fingering 1>,fingering,morgan878,0.0,0.0,Fingering
+30,31,<music21.spanner.Slur <music21.note.Note E-><music21.chord.Chord A-4 C-5>>,slur,morgan1150,2.75,0.0,Slur
+30,,<music21.dynamics.Dynamic p>,p,morgan1175,,,DynamicPoint
+31,,<music21.note.Rest dotted-whole>,note,morgan879,6.0,180.0,GeneralNote
+31,,<music21.chord.Chord A-4 C-5>,note,morgan880,2.0,180.0,GeneralNote
+31,,<music21.articulations.Fingering 4>,fingering,morgan881,0.0,0.0,Fingering
+31,,<music21.articulations.Fingering 5>,fingering,morgan882,0.0,0.0,Fingering
+31,,<music21.note.Note E->,note,morgan883,2.0,180.0,GeneralNote
+31,,<music21.articulations.Fingering 2>,fingering,morgan884,0.0,0.0,Fingering
+31,,<music21.chord.Chord A-3 C-4>,note,morgan885,2.0,180.0,GeneralNote
+31,,<music21.note.Note C->,note,morgan886,1.0,182.0,GeneralNote
+31,,<music21.note.Note E->,note,morgan887,1.0,182.0,GeneralNote
+31,,<music21.note.Note F->,note,morgan888,2.0,182.0,GeneralNote
+31,,<music21.note.Note C->,note,morgan889,0.25,183.0,GeneralNote
+31,,<music21.note.Note E->,note,morgan890,0.25,183.0,GeneralNote
+31,,<music21.note.Note C->,note,morgan891,0.25,183.25,GeneralNote
+31,,<music21.articulations.Fingering 5>,fingering,morgan892,0.0,0.0,Fingering
+31,,<music21.note.Note E->,note,morgan893,0.25,183.25,GeneralNote
+31,,<music21.articulations.Fingering 2>,fingering,morgan894,0.0,0.0,Fingering
+31,,<music21.note.Note B->,note,morgan895,0.25,183.5,GeneralNote
+31,,<music21.articulations.Fingering 4>,fingering,morgan896,0.0,0.0,Fingering
+31,,<music21.note.Note D->,note,morgan897,0.25,183.5,GeneralNote
+31,,<music21.articulations.Fingering 1>,fingering,morgan898,0.0,0.0,Fingering
+31,,<music21.note.Note A->,note,morgan899,0.25,183.75,GeneralNote
+31,,<music21.articulations.Fingering 3>,fingering,morgan900,0.0,0.0,Fingering
+31,,<music21.note.Note C->,note,morgan901,0.25,183.75,GeneralNote
+31,,<music21.articulations.Fingering 1>,fingering,morgan902,0.0,0.0,Fingering
+31,,<music21.note.Note B->,note,morgan903,1.5,184.0,GeneralNote
+31,,<music21.articulations.Fingering 5>,fingering,morgan904,0.0,0.0,Fingering
+31,,<music21.note.Note D->,note,morgan905,1.5,184.0,GeneralNote
+31,,<music21.articulations.Fingering 2>,fingering,morgan906,0.0,0.0,Fingering
+31,,<music21.note.Note F->,note,morgan907,2.0,184.0,GeneralNote
+31,,<music21.note.Note G>,note,morgan908,0.5,185.5,GeneralNote
+31,,<music21.note.Note B->,note,morgan909,0.5,185.5,GeneralNote
+31,32,<music21.spanner.Slur <music21.note.Note C-><music21.chord.Chord C-4 D4 A-4>>,slur,morgan1151,2.75,0.0,Slur
+32,,<music21.note.Rest dotted-whole>,note,morgan910,6.0,186.0,GeneralNote
+32,,<music21.chord.Chord C-4 D4 A-4>,note,morgan911,2.0,186.0,GeneralNote
+32,,<music21.note.Note F>,note,morgan912,2.0,186.0,GeneralNote
+32,,<music21.articulations.Fingering 3>,fingering,morgan913,0.0,0.0,Fingering
+32,,<music21.chord.Chord C-4 D4 A-4>,note,morgan914,2.0,188.0,GeneralNote
+32,,<music21.note.Note F>,note,morgan915,1.0,188.0,GeneralNote
+32,,<music21.note.Note F>,note,morgan916,0.25,189.0,GeneralNote
+32,,<music21.note.Note G->,note,morgan917,0.25,189.25,GeneralNote
+32,,<music21.note.Note F>,note,morgan918,0.25,189.5,GeneralNote
+32,,<music21.note.Note E->,note,morgan919,0.25,189.75,GeneralNote
+32,,<music21.chord.Chord C-4 D4 A-4>,note,morgan920,2.0,190.0,GeneralNote
+32,,<music21.note.Note F>,note,morgan921,0.75,190.0,GeneralNote
+32,,<music21.note.Note G->,note,morgan922,0.25,190.75,GeneralNote
+32,,<music21.note.Note A->,note,morgan923,0.25,191.0,GeneralNote
+32,,<music21.note.Note F>,note,morgan924,0.25,191.25,GeneralNote
+32,,<music21.note.Note G->,note,morgan925,0.25,191.5,GeneralNote
+32,,<music21.note.Note A->,note,morgan926,0.25,191.75,GeneralNote
+32,33,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note D>>,slur,morgan1152,2.75,0.0,Slur
+32,,<music21.dynamics.Dynamic pp>,pp,morgan1176,,,DynamicPoint
+33,,<music21.note.Rest dotted-whole>,note,morgan927,6.0,192.0,GeneralNote
+33,,<music21.chord.Chord C-4 F4 A-4>,note,morgan928,2.0,192.0,GeneralNote
+33,,<music21.articulations.Fingering 1>,fingering,morgan929,0.0,0.0,Fingering
+33,,<music21.articulations.Fingering 2>,fingering,morgan930,0.0,0.0,Fingering
+33,,<music21.articulations.Fingering 4>,fingering,morgan931,0.0,0.0,Fingering
+33,,<music21.note.Note D>,note,morgan932,2.0,192.0,GeneralNote
+33,,<music21.chord.Chord C-4 F4 A-4>,note,morgan933,2.0,194.0,GeneralNote
+33,,<music21.note.Note D>,note,morgan934,1.0,194.0,GeneralNote
+33,,<music21.note.Note D>,note,morgan935,0.25,195.0,GeneralNote
+33,,<music21.note.Note E->,note,morgan936,0.25,195.25,GeneralNote
+33,,<music21.articulations.Fingering 2>,fingering,morgan937,0.0,0.0,Fingering
+33,,<music21.note.Note D>,note,morgan938,0.25,195.5,GeneralNote
+33,,<music21.note.Note C>,note,morgan939,0.25,195.75,GeneralNote
+33,,<music21.chord.Chord C-4 F4 A-4>,note,morgan940,2.0,196.0,GeneralNote
+33,,<music21.note.Note D>,note,morgan941,0.75,196.0,GeneralNote
+33,,<music21.note.Note E->,note,morgan942,0.25,196.75,GeneralNote
+33,,<music21.note.Note F>,note,morgan943,0.25,197.0,GeneralNote
+33,,<music21.note.Note D>,note,morgan944,0.25,197.25,GeneralNote
+33,,<music21.note.Note E->,note,morgan945,0.25,197.5,GeneralNote
+33,,<music21.note.Note F>,note,morgan946,0.25,197.75,GeneralNote
+33,34,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,morgan1153,2.75,0.0,Slur
+33,,<music21.expressions.TextExpression 'cresc.'>,cresc.,morgan1225,0.0,194.0,TextExpression
+34,,<music21.note.Rest dotted-whole>,note,morgan947,6.0,198.0,GeneralNote
+34,,<music21.chord.Chord D4 A-4>,note,morgan948,2.0,198.0,GeneralNote
+34,,<music21.note.Note F>,note,morgan949,2.0,198.0,GeneralNote
+34,,<music21.note.Note C->,note,morgan950,2.0,198.0,GeneralNote
+34,,<music21.articulations.Fingering 3>,fingering,morgan951,0.0,0.0,Fingering
+34,,<music21.chord.Chord D4 A-4>,note,morgan952,2.0,200.0,GeneralNote
+34,,<music21.note.Note F>,note,morgan953,2.0,200.0,GeneralNote
+34,,<music21.note.Note C->,note,morgan954,1.0,200.0,GeneralNote
+34,,<music21.note.Note C->,note,morgan955,0.25,201.0,GeneralNote
+34,,<music21.note.Note D->,note,morgan956,0.25,201.25,GeneralNote
+34,,<music21.articulations.Fingering 2>,fingering,morgan957,0.0,0.0,Fingering
+34,,<music21.note.Note C->,note,morgan958,0.25,201.5,GeneralNote
+34,,<music21.note.Note B->,note,morgan959,0.25,201.75,GeneralNote
+34,,<music21.chord.Chord D4 A-4>,note,morgan960,2.0,202.0,GeneralNote
+34,,<music21.note.Note F>,note,morgan961,2.0,202.0,GeneralNote
+34,,<music21.note.Note C->,note,morgan962,0.25,202.0,GeneralNote
+34,,<music21.articulations.Fingering 1>,fingering,morgan963,0.0,0.0,Fingering
+34,,<music21.note.Note B->,note,morgan964,0.25,202.25,GeneralNote
+34,,<music21.note.Note A->,note,morgan965,0.25,202.5,GeneralNote
+34,,<music21.note.Note B->,note,morgan966,0.25,202.75,GeneralNote
+34,,<music21.note.Note C->,note,morgan967,0.25,203.0,GeneralNote
+34,,<music21.note.Note A->,note,morgan968,0.25,203.25,GeneralNote
+34,,<music21.articulations.Tenuto>,tenuto,morgan969,0.0,0.0,Articulation
+34,,<music21.note.Note B->,note,morgan970,0.25,203.5,GeneralNote
+34,,<music21.articulations.Tenuto>,tenuto,morgan971,0.0,0.0,Articulation
+34,,<music21.note.Note C->,note,morgan972,0.25,203.75,GeneralNote
+34,,<music21.articulations.Tenuto>,tenuto,morgan973,0.0,0.0,Articulation
+34,35,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note D>>,slur,morgan1154,2.75,0.0,Slur
+34,34,<music21.dynamics.Crescendo <music21.chord.Chord D4 A-4><music21.chord.Chord D4 A-4>>,diminuendo,morgan1213,,,DynamicRegion
+34,34,<music21.dynamics.Crescendo <music21.note.Note D-><music21.note.Note C->>,diminuendo,morgan1215,,,DynamicRegion
+35,,<music21.note.Rest dotted-whole>,note,morgan974,6.0,204.0,GeneralNote
+35,,<music21.chord.Chord D4 F4 A-4 C-5>,note,morgan975,2.0,204.0,GeneralNote
+35,,<music21.articulations.Accent>,accent,morgan976,0.0,0.0,Articulation
+35,,<music21.articulations.Fingering 3>,fingering,morgan977,0.0,0.0,Fingering
+35,,<music21.articulations.Fingering 5>,fingering,morgan978,0.0,0.0,Fingering
+35,,<music21.note.Note D>,note,morgan979,2.0,204.0,GeneralNote
+35,,<music21.note.Note C->,note,morgan980,0.25,206.0,GeneralNote
+35,,<music21.note.Rest half>,note,morgan981,2.0,206.0,GeneralNote
+35,,<music21.note.Note B->,note,morgan982,0.25,206.25,GeneralNote
+35,,<music21.note.Note A->,note,morgan983,0.25,206.5,GeneralNote
+35,,<music21.note.Note G->,note,morgan984,0.25,206.75,GeneralNote
+35,,<music21.note.Note F>,note,morgan985,0.25,207.0,GeneralNote
+35,,<music21.note.Note E->,note,morgan986,0.25,207.25,GeneralNote
+35,,<music21.articulations.Fingering 2>,fingering,morgan987,0.0,0.0,Fingering
+35,,<music21.note.Note D>,note,morgan988,0.25,207.5,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,morgan989,0.0,0.0,Fingering
+35,,<music21.note.Note F>,note,morgan990,0.25,207.75,GeneralNote
+35,,<music21.note.Note A->,note,morgan991,0.25,208.0,GeneralNote
+35,,<music21.note.Rest half>,note,morgan992,2.0,208.0,GeneralNote
+35,,<music21.note.Note C->,note,morgan993,0.25,208.25,GeneralNote
+35,,<music21.articulations.Fingering 4>,fingering,morgan994,0.0,0.0,Fingering
+35,,<music21.note.Note D>,note,morgan995,0.25,208.5,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,morgan996,0.0,0.0,Fingering
+35,,<music21.note.Note F>,note,morgan997,0.25,208.75,GeneralNote
+35,,<music21.note.Note A->,note,morgan998,0.25,209.0,GeneralNote
+35,,<music21.note.Note C->,note,morgan999,0.25,209.25,GeneralNote
+35,,<music21.articulations.Tenuto>,tenuto,morgan1000,0.0,0.0,Articulation
+35,,<music21.note.Note B->,note,morgan1001,0.25,209.5,GeneralNote
+35,,<music21.articulations.Tenuto>,tenuto,morgan1002,0.0,0.0,Articulation
+35,,<music21.note.Note D>,note,morgan1003,0.25,209.75,GeneralNote
+35,,<music21.articulations.Tenuto>,tenuto,morgan1004,0.0,0.0,Articulation
+35,36,<music21.spanner.Slur <music21.chord.Chord D4 F4 A-4 C-5><music21.note.Note E->>,slur,morgan1155,6.0,0.0,Slur
+35,,<music21.dynamics.Dynamic f>,f,morgan1177,,,DynamicPoint
+35,36,<music21.dynamics.Crescendo <music21.note.Note A-><music21.note.Note B->>,diminuendo,morgan1217,,,DynamicRegion
+35,,<music21.expressions.TextExpression 'allargando'>,allargando,morgan1226,0.0,208.0,TextExpression
+36,,<music21.note.Rest half>,note,morgan1005,2.0,210.0,GeneralNote
+36,,<music21.note.Rest half>,note,morgan1006,2.0,210.0,GeneralNote
+36,,<music21.note.Rest half>,note,morgan1007,2.0,210.0,GeneralNote
+36,,<music21.note.Note E->,note,morgan1008,1.5,210.0,GeneralNote
+36,,<music21.articulations.Fingering 5>,fingering,morgan1009,0.0,0.0,Fingering
+36,,<music21.articulations.Accent>,accent,morgan1010,0.0,0.0,Articulation
+36,,<music21.note.Rest quarter>,note,morgan1011,1.0,210.0,GeneralNote
+36,,<music21.note.Rest half>,note,morgan1012,2.0,210.0,GeneralNote
+36,,<music21.note.Rest half>,note,morgan1013,2.0,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,morgan1014,1.0,210.0,GeneralNote
+36,,<music21.note.Rest half>,note,morgan1015,2.0,210.0,GeneralNote
+36,,<music21.note.Rest half>,note,morgan1016,2.0,210.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,morgan1017,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,morgan1018,0.5,211.0,GeneralNote
+36,,<music21.note.Note B->,note,morgan1019,0.5,211.5,GeneralNote
+36,,"<music21.articulations.Fingering 3
+1>",fingering,morgan1020,0.0,0.0,Fingering
+36,,<music21.note.Note G->,note,morgan1021,0.5,211.5,GeneralNote
+36,,<music21.chord.Chord E-2 E-3>,note,morgan1022,0.5,211.5,GeneralNote
+36,,<music21.note.Note A->,note,morgan1023,0.0,212.0,GeneralNote
+36,,<music21.articulations.Fingering 4>,fingering,morgan1024,0.0,0.0,Fingering
+36,,<music21.note.Note A->,note,morgan1025,0.5,212.0,GeneralNote
+36,,<music21.articulations.Fingering 4>,fingering,morgan1026,0.0,0.0,Fingering
+36,,<music21.note.Note E->,note,morgan1027,2.0,212.0,GeneralNote
+36,,<music21.articulations.Fingering 2>,fingering,morgan1028,0.0,0.0,Fingering
+36,,<music21.note.Note G->,note,morgan1029,2.0,212.0,GeneralNote
+36,,<music21.note.Note E->,note,morgan1030,2.0,212.0,GeneralNote
+36,,<music21.chord.Chord E-3 G-3>,note,morgan1031,2.0,212.0,GeneralNote
+36,,<music21.articulations.Fingering 2>,fingering,morgan1032,0.0,0.0,Fingering
+36,,<music21.note.Note B->,note,morgan1033,2.0,212.0,GeneralNote
+36,,<music21.note.Note G->,note,morgan1034,1.5,212.5,GeneralNote
+36,,<music21.articulations.Fingering 34>,fingering,morgan1035,0.0,0.0,Fingering
+36,,<music21.note.Rest quarter>,note,morgan1036,1.0,213.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,morgan1037,1.0,213.0,GeneralNote
+36,,<music21.note.Note F>,note,morgan1038,0.125,214.0,GeneralNote
+36,,<music21.articulations.Fingering 3>,fingering,morgan1039,0.0,0.0,Fingering
+36,,<music21.note.Note D>,note,morgan1040,2.0,214.0,GeneralNote
+36,,<music21.note.Note F>,note,morgan1041,0.5,214.0,GeneralNote
+36,,<music21.note.Note D>,note,morgan1042,2.0,214.0,GeneralNote
+36,,<music21.chord.Chord F3 A-3>,note,morgan1043,2.0,214.0,GeneralNote
+36,,<music21.note.Note B->,note,morgan1044,2.0,214.0,GeneralNote
+36,,<music21.note.Note G->,note,morgan1045,0.125,214.125,GeneralNote
+36,,<music21.note.Note F>,note,morgan1046,0.25,214.25,GeneralNote
+36,,<music21.note.Note E->,note,morgan1047,0.5,214.5,GeneralNote
+36,,<music21.articulations.Fingering 2>,fingering,morgan1048,0.0,0.0,Fingering
+36,,<music21.note.Note E->,note,morgan1049,0.5,214.5,GeneralNote
+36,,<music21.note.Note F>,note,morgan1050,1.0,215.0,GeneralNote
+36,,<music21.articulations.Fingering 3>,fingering,morgan1051,0.0,0.0,Fingering
+36,,<music21.note.Note F>,note,morgan1052,1.0,215.0,GeneralNote
+36,36,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G->>,slur,morgan1156,0.0,0.0,Slur
+36,36,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,morgan1157,1.0,0.0,Slur
+36,36,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note F>>,diminuendo,morgan1219,,,DynamicRegion
+37,,<music21.note.Rest dotted-whole>,note,morgan1053,6.0,216.0,GeneralNote
+37,,<music21.note.Note E->,note,morgan1054,2.0,216.0,GeneralNote
+37,,<music21.articulations.Fingering 2>,fingering,morgan1055,0.0,0.0,Fingering
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,morgan1056,2.0,216.0,GeneralNote
+37,,<music21.note.Note E->,note,morgan1057,1.0,218.0,GeneralNote
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,morgan1058,2.0,218.0,GeneralNote
+37,,<music21.note.Note E->,note,morgan1059,0.25,219.0,GeneralNote
+37,,<music21.note.Note F>,note,morgan1060,0.25,219.25,GeneralNote
+37,,<music21.articulations.Fingering 1>,fingering,morgan1061,0.0,0.0,Fingering
+37,,<music21.note.Note G>,note,morgan1062,0.25,219.5,GeneralNote
+37,,<music21.note.Note A->,note,morgan1063,0.25,219.75,GeneralNote
+37,,<music21.note.Note B->,note,morgan1064,1.0,220.0,GeneralNote
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,morgan1065,2.0,220.0,GeneralNote
+37,,<music21.note.Note B->,note,morgan1066,0.25,221.0,GeneralNote
+37,,<music21.note.Note F->,note,morgan1067,0.25,221.25,GeneralNote
+37,,<music21.articulations.Fingering 1>,fingering,morgan1068,0.0,0.0,Fingering
+37,,<music21.note.Note E->,note,morgan1069,0.25,221.5,GeneralNote
+37,,<music21.articulations.Fingering 3>,fingering,morgan1070,0.0,0.0,Fingering
+37,,<music21.note.Note D->,note,morgan1071,0.25,221.75,GeneralNote
+37,38,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,morgan1158,3.0,0.0,Slur
+37,,<music21.dynamics.Dynamic pp>,pp,morgan1178,,,DynamicPoint
+38,,<music21.note.Rest dotted-whole>,note,morgan1072,6.0,222.0,GeneralNote
+38,,<music21.note.Note C->,note,morgan1073,2.0,222.0,GeneralNote
+38,,<music21.chord.Chord E-3 A-3>,note,morgan1074,2.0,222.0,GeneralNote
+38,,<music21.note.Note C->,note,morgan1075,0.75,224.0,GeneralNote
+38,,<music21.chord.Chord E-3 A-3>,note,morgan1076,2.0,224.0,GeneralNote
+38,,<music21.note.Note E->,note,morgan1077,0.25,224.75,GeneralNote
+38,,<music21.note.Note F>,note,morgan1078,0.25,225.0,GeneralNote
+38,,<music21.articulations.Fingering 1>,fingering,morgan1079,0.0,0.0,Fingering
+38,,<music21.note.Note G>,note,morgan1080,0.25,225.25,GeneralNote
+38,,<music21.note.Note A->,note,morgan1081,0.25,225.5,GeneralNote
+38,,<music21.note.Note B->,note,morgan1082,0.25,225.75,GeneralNote
+38,,<music21.note.Note C->,note,morgan1083,0.5,226.0,GeneralNote
+38,,<music21.chord.Chord E-3 A-3>,note,morgan1084,2.0,226.0,GeneralNote
+38,,<music21.note.Note C->,note,morgan1085,0.125,226.5,GeneralNote
+38,,<music21.note.Note B->,note,morgan1086,0.125,226.625,GeneralNote
+38,,<music21.note.Note A->,note,morgan1087,0.125,226.75,GeneralNote
+38,,<music21.note.Note G->,note,morgan1088,0.125,226.875,GeneralNote
+38,,<music21.note.Note F>,note,morgan1089,0.25,227.0,GeneralNote
+38,,<music21.articulations.Fingering 1>,fingering,morgan1090,0.0,0.0,Fingering
+38,,<music21.note.Note G->,note,morgan1091,0.25,227.25,GeneralNote
+38,,<music21.articulations.Fingering 3>,fingering,morgan1092,0.0,0.0,Fingering
+38,,<music21.note.Note A->,note,morgan1093,0.25,227.5,GeneralNote
+38,,<music21.note.Note F>,note,morgan1094,0.25,227.75,GeneralNote
+38,39,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,morgan1159,4.0,0.0,Slur
+39,,<music21.note.Rest dotted-whole>,note,morgan1095,6.0,228.0,GeneralNote
+39,,<music21.note.Note D>,note,morgan1096,4.0,228.0,GeneralNote
+39,,<music21.articulations.Fingering 15>,fingering,morgan1097,0.0,0.0,Fingering
+39,,<music21.articulations.Tenuto>,tenuto,morgan1098,0.0,0.0,Articulation
+39,,<music21.note.Rest quarter>,note,morgan1099,1.0,228.0,GeneralNote
+39,,<music21.note.Note F>,note,morgan1100,2.0,228.0,GeneralNote
+39,,<music21.note.Note E->,note,morgan1101,2.0,228.0,GeneralNote
+39,,<music21.note.Rest eighth>,note,morgan1102,0.5,229.0,GeneralNote
+39,,<music21.note.Note C->,note,morgan1103,0.25,229.5,GeneralNote
+39,,<music21.articulations.Fingering 3>,fingering,morgan1104,0.0,0.0,Fingering
+39,,<music21.note.Note B->,note,morgan1105,0.25,229.75,GeneralNote
+39,,<music21.note.Note C->,note,morgan1106,1.5,230.0,GeneralNote
+39,,<music21.note.Note F>,note,morgan1107,2.0,230.0,GeneralNote
+39,,<music21.note.Note E->,note,morgan1108,2.0,230.0,GeneralNote
+39,,<music21.note.Note A->,note,morgan1109,0.5,231.5,GeneralNote
+39,,<music21.note.Note D>,note,morgan1110,1.5,232.0,GeneralNote
+39,,<music21.note.Rest half>,note,morgan1111,2.0,232.0,GeneralNote
+39,,<music21.note.Note F>,note,morgan1112,2.0,232.0,GeneralNote
+39,,<music21.note.Rest half>,note,morgan1113,2.0,232.0,GeneralNote
+39,,<music21.note.Note E->,note,morgan1114,2.0,232.0,GeneralNote
+39,,<music21.note.Note D>,note,morgan1115,0.5,233.5,GeneralNote
+39,,<music21.articulations.Fingering 4>,fingering,morgan1116,0.0,0.0,Fingering
+39,40,<music21.spanner.Slur <music21.note.Note D><music21.chord.Chord G3 B-3 E-4>>,slur,morgan1160,0.5,0.0,Slur
+39,40,<music21.spanner.Slur <music21.note.Note C-><music21.chord.Chord G3 B-3 E-4>>,slur,morgan1161,4.5,0.0,Slur
+39,,<music21.expressions.TextExpression 'poco rit.'>,poco rit.,morgan1227,0.0,228.0,TextExpression
+40,,<music21.note.Rest dotted-whole>,note,morgan1117,6.0,234.0,GeneralNote
+40,,<music21.chord.Chord G3 B-3 E-4>,note,morgan1118,6.0,234.0,GeneralNote
+40,,<music21.chord.Chord E-2 B-2 E-3>,note,morgan1119,6.0,234.0,GeneralNote
+40,,<music21.dynamics.Dynamic pp>,pp,morgan1179,,,DynamicPoint

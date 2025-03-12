@@ -1,1126 +1,1243 @@
 measure_start,measure_end,object,value,id,quarterlength,offset,type
 1,,<music21.note.Rest dotted-whole>,note,wouters1,6.0,0.0,GeneralNote
 1,,<music21.note.Note B->,note,wouters2,2.0,0.0,GeneralNote
-1,,<music21.chord.Chord E-4 G-4>,note,wouters3,2.0,0.0,GeneralNote
-1,,<music21.note.Rest dotted-whole>,note,wouters4,6.0,0.0,GeneralNote
-1,,<music21.note.Rest quarter>,note,wouters5,1.0,2.0,GeneralNote
-1,,<music21.chord.Chord E-4 G-4>,note,wouters6,2.0,2.0,GeneralNote
-1,,<music21.note.Rest eighth>,note,wouters7,0.5,3.0,GeneralNote
-1,,<music21.note.Note B->,note,wouters8,0.5,3.5,GeneralNote
-1,,<music21.note.Note E->,note,wouters9,1.5,4.0,GeneralNote
-1,,<music21.chord.Chord E-4 G-4>,note,wouters10,2.0,4.0,GeneralNote
-1,,<music21.note.Note G->,note,wouters11,0.5,5.5,GeneralNote
-1,2,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note C->>,slur,wouters1048,2.5,0.0,Slur
-1,,<music21.dynamics.Dynamic p>,p,wouters1088,,,DynamicPoint
-1,,<music21.expressions.TextExpression 'Lento'>,Lento,wouters1132,0.0,0.0,TextExpression
-1,,<music21.expressions.TextExpression 'espressivo'>,espressivo,wouters1133,0.0,0.0,TextExpression
-1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None,wouters1139,0.0,0.0,TempoIndication
-1,,<music21.tempo.MetronomeMark grave Half=40>,grave,wouters1140,0.0,0.0,TempoIndication
-1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None None,wouters1141,0.0,0.0,MetronomeMark
-1,,<music21.tempo.MetronomeMark grave Half=40>,grave 40,wouters1142,0.0,0.0,MetronomeMark
-2,,<music21.note.Rest dotted-whole>,note,wouters12,6.0,6.0,GeneralNote
-2,,<music21.note.Note C->,note,wouters13,2.0,6.0,GeneralNote
-2,,<music21.chord.Chord E-4 A-4>,note,wouters14,2.0,6.0,GeneralNote
-2,,<music21.note.Rest dotted-whole>,note,wouters15,6.0,6.0,GeneralNote
-2,,<music21.note.Rest quarter>,note,wouters16,1.0,8.0,GeneralNote
-2,,<music21.chord.Chord E-4 A-4 C-5>,note,wouters17,2.0,8.0,GeneralNote
-2,,<music21.note.Rest eighth>,note,wouters18,0.5,9.0,GeneralNote
-2,,<music21.note.Note E->,note,wouters19,0.5,9.5,GeneralNote
-2,,<music21.note.Note A->,note,wouters20,1.5,10.0,GeneralNote
-2,,<music21.chord.Chord E-4 A-4 C-5>,note,wouters21,2.0,10.0,GeneralNote
-2,,<music21.note.Note C->,note,wouters22,0.5,11.5,GeneralNote
-2,3,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D>>,slur,wouters1049,2.5,0.0,Slur
-3,,<music21.note.Rest half>,note,wouters23,2.0,12.0,GeneralNote
-3,,<music21.note.Note D>,note,wouters24,2.0,12.0,GeneralNote
-3,,<music21.chord.Chord E-4 F4 A-4>,note,wouters25,2.0,12.0,GeneralNote
-3,,<music21.note.Rest dotted-whole>,note,wouters26,6.0,12.0,GeneralNote
-3,,<music21.note.Rest quarter>,note,wouters27,1.0,14.0,GeneralNote
-3,,<music21.note.Rest quarter>,note,wouters28,1.0,14.0,GeneralNote
-3,,<music21.chord.Chord D4 F4 A-4>,note,wouters29,2.0,14.0,GeneralNote
-3,,<music21.note.Rest eighth>,note,wouters30,0.5,15.0,GeneralNote
-3,,<music21.note.Rest eighth>,note,wouters31,0.5,15.0,GeneralNote
-3,,<music21.note.Note F>,note,wouters32,0.5,15.5,GeneralNote
-3,,<music21.note.Note F>,note,wouters33,0.5,15.5,GeneralNote
-3,,<music21.note.Note B->,note,wouters34,0.125,16.0,GeneralNote
-3,,<music21.note.Note A->,note,wouters35,1.0,16.0,GeneralNote
-3,,<music21.chord.Chord D4 F4>,note,wouters36,2.0,16.0,GeneralNote
-3,,<music21.note.Note B->,note,wouters37,0.125,16.125,GeneralNote
-3,,<music21.note.Note A->,note,wouters38,0.75,16.25,GeneralNote
-3,,<music21.note.Note A->,note,wouters39,0.25,17.0,GeneralNote
-3,,<music21.note.Note A->,note,wouters40,0.25,17.0,GeneralNote
-3,,<music21.note.Note G->,note,wouters41,0.25,17.25,GeneralNote
-3,,<music21.note.Note G->,note,wouters42,0.25,17.25,GeneralNote
-3,,<music21.note.Note A->,note,wouters43,0.25,17.5,GeneralNote
-3,,<music21.note.Note A->,note,wouters44,0.25,17.5,GeneralNote
-3,,<music21.note.Note B->,note,wouters45,0.25,17.75,GeneralNote
-3,,<music21.note.Note B->,note,wouters46,0.25,17.75,GeneralNote
-3,4,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G->>,slur,wouters1036,4.5,0.0,Slur
-3,4,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G->>,slur,wouters1050,4.5,0.0,Slur
-4,,<music21.note.Note A->,note,wouters47,0.25,18.0,GeneralNote
-4,,<music21.note.Rest half>,note,wouters48,2.0,18.0,GeneralNote
-4,,<music21.note.Rest half>,note,wouters49,2.0,18.0,GeneralNote
-4,,<music21.note.Note G->,note,wouters50,1.5,18.0,GeneralNote
-4,,<music21.note.Note E->,note,wouters51,2.0,18.0,GeneralNote
-4,,<music21.note.Rest half>,note,wouters52,2.0,18.0,GeneralNote
-4,,<music21.note.Note G->,note,wouters53,0.125,18.25,GeneralNote
-4,,<music21.note.Note A->,note,wouters54,0.125,18.375,GeneralNote
-4,,<music21.note.Note G->,note,wouters55,0.125,18.5,GeneralNote
-4,,<music21.note.Note A->,note,wouters56,0.125,18.625,GeneralNote
-4,,<music21.note.Note G->,note,wouters57,0.125,18.75,GeneralNote
-4,,<music21.note.Note A->,note,wouters58,0.125,18.875,GeneralNote
-4,,<music21.note.Note G->,note,wouters59,0.5,19.0,GeneralNote
-4,,<music21.note.Note F>,note,wouters60,0.25,19.5,GeneralNote
-4,,<music21.note.Note F>,note,wouters61,0.25,19.5,GeneralNote
-4,,<music21.note.Note E->,note,wouters62,0.25,19.75,GeneralNote
-4,,<music21.note.Note E->,note,wouters63,0.25,19.75,GeneralNote
-4,,<music21.note.Rest half>,note,wouters64,2.0,20.0,GeneralNote
-4,,<music21.note.Note G->,note,wouters65,2.0,20.0,GeneralNote
-4,,<music21.note.Rest half>,note,wouters66,2.0,20.0,GeneralNote
-4,,<music21.note.Note G->,note,wouters67,2.0,20.0,GeneralNote
-4,,<music21.note.Rest quarter>,note,wouters68,1.0,20.0,GeneralNote
-4,,<music21.note.Rest eighth>,note,wouters69,0.5,21.0,GeneralNote
-4,,<music21.note.Note B->,note,wouters70,0.5,21.5,GeneralNote
-4,,<music21.note.Note G->,note,wouters71,2.0,22.0,GeneralNote
-4,,<music21.chord.Chord G-4 B-4 E-5>,note,wouters72,2.0,22.0,GeneralNote
-4,,<music21.note.Note G->,note,wouters73,2.0,22.0,GeneralNote
-4,,<music21.chord.Chord G-4 B-4 E-5>,note,wouters74,2.0,22.0,GeneralNote
-4,,<music21.note.Note G->,note,wouters75,1.5,22.0,GeneralNote
-4,,<music21.note.Note E->,note,wouters76,0.5,23.5,GeneralNote
-4,5,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note B->>,slur,wouters1051,2.5,0.0,Slur
-4,4,<music21.dynamics.Crescendo <music21.note.Note G->>,diminuendo,wouters1099,,,DynamicRegion
-5,,<music21.note.Rest dotted-whole>,note,wouters77,6.0,24.0,GeneralNote
-5,,<music21.note.Note G->,note,wouters78,2.0,24.0,GeneralNote
-5,,<music21.chord.Chord G-4 B-4 D-5>,note,wouters79,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,wouters80,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,wouters81,2.0,24.0,GeneralNote
-5,,<music21.note.Note B->,note,wouters82,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,wouters83,2.0,24.0,GeneralNote
-5,,<music21.note.Rest half>,note,wouters84,2.0,24.0,GeneralNote
-5,,<music21.note.Rest whole>,note,wouters85,4.0,26.0,GeneralNote
-5,,<music21.note.Rest quarter>,note,wouters86,1.0,26.0,GeneralNote
-5,,<music21.note.Note B->,note,wouters87,2.0,26.0,GeneralNote
-5,,<music21.chord.Chord D-3 G-3 B-3>,note,wouters88,2.0,26.0,GeneralNote
-5,,<music21.note.Rest 16th>,note,wouters89,0.25,27.0,GeneralNote
-5,,<music21.note.Note G->,note,wouters90,0.25,27.25,GeneralNote
-5,,<music21.note.Note F->,note,wouters91,0.25,27.5,GeneralNote
-5,,<music21.note.Note E->,note,wouters92,0.25,27.75,GeneralNote
-5,,<music21.note.Note F->,note,wouters93,1.5,28.0,GeneralNote
-5,,<music21.note.Note B->,note,wouters94,2.0,28.0,GeneralNote
-5,,<music21.chord.Chord D-3 G-3 B-3>,note,wouters95,2.0,28.0,GeneralNote
-5,,<music21.note.Note D->,note,wouters96,0.5,29.5,GeneralNote
-5,6,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note E->>,slur,wouters1052,2.75,0.0,Slur
-6,,<music21.note.Rest dotted-whole>,note,wouters97,6.0,30.0,GeneralNote
-6,,<music21.note.Note E->,note,wouters98,2.0,30.0,GeneralNote
-6,,<music21.chord.Chord E-4 G-4 C-5>,note,wouters99,2.0,30.0,GeneralNote
-6,,<music21.chord.Chord E-3 G-3 C-4>,note,wouters100,2.0,30.0,GeneralNote
-6,,<music21.chord.Chord C-3 E-3>,note,wouters101,2.0,30.0,GeneralNote
-6,,<music21.note.Note E->,note,wouters102,2.0,32.0,GeneralNote
-6,,<music21.chord.Chord G-4 C-5>,note,wouters103,2.0,32.0,GeneralNote
-6,,<music21.note.Rest half>,note,wouters104,2.0,32.0,GeneralNote
-6,,<music21.note.Rest quarter>,note,wouters105,1.0,32.0,GeneralNote
-6,,<music21.note.Rest half>,note,wouters106,2.0,32.0,GeneralNote
-6,,<music21.note.Rest eighth>,note,wouters107,0.5,33.0,GeneralNote
-6,,<music21.note.Note G->,note,wouters108,0.5,33.5,GeneralNote
-6,,<music21.note.Note E->,note,wouters109,2.0,34.0,GeneralNote
-6,,<music21.chord.Chord G-4 C-5>,note,wouters110,2.0,34.0,GeneralNote
-6,,<music21.note.Rest half>,note,wouters111,2.0,34.0,GeneralNote
-6,,<music21.note.Note E->,note,wouters112,1.5,34.0,GeneralNote
-6,,<music21.note.Rest half>,note,wouters113,2.0,34.0,GeneralNote
-6,,<music21.note.Note C->,note,wouters114,0.5,35.5,GeneralNote
-6,7,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note G>>,slur,wouters1053,2.5,0.0,Slur
-6,,<music21.dynamics.Dynamic p>,p,wouters1089,,,DynamicPoint
-7,,<music21.note.Rest dotted-whole>,note,wouters115,6.0,36.0,GeneralNote
-7,,<music21.note.Note B->,note,wouters116,2.0,36.0,GeneralNote
-7,,<music21.chord.Chord B-4 E-5>,note,wouters117,2.0,36.0,GeneralNote
-7,,<music21.note.Rest half>,note,wouters118,2.0,36.0,GeneralNote
-7,,<music21.note.Rest half>,note,wouters119,2.0,36.0,GeneralNote
-7,,<music21.note.Note G>,note,wouters120,2.0,36.0,GeneralNote
-7,,<music21.note.Rest half>,note,wouters121,2.0,36.0,GeneralNote
-7,,<music21.note.Rest half>,note,wouters122,2.0,36.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,wouters123,1.0,38.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,wouters124,1.0,38.0,GeneralNote
-7,,<music21.note.Note G>,note,wouters125,2.0,38.0,GeneralNote
-7,,<music21.chord.Chord B-2 E-3 G3>,note,wouters126,2.0,38.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,wouters127,1.0,39.0,GeneralNote
-7,,<music21.note.Rest 16th>,note,wouters128,0.25,39.0,GeneralNote
-7,,<music21.note.Note E->,note,wouters129,0.25,39.25,GeneralNote
-7,,<music21.note.Note D->,note,wouters130,0.25,39.5,GeneralNote
-7,,<music21.note.Note C->,note,wouters131,0.25,39.75,GeneralNote
-7,,<music21.note.Rest quarter>,note,wouters132,1.0,40.0,GeneralNote
-7,,<music21.note.Note D->,note,wouters133,1.5,40.0,GeneralNote
-7,,<music21.note.Note G>,note,wouters134,2.0,40.0,GeneralNote
-7,,<music21.chord.Chord B-2 E-3 G3>,note,wouters135,2.0,40.0,GeneralNote
-7,,<music21.note.Rest quarter>,note,wouters136,1.0,41.0,GeneralNote
-7,,<music21.note.Note B->,note,wouters137,0.5,41.5,GeneralNote
-7,8,<music21.spanner.Slur <music21.note.Note E-><music21.chord.Chord E-5 A-5 C-6>>,slur,wouters1054,4.75,0.0,Slur
-8,,<music21.note.Note C->,note,wouters138,0.125,42.0,GeneralNote
-8,,<music21.note.Rest half>,note,wouters139,2.0,42.0,GeneralNote
-8,,<music21.note.Note C->,note,wouters140,1.5,42.0,GeneralNote
-8,,<music21.chord.Chord C-3 E-3 A-3>,note,wouters141,2.0,42.0,GeneralNote
-8,,<music21.note.Note A->,note,wouters142,2.0,42.0,GeneralNote
-8,,<music21.note.Note D->,note,wouters143,0.125,42.125,GeneralNote
-8,,<music21.note.Note C->,note,wouters144,0.125,42.25,GeneralNote
-8,,<music21.note.Note D->,note,wouters145,0.125,42.375,GeneralNote
-8,,<music21.note.Note C->,note,wouters146,0.125,42.5,GeneralNote
-8,,<music21.note.Note D->,note,wouters147,0.125,42.625,GeneralNote
-8,,<music21.note.Note C->,note,wouters148,0.125,42.75,GeneralNote
-8,,<music21.note.Note D->,note,wouters149,0.125,42.875,GeneralNote
-8,,<music21.note.Note C->,note,wouters150,0.5,43.0,GeneralNote
-8,,<music21.note.Note B->,note,wouters151,0.25,43.5,GeneralNote
-8,,<music21.note.Note B->,note,wouters152,0.25,43.5,GeneralNote
-8,,<music21.note.Note A->,note,wouters153,0.25,43.75,GeneralNote
-8,,<music21.note.Note A->,note,wouters154,0.25,43.75,GeneralNote
-8,,<music21.chord.Chord E-5 A-5 C-6>,note,wouters155,2.0,44.0,GeneralNote
-8,,<music21.chord.Chord E-5 A-5 C-6>,note,wouters156,2.0,44.0,GeneralNote
-8,,<music21.note.Rest quarter>,note,wouters157,1.0,44.0,GeneralNote
-8,,<music21.note.Rest half>,note,wouters158,2.0,44.0,GeneralNote
-8,,<music21.note.Rest whole>,note,wouters159,4.0,44.0,GeneralNote
-8,,<music21.note.Rest half>,note,wouters160,2.0,44.0,GeneralNote
-8,,<music21.note.Rest eighth>,note,wouters161,0.5,45.0,GeneralNote
-8,,<music21.note.Note C->,note,wouters162,0.5,45.5,GeneralNote
-8,,<music21.chord.Chord E-5 A-5 C-6>,note,wouters163,2.0,46.0,GeneralNote
-8,,<music21.chord.Chord E-5 A-5 C-6>,note,wouters164,2.0,46.0,GeneralNote
-8,,<music21.note.Rest half>,note,wouters165,2.0,46.0,GeneralNote
-8,,<music21.note.Note A->,note,wouters166,1.5,46.0,GeneralNote
-8,,<music21.note.Rest half>,note,wouters167,2.0,46.0,GeneralNote
-8,,<music21.note.Note F>,note,wouters168,0.5,47.5,GeneralNote
-8,8,<music21.spanner.Slur <music21.note.Note C-><music21.chord.Chord E-5 A-5 C-6>>,slur,wouters1037,2.0,0.0,Slur
-8,9,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,wouters1055,2.5,0.0,Slur
-8,9,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note A->>,diminuendo,wouters1101,,,DynamicRegion
-9,,<music21.note.Rest dotted-whole>,note,wouters169,6.0,48.0,GeneralNote
-9,,<music21.chord.Chord F5 A-5 C-6>,note,wouters170,2.0,48.0,GeneralNote
-9,,<music21.note.Note D>,note,wouters171,2.0,48.0,GeneralNote
-9,,<music21.note.Rest dotted-whole>,note,wouters172,6.0,48.0,GeneralNote
-9,,<music21.note.Rest quarter>,note,wouters173,1.0,50.0,GeneralNote
-9,,<music21.chord.Chord D4 F4 B-4>,note,wouters174,2.0,50.0,GeneralNote
-9,,<music21.note.Rest 16th>,note,wouters175,0.25,51.0,GeneralNote
-9,,<music21.note.Note B->,note,wouters176,0.25,51.25,GeneralNote
-9,,<music21.note.Note A->,note,wouters177,0.25,51.5,GeneralNote
-9,,<music21.note.Note G->,note,wouters178,0.25,51.75,GeneralNote
-9,,<music21.note.Note F>,note,wouters179,0.25,52.0,GeneralNote
-9,,<music21.chord.Chord D4 F4 B-4>,note,wouters180,2.0,52.0,GeneralNote
-9,,<music21.note.Note G->,note,wouters181,0.25,52.25,GeneralNote
-9,,<music21.note.Note F>,note,wouters182,0.25,52.5,GeneralNote
-9,,<music21.note.Note G->,note,wouters183,0.25,52.75,GeneralNote
-9,,<music21.note.Note A->,note,wouters184,0.25,53.0,GeneralNote
-9,,<music21.note.Note G->,note,wouters185,0.25,53.25,GeneralNote
-9,,<music21.note.Note A->,note,wouters186,0.25,53.5,GeneralNote
-9,,<music21.note.Note F>,note,wouters187,0.25,53.75,GeneralNote
-9,10,<music21.spanner.Slur <music21.note.Note B-><music21.chord.Chord B-4 E-5 G-5 B-5>>,slur,wouters1056,4.75,0.0,Slur
-9,10,<music21.dynamics.Diminuendo <music21.note.Note F><music21.chord.Chord D-5 E-5 G-5 B-5>>,diminuendo,wouters1103,,,DynamicRegion
-10,,<music21.note.Note G->,note,wouters188,0.125,54.0,GeneralNote
-10,,<music21.note.Note G->,note,wouters189,1.5,54.0,GeneralNote
-10,,<music21.chord.Chord E-4 G-4 B-4>,note,wouters190,2.0,54.0,GeneralNote
-10,,<music21.note.Rest dotted-whole>,note,wouters191,6.0,54.0,GeneralNote
-10,,<music21.note.Note A->,note,wouters192,0.125,54.125,GeneralNote
-10,,<music21.note.Note G->,note,wouters193,0.125,54.25,GeneralNote
-10,,<music21.note.Note A->,note,wouters194,0.125,54.375,GeneralNote
-10,,<music21.note.Note G->,note,wouters195,0.125,54.5,GeneralNote
-10,,<music21.note.Note A->,note,wouters196,0.125,54.625,GeneralNote
-10,,<music21.note.Note G->,note,wouters197,0.125,54.75,GeneralNote
-10,,<music21.note.Note A->,note,wouters198,0.125,54.875,GeneralNote
-10,,<music21.note.Note G->,note,wouters199,0.5,55.0,GeneralNote
-10,,<music21.note.Note F>,note,wouters200,0.25,55.5,GeneralNote
-10,,<music21.note.Note F>,note,wouters201,0.25,55.5,GeneralNote
-10,,<music21.note.Note E->,note,wouters202,0.25,55.75,GeneralNote
-10,,<music21.note.Note E->,note,wouters203,0.25,55.75,GeneralNote
-10,,<music21.chord.Chord B-4 E-5 G-5 B-5>,note,wouters204,2.0,56.0,GeneralNote
-10,,<music21.chord.Chord B-4 E-5 G-5 B-5>,note,wouters205,2.0,56.0,GeneralNote
-10,,<music21.note.Rest quarter>,note,wouters206,1.0,56.0,GeneralNote
-10,,<music21.note.Rest eighth>,note,wouters207,0.5,57.0,GeneralNote
-10,,<music21.note.Note G->,note,wouters208,0.5,57.5,GeneralNote
-10,,<music21.chord.Chord D-5 E-5 G-5 B-5>,note,wouters209,2.0,58.0,GeneralNote
-10,,<music21.chord.Chord D-5 E-5 G-5 B-5>,note,wouters210,2.0,58.0,GeneralNote
-10,,<music21.note.Note E->,note,wouters211,1.5,58.0,GeneralNote
-10,,<music21.note.Note C>,note,wouters212,0.5,59.5,GeneralNote
-10,10,<music21.spanner.Slur <music21.note.Note G-><music21.chord.Chord B-4 E-5 G-5 B-5>>,slur,wouters1038,2.0,0.0,Slur
-10,11,<music21.dynamics.Crescendo <music21.note.Note G-><music21.note.Note E->>,diminuendo,wouters1105,,,DynamicRegion
-11,,<music21.note.Rest dotted-whole>,note,wouters213,6.0,60.0,GeneralNote
-11,,<music21.note.Note C>,note,wouters214,2.0,60.0,GeneralNote
-11,,<music21.chord.Chord C5 E-5 G-5>,note,wouters215,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,wouters216,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,wouters217,2.0,60.0,GeneralNote
-11,,<music21.note.Note A>,note,wouters218,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,wouters219,2.0,60.0,GeneralNote
-11,,<music21.note.Rest half>,note,wouters220,2.0,60.0,GeneralNote
-11,,<music21.note.Rest whole>,note,wouters221,4.0,62.0,GeneralNote
-11,,<music21.note.Rest quarter>,note,wouters222,1.0,62.0,GeneralNote
-11,,<music21.note.Note A>,note,wouters223,2.0,62.0,GeneralNote
-11,,<music21.chord.Chord C4 F4>,note,wouters224,2.0,62.0,GeneralNote
-11,,<music21.note.Rest 16th>,note,wouters225,0.25,63.0,GeneralNote
-11,,<music21.note.Note F>,note,wouters226,0.25,63.25,GeneralNote
-11,,<music21.note.Note E->,note,wouters227,0.25,63.5,GeneralNote
-11,,<music21.note.Note D->,note,wouters228,0.25,63.75,GeneralNote
-11,,<music21.note.Note C>,note,wouters229,0.25,64.0,GeneralNote
-11,,<music21.note.Note A>,note,wouters230,2.0,64.0,GeneralNote
-11,,<music21.chord.Chord C4 F4>,note,wouters231,2.0,64.0,GeneralNote
-11,,<music21.note.Note D->,note,wouters232,0.25,64.25,GeneralNote
-11,,<music21.note.Note C>,note,wouters233,0.25,64.5,GeneralNote
-11,,<music21.note.Note D->,note,wouters234,0.25,64.75,GeneralNote
-11,,<music21.note.Note E->,note,wouters235,0.25,65.0,GeneralNote
-11,,<music21.note.Note D->,note,wouters236,0.25,65.25,GeneralNote
-11,,<music21.note.Note E->,note,wouters237,0.25,65.5,GeneralNote
-11,,<music21.note.Note C>,note,wouters238,0.25,65.75,GeneralNote
-11,12,<music21.spanner.Slur <music21.note.Note F><music21.chord.Chord B-4 D-5 F5>>,slur,wouters1057,4.75,0.0,Slur
-11,,<music21.dynamics.Dynamic mf>,mf,wouters1090,,,DynamicPoint
-11,14,<music21.dynamics.Diminuendo <music21.note.Note C><music21.note.Note F>>,diminuendo,wouters1107,,,DynamicRegion
-12,,<music21.note.Note D->,note,wouters239,0.125,66.0,GeneralNote
-12,,<music21.note.Note D->,note,wouters240,1.5,66.0,GeneralNote
-12,,<music21.chord.Chord D-4 F4>,note,wouters241,2.0,66.0,GeneralNote
-12,,<music21.note.Note B->,note,wouters242,2.0,66.0,GeneralNote
-12,,<music21.note.Note E->,note,wouters243,0.125,66.125,GeneralNote
-12,,<music21.note.Note D->,note,wouters244,0.125,66.25,GeneralNote
-12,,<music21.note.Note E->,note,wouters245,0.125,66.375,GeneralNote
-12,,<music21.note.Note D->,note,wouters246,0.125,66.5,GeneralNote
-12,,<music21.note.Note E->,note,wouters247,0.125,66.625,GeneralNote
-12,,<music21.note.Note D->,note,wouters248,0.125,66.75,GeneralNote
-12,,<music21.note.Note E->,note,wouters249,0.125,66.875,GeneralNote
-12,,<music21.note.Note D->,note,wouters250,0.5,67.0,GeneralNote
-12,,<music21.note.Note C>,note,wouters251,0.25,67.5,GeneralNote
-12,,<music21.note.Note C>,note,wouters252,0.25,67.5,GeneralNote
-12,,<music21.note.Note B->,note,wouters253,0.25,67.75,GeneralNote
-12,,<music21.note.Note B->,note,wouters254,0.25,67.75,GeneralNote
-12,,<music21.note.Rest half>,note,wouters255,2.0,68.0,GeneralNote
-12,,<music21.chord.Chord B-4 D-5 F5>,note,wouters256,1.0,68.0,GeneralNote
-12,,<music21.articulations.StrongAccent>,strong accent,wouters257,0.0,0.0,Articulation
-12,,<music21.chord.Chord D-4 F4>,note,wouters258,2.0,68.0,GeneralNote
-12,,<music21.note.Note B->,note,wouters259,2.0,68.0,GeneralNote
-12,,<music21.note.Note F>,note,wouters260,0.25,69.0,GeneralNote
-12,,<music21.note.Note G->,note,wouters261,0.25,69.25,GeneralNote
-12,,<music21.note.Note F>,note,wouters262,0.25,69.5,GeneralNote
-12,,<music21.note.Note E->,note,wouters263,0.25,69.75,GeneralNote
-12,,<music21.note.Rest half>,note,wouters264,2.0,70.0,GeneralNote
-12,,<music21.note.Note D->,note,wouters265,0.25,70.0,GeneralNote
-12,,<music21.chord.Chord D-4 F4>,note,wouters266,2.0,70.0,GeneralNote
-12,,<music21.note.Note B->,note,wouters267,2.0,70.0,GeneralNote
-12,,<music21.note.Note C>,note,wouters268,0.25,70.25,GeneralNote
-12,,<music21.note.Note B->,note,wouters269,0.25,70.5,GeneralNote
-12,,<music21.note.Note A->,note,wouters270,0.25,70.75,GeneralNote
-12,,<music21.note.Note G->,note,wouters271,0.5,71.0,GeneralNote
-12,,<music21.note.Note A->,note,wouters272,0.25,71.5,GeneralNote
-12,,<music21.note.Note F>,note,wouters273,0.25,71.75,GeneralNote
-12,12,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note B->>,slur,wouters1039,1.75,0.0,Slur
-12,13,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note E->>,slur,wouters1058,8.25,0.0,Slur
-13,,<music21.note.Rest dotted-whole>,note,wouters274,6.0,72.0,GeneralNote
-13,,<music21.note.Note G->,note,wouters275,1.0,72.0,GeneralNote
-13,,<music21.note.Note E->,note,wouters276,1.0,72.0,GeneralNote
-13,,<music21.chord.Chord B-3 D-4>,note,wouters277,2.0,72.0,GeneralNote
-13,,<music21.note.Note E->,note,wouters278,2.0,72.0,GeneralNote
-13,,<music21.note.Note G->,note,wouters279,0.5,73.0,GeneralNote
-13,,<music21.note.Rest quarter>,note,wouters280,1.0,73.0,GeneralNote
-13,,<music21.note.Rest quarter>,note,wouters281,1.0,73.0,GeneralNote
-13,,<music21.note.Note B->,note,wouters282,0.25,73.5,GeneralNote
-13,,<music21.note.Note D->,note,wouters283,0.25,73.75,GeneralNote
-13,,<music21.note.Note G->,note,wouters284,1.0,74.0,GeneralNote
-13,,<music21.note.Rest half>,note,wouters285,2.0,74.0,GeneralNote
-13,,<music21.note.Rest half>,note,wouters286,2.0,74.0,GeneralNote
-13,,<music21.chord.Chord B-3 C4>,note,wouters287,2.0,74.0,GeneralNote
-13,,<music21.note.Note E->,note,wouters288,2.0,74.0,GeneralNote
-13,,<music21.note.Note G->,note,wouters289,0.25,75.0,GeneralNote
-13,,<music21.note.Note F>,note,wouters290,0.25,75.25,GeneralNote
-13,,<music21.note.Note E->,note,wouters291,0.25,75.5,GeneralNote
-13,,<music21.note.Note D->,note,wouters292,0.25,75.75,GeneralNote
-13,,<music21.note.Note C>,note,wouters293,0.75,76.0,GeneralNote
-13,,<music21.note.Rest half>,note,wouters294,2.0,76.0,GeneralNote
-13,,<music21.note.Rest half>,note,wouters295,2.0,76.0,GeneralNote
-13,,<music21.chord.Chord B-3 C4>,note,wouters296,2.0,76.0,GeneralNote
-13,,<music21.note.Note E->,note,wouters297,2.0,76.0,GeneralNote
+1,,<music21.articulations.Fingering 2>,fingering,wouters3,0.0,0.0,Fingering
+1,,<music21.chord.Chord E-4 G-4>,note,wouters4,2.0,0.0,GeneralNote
+1,,<music21.articulations.Fingering 4>,fingering,wouters5,0.0,0.0,Fingering
+1,,<music21.articulations.Fingering 2>,fingering,wouters6,0.0,0.0,Fingering
+1,,<music21.note.Rest dotted-whole>,note,wouters7,6.0,0.0,GeneralNote
+1,,<music21.note.Rest dotted-whole>,note,wouters8,6.0,0.0,GeneralNote
+1,,<music21.note.Rest quarter>,note,wouters9,1.0,2.0,GeneralNote
+1,,<music21.chord.Chord E-4 G-4>,note,wouters10,2.0,2.0,GeneralNote
+1,,<music21.note.Rest eighth>,note,wouters11,0.5,3.0,GeneralNote
+1,,<music21.note.Note B->,note,wouters12,0.5,3.5,GeneralNote
+1,,<music21.articulations.Fingering 1>,fingering,wouters13,0.0,0.0,Fingering
+1,,<music21.note.Note E->,note,wouters14,1.5,4.0,GeneralNote
+1,,<music21.articulations.Fingering 2>,fingering,wouters15,0.0,0.0,Fingering
+1,,<music21.chord.Chord E-4 G-4>,note,wouters16,2.0,4.0,GeneralNote
+1,,<music21.note.Note G->,note,wouters17,0.5,5.5,GeneralNote
+1,,<music21.articulations.Fingering 4>,fingering,wouters18,0.0,0.0,Fingering
+1,2,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note C->>,slur,wouters1161,2.5,0.0,Slur
+1,,<music21.dynamics.Dynamic p>,p,wouters1202,,,DynamicPoint
+1,,<music21.expressions.TextExpression 'Lento'>,Lento,wouters1252,0.0,0.0,TextExpression
+1,,<music21.expressions.TextExpression 'espressivo'>,espressivo,wouters1253,0.0,0.0,TextExpression
+1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None,wouters1259,0.0,0.0,TempoIndication
+1,,<music21.tempo.MetronomeMark grave Half=40>,grave,wouters1260,0.0,0.0,TempoIndication
+1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None None,wouters1261,0.0,0.0,MetronomeMark
+1,,<music21.tempo.MetronomeMark grave Half=40>,grave 40,wouters1262,0.0,0.0,MetronomeMark
+2,,<music21.note.Rest dotted-whole>,note,wouters19,6.0,6.0,GeneralNote
+2,,<music21.note.Note C->,note,wouters20,2.0,6.0,GeneralNote
+2,,<music21.articulations.Fingering 1>,fingering,wouters21,0.0,0.0,Fingering
+2,,<music21.chord.Chord E-4 A-4>,note,wouters22,2.0,6.0,GeneralNote
+2,,<music21.note.Rest dotted-whole>,note,wouters23,6.0,6.0,GeneralNote
+2,,<music21.note.Rest dotted-whole>,note,wouters24,6.0,6.0,GeneralNote
+2,,<music21.note.Rest quarter>,note,wouters25,1.0,8.0,GeneralNote
+2,,<music21.chord.Chord E-4 A-4 C-5>,note,wouters26,2.0,8.0,GeneralNote
+2,,<music21.note.Rest eighth>,note,wouters27,0.5,9.0,GeneralNote
+2,,<music21.note.Note E->,note,wouters28,0.5,9.5,GeneralNote
+2,,<music21.note.Note A->,note,wouters29,1.5,10.0,GeneralNote
+2,,<music21.chord.Chord E-4 A-4 C-5>,note,wouters30,2.0,10.0,GeneralNote
+2,,<music21.note.Note C->,note,wouters31,0.5,11.5,GeneralNote
+2,3,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D>>,slur,wouters1162,2.5,0.0,Slur
+3,,<music21.note.Rest half>,note,wouters32,2.0,12.0,GeneralNote
+3,,<music21.note.Note D>,note,wouters33,2.0,12.0,GeneralNote
+3,,<music21.chord.Chord E-4 F4 A-4>,note,wouters34,2.0,12.0,GeneralNote
+3,,<music21.articulations.Fingering 3>,fingering,wouters35,0.0,0.0,Fingering
+3,,<music21.note.Rest dotted-whole>,note,wouters36,6.0,12.0,GeneralNote
+3,,<music21.note.Rest dotted-whole>,note,wouters37,6.0,12.0,GeneralNote
+3,,<music21.note.Rest quarter>,note,wouters38,1.0,14.0,GeneralNote
+3,,<music21.note.Rest quarter>,note,wouters39,1.0,14.0,GeneralNote
+3,,<music21.chord.Chord D4 F4 A-4>,note,wouters40,2.0,14.0,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,wouters41,0.0,0.0,Fingering
+3,,<music21.note.Rest eighth>,note,wouters42,0.5,15.0,GeneralNote
+3,,<music21.note.Rest eighth>,note,wouters43,0.5,15.0,GeneralNote
+3,,<music21.note.Note F>,note,wouters44,0.5,15.5,GeneralNote
+3,,<music21.note.Note F>,note,wouters45,0.5,15.5,GeneralNote
+3,,<music21.note.Note A->,note,wouters46,0.125,16.0,GeneralNote
+3,,<music21.articulations.Fingering 1>,fingering,wouters47,0.0,0.0,Fingering
+3,,<music21.note.Note A->,note,wouters48,1.0,16.0,GeneralNote
+3,,<music21.chord.Chord D4 F4>,note,wouters49,2.0,16.0,GeneralNote
+3,,<music21.note.Note B->,note,wouters50,0.125,16.125,GeneralNote
+3,,<music21.articulations.Fingering 2>,fingering,wouters51,0.0,0.0,Fingering
+3,,<music21.note.Note A->,note,wouters52,0.75,16.25,GeneralNote
+3,,<music21.note.Note A->,note,wouters53,0.25,17.0,GeneralNote
+3,,<music21.note.Note A->,note,wouters54,0.25,17.0,GeneralNote
+3,,<music21.note.Note G->,note,wouters55,0.25,17.25,GeneralNote
+3,,<music21.articulations.Fingering 2>,fingering,wouters56,0.0,0.0,Fingering
+3,,<music21.note.Note G->,note,wouters57,0.25,17.25,GeneralNote
+3,,<music21.note.Note A->,note,wouters58,0.25,17.5,GeneralNote
+3,,<music21.articulations.Fingering 3>,fingering,wouters59,0.0,0.0,Fingering
+3,,<music21.note.Note A->,note,wouters60,0.25,17.5,GeneralNote
+3,,<music21.note.Note B->,note,wouters61,0.25,17.75,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,wouters62,0.0,0.0,Fingering
+3,,<music21.note.Note B->,note,wouters63,0.25,17.75,GeneralNote
+3,4,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G->>,slur,wouters1149,4.5,0.0,Slur
+3,4,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G->>,slur,wouters1163,4.5,0.0,Slur
+4,,<music21.note.Note A->,note,wouters64,0.25,18.0,GeneralNote
+4,,<music21.articulations.Fingering 3>,fingering,wouters65,0.0,0.0,Fingering
+4,,<music21.note.Rest half>,note,wouters66,2.0,18.0,GeneralNote
+4,,<music21.note.Rest half>,note,wouters67,2.0,18.0,GeneralNote
+4,,<music21.note.Note G->,note,wouters68,1.5,18.0,GeneralNote
+4,,<music21.note.Note E->,note,wouters69,2.0,18.0,GeneralNote
+4,,<music21.note.Rest half>,note,wouters70,2.0,18.0,GeneralNote
+4,,<music21.note.Rest dotted-whole>,note,wouters71,6.0,18.0,GeneralNote
+4,,<music21.note.Note G->,note,wouters72,0.125,18.25,GeneralNote
+4,,<music21.articulations.Fingering 2>,fingering,wouters73,0.0,0.0,Fingering
+4,,<music21.note.Note A->,note,wouters74,0.125,18.375,GeneralNote
+4,,<music21.articulations.Fingering 4>,fingering,wouters75,0.0,0.0,Fingering
+4,,<music21.note.Note G->,note,wouters76,0.125,18.5,GeneralNote
+4,,<music21.articulations.Fingering 3>,fingering,wouters77,0.0,0.0,Fingering
+4,,<music21.note.Note A->,note,wouters78,0.125,18.625,GeneralNote
+4,,<music21.note.Note G->,note,wouters79,0.125,18.75,GeneralNote
+4,,<music21.note.Note A->,note,wouters80,0.125,18.875,GeneralNote
+4,,<music21.note.Note G->,note,wouters81,0.5,19.0,GeneralNote
+4,,<music21.note.Note F>,note,wouters82,0.25,19.5,GeneralNote
+4,,<music21.note.Note F>,note,wouters83,0.25,19.5,GeneralNote
+4,,<music21.note.Note E->,note,wouters84,0.25,19.75,GeneralNote
+4,,<music21.note.Note E->,note,wouters85,0.25,19.75,GeneralNote
+4,,<music21.note.Rest half>,note,wouters86,2.0,20.0,GeneralNote
+4,,<music21.note.Note G->,note,wouters87,2.0,20.0,GeneralNote
+4,,<music21.note.Note G->,note,wouters88,2.0,20.0,GeneralNote
+4,,<music21.note.Rest whole>,note,wouters89,4.0,20.0,GeneralNote
+4,,<music21.note.Rest whole>,note,wouters90,4.0,20.0,GeneralNote
+4,,<music21.note.Rest quarter>,note,wouters91,1.0,20.0,GeneralNote
+4,,<music21.note.Rest eighth>,note,wouters92,0.5,21.0,GeneralNote
+4,,<music21.note.Note B->,note,wouters93,0.5,21.5,GeneralNote
+4,,<music21.note.Note G->,note,wouters94,2.0,22.0,GeneralNote
+4,,<music21.chord.Chord G-4 B-4 E-5>,note,wouters95,2.0,22.0,GeneralNote
+4,,<music21.chord.Chord G-4 B-4 E-5 G-5>,note,wouters96,2.0,22.0,GeneralNote
+4,,<music21.note.Note G->,note,wouters97,1.5,22.0,GeneralNote
+4,,<music21.note.Note E->,note,wouters98,0.5,23.5,GeneralNote
+4,5,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note B->>,slur,wouters1164,2.5,0.0,Slur
+4,4,<music21.dynamics.Crescendo <music21.chord.Chord G-4 B-4 E-5 G-5>>,diminuendo,wouters1217,,,DynamicRegion
+5,,<music21.note.Rest dotted-whole>,note,wouters99,6.0,24.0,GeneralNote
+5,,<music21.chord.Chord G-4 B-4 D-5 G-5>,note,wouters100,2.0,24.0,GeneralNote
+5,,<music21.note.Note B->,note,wouters101,2.0,24.0,GeneralNote
+5,,<music21.note.Rest dotted-whole>,note,wouters102,6.0,24.0,GeneralNote
+5,,<music21.note.Rest quarter>,note,wouters103,1.0,26.0,GeneralNote
+5,,<music21.chord.Chord B-2 D-3 G-3 B-3>,note,wouters104,2.0,26.0,GeneralNote
+5,,<music21.note.Rest 16th>,note,wouters105,0.25,27.0,GeneralNote
+5,,<music21.note.Note G->,note,wouters106,0.25,27.25,GeneralNote
+5,,<music21.articulations.Fingering 4>,fingering,wouters107,0.0,0.0,Fingering
+5,,<music21.note.Note F->,note,wouters108,0.25,27.5,GeneralNote
+5,,<music21.note.Note E->,note,wouters109,0.25,27.75,GeneralNote
+5,,<music21.note.Note F->,note,wouters110,1.5,28.0,GeneralNote
+5,,<music21.articulations.Fingering 35>,fingering,wouters111,0.0,0.0,Fingering
+5,,<music21.chord.Chord B-2 D-3 G-3 B-3>,note,wouters112,2.0,28.0,GeneralNote
+5,,<music21.note.Note D->,note,wouters113,0.5,29.5,GeneralNote
+5,6,<music21.spanner.Slur <music21.note.Note G-><music21.chord.Chord E-4 G-4 C-5 E-5>>,slur,wouters1165,2.75,0.0,Slur
+5,5,<music21.dynamics.Diminuendo <music21.note.Note E-><music21.note.Note D->>,diminuendo,wouters1219,,,DynamicRegion
+6,,<music21.note.Rest dotted-whole>,note,wouters114,6.0,30.0,GeneralNote
+6,,<music21.chord.Chord E-4 G-4 C-5 E-5>,note,wouters115,2.0,30.0,GeneralNote
+6,,<music21.chord.Chord C-3 E-3 G-3 C-4>,note,wouters116,2.0,30.0,GeneralNote
+6,,<music21.note.Rest dotted-whole>,note,wouters117,6.0,30.0,GeneralNote
+6,,<music21.chord.Chord G-4 C-5 E-5>,note,wouters118,2.0,32.0,GeneralNote
+6,,<music21.note.Rest quarter>,note,wouters119,1.0,32.0,GeneralNote
+6,,<music21.note.Rest eighth>,note,wouters120,0.5,33.0,GeneralNote
+6,,<music21.note.Note G->,note,wouters121,0.5,33.5,GeneralNote
+6,,<music21.chord.Chord G-4 C-5 E-5>,note,wouters122,2.0,34.0,GeneralNote
+6,,<music21.note.Note E->,note,wouters123,1.5,34.0,GeneralNote
+6,,<music21.note.Note C->,note,wouters124,0.5,35.5,GeneralNote
+6,7,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note G>>,slur,wouters1166,2.5,0.0,Slur
+6,,<music21.dynamics.Dynamic p>,p,wouters1203,,,DynamicPoint
+7,,<music21.note.Rest dotted-whole>,note,wouters125,6.0,36.0,GeneralNote
+7,,<music21.chord.Chord B-4 E-5 B-5>,note,wouters126,2.0,36.0,GeneralNote
+7,,<music21.note.Note G>,note,wouters127,2.0,36.0,GeneralNote
+7,,<music21.note.Rest dotted-whole>,note,wouters128,6.0,36.0,GeneralNote
+7,,<music21.note.Rest quarter>,note,wouters129,1.0,38.0,GeneralNote
+7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,wouters130,2.0,38.0,GeneralNote
+7,,<music21.note.Rest 16th>,note,wouters131,0.25,39.0,GeneralNote
+7,,<music21.note.Note E->,note,wouters132,0.25,39.25,GeneralNote
+7,,<music21.articulations.Fingering 4>,fingering,wouters133,0.0,0.0,Fingering
+7,,<music21.note.Note D->,note,wouters134,0.25,39.5,GeneralNote
+7,,<music21.note.Note C->,note,wouters135,0.25,39.75,GeneralNote
+7,,<music21.note.Note D->,note,wouters136,1.5,40.0,GeneralNote
+7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,wouters137,2.0,40.0,GeneralNote
+7,,<music21.note.Note B->,note,wouters138,0.5,41.5,GeneralNote
+7,8,<music21.spanner.Slur <music21.note.Note E-><music21.chord.Chord E-5 A-5 C-6>>,slur,wouters1167,4.75,0.0,Slur
+8,,<music21.note.Note C->,note,wouters139,0.125,42.0,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,wouters140,0.0,0.0,Fingering
+8,,<music21.note.Rest half>,note,wouters141,2.0,42.0,GeneralNote
+8,,<music21.note.Note C->,note,wouters142,1.5,42.0,GeneralNote
+8,,<music21.chord.Chord A-2 C-3 E-3 A-3>,note,wouters143,2.0,42.0,GeneralNote
+8,,<music21.note.Rest dotted-whole>,note,wouters144,6.0,42.0,GeneralNote
+8,,<music21.note.Note D->,note,wouters145,0.125,42.125,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,wouters146,0.0,0.0,Fingering
+8,,<music21.note.Note C->,note,wouters147,0.125,42.25,GeneralNote
+8,,<music21.note.Note D->,note,wouters148,0.125,42.375,GeneralNote
+8,,<music21.note.Note C->,note,wouters149,0.125,42.5,GeneralNote
+8,,<music21.note.Note D->,note,wouters150,0.125,42.625,GeneralNote
+8,,<music21.note.Note C->,note,wouters151,0.125,42.75,GeneralNote
+8,,<music21.note.Note D->,note,wouters152,0.125,42.875,GeneralNote
+8,,<music21.note.Note C->,note,wouters153,0.5,43.0,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,wouters154,0.0,0.0,Fingering
+8,,<music21.note.Note B->,note,wouters155,0.25,43.5,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,wouters156,0.0,0.0,Fingering
+8,,<music21.note.Note B->,note,wouters157,0.25,43.5,GeneralNote
+8,,<music21.note.Note A->,note,wouters158,0.25,43.75,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,wouters159,0.0,0.0,Fingering
+8,,<music21.note.Note A->,note,wouters160,0.25,43.75,GeneralNote
+8,,<music21.chord.Chord E-5 A-5 C-6>,note,wouters161,2.0,44.0,GeneralNote
+8,,<music21.chord.Chord E-5 A-5 C-6>,note,wouters162,2.0,44.0,GeneralNote
+8,,<music21.note.Rest quarter>,note,wouters163,1.0,44.0,GeneralNote
+8,,<music21.note.Rest whole>,note,wouters164,4.0,44.0,GeneralNote
+8,,<music21.note.Rest eighth>,note,wouters165,0.5,45.0,GeneralNote
+8,,<music21.note.Note C->,note,wouters166,0.5,45.5,GeneralNote
+8,,<music21.chord.Chord E-5 A-5 C-6>,note,wouters167,2.0,46.0,GeneralNote
+8,,<music21.chord.Chord E-5 A-5 C-6>,note,wouters168,2.0,46.0,GeneralNote
+8,,<music21.note.Note A->,note,wouters169,1.5,46.0,GeneralNote
+8,,<music21.note.Note F>,note,wouters170,0.5,47.5,GeneralNote
+8,8,<music21.spanner.Slur <music21.note.Note C-><music21.chord.Chord E-5 A-5 C-6>>,slur,wouters1150,2.0,0.0,Slur
+8,9,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,wouters1168,2.5,0.0,Slur
+8,9,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note A->>,diminuendo,wouters1221,,,DynamicRegion
+9,,<music21.note.Rest dotted-whole>,note,wouters171,6.0,48.0,GeneralNote
+9,,<music21.chord.Chord F5 A-5 C-6>,note,wouters172,2.0,48.0,GeneralNote
+9,,<music21.note.Note D>,note,wouters173,2.0,48.0,GeneralNote
+9,,<music21.note.Rest dotted-whole>,note,wouters174,6.0,48.0,GeneralNote
+9,,<music21.note.Rest dotted-whole>,note,wouters175,6.0,48.0,GeneralNote
+9,,<music21.note.Rest quarter>,note,wouters176,1.0,50.0,GeneralNote
+9,,<music21.chord.Chord D4 F4 B-4>,note,wouters177,2.0,50.0,GeneralNote
+9,,<music21.note.Rest 16th>,note,wouters178,0.25,51.0,GeneralNote
+9,,<music21.note.Note B->,note,wouters179,0.25,51.25,GeneralNote
+9,,<music21.note.Note A->,note,wouters180,0.25,51.5,GeneralNote
+9,,<music21.note.Note G->,note,wouters181,0.25,51.75,GeneralNote
+9,,<music21.note.Note F>,note,wouters182,0.25,52.0,GeneralNote
+9,,<music21.chord.Chord D4 F4 B-4>,note,wouters183,2.0,52.0,GeneralNote
+9,,<music21.note.Note G->,note,wouters184,0.25,52.25,GeneralNote
+9,,<music21.note.Note F>,note,wouters185,0.25,52.5,GeneralNote
+9,,<music21.note.Note G->,note,wouters186,0.25,52.75,GeneralNote
+9,,<music21.note.Note A->,note,wouters187,0.25,53.0,GeneralNote
+9,,<music21.note.Note G->,note,wouters188,0.25,53.25,GeneralNote
+9,,<music21.note.Note A->,note,wouters189,0.25,53.5,GeneralNote
+9,,<music21.note.Note F>,note,wouters190,0.25,53.75,GeneralNote
+9,10,<music21.spanner.Slur <music21.note.Note B-><music21.chord.Chord B-4 E-5 G-5 B-5>>,slur,wouters1169,4.75,0.0,Slur
+9,10,<music21.dynamics.Diminuendo <music21.note.Note F><music21.chord.Chord D-5 E-5 G-5 B-5>>,diminuendo,wouters1223,,,DynamicRegion
+10,,<music21.note.Note G->,note,wouters191,0.125,54.0,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,wouters192,0.0,0.0,Fingering
+10,,<music21.note.Note G->,note,wouters193,1.5,54.0,GeneralNote
+10,,<music21.chord.Chord E-4 G-4 B-4>,note,wouters194,2.0,54.0,GeneralNote
+10,,<music21.note.Rest dotted-whole>,note,wouters195,6.0,54.0,GeneralNote
+10,,<music21.note.Rest dotted-whole>,note,wouters196,6.0,54.0,GeneralNote
+10,,<music21.note.Note A->,note,wouters197,0.125,54.125,GeneralNote
+10,,<music21.note.Note G->,note,wouters198,0.125,54.25,GeneralNote
+10,,<music21.note.Note A->,note,wouters199,0.125,54.375,GeneralNote
+10,,<music21.note.Note G->,note,wouters200,0.125,54.5,GeneralNote
+10,,<music21.note.Note A->,note,wouters201,0.125,54.625,GeneralNote
+10,,<music21.note.Note G->,note,wouters202,0.125,54.75,GeneralNote
+10,,<music21.note.Note A->,note,wouters203,0.125,54.875,GeneralNote
+10,,<music21.note.Note G->,note,wouters204,0.5,55.0,GeneralNote
+10,,<music21.note.Note F>,note,wouters205,0.25,55.5,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,wouters206,0.0,0.0,Fingering
+10,,<music21.note.Note F>,note,wouters207,0.25,55.5,GeneralNote
+10,,<music21.note.Note E->,note,wouters208,0.25,55.75,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,wouters209,0.0,0.0,Fingering
+10,,<music21.note.Note E->,note,wouters210,0.25,55.75,GeneralNote
+10,,<music21.chord.Chord B-4 E-5 G-5 B-5>,note,wouters211,2.0,56.0,GeneralNote
+10,,<music21.chord.Chord B-4 E-5 G-5 B-5>,note,wouters212,2.0,56.0,GeneralNote
+10,,<music21.note.Rest quarter>,note,wouters213,1.0,56.0,GeneralNote
+10,,<music21.note.Rest eighth>,note,wouters214,0.5,57.0,GeneralNote
+10,,<music21.note.Note G->,note,wouters215,0.5,57.5,GeneralNote
+10,,<music21.chord.Chord D-5 E-5 G-5 B-5>,note,wouters216,2.0,58.0,GeneralNote
+10,,<music21.chord.Chord D-5 E-5 G-5 B-5>,note,wouters217,2.0,58.0,GeneralNote
+10,,<music21.note.Note E->,note,wouters218,1.5,58.0,GeneralNote
+10,,<music21.note.Note C>,note,wouters219,0.5,59.5,GeneralNote
+10,10,<music21.spanner.Slur <music21.note.Note G-><music21.chord.Chord B-4 E-5 G-5 B-5>>,slur,wouters1151,2.0,0.0,Slur
+10,11,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note A>>,slur,wouters1170,2.5,0.0,Slur
+10,11,<music21.dynamics.Crescendo <music21.note.Note G-><music21.note.Note E->>,diminuendo,wouters1225,,,DynamicRegion
+11,,<music21.note.Rest dotted-whole>,note,wouters220,6.0,60.0,GeneralNote
+11,,<music21.chord.Chord C5 E-5 G-5 C6>,note,wouters221,2.0,60.0,GeneralNote
+11,,<music21.note.Rest half>,note,wouters222,2.0,60.0,GeneralNote
+11,,<music21.note.Rest half>,note,wouters223,2.0,60.0,GeneralNote
+11,,<music21.note.Rest half>,note,wouters224,2.0,60.0,GeneralNote
+11,,<music21.note.Rest half>,note,wouters225,2.0,60.0,GeneralNote
+11,,<music21.note.Note A>,note,wouters226,2.0,60.0,GeneralNote
+11,,<music21.note.Rest dotted-whole>,note,wouters227,6.0,60.0,GeneralNote
+11,,<music21.note.Rest whole>,note,wouters228,4.0,62.0,GeneralNote
+11,,<music21.note.Rest quarter>,note,wouters229,1.0,62.0,GeneralNote
+11,,<music21.chord.Chord A3 C4 F4>,note,wouters230,2.0,62.0,GeneralNote
+11,,<music21.note.Rest 16th>,note,wouters231,0.25,63.0,GeneralNote
+11,,<music21.note.Note F>,note,wouters232,0.25,63.25,GeneralNote
+11,,<music21.note.Note E->,note,wouters233,0.25,63.5,GeneralNote
+11,,<music21.note.Note D->,note,wouters234,0.25,63.75,GeneralNote
+11,,<music21.note.Note C>,note,wouters235,0.25,64.0,GeneralNote
+11,,<music21.chord.Chord A3 C4 F4>,note,wouters236,2.0,64.0,GeneralNote
+11,,<music21.note.Note D->,note,wouters237,0.25,64.25,GeneralNote
+11,,<music21.note.Note C>,note,wouters238,0.25,64.5,GeneralNote
+11,,<music21.note.Note D->,note,wouters239,0.25,64.75,GeneralNote
+11,,<music21.note.Note E->,note,wouters240,0.25,65.0,GeneralNote
+11,,<music21.note.Note D->,note,wouters241,0.25,65.25,GeneralNote
+11,,<music21.note.Note E->,note,wouters242,0.25,65.5,GeneralNote
+11,,<music21.note.Note C>,note,wouters243,0.25,65.75,GeneralNote
+11,12,<music21.spanner.Slur <music21.note.Note F><music21.chord.Chord B-4 D-5 F5>>,slur,wouters1171,4.75,0.0,Slur
+11,,<music21.dynamics.Dynamic mf>,mf,wouters1204,,,DynamicPoint
+11,14,<music21.dynamics.Diminuendo <music21.note.Note C><music21.note.Note F>>,diminuendo,wouters1227,,,DynamicRegion
+12,,<music21.note.Note D->,note,wouters244,0.125,66.0,GeneralNote
+12,,<music21.note.Note D->,note,wouters245,1.5,66.0,GeneralNote
+12,,<music21.chord.Chord B-3 D-4 F4>,note,wouters246,2.0,66.0,GeneralNote
+12,,<music21.note.Rest dotted-whole>,note,wouters247,6.0,66.0,GeneralNote
+12,,<music21.note.Note E->,note,wouters248,0.125,66.125,GeneralNote
+12,,<music21.note.Note D->,note,wouters249,0.125,66.25,GeneralNote
+12,,<music21.note.Note E->,note,wouters250,0.125,66.375,GeneralNote
+12,,<music21.note.Note D->,note,wouters251,0.125,66.5,GeneralNote
+12,,<music21.note.Note E->,note,wouters252,0.125,66.625,GeneralNote
+12,,<music21.note.Note D->,note,wouters253,0.125,66.75,GeneralNote
+12,,<music21.note.Note E->,note,wouters254,0.125,66.875,GeneralNote
+12,,<music21.note.Note D->,note,wouters255,0.5,67.0,GeneralNote
+12,,<music21.note.Note C>,note,wouters256,0.25,67.5,GeneralNote
+12,,<music21.note.Note C>,note,wouters257,0.25,67.5,GeneralNote
+12,,<music21.note.Note B->,note,wouters258,0.25,67.75,GeneralNote
+12,,<music21.note.Note B->,note,wouters259,0.25,67.75,GeneralNote
+12,,<music21.note.Rest half>,note,wouters260,2.0,68.0,GeneralNote
+12,,<music21.chord.Chord B-4 D-5 F5>,note,wouters261,1.0,68.0,GeneralNote
+12,,<music21.articulations.Fingering 4>,fingering,wouters262,0.0,0.0,Fingering
+12,,<music21.chord.Chord B-3 D-4 F4>,note,wouters263,2.0,68.0,GeneralNote
+12,,<music21.note.Note F>,note,wouters264,0.25,69.0,GeneralNote
+12,,<music21.note.Note G->,note,wouters265,0.25,69.25,GeneralNote
+12,,<music21.note.Note F>,note,wouters266,0.25,69.5,GeneralNote
+12,,<music21.note.Note E->,note,wouters267,0.25,69.75,GeneralNote
+12,,<music21.note.Rest half>,note,wouters268,2.0,70.0,GeneralNote
+12,,<music21.note.Note D->,note,wouters269,0.25,70.0,GeneralNote
+12,,<music21.chord.Chord B-3 D-4 F4>,note,wouters270,2.0,70.0,GeneralNote
+12,,<music21.note.Note C>,note,wouters271,0.25,70.25,GeneralNote
+12,,<music21.note.Note B->,note,wouters272,0.25,70.5,GeneralNote
+12,,<music21.articulations.Fingering 4>,fingering,wouters273,0.0,0.0,Fingering
+12,,<music21.note.Note A->,note,wouters274,0.25,70.75,GeneralNote
+12,,<music21.note.Note G->,note,wouters275,0.5,71.0,GeneralNote
+12,,<music21.note.Note A->,note,wouters276,0.25,71.5,GeneralNote
+12,,<music21.note.Note F>,note,wouters277,0.25,71.75,GeneralNote
+12,,<music21.articulations.Fingering 1>,fingering,wouters278,0.0,0.0,Fingering
+12,12,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note B->>,slur,wouters1152,1.75,0.0,Slur
+12,13,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note E->>,slur,wouters1172,8.25,0.0,Slur
+13,,<music21.note.Rest dotted-whole>,note,wouters279,6.0,72.0,GeneralNote
+13,,<music21.chord.Chord E-4 G-4>,note,wouters280,1.0,72.0,GeneralNote
+13,,<music21.articulations.Fingering 2>,fingering,wouters281,0.0,0.0,Fingering
+13,,<music21.articulations.Fingering 3>,fingering,wouters282,0.0,0.0,Fingering
+13,,<music21.chord.Chord E-3 B-3 D-4>,note,wouters283,2.0,72.0,GeneralNote
+13,,<music21.note.Rest dotted-whole>,note,wouters284,6.0,72.0,GeneralNote
+13,,<music21.note.Note G->,note,wouters285,0.5,73.0,GeneralNote
+13,,<music21.articulations.Fingering 1>,fingering,wouters286,0.0,0.0,Fingering
+13,,<music21.note.Note B->,note,wouters287,0.25,73.5,GeneralNote
+13,,<music21.note.Note D->,note,wouters288,0.25,73.75,GeneralNote
+13,,<music21.note.Note G->,note,wouters289,1.0,74.0,GeneralNote
+13,,<music21.chord.Chord E-3 B-3 C4>,note,wouters290,2.0,74.0,GeneralNote
+13,,<music21.note.Note G->,note,wouters291,0.25,75.0,GeneralNote
+13,,<music21.note.Note F>,note,wouters292,0.25,75.25,GeneralNote
+13,,<music21.note.Note E->,note,wouters293,0.25,75.5,GeneralNote
+13,,<music21.note.Note D->,note,wouters294,0.25,75.75,GeneralNote
+13,,<music21.note.Note C>,note,wouters295,0.75,76.0,GeneralNote
+13,,<music21.articulations.Fingering 1>,fingering,wouters296,0.0,0.0,Fingering
+13,,<music21.chord.Chord E-3 B-3 C4>,note,wouters297,2.0,76.0,GeneralNote
 13,,<music21.note.Note E->,note,wouters298,0.125,76.75,GeneralNote
-13,,<music21.note.Note D->,note,wouters299,0.125,76.875,GeneralNote
-13,,<music21.note.Note C>,note,wouters300,0.25,77.0,GeneralNote
-13,,<music21.note.Note D->,note,wouters301,0.25,77.25,GeneralNote
-13,,<music21.note.Note E->,note,wouters302,0.5,77.5,GeneralNote
-13,,<music21.dynamics.Dynamic p>,p,wouters1091,,,DynamicPoint
-14,,<music21.note.Note F>,note,wouters303,0.75,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,wouters304,2.0,78.0,GeneralNote
+13,,<music21.articulations.Fingering 3>,fingering,wouters299,0.0,0.0,Fingering
+13,,<music21.note.Note D->,note,wouters300,0.125,76.875,GeneralNote
+13,,<music21.note.Note C>,note,wouters301,0.25,77.0,GeneralNote
+13,,<music21.note.Note D->,note,wouters302,0.25,77.25,GeneralNote
+13,,<music21.note.Note E->,note,wouters303,0.5,77.5,GeneralNote
+14,,<music21.note.Note F>,note,wouters304,0.75,78.0,GeneralNote
 14,,<music21.note.Rest half>,note,wouters305,2.0,78.0,GeneralNote
-14,,<music21.note.Note F>,note,wouters306,0.75,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,wouters307,2.0,78.0,GeneralNote
-14,,<music21.note.Rest half>,note,wouters308,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,wouters306,2.0,78.0,GeneralNote
+14,,<music21.note.Note F>,note,wouters307,0.75,78.0,GeneralNote
+14,,<music21.articulations.Fingering 1>,fingering,wouters308,0.0,0.0,Fingering
 14,,<music21.note.Rest half>,note,wouters309,2.0,78.0,GeneralNote
 14,,<music21.note.Rest half>,note,wouters310,2.0,78.0,GeneralNote
-14,,<music21.chord.Chord A3 C4>,note,wouters311,2.0,78.0,GeneralNote
-14,,<music21.note.Note E->,note,wouters312,2.0,78.0,GeneralNote
-14,,<music21.note.Note G>,note,wouters313,0.125,78.75,GeneralNote
-14,,<music21.note.Note G>,note,wouters314,0.125,78.75,GeneralNote
-14,,<music21.note.Note A>,note,wouters315,0.125,78.875,GeneralNote
-14,,<music21.note.Note A>,note,wouters316,0.125,78.875,GeneralNote
-14,,<music21.note.Note B->,note,wouters317,0.125,79.0,GeneralNote
-14,,<music21.note.Note A>,note,wouters318,0.75,79.0,GeneralNote
-14,,<music21.note.Note A>,note,wouters319,0.125,79.125,GeneralNote
-14,,<music21.note.Note B->,note,wouters320,0.125,79.25,GeneralNote
-14,,<music21.note.Note A>,note,wouters321,0.125,79.375,GeneralNote
-14,,<music21.note.Note B->,note,wouters322,0.125,79.5,GeneralNote
-14,,<music21.note.Note A>,note,wouters323,0.125,79.625,GeneralNote
-14,,<music21.note.Note G>,note,wouters324,0.125,79.75,GeneralNote
-14,,<music21.note.Note G>,note,wouters325,0.125,79.75,GeneralNote
-14,,<music21.note.Note A>,note,wouters326,0.125,79.875,GeneralNote
-14,,<music21.note.Note A>,note,wouters327,0.125,79.875,GeneralNote
-14,,<music21.note.Note B->,note,wouters328,4.0,80.0,GeneralNote
-14,,<music21.note.Rest quarter>,note,wouters329,1.0,80.0,GeneralNote
-14,,<music21.note.Note B->,note,wouters330,4.0,80.0,GeneralNote
-14,,<music21.note.Rest quarter>,note,wouters331,1.0,80.0,GeneralNote
-14,,<music21.chord.Chord F3 B-3>,note,wouters332,2.0,80.0,GeneralNote
-14,,<music21.note.Note D->,note,wouters333,2.0,80.0,GeneralNote
-14,,<music21.note.Rest eighth>,note,wouters334,0.5,81.0,GeneralNote
-14,,<music21.note.Rest eighth>,note,wouters335,0.5,81.0,GeneralNote
-14,,<music21.note.Note F>,note,wouters336,0.5,81.5,GeneralNote
-14,,<music21.note.Note F>,note,wouters337,0.5,81.5,GeneralNote
-14,,<music21.note.Note G->,note,wouters338,1.5,82.0,GeneralNote
-14,,<music21.note.Note G->,note,wouters339,1.5,82.0,GeneralNote
-14,,<music21.note.Note B->,note,wouters340,2.0,82.0,GeneralNote
-14,,<music21.note.Note E->,note,wouters341,2.0,82.0,GeneralNote
-14,,<music21.note.Note E->,note,wouters342,0.5,83.5,GeneralNote
-14,,<music21.note.Note E->,note,wouters343,0.5,83.5,GeneralNote
-14,15,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E->>,slur,wouters1040,11.75,0.0,Slur
-14,16,<music21.spanner.Slur <music21.note.Note F><music21.note.Note D->>,slur,wouters1059,14.0,0.0,Slur
-14,15,<music21.dynamics.Crescendo <music21.note.Note G><music21.note.Note A>>,diminuendo,wouters1109,,,DynamicRegion
-15,,<music21.note.Note B->,note,wouters344,4.0,84.0,GeneralNote
-15,,<music21.note.Note D->,note,wouters345,0.5,84.0,GeneralNote
-15,,<music21.note.Rest half>,note,wouters346,2.0,84.0,GeneralNote
-15,,<music21.note.Rest whole>,note,wouters347,4.0,84.0,GeneralNote
-15,,<music21.note.Note B->,note,wouters348,4.0,84.0,GeneralNote
-15,,<music21.note.Note C>,note,wouters349,1.0,84.0,GeneralNote
-15,,<music21.note.Rest half>,note,wouters350,2.0,84.0,GeneralNote
-15,,<music21.note.Rest whole>,note,wouters351,4.0,84.0,GeneralNote
-15,,<music21.note.Rest half>,note,wouters352,2.0,84.0,GeneralNote
-15,,<music21.note.Rest whole>,note,wouters353,4.0,84.0,GeneralNote
-15,,<music21.note.Note F>,note,wouters354,2.0,84.0,GeneralNote
-15,,<music21.note.Note F>,note,wouters355,2.0,84.0,GeneralNote
-15,,<music21.note.Note C>,note,wouters356,0.5,84.5,GeneralNote
-15,,<music21.note.Note C>,note,wouters357,0.25,85.0,GeneralNote
-15,,<music21.note.Note C>,note,wouters358,0.25,85.0,GeneralNote
-15,,<music21.note.Note D->,note,wouters359,0.25,85.25,GeneralNote
-15,,<music21.note.Note D->,note,wouters360,0.25,85.25,GeneralNote
-15,,<music21.note.Note C>,note,wouters361,0.25,85.5,GeneralNote
-15,,<music21.note.Note C>,note,wouters362,0.25,85.5,GeneralNote
-15,,<music21.note.Note D->,note,wouters363,0.25,85.75,GeneralNote
-15,,<music21.note.Note D->,note,wouters364,0.25,85.75,GeneralNote
-15,,<music21.note.Note E->,note,wouters365,0.25,86.0,GeneralNote
-15,,<music21.note.Rest half>,note,wouters366,2.0,86.0,GeneralNote
-15,,<music21.note.Note E->,note,wouters367,0.25,86.0,GeneralNote
-15,,<music21.note.Rest half>,note,wouters368,2.0,86.0,GeneralNote
-15,,<music21.note.Rest half>,note,wouters369,2.0,86.0,GeneralNote
-15,,<music21.note.Note F>,note,wouters370,2.0,86.0,GeneralNote
-15,,<music21.note.Note F>,note,wouters371,2.0,86.0,GeneralNote
-15,,<music21.note.Note D->,note,wouters372,0.25,86.25,GeneralNote
-15,,<music21.note.Note D->,note,wouters373,0.25,86.25,GeneralNote
-15,,<music21.note.Note C>,note,wouters374,0.25,86.5,GeneralNote
-15,,<music21.note.Note C>,note,wouters375,0.25,86.5,GeneralNote
-15,,<music21.note.Note D->,note,wouters376,0.25,86.75,GeneralNote
-15,,<music21.note.Note D->,note,wouters377,0.25,86.75,GeneralNote
-15,,<music21.note.Note E->,note,wouters378,0.25,87.0,GeneralNote
-15,,<music21.note.Note E->,note,wouters379,0.25,87.0,GeneralNote
-15,,<music21.note.Note F>,note,wouters380,0.25,87.25,GeneralNote
-15,,<music21.note.Note F>,note,wouters381,0.25,87.25,GeneralNote
-15,,<music21.note.Note E->,note,wouters382,0.25,87.5,GeneralNote
-15,,<music21.note.Note E->,note,wouters383,0.25,87.5,GeneralNote
-15,,<music21.note.Note F>,note,wouters384,0.25,87.75,GeneralNote
-15,,<music21.note.Note F>,note,wouters385,0.25,87.75,GeneralNote
-15,,<music21.note.Note A>,note,wouters386,2.0,88.0,GeneralNote
-15,,<music21.note.Note G->,note,wouters387,1.0,88.0,GeneralNote
-15,,<music21.note.Note C>,note,wouters388,2.0,88.0,GeneralNote
-15,,<music21.note.Note A>,note,wouters389,2.0,88.0,GeneralNote
-15,,<music21.note.Note G->,note,wouters390,1.0,88.0,GeneralNote
-15,,<music21.note.Note C>,note,wouters391,2.0,88.0,GeneralNote
-15,,<music21.note.Note F>,note,wouters392,2.0,88.0,GeneralNote
-15,,<music21.note.Note F>,note,wouters393,2.0,88.0,GeneralNote
-15,,<music21.note.Note F>,note,wouters394,0.125,89.0,GeneralNote
-15,,<music21.note.Note F>,note,wouters395,0.75,89.0,GeneralNote
-15,,<music21.note.Note G->,note,wouters396,0.125,89.125,GeneralNote
-15,,<music21.note.Note F>,note,wouters397,0.125,89.25,GeneralNote
-15,,<music21.note.Note G->,note,wouters398,0.125,89.375,GeneralNote
-15,,<music21.note.Note F>,note,wouters399,0.25,89.5,GeneralNote
-15,,<music21.note.Note E->,note,wouters400,0.25,89.75,GeneralNote
-15,,<music21.note.Note E->,note,wouters401,0.25,89.75,GeneralNote
-15,15,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note C>>,slur,wouters1041,0.5,0.0,Slur
-15,16,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note F>>,diminuendo,wouters1111,,,DynamicRegion
-16,,<music21.note.Rest dotted-whole>,note,wouters402,6.0,90.0,GeneralNote
-16,,<music21.note.Note B->,note,wouters403,1.5,90.0,GeneralNote
-16,,<music21.note.Note D->,note,wouters404,1.5,90.0,GeneralNote
-16,,<music21.note.Note B->,note,wouters405,2.0,90.0,GeneralNote
-16,,<music21.chord.Chord F3 B-3>,note,wouters406,2.0,90.0,GeneralNote
-16,,<music21.note.Note C>,note,wouters407,0.5,91.5,GeneralNote
-16,,<music21.note.Note E->,note,wouters408,0.5,91.5,GeneralNote
-16,,<music21.note.Note D->,note,wouters409,2.0,92.0,GeneralNote
-16,,<music21.chord.Chord F4 B-4>,note,wouters410,2.0,92.0,GeneralNote
-16,,<music21.note.Rest half>,note,wouters411,2.0,92.0,GeneralNote
-16,,<music21.note.Rest quarter>,note,wouters412,1.0,92.0,GeneralNote
-16,,<music21.note.Rest half>,note,wouters413,2.0,92.0,GeneralNote
-16,,<music21.note.Rest eighth>,note,wouters414,0.5,93.0,GeneralNote
-16,,<music21.note.Note B->,note,wouters415,0.5,93.5,GeneralNote
-16,,<music21.note.Note D->,note,wouters416,2.0,94.0,GeneralNote
-16,,<music21.chord.Chord F4 B-4>,note,wouters417,2.0,94.0,GeneralNote
-16,,<music21.note.Rest half>,note,wouters418,2.0,94.0,GeneralNote
-16,,<music21.note.Note D->,note,wouters419,1.5,94.0,GeneralNote
-16,,<music21.note.Rest half>,note,wouters420,2.0,94.0,GeneralNote
-16,,<music21.note.Note F>,note,wouters421,0.5,95.5,GeneralNote
-16,17,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note G>>,slur,wouters1060,2.5,0.0,Slur
-16,,<music21.dynamics.Dynamic p>,p,wouters1092,,,DynamicPoint
-16,19,<music21.dynamics.Crescendo <music21.note.Note B-><music21.note.Note E->>,diminuendo,wouters1113,,,DynamicRegion
-17,,<music21.note.Rest dotted-whole>,note,wouters422,6.0,96.0,GeneralNote
-17,,<music21.note.Note D->,note,wouters423,1.5,96.0,GeneralNote
-17,,<music21.chord.Chord F-4 B-4>,note,wouters424,1.5,96.0,GeneralNote
-17,,<music21.note.Note G>,note,wouters425,2.0,96.0,GeneralNote
-17,,<music21.note.Note C->,note,wouters426,0.25,97.5,GeneralNote
-17,,<music21.note.Rest eighth>,note,wouters427,0.5,97.5,GeneralNote
-17,,<music21.note.Rest eighth>,note,wouters428,0.5,97.5,GeneralNote
-17,,<music21.note.Note B->,note,wouters429,0.25,97.75,GeneralNote
-17,,<music21.note.Note F->,note,wouters430,2.0,98.0,GeneralNote
-17,,<music21.chord.Chord B-4 D-5>,note,wouters431,2.0,98.0,GeneralNote
-17,,<music21.note.Note G>,note,wouters432,1.0,98.0,GeneralNote
-17,,<music21.note.Note G>,note,wouters433,0.25,99.0,GeneralNote
-17,,<music21.note.Note B->,note,wouters434,0.25,99.25,GeneralNote
-17,,<music21.note.Note A->,note,wouters435,0.25,99.5,GeneralNote
-17,,<music21.note.Note G>,note,wouters436,0.25,99.75,GeneralNote
-17,,<music21.chord.Chord D-5 F-5>,note,wouters437,1.5,100.0,GeneralNote
-17,,<music21.chord.Chord B-4 D-5>,note,wouters438,1.5,100.0,GeneralNote
-17,,<music21.note.Note D->,note,wouters439,2.0,100.0,GeneralNote
-17,,<music21.note.Note E->,note,wouters440,0.25,101.5,GeneralNote
-17,,<music21.note.Rest eighth>,note,wouters441,0.5,101.5,GeneralNote
-17,,<music21.note.Rest eighth>,note,wouters442,0.5,101.5,GeneralNote
-17,,<music21.note.Note D->,note,wouters443,0.25,101.75,GeneralNote
-17,17,<music21.spanner.Slur <music21.note.Note D-><music21.chord.Chord D-5 F-5>>,slur,wouters1061,4.0,0.0,Slur
-17,17,<music21.spanner.Slur <music21.note.Note D-><music21.chord.Chord D-5 F-5>>,slur,wouters1062,4.0,0.0,Slur
-17,18,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note G>>,slur,wouters1063,2.5,0.0,Slur
-17,19,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note F->>,slur,wouters1064,8.75,0.0,Slur
-17,,<music21.expressions.TextExpression 'cresc.'>,cresc.,wouters1134,0.0,97.5,TextExpression
-18,,<music21.note.Rest dotted-whole>,note,wouters444,6.0,102.0,GeneralNote
-18,,<music21.note.Note G>,note,wouters445,2.0,102.0,GeneralNote
-18,,<music21.chord.Chord B-4 D-5>,note,wouters446,2.0,102.0,GeneralNote
-18,,<music21.note.Rest half>,note,wouters447,2.0,102.0,GeneralNote
-18,,<music21.note.Rest whole>,note,wouters448,4.0,102.0,GeneralNote
-18,,<music21.note.Rest half>,note,wouters449,2.0,102.0,GeneralNote
-18,,<music21.note.Rest whole>,note,wouters450,4.0,102.0,GeneralNote
-18,,<music21.note.Note D->,note,wouters451,1.5,102.0,GeneralNote
-18,,<music21.note.Note C->,note,wouters452,0.25,103.5,GeneralNote
-18,,<music21.note.Note B->,note,wouters453,0.25,103.75,GeneralNote
-18,,<music21.note.Note G>,note,wouters454,1.5,104.0,GeneralNote
-18,,<music21.chord.Chord B-4 D-5>,note,wouters455,1.5,104.0,GeneralNote
-18,,<music21.note.Rest half>,note,wouters456,2.0,104.0,GeneralNote
-18,,<music21.note.Rest half>,note,wouters457,2.0,104.0,GeneralNote
-18,,<music21.note.Note F->,note,wouters458,0.5,104.0,GeneralNote
-18,,<music21.note.Note E->,note,wouters459,0.5,104.5,GeneralNote
-18,,<music21.note.Note F->,note,wouters460,0.5,105.0,GeneralNote
-18,,<music21.note.Note F->,note,wouters461,0.25,105.5,GeneralNote
-18,,<music21.note.Rest eighth>,note,wouters462,0.5,105.5,GeneralNote
-18,,<music21.note.Rest eighth>,note,wouters463,0.5,105.5,GeneralNote
-18,,<music21.note.Note D->,note,wouters464,0.5,105.5,GeneralNote
-18,,<music21.note.Note E->,note,wouters465,0.25,105.75,GeneralNote
-18,,<music21.note.Note A->,note,wouters466,2.0,106.0,GeneralNote
-18,,<music21.note.Rest half>,note,wouters467,2.0,106.0,GeneralNote
-18,,<music21.chord.Chord C-5 E-5>,note,wouters468,2.0,106.0,GeneralNote
-18,,<music21.note.Rest half>,note,wouters469,2.0,106.0,GeneralNote
-18,,<music21.note.Note C->,note,wouters470,0.25,106.0,GeneralNote
-18,,<music21.note.Note B->,note,wouters471,0.25,106.25,GeneralNote
-18,,<music21.note.Note A->,note,wouters472,0.25,106.5,GeneralNote
-18,,<music21.note.Note B->,note,wouters473,0.25,106.75,GeneralNote
-18,,<music21.note.Note C->,note,wouters474,0.25,107.0,GeneralNote
-18,,<music21.note.Note A->,note,wouters475,0.25,107.25,GeneralNote
-18,,<music21.note.Note B->,note,wouters476,0.25,107.5,GeneralNote
-18,,<music21.note.Note C->,note,wouters477,0.25,107.75,GeneralNote
-18,20,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note A->>,slur,wouters1065,8.5,0.0,Slur
-19,,<music21.note.Rest half>,note,wouters478,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,wouters479,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,wouters480,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,wouters481,2.0,108.0,GeneralNote
-19,,<music21.note.Note A->,note,wouters482,0.5,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,wouters483,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,wouters484,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,wouters485,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,wouters486,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,wouters487,2.0,108.0,GeneralNote
-19,,<music21.note.Rest half>,note,wouters488,2.0,108.0,GeneralNote
-19,,<music21.note.Note F->,note,wouters489,1.0,108.0,GeneralNote
-19,,<music21.articulations.Accent>,accent,wouters490,0.0,0.0,Articulation
-19,,<music21.note.Note G>,note,wouters491,0.5,108.5,GeneralNote
-19,,<music21.note.Note A->,note,wouters492,0.5,109.0,GeneralNote
-19,,<music21.note.Note F->,note,wouters493,0.25,109.0,GeneralNote
-19,,<music21.note.Note F->,note,wouters494,0.25,109.25,GeneralNote
-19,,<music21.note.Note B->,note,wouters495,0.5,109.5,GeneralNote
-19,,<music21.note.Note E->,note,wouters496,0.25,109.5,GeneralNote
-19,,<music21.note.Note D->,note,wouters497,0.25,109.75,GeneralNote
-19,,<music21.note.Note C->,note,wouters498,0.25,110.0,GeneralNote
-19,,<music21.note.Note E->,note,wouters499,2.0,110.0,GeneralNote
-19,,<music21.note.Note G>,note,wouters500,4.0,110.0,GeneralNote
-19,,<music21.note.Note B->,note,wouters501,3.0,110.0,GeneralNote
-19,,<music21.note.Note E->,note,wouters502,2.0,110.0,GeneralNote
-19,,<music21.note.Note G>,note,wouters503,4.0,110.0,GeneralNote
-19,,<music21.note.Note E->,note,wouters504,1.5,110.0,GeneralNote
-19,,<music21.note.Note B->,note,wouters505,0.125,110.25,GeneralNote
-19,,<music21.note.Note C->,note,wouters506,0.125,110.375,GeneralNote
-19,,<music21.note.Note B->,note,wouters507,0.125,110.5,GeneralNote
-19,,<music21.note.Note C->,note,wouters508,0.125,110.625,GeneralNote
-19,,<music21.note.Note B->,note,wouters509,0.125,110.75,GeneralNote
-19,,<music21.note.Note C->,note,wouters510,0.125,110.875,GeneralNote
-19,,<music21.note.Note B->,note,wouters511,2.0,111.0,GeneralNote
-19,,<music21.note.Note D->,note,wouters512,0.5,111.5,GeneralNote
-19,,<music21.note.Note D->,note,wouters513,2.0,112.0,GeneralNote
-19,,<music21.note.Note D->,note,wouters514,2.0,112.0,GeneralNote
-19,,<music21.note.Note E->,note,wouters515,1.5,112.0,GeneralNote
-19,,<music21.note.Note A->,note,wouters516,1.0,113.0,GeneralNote
-19,,<music21.note.Note A->,note,wouters517,1.0,113.0,GeneralNote
-19,,<music21.note.Note E->,note,wouters518,0.5,113.5,GeneralNote
-19,19,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A->>,slur,wouters1042,3.0,0.0,Slur
-19,20,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note A->>,slur,wouters1066,4.75,0.0,Slur
-19,22,<music21.dynamics.Diminuendo <music21.note.Note D-><music21.note.Note G>>,diminuendo,wouters1115,,,DynamicRegion
-20,,<music21.note.Rest dotted-whole>,note,wouters519,6.0,114.0,GeneralNote
-20,,<music21.note.Note A->,note,wouters520,1.5,114.0,GeneralNote
-20,,<music21.chord.Chord C-5 E-5>,note,wouters521,1.5,114.0,GeneralNote
-20,,<music21.note.Note A->,note,wouters522,2.0,114.0,GeneralNote
-20,,<music21.note.Rest dotted-whole>,note,wouters523,4.5,115.5,GeneralNote
-20,,<music21.note.Note C->,note,wouters524,0.5,115.5,GeneralNote
-20,,<music21.note.Note F>,note,wouters525,1.5,116.0,GeneralNote
-20,,<music21.note.Rest quarter>,note,wouters526,1.0,116.0,GeneralNote
-20,,<music21.note.Rest eighth>,note,wouters527,0.5,117.0,GeneralNote
-20,,<music21.note.Note G->,note,wouters528,0.25,117.5,GeneralNote
-20,,<music21.note.Note C->,note,wouters529,0.5,117.5,GeneralNote
-20,,<music21.note.Note A->,note,wouters530,0.25,117.75,GeneralNote
-20,,<music21.note.Note D>,note,wouters531,1.5,118.0,GeneralNote
-20,,<music21.note.Note F>,note,wouters532,1.5,118.0,GeneralNote
-20,,<music21.note.Note E->,note,wouters533,0.25,119.5,GeneralNote
-20,,<music21.note.Note G->,note,wouters534,0.25,119.5,GeneralNote
-20,,<music21.note.Note F>,note,wouters535,0.25,119.75,GeneralNote
-20,,<music21.note.Note A->,note,wouters536,0.25,119.75,GeneralNote
-20,21,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,slur,wouters1067,4.5,0.0,Slur
-20,21,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,slur,wouters1068,4.5,0.0,Slur
-20,,<music21.dynamics.Dynamic p>,p,wouters1093,,,DynamicPoint
-21,,<music21.note.Rest dotted-whole>,note,wouters537,6.0,120.0,GeneralNote
-21,,<music21.note.Note B->,note,wouters538,1.5,120.0,GeneralNote
-21,,<music21.note.Note D>,note,wouters539,1.5,120.0,GeneralNote
-21,,<music21.note.Note A->,note,wouters540,0.5,121.5,GeneralNote
-21,,<music21.note.Note E->,note,wouters541,0.25,121.5,GeneralNote
-21,,<music21.note.Note F>,note,wouters542,0.25,121.75,GeneralNote
-21,,<music21.note.Note D>,note,wouters543,1.5,122.0,GeneralNote
-21,,<music21.note.Note B->,note,wouters544,1.5,122.0,GeneralNote
-21,,<music21.note.Note E->,note,wouters545,0.25,123.5,GeneralNote
-21,,<music21.note.Note A->,note,wouters546,0.5,123.5,GeneralNote
-21,,<music21.note.Note F>,note,wouters547,0.25,123.75,GeneralNote
-21,,<music21.note.Note B->,note,wouters548,1.5,124.0,GeneralNote
-21,,<music21.note.Note D>,note,wouters549,1.5,124.0,GeneralNote
-21,,<music21.note.Note C>,note,wouters550,0.25,125.5,GeneralNote
-21,,<music21.note.Note E->,note,wouters551,0.25,125.5,GeneralNote
-21,,<music21.note.Note D>,note,wouters552,0.25,125.75,GeneralNote
-21,,<music21.note.Note F>,note,wouters553,0.25,125.75,GeneralNote
-21,22,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note D->>,slur,wouters1069,6.5,0.0,Slur
-21,22,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G>>,slur,wouters1070,4.5,0.0,Slur
-22,,<music21.note.Rest dotted-whole>,note,wouters554,6.0,126.0,GeneralNote
-22,,<music21.note.Note E->,note,wouters555,1.5,126.0,GeneralNote
-22,,<music21.note.Rest half>,note,wouters556,2.0,126.0,GeneralNote
-22,,<music21.note.Rest whole>,note,wouters557,4.0,126.0,GeneralNote
-22,,<music21.note.Rest half>,note,wouters558,2.0,126.0,GeneralNote
-22,,<music21.note.Rest whole>,note,wouters559,4.0,126.0,GeneralNote
-22,,<music21.note.Note G->,note,wouters560,2.0,126.0,GeneralNote
-22,,<music21.note.Note D->,note,wouters561,0.25,127.5,GeneralNote
-22,,<music21.note.Note C->,note,wouters562,0.25,127.75,GeneralNote
-22,,<music21.note.Note D->,note,wouters563,2.0,128.0,GeneralNote
-22,,<music21.note.Rest half>,note,wouters564,2.0,128.0,GeneralNote
-22,,<music21.note.Rest half>,note,wouters565,2.0,128.0,GeneralNote
-22,,<music21.note.Note G>,note,wouters566,1.5,128.0,GeneralNote
-22,,<music21.note.Note B->,note,wouters567,0.5,129.5,GeneralNote
-22,,<music21.note.Note D->,note,wouters568,2.0,130.0,GeneralNote
-22,,<music21.chord.Chord E-4 B-4>,note,wouters569,2.0,130.0,GeneralNote
-22,,<music21.note.Note G>,note,wouters570,1.5,130.0,GeneralNote
-22,,<music21.note.Note E->,note,wouters571,0.5,131.5,GeneralNote
-22,23,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A->>,slur,wouters1071,2.5,0.0,Slur
-23,,<music21.note.Rest dotted-whole>,note,wouters572,6.0,132.0,GeneralNote
-23,,<music21.note.Note D->,note,wouters573,1.5,132.0,GeneralNote
-23,,<music21.chord.Chord E-4 B-4>,note,wouters574,1.5,132.0,GeneralNote
-23,,<music21.note.Note A->,note,wouters575,2.0,132.0,GeneralNote
-23,,<music21.note.Note C->,note,wouters576,0.25,133.5,GeneralNote
-23,,<music21.note.Rest eighth>,note,wouters577,0.5,133.5,GeneralNote
-23,,<music21.note.Note B->,note,wouters578,0.25,133.75,GeneralNote
-23,,<music21.note.Note C->,note,wouters579,2.0,134.0,GeneralNote
-23,,<music21.note.Rest half>,note,wouters580,2.0,134.0,GeneralNote
-23,,<music21.note.Rest quarter>,note,wouters581,1.0,134.0,GeneralNote
-23,,<music21.note.Rest eighth>,note,wouters582,0.5,135.0,GeneralNote
-23,,<music21.note.Note C->,note,wouters583,0.5,135.5,GeneralNote
-23,,<music21.note.Note C->,note,wouters584,2.0,136.0,GeneralNote
-23,,<music21.chord.Chord E-4 A-4>,note,wouters585,2.0,136.0,GeneralNote
-23,,<music21.note.Note A->,note,wouters586,1.5,136.0,GeneralNote
-23,,<music21.note.Note F>,note,wouters587,0.5,137.5,GeneralNote
-23,23,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note C->>,slur,wouters1072,2.0,0.0,Slur
-23,24,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,wouters1073,2.5,0.0,Slur
-23,24,<music21.dynamics.Crescendo <music21.note.Note C-><music21.chord.Chord F3 B-3>>,diminuendo,wouters1117,,,DynamicRegion
-24,,<music21.note.Note C->,note,wouters588,1.5,138.0,GeneralNote
-24,,<music21.chord.Chord F4 A-4>,note,wouters589,1.5,138.0,GeneralNote
-24,,<music21.note.Note C->,note,wouters590,1.5,138.0,GeneralNote
-24,,<music21.chord.Chord F4 A-4>,note,wouters591,1.5,138.0,GeneralNote
-24,,<music21.chord.Chord F3 A-3>,note,wouters592,2.0,138.0,GeneralNote
-24,,<music21.note.Note D>,note,wouters593,2.0,138.0,GeneralNote
-24,,<music21.note.Note B->,note,wouters594,0.25,139.5,GeneralNote
-24,,<music21.note.Rest eighth>,note,wouters595,0.5,139.5,GeneralNote
-24,,<music21.note.Note B->,note,wouters596,0.25,139.5,GeneralNote
-24,,<music21.note.Rest eighth>,note,wouters597,0.5,139.5,GeneralNote
-24,,<music21.note.Rest eighth>,note,wouters598,0.5,139.5,GeneralNote
-24,,<music21.note.Note A->,note,wouters599,0.25,139.75,GeneralNote
-24,,<music21.note.Note A->,note,wouters600,0.25,139.75,GeneralNote
-24,,<music21.note.Note F>,note,wouters601,1.5,140.0,GeneralNote
-24,,<music21.note.Rest half>,note,wouters602,2.0,140.0,GeneralNote
-24,,<music21.note.Note F>,note,wouters603,1.5,140.0,GeneralNote
-24,,<music21.note.Rest half>,note,wouters604,2.0,140.0,GeneralNote
-24,,<music21.note.Rest half>,note,wouters605,2.0,140.0,GeneralNote
-24,,<music21.chord.Chord F3 B-3>,note,wouters606,2.0,140.0,GeneralNote
-24,,<music21.note.Note D>,note,wouters607,2.0,140.0,GeneralNote
-24,,<music21.note.Rest quarter>,note,wouters608,1.0,141.0,GeneralNote
-24,,<music21.note.Rest quarter>,note,wouters609,1.0,141.0,GeneralNote
-24,,<music21.note.Note C->,note,wouters610,0.5,141.5,GeneralNote
-24,,<music21.note.Note C->,note,wouters611,0.5,141.5,GeneralNote
-24,,<music21.note.Note B->,note,wouters612,0.125,142.0,GeneralNote
-24,,<music21.note.Rest half>,note,wouters613,2.0,142.0,GeneralNote
-24,,<music21.note.Note B->,note,wouters614,1.5,142.0,GeneralNote
-24,,<music21.note.Rest half>,note,wouters615,2.0,142.0,GeneralNote
-24,,<music21.note.Rest half>,note,wouters616,2.0,142.0,GeneralNote
-24,,<music21.chord.Chord F3 B-3>,note,wouters617,2.0,142.0,GeneralNote
-24,,<music21.note.Note D>,note,wouters618,2.0,142.0,GeneralNote
-24,,<music21.note.Note C->,note,wouters619,0.125,142.125,GeneralNote
-24,,<music21.note.Note B->,note,wouters620,0.125,142.25,GeneralNote
-24,,<music21.note.Note C->,note,wouters621,0.125,142.375,GeneralNote
-24,,<music21.note.Note B->,note,wouters622,0.125,142.5,GeneralNote
-24,,<music21.note.Note C->,note,wouters623,0.125,142.625,GeneralNote
-24,,<music21.note.Note B->,note,wouters624,0.125,142.75,GeneralNote
-24,,<music21.note.Note C->,note,wouters625,0.125,142.875,GeneralNote
-24,,<music21.note.Note B->,note,wouters626,0.5,143.0,GeneralNote
-24,,<music21.note.Note C->,note,wouters627,0.25,143.5,GeneralNote
-24,,<music21.note.Note C->,note,wouters628,0.25,143.5,GeneralNote
-24,,<music21.note.Note A->,note,wouters629,0.25,143.75,GeneralNote
-24,,<music21.note.Note A->,note,wouters630,0.25,143.75,GeneralNote
-24,24,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A->>,slur,wouters1043,5.75,0.0,Slur
-24,25,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note G->>,slur,wouters1074,6.0,0.0,Slur
-24,24,<music21.dynamics.Diminuendo <music21.note.Note B-><music21.note.Note A->>,diminuendo,wouters1119,,,DynamicRegion
-25,,<music21.note.Rest dotted-whole>,note,wouters631,6.0,144.0,GeneralNote
-25,,<music21.note.Note G->,note,wouters632,2.0,144.0,GeneralNote
-25,,<music21.note.Note E->,note,wouters633,2.0,144.0,GeneralNote
-25,,<music21.note.Rest half>,note,wouters634,2.0,144.0,GeneralNote
-25,,<music21.note.Rest whole>,note,wouters635,4.0,144.0,GeneralNote
-25,,<music21.chord.Chord E-3 G-3 B-3>,note,wouters636,2.0,144.0,GeneralNote
-25,,<music21.note.Rest half>,note,wouters637,2.0,144.0,GeneralNote
-25,,<music21.note.Rest whole>,note,wouters638,4.0,144.0,GeneralNote
-25,,<music21.note.Note G->,note,wouters639,0.25,146.0,GeneralNote
-25,,<music21.note.Rest half>,note,wouters640,2.0,146.0,GeneralNote
-25,,<music21.note.Rest half>,note,wouters641,2.0,146.0,GeneralNote
-25,,<music21.note.Rest half>,note,wouters642,2.0,146.0,GeneralNote
-25,,<music21.chord.Chord E-3 G-3 B-3>,note,wouters643,2.0,146.0,GeneralNote
-25,,<music21.note.Rest half>,note,wouters644,2.0,146.0,GeneralNote
-25,,<music21.note.Note E->,note,wouters645,0.25,146.25,GeneralNote
-25,,<music21.note.Note F>,note,wouters646,0.25,146.5,GeneralNote
-25,,<music21.note.Note G->,note,wouters647,0.25,146.75,GeneralNote
-25,,<music21.note.Note A->,note,wouters648,0.25,147.0,GeneralNote
-25,,<music21.note.Note B->,note,wouters649,0.25,147.25,GeneralNote
-25,,<music21.note.Note C>,note,wouters650,0.25,147.5,GeneralNote
-25,,<music21.note.Note D>,note,wouters651,0.25,147.75,GeneralNote
-25,,<music21.note.Note E->,note,wouters652,0.25,148.0,GeneralNote
-25,,<music21.note.Rest half>,note,wouters653,2.0,148.0,GeneralNote
-25,,<music21.note.Rest half>,note,wouters654,2.0,148.0,GeneralNote
-25,,<music21.chord.Chord E-3 B-3>,note,wouters655,2.0,148.0,GeneralNote
-25,,<music21.note.Note G->,note,wouters656,2.0,148.0,GeneralNote
-25,,<music21.note.Note F>,note,wouters657,0.25,148.25,GeneralNote
-25,,<music21.note.Note G->,note,wouters658,0.25,148.5,GeneralNote
-25,,<music21.note.Note A->,note,wouters659,0.25,148.75,GeneralNote
-25,,<music21.note.Note G->,note,wouters660,0.25,149.0,GeneralNote
-25,,<music21.note.Note F>,note,wouters661,0.25,149.25,GeneralNote
-25,,<music21.note.Note G->,note,wouters662,0.25,149.5,GeneralNote
-25,,<music21.note.Note E->,note,wouters663,0.25,149.75,GeneralNote
-25,26,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note F->>,slur,wouters1075,3.75,0.0,Slur
-25,,<music21.expressions.TextExpression 'cresc.'>,cresc.,wouters1135,0.0,146.25,TextExpression
-26,,<music21.note.Rest dotted-whole>,note,wouters664,6.0,150.0,GeneralNote
-26,,<music21.note.Note F->,note,wouters665,1.5,150.0,GeneralNote
-26,,<music21.chord.Chord F-4 A-4 C-5>,note,wouters666,1.5,150.0,GeneralNote
-26,,<music21.note.Rest half>,note,wouters667,2.0,150.0,GeneralNote
-26,,<music21.chord.Chord A-2 C-3 F-3 A-3>,note,wouters668,2.0,150.0,GeneralNote
-26,,<music21.note.Rest half>,note,wouters669,2.0,150.0,GeneralNote
-26,,<music21.note.Note C->,note,wouters670,0.25,151.5,GeneralNote
-26,,<music21.note.Rest eighth>,note,wouters671,0.5,151.5,GeneralNote
-26,,<music21.note.Rest eighth>,note,wouters672,0.5,151.5,GeneralNote
-26,,<music21.note.Note B-->,note,wouters673,0.25,151.75,GeneralNote
-26,,<music21.note.Note A->,note,wouters674,1.5,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,wouters675,2.0,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,wouters676,2.0,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,wouters677,2.0,152.0,GeneralNote
-26,,<music21.note.Rest half>,note,wouters678,2.0,152.0,GeneralNote
-26,,<music21.note.Note B-->,note,wouters679,0.25,153.5,GeneralNote
-26,,<music21.note.Note C->,note,wouters680,0.25,153.75,GeneralNote
-26,,<music21.note.Note F->,note,wouters681,1.5,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,wouters682,2.0,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,wouters683,2.0,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,wouters684,2.0,154.0,GeneralNote
-26,,<music21.note.Rest half>,note,wouters685,2.0,154.0,GeneralNote
-26,,<music21.note.Note G->,note,wouters686,0.25,155.5,GeneralNote
-26,,<music21.note.Note A->,note,wouters687,0.25,155.75,GeneralNote
-26,27,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,wouters1076,4.5,0.0,Slur
-26,,<music21.dynamics.Dynamic mf>,mf,wouters1094,,,DynamicPoint
-27,,<music21.note.Rest dotted-whole>,note,wouters688,6.0,156.0,GeneralNote
-27,,<music21.note.Note D>,note,wouters689,1.5,156.0,GeneralNote
-27,,<music21.note.Rest half>,note,wouters690,2.0,156.0,GeneralNote
-27,,<music21.note.Rest half>,note,wouters691,2.0,156.0,GeneralNote
-27,,<music21.chord.Chord A-2 F3 B-3>,note,wouters692,2.0,156.0,GeneralNote
-27,,<music21.note.Rest half>,note,wouters693,2.0,156.0,GeneralNote
-27,,<music21.note.Rest half>,note,wouters694,2.0,156.0,GeneralNote
-27,,<music21.note.Note F>,note,wouters695,0.25,157.5,GeneralNote
-27,,<music21.note.Note A->,note,wouters696,0.25,157.75,GeneralNote
-27,,<music21.note.Note C->,note,wouters697,1.5,158.0,GeneralNote
-27,,<music21.note.Rest half>,note,wouters698,2.0,158.0,GeneralNote
-27,,<music21.note.Rest half>,note,wouters699,2.0,158.0,GeneralNote
-27,,<music21.note.Note B->,note,wouters700,0.25,159.5,GeneralNote
-27,,<music21.note.Note A->,note,wouters701,0.25,159.75,GeneralNote
-27,,<music21.note.Note F>,note,wouters702,1.5,160.0,GeneralNote
-27,,<music21.note.Rest half>,note,wouters703,2.0,160.0,GeneralNote
-27,,<music21.note.Rest half>,note,wouters704,2.0,160.0,GeneralNote
-27,,<music21.note.Note E->,note,wouters705,0.25,161.5,GeneralNote
-27,,<music21.note.Note D>,note,wouters706,0.25,161.75,GeneralNote
-27,29,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E->>,slur,wouters1077,10.5,0.0,Slur
-28,,<music21.note.Rest half>,note,wouters707,2.0,162.0,GeneralNote
-28,,<music21.note.Rest 4.125ql>,note,wouters708,4.125,162.0,GeneralNote
-28,,<music21.note.Rest whole>,note,wouters709,4.0,162.0,GeneralNote
-28,,<music21.note.Note C->,note,wouters710,0.5,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,wouters711,2.0,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,wouters712,2.0,162.0,GeneralNote
-28,,<music21.note.Rest half>,note,wouters713,2.0,162.0,GeneralNote
-28,,<music21.note.Note A>,note,wouters714,1.0,162.5,GeneralNote
-28,,<music21.note.Note B->,note,wouters715,0.5,163.5,GeneralNote
-28,,<music21.note.Rest half>,note,wouters716,2.0,164.0,GeneralNote
-28,,<music21.note.Note E->,note,wouters717,2.0,164.0,GeneralNote
-28,,<music21.chord.Chord G-4 B-4>,note,wouters718,2.0,164.0,GeneralNote
-28,,<music21.chord.Chord E-3 G-3 B-3>,note,wouters719,2.0,164.0,GeneralNote
-28,,<music21.note.Note B->,note,wouters720,2.0,164.0,GeneralNote
-28,,<music21.note.Note F>,note,wouters721,0.125,166.0,GeneralNote
-28,,<music21.note.Rest 32nd>,note,wouters722,0.125,166.0,GeneralNote
-28,,<music21.note.Note F>,note,wouters723,1.0,166.0,GeneralNote
-28,,<music21.note.Note D>,note,wouters724,1.5,166.0,GeneralNote
-28,,<music21.chord.Chord F4 B-4>,note,wouters725,2.0,166.0,GeneralNote
-28,,<music21.chord.Chord F3 A-3 B-3>,note,wouters726,2.0,166.0,GeneralNote
-28,,<music21.note.Note B->,note,wouters727,2.0,166.0,GeneralNote
-28,,<music21.note.Note B->,note,wouters728,0.125,166.125,GeneralNote
-28,,<music21.note.Note B->,note,wouters729,0.5,166.125,GeneralNote
-28,,<music21.note.Note D>,note,wouters730,0.125,166.25,GeneralNote
-28,,<music21.note.Note E->,note,wouters731,0.125,166.375,GeneralNote
-28,,<music21.note.Note D>,note,wouters732,0.125,166.5,GeneralNote
-28,,<music21.note.Note E->,note,wouters733,0.125,166.625,GeneralNote
-28,,<music21.note.Rest 32nd>,note,wouters734,0.125,166.625,GeneralNote
-28,,<music21.note.Note D>,note,wouters735,0.125,166.75,GeneralNote
-28,,<music21.note.Rest 16th>,note,wouters736,0.25,166.75,GeneralNote
-28,,<music21.note.Note E->,note,wouters737,0.125,166.875,GeneralNote
-28,,<music21.note.Note D>,note,wouters738,0.75,167.0,GeneralNote
-28,,<music21.note.Note B->,note,wouters739,1.0,167.0,GeneralNote
-28,,<music21.note.Note F>,note,wouters740,1.0,167.0,GeneralNote
-28,,<music21.note.Note E->,note,wouters741,0.5,167.5,GeneralNote
-28,,<music21.note.Note E->,note,wouters742,0.25,167.75,GeneralNote
-28,28,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A>>,slur,wouters1078,0.5,0.0,Slur
-29,,<music21.note.Rest dotted-whole>,note,wouters743,6.0,168.0,GeneralNote
-29,,<music21.note.Note E->,note,wouters744,6.0,168.0,GeneralNote
-29,,<music21.chord.Chord E-4 B-4>,note,wouters745,1.0,168.0,GeneralNote
-29,,<music21.note.Note E->,note,wouters746,2.0,168.0,GeneralNote
-29,,<music21.note.Note C->,note,wouters747,2.0,168.0,GeneralNote
-29,,<music21.chord.Chord E-4 B-4>,note,wouters748,0.25,169.0,GeneralNote
-29,,<music21.note.Note A->,note,wouters749,0.25,169.25,GeneralNote
-29,,<music21.note.Note G>,note,wouters750,0.25,169.5,GeneralNote
-29,,<music21.note.Note A->,note,wouters751,0.25,169.75,GeneralNote
-29,,<music21.note.Note A->,note,wouters752,2.0,170.0,GeneralNote
-29,,<music21.note.Note E->,note,wouters753,2.0,170.0,GeneralNote
-29,,<music21.note.Note C->,note,wouters754,2.0,170.0,GeneralNote
-29,,<music21.note.Note A->,note,wouters755,1.5,172.0,GeneralNote
-29,,<music21.note.Note E->,note,wouters756,2.0,172.0,GeneralNote
-29,,<music21.note.Note C->,note,wouters757,2.0,172.0,GeneralNote
-29,,<music21.note.Note G>,note,wouters758,0.25,173.5,GeneralNote
-29,,<music21.note.Note A->,note,wouters759,0.25,173.75,GeneralNote
-29,29,<music21.dynamics.Crescendo <music21.note.Note E-><music21.note.Note A->>,diminuendo,wouters1121,,,DynamicRegion
-29,30,<music21.dynamics.Diminuendo <music21.note.Note A-><music21.note.Note E->>,diminuendo,wouters1123,,,DynamicRegion
-30,,<music21.note.Rest dotted-whole>,note,wouters760,6.0,174.0,GeneralNote
-30,,<music21.note.Note E->,note,wouters761,2.0,174.0,GeneralNote
-30,,<music21.note.Note B->,note,wouters762,6.0,174.0,GeneralNote
-30,,<music21.chord.Chord B-3 E-4>,note,wouters763,2.0,174.0,GeneralNote
-30,,<music21.note.Note G>,note,wouters764,2.0,174.0,GeneralNote
-30,,<music21.note.Rest quarter>,note,wouters765,1.0,175.0,GeneralNote
-30,,<music21.note.Rest quarter>,note,wouters766,1.0,175.0,GeneralNote
-30,,<music21.note.Note E->,note,wouters767,1.0,176.0,GeneralNote
-30,,<music21.chord.Chord B-3 E-4>,note,wouters768,2.0,176.0,GeneralNote
-30,,<music21.note.Note G>,note,wouters769,2.0,176.0,GeneralNote
-30,,<music21.note.Note E->,note,wouters770,0.25,177.0,GeneralNote
-30,,<music21.note.Note E->,note,wouters771,0.25,177.25,GeneralNote
-30,,<music21.note.Note D->,note,wouters772,0.25,177.5,GeneralNote
-30,,<music21.note.Note C->,note,wouters773,0.25,177.75,GeneralNote
-30,,<music21.note.Note D->,note,wouters774,1.5,178.0,GeneralNote
-30,,<music21.chord.Chord B-3 E-4>,note,wouters775,2.0,178.0,GeneralNote
-30,,<music21.note.Note G>,note,wouters776,2.0,178.0,GeneralNote
-30,,<music21.note.Note B->,note,wouters777,0.5,179.5,GeneralNote
-30,31,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,wouters1079,2.75,0.0,Slur
-30,30,<music21.dynamics.Crescendo <music21.note.Note E-><music21.note.Note B->>,diminuendo,wouters1125,,,DynamicRegion
-31,,<music21.note.Rest dotted-whole>,note,wouters778,6.0,180.0,GeneralNote
-31,,<music21.note.Note C->,note,wouters779,2.0,180.0,GeneralNote
-31,,<music21.note.Note A->,note,wouters780,2.0,180.0,GeneralNote
-31,,<music21.chord.Chord C-4 E-4>,note,wouters781,2.0,180.0,GeneralNote
-31,,<music21.note.Note A->,note,wouters782,2.0,180.0,GeneralNote
-31,,<music21.note.Note C->,note,wouters783,1.0,182.0,GeneralNote
-31,,<music21.note.Rest half>,note,wouters784,2.0,182.0,GeneralNote
-31,,<music21.note.Rest half>,note,wouters785,2.0,182.0,GeneralNote
-31,,<music21.note.Note E->,note,wouters786,1.0,182.0,GeneralNote
-31,,<music21.note.Note F->,note,wouters787,2.0,182.0,GeneralNote
-31,,<music21.note.Note C->,note,wouters788,0.25,183.0,GeneralNote
-31,,<music21.note.Note E->,note,wouters789,0.25,183.0,GeneralNote
-31,,<music21.note.Note C->,note,wouters790,0.25,183.25,GeneralNote
-31,,<music21.note.Note E->,note,wouters791,0.25,183.25,GeneralNote
-31,,<music21.note.Note B->,note,wouters792,0.25,183.5,GeneralNote
-31,,<music21.note.Note D->,note,wouters793,0.25,183.5,GeneralNote
-31,,<music21.note.Note A->,note,wouters794,0.25,183.75,GeneralNote
-31,,<music21.note.Note C->,note,wouters795,0.25,183.75,GeneralNote
-31,,<music21.note.Note B->,note,wouters796,1.5,184.0,GeneralNote
-31,,<music21.note.Rest half>,note,wouters797,2.0,184.0,GeneralNote
-31,,<music21.note.Note D->,note,wouters798,1.5,184.0,GeneralNote
-31,,<music21.note.Rest half>,note,wouters799,2.0,184.0,GeneralNote
-31,,<music21.note.Note F->,note,wouters800,2.0,184.0,GeneralNote
-31,,<music21.note.Note G>,note,wouters801,0.5,185.5,GeneralNote
-31,,<music21.note.Note B->,note,wouters802,0.5,185.5,GeneralNote
-31,32,<music21.spanner.Slur <music21.note.Note C-><music21.chord.Chord C-4 A-4>>,slur,wouters1080,2.75,0.0,Slur
-31,31,<music21.dynamics.Diminuendo <music21.note.Note E-><music21.note.Note B->>,diminuendo,wouters1127,,,DynamicRegion
-32,,<music21.note.Rest dotted-whole>,note,wouters803,6.0,186.0,GeneralNote
-32,,<music21.chord.Chord C-4 A-4>,note,wouters804,2.0,186.0,GeneralNote
-32,,<music21.note.Note D>,note,wouters805,2.0,186.0,GeneralNote
-32,,<music21.note.Note F>,note,wouters806,2.0,186.0,GeneralNote
-32,,<music21.chord.Chord C-4 A-4>,note,wouters807,2.0,188.0,GeneralNote
-32,,<music21.note.Note D>,note,wouters808,2.0,188.0,GeneralNote
-32,,<music21.note.Note F>,note,wouters809,1.0,188.0,GeneralNote
-32,,<music21.note.Note F>,note,wouters810,0.25,189.0,GeneralNote
-32,,<music21.note.Note G->,note,wouters811,0.25,189.25,GeneralNote
-32,,<music21.note.Note F>,note,wouters812,0.25,189.5,GeneralNote
-32,,<music21.note.Note E->,note,wouters813,0.25,189.75,GeneralNote
-32,,<music21.chord.Chord C-4 A-4>,note,wouters814,2.0,190.0,GeneralNote
-32,,<music21.note.Note D>,note,wouters815,2.0,190.0,GeneralNote
-32,,<music21.note.Note F>,note,wouters816,0.75,190.0,GeneralNote
-32,,<music21.note.Note G->,note,wouters817,0.25,190.75,GeneralNote
-32,,<music21.note.Note A->,note,wouters818,0.25,191.0,GeneralNote
-32,,<music21.note.Note F>,note,wouters819,0.25,191.25,GeneralNote
-32,,<music21.note.Note G->,note,wouters820,0.25,191.5,GeneralNote
-32,,<music21.note.Note A->,note,wouters821,0.25,191.75,GeneralNote
-32,33,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note D>>,slur,wouters1081,2.75,0.0,Slur
-32,,<music21.dynamics.Dynamic p>,p,wouters1095,,,DynamicPoint
-33,,<music21.note.Rest dotted-whole>,note,wouters822,6.0,192.0,GeneralNote
-33,,<music21.chord.Chord C-4 A-4>,note,wouters823,2.0,192.0,GeneralNote
-33,,<music21.note.Note F>,note,wouters824,2.0,192.0,GeneralNote
-33,,<music21.note.Note D>,note,wouters825,2.0,192.0,GeneralNote
-33,,<music21.chord.Chord C-4 A-4>,note,wouters826,2.0,194.0,GeneralNote
-33,,<music21.note.Note F>,note,wouters827,2.0,194.0,GeneralNote
-33,,<music21.note.Note D>,note,wouters828,1.0,194.0,GeneralNote
-33,,<music21.note.Note D>,note,wouters829,0.25,195.0,GeneralNote
-33,,<music21.note.Note E->,note,wouters830,0.25,195.25,GeneralNote
-33,,<music21.note.Note D>,note,wouters831,0.25,195.5,GeneralNote
-33,,<music21.note.Note C>,note,wouters832,0.25,195.75,GeneralNote
-33,,<music21.chord.Chord C-4 A-4>,note,wouters833,2.0,196.0,GeneralNote
-33,,<music21.note.Note F>,note,wouters834,2.0,196.0,GeneralNote
-33,,<music21.note.Note D>,note,wouters835,0.75,196.0,GeneralNote
-33,,<music21.note.Note E->,note,wouters836,0.25,196.75,GeneralNote
-33,,<music21.note.Note F>,note,wouters837,0.25,197.0,GeneralNote
-33,,<music21.note.Note D>,note,wouters838,0.25,197.25,GeneralNote
-33,,<music21.note.Note E->,note,wouters839,0.25,197.5,GeneralNote
-33,,<music21.note.Note F>,note,wouters840,0.25,197.75,GeneralNote
-33,34,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,wouters1082,2.75,0.0,Slur
-33,,<music21.expressions.TextExpression 'cresc.'>,cresc.,wouters1136,0.0,194.0,TextExpression
-34,,<music21.note.Rest dotted-whole>,note,wouters841,6.0,198.0,GeneralNote
-34,,<music21.chord.Chord D4 A-4>,note,wouters842,2.0,198.0,GeneralNote
-34,,<music21.note.Note F>,note,wouters843,2.0,198.0,GeneralNote
-34,,<music21.note.Note C->,note,wouters844,2.0,198.0,GeneralNote
-34,,<music21.chord.Chord D4 A-4>,note,wouters845,2.0,200.0,GeneralNote
-34,,<music21.note.Note F>,note,wouters846,2.0,200.0,GeneralNote
-34,,<music21.note.Note C->,note,wouters847,1.0,200.0,GeneralNote
-34,,<music21.note.Note C->,note,wouters848,0.25,201.0,GeneralNote
-34,,<music21.note.Note D->,note,wouters849,0.25,201.25,GeneralNote
-34,,<music21.note.Note C->,note,wouters850,0.25,201.5,GeneralNote
-34,,<music21.note.Note B->,note,wouters851,0.25,201.75,GeneralNote
-34,,<music21.chord.Chord D4 A-4>,note,wouters852,2.0,202.0,GeneralNote
-34,,<music21.note.Note F>,note,wouters853,2.0,202.0,GeneralNote
-34,,<music21.note.Note C->,note,wouters854,0.25,202.0,GeneralNote
-34,,<music21.note.Note B->,note,wouters855,0.25,202.25,GeneralNote
-34,,<music21.note.Note A->,note,wouters856,0.25,202.5,GeneralNote
-34,,<music21.note.Note B->,note,wouters857,0.25,202.75,GeneralNote
-34,,<music21.note.Note C->,note,wouters858,0.25,203.0,GeneralNote
-34,,<music21.note.Note A->,note,wouters859,0.25,203.25,GeneralNote
-34,,<music21.note.Note B->,note,wouters860,0.25,203.5,GeneralNote
-34,,<music21.note.Note C->,note,wouters861,0.25,203.75,GeneralNote
-34,35,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note D>>,slur,wouters1083,2.75,0.0,Slur
-35,,<music21.note.Rest dotted-whole>,note,wouters862,6.0,204.0,GeneralNote
-35,,<music21.note.Note C->,note,wouters863,2.0,204.0,GeneralNote
-35,,<music21.chord.Chord D4 F4 A-4>,note,wouters864,2.0,204.0,GeneralNote
-35,,<music21.note.Note D>,note,wouters865,2.0,204.0,GeneralNote
-35,,<music21.note.Note C->,note,wouters866,0.25,206.0,GeneralNote
-35,,<music21.note.Rest half>,note,wouters867,2.0,206.0,GeneralNote
-35,,<music21.note.Rest half>,note,wouters868,2.0,206.0,GeneralNote
-35,,<music21.note.Rest half>,note,wouters869,2.0,206.0,GeneralNote
-35,,<music21.note.Note B->,note,wouters870,0.25,206.25,GeneralNote
-35,,<music21.note.Note A->,note,wouters871,0.25,206.5,GeneralNote
-35,,<music21.note.Note G->,note,wouters872,0.25,206.75,GeneralNote
-35,,<music21.note.Note F>,note,wouters873,0.25,207.0,GeneralNote
-35,,<music21.note.Note E->,note,wouters874,0.25,207.25,GeneralNote
-35,,<music21.note.Note D>,note,wouters875,0.25,207.5,GeneralNote
-35,,<music21.note.Note F>,note,wouters876,0.25,207.75,GeneralNote
-35,,<music21.note.Note A->,note,wouters877,0.25,208.0,GeneralNote
-35,,<music21.note.Rest half>,note,wouters878,2.0,208.0,GeneralNote
-35,,<music21.note.Rest half>,note,wouters879,2.0,208.0,GeneralNote
-35,,<music21.note.Rest half>,note,wouters880,2.0,208.0,GeneralNote
-35,,<music21.note.Note C->,note,wouters881,0.25,208.25,GeneralNote
-35,,<music21.note.Note D>,note,wouters882,0.25,208.5,GeneralNote
-35,,<music21.note.Note F>,note,wouters883,0.25,208.75,GeneralNote
-35,,<music21.note.Note A->,note,wouters884,0.25,209.0,GeneralNote
-35,,<music21.note.Note C->,note,wouters885,0.25,209.25,GeneralNote
-35,,<music21.note.Note B->,note,wouters886,0.25,209.5,GeneralNote
-35,,<music21.note.Note D>,note,wouters887,0.25,209.75,GeneralNote
-35,36,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note E->>,slur,wouters1084,6.0,0.0,Slur
-35,,<music21.dynamics.Dynamic mf>,mf,wouters1096,,,DynamicPoint
-35,35,<music21.dynamics.Diminuendo <music21.note.Note A-><music21.note.Note D>>,diminuendo,wouters1129,,,DynamicRegion
-36,,<music21.note.Note E->,note,wouters888,1.5,210.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,wouters889,1.0,210.0,GeneralNote
-36,,<music21.note.Rest dotted-quarter>,note,wouters890,1.5,210.0,GeneralNote
-36,,<music21.note.Note E->,note,wouters891,1.5,210.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,wouters892,1.0,210.0,GeneralNote
-36,,<music21.note.Rest dotted-quarter>,note,wouters893,1.5,210.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,wouters894,1.0,210.0,GeneralNote
-36,,<music21.note.Rest dotted-quarter>,note,wouters895,1.5,210.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,wouters896,1.0,210.0,GeneralNote
-36,,<music21.note.Rest dotted-quarter>,note,wouters897,1.5,210.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,wouters898,1.0,210.0,GeneralNote
-36,,<music21.note.Rest quarter>,note,wouters899,1.0,210.0,GeneralNote
-36,,<music21.note.Rest dotted-quarter>,note,wouters900,1.5,210.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,wouters901,0.5,211.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,wouters902,0.5,211.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,wouters903,0.5,211.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,wouters904,0.5,211.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,wouters905,0.5,211.0,GeneralNote
-36,,<music21.note.Rest eighth>,note,wouters906,0.5,211.0,GeneralNote
-36,,<music21.note.Note B->,note,wouters907,0.5,211.5,GeneralNote
-36,,<music21.note.Note G->,note,wouters908,0.5,211.5,GeneralNote
-36,,<music21.note.Note B->,note,wouters909,0.5,211.5,GeneralNote
-36,,<music21.note.Note G->,note,wouters910,0.5,211.5,GeneralNote
-36,,<music21.note.Note E->,note,wouters911,0.5,211.5,GeneralNote
-36,,<music21.note.Note E->,note,wouters912,0.5,211.5,GeneralNote
-36,,<music21.note.Note A->,note,wouters913,0.0,212.0,GeneralNote
-36,,<music21.note.Note A->,note,wouters914,0.5,212.0,GeneralNote
-36,,<music21.note.Note E->,note,wouters915,2.0,212.0,GeneralNote
-36,,<music21.note.Note G->,note,wouters916,2.0,212.0,GeneralNote
-36,,<music21.note.Note E->,note,wouters917,2.0,212.0,GeneralNote
-36,,<music21.chord.Chord E-3 G-3>,note,wouters918,2.0,212.0,GeneralNote
-36,,<music21.note.Note B->,note,wouters919,2.0,212.0,GeneralNote
-36,,<music21.note.Note G->,note,wouters920,1.5,212.5,GeneralNote
-36,,<music21.note.Note F>,note,wouters921,0.125,214.0,GeneralNote
-36,,<music21.note.Note D>,note,wouters922,2.0,214.0,GeneralNote
-36,,<music21.note.Note F>,note,wouters923,0.5,214.0,GeneralNote
-36,,<music21.note.Note D>,note,wouters924,2.0,214.0,GeneralNote
-36,,<music21.chord.Chord F3 A-3>,note,wouters925,2.0,214.0,GeneralNote
-36,,<music21.note.Note B->,note,wouters926,2.0,214.0,GeneralNote
-36,,<music21.note.Note G->,note,wouters927,0.125,214.125,GeneralNote
-36,,<music21.note.Note F>,note,wouters928,0.25,214.25,GeneralNote
-36,,<music21.note.Note E->,note,wouters929,0.5,214.5,GeneralNote
-36,,<music21.note.Note E->,note,wouters930,0.5,214.5,GeneralNote
-36,,<music21.note.Note F>,note,wouters931,1.0,215.0,GeneralNote
-36,,<music21.note.Note F>,note,wouters932,1.0,215.0,GeneralNote
-36,37,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note E->>,slur,wouters1044,4.5,0.0,Slur
-36,36,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,wouters1045,0.25,0.0,Slur
-36,36,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G->>,slur,wouters1085,0.0,0.0,Slur
-36,36,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,wouters1086,1.0,0.0,Slur
-36,36,<music21.dynamics.Diminuendo <music21.note.Note B-><music21.note.Note F>>,diminuendo,wouters1131,,,DynamicRegion
-37,,<music21.note.Note E->,note,wouters933,2.0,216.0,GeneralNote
-37,,<music21.note.Note E->,note,wouters934,2.0,216.0,GeneralNote
-37,,<music21.chord.Chord G3 B-3 D-4>,note,wouters935,2.0,216.0,GeneralNote
-37,,<music21.note.Note E->,note,wouters936,2.0,216.0,GeneralNote
-37,,<music21.note.Note E->,note,wouters937,1.0,218.0,GeneralNote
-37,,<music21.note.Note E->,note,wouters938,1.0,218.0,GeneralNote
-37,,<music21.chord.Chord G3 B-3 D-4>,note,wouters939,2.0,218.0,GeneralNote
-37,,<music21.note.Note E->,note,wouters940,2.0,218.0,GeneralNote
-37,,<music21.note.Note E->,note,wouters941,0.25,219.0,GeneralNote
-37,,<music21.note.Note E->,note,wouters942,0.25,219.0,GeneralNote
-37,,<music21.note.Note F>,note,wouters943,0.25,219.25,GeneralNote
-37,,<music21.note.Note F>,note,wouters944,0.25,219.25,GeneralNote
-37,,<music21.note.Note G>,note,wouters945,0.25,219.5,GeneralNote
-37,,<music21.note.Note G>,note,wouters946,0.25,219.5,GeneralNote
-37,,<music21.note.Note A->,note,wouters947,0.25,219.75,GeneralNote
-37,,<music21.note.Note A->,note,wouters948,0.25,219.75,GeneralNote
-37,,<music21.note.Note B->,note,wouters949,1.0,220.0,GeneralNote
-37,,<music21.note.Note B->,note,wouters950,1.0,220.0,GeneralNote
-37,,<music21.chord.Chord G3 B-3 D-4>,note,wouters951,2.0,220.0,GeneralNote
-37,,<music21.note.Note E->,note,wouters952,2.0,220.0,GeneralNote
-37,,<music21.note.Note B->,note,wouters953,0.25,221.0,GeneralNote
-37,,<music21.note.Note B->,note,wouters954,0.25,221.0,GeneralNote
-37,,<music21.note.Note F->,note,wouters955,0.25,221.25,GeneralNote
-37,,<music21.note.Note F->,note,wouters956,0.25,221.25,GeneralNote
-37,,<music21.note.Note E->,note,wouters957,0.25,221.5,GeneralNote
-37,,<music21.note.Note E->,note,wouters958,0.25,221.5,GeneralNote
-37,,<music21.note.Note D->,note,wouters959,0.25,221.75,GeneralNote
-37,,<music21.note.Note D->,note,wouters960,0.25,221.75,GeneralNote
-37,38,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C->>,slur,wouters1046,3.75,0.0,Slur
-37,,<music21.dynamics.Dynamic pp>,pp,wouters1097,,,DynamicPoint
-38,,<music21.note.Note D->,note,wouters961,0.0,222.0,GeneralNote
-38,,<music21.note.Note D->,note,wouters962,1.0,222.0,GeneralNote
-38,,<music21.note.Note C->,note,wouters963,2.0,222.0,GeneralNote
-38,,<music21.chord.Chord E-3 A-3>,note,wouters964,2.0,222.0,GeneralNote
-38,,<music21.note.Note C->,note,wouters965,1.0,223.0,GeneralNote
-38,,<music21.note.Note C->,note,wouters966,0.75,224.0,GeneralNote
-38,,<music21.note.Note C->,note,wouters967,0.75,224.0,GeneralNote
-38,,<music21.chord.Chord E-3 A-3>,note,wouters968,2.0,224.0,GeneralNote
-38,,<music21.note.Note E->,note,wouters969,0.25,224.75,GeneralNote
-38,,<music21.note.Note E->,note,wouters970,0.25,224.75,GeneralNote
-38,,<music21.note.Note F>,note,wouters971,0.25,225.0,GeneralNote
-38,,<music21.note.Note F>,note,wouters972,0.25,225.0,GeneralNote
-38,,<music21.note.Note G>,note,wouters973,0.25,225.25,GeneralNote
-38,,<music21.note.Note G>,note,wouters974,0.25,225.25,GeneralNote
-38,,<music21.note.Note A->,note,wouters975,0.25,225.5,GeneralNote
-38,,<music21.note.Note A->,note,wouters976,0.25,225.5,GeneralNote
-38,,<music21.note.Note B->,note,wouters977,0.25,225.75,GeneralNote
-38,,<music21.note.Note B->,note,wouters978,0.25,225.75,GeneralNote
-38,,<music21.note.Note C->,note,wouters979,0.5,226.0,GeneralNote
-38,,<music21.note.Note C->,note,wouters980,0.5,226.0,GeneralNote
-38,,<music21.chord.Chord E-3 A-3>,note,wouters981,2.0,226.0,GeneralNote
-38,,<music21.note.Note C->,note,wouters982,0.125,226.5,GeneralNote
-38,,<music21.note.Note C->,note,wouters983,0.125,226.5,GeneralNote
-38,,<music21.note.Note B->,note,wouters984,0.125,226.625,GeneralNote
-38,,<music21.note.Note B->,note,wouters985,0.125,226.625,GeneralNote
-38,,<music21.note.Note A->,note,wouters986,0.125,226.75,GeneralNote
-38,,<music21.note.Note A->,note,wouters987,0.125,226.75,GeneralNote
-38,,<music21.note.Note G->,note,wouters988,0.125,226.875,GeneralNote
-38,,<music21.note.Note G->,note,wouters989,0.125,226.875,GeneralNote
-38,,<music21.note.Note F>,note,wouters990,0.25,227.0,GeneralNote
-38,,<music21.note.Note F>,note,wouters991,0.25,227.0,GeneralNote
-38,,<music21.note.Note G->,note,wouters992,0.25,227.25,GeneralNote
-38,,<music21.note.Note G->,note,wouters993,0.25,227.25,GeneralNote
-38,,<music21.note.Note A->,note,wouters994,0.25,227.5,GeneralNote
-38,,<music21.note.Note A->,note,wouters995,0.25,227.5,GeneralNote
-38,,<music21.note.Note F>,note,wouters996,0.25,227.75,GeneralNote
-38,,<music21.note.Note F>,note,wouters997,0.25,227.75,GeneralNote
-38,38,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note C->>,slur,wouters1047,1.0,0.0,Slur
-38,38,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note C->>,slur,wouters1087,0.0,0.0,Slur
-38,,<music21.expressions.TextExpression 'dim.'>,dim.,wouters1137,0.0,225.0,TextExpression
-39,,<music21.note.Note D>,note,wouters998,4.0,228.0,GeneralNote
-39,,<music21.note.Rest quarter>,note,wouters999,1.0,228.0,GeneralNote
-39,,<music21.note.Note D>,note,wouters1000,4.0,228.0,GeneralNote
-39,,<music21.note.Rest quarter>,note,wouters1001,1.0,228.0,GeneralNote
-39,,<music21.note.Note F>,note,wouters1002,2.0,228.0,GeneralNote
-39,,<music21.note.Note E->,note,wouters1003,2.0,228.0,GeneralNote
-39,,<music21.note.Rest eighth>,note,wouters1004,0.5,229.0,GeneralNote
-39,,<music21.note.Rest eighth>,note,wouters1005,0.5,229.0,GeneralNote
-39,,<music21.note.Note C->,note,wouters1006,0.25,229.5,GeneralNote
-39,,<music21.note.Note C->,note,wouters1007,0.25,229.5,GeneralNote
-39,,<music21.note.Note B->,note,wouters1008,0.25,229.75,GeneralNote
-39,,<music21.note.Note B->,note,wouters1009,0.25,229.75,GeneralNote
-39,,<music21.note.Note C->,note,wouters1010,1.5,230.0,GeneralNote
-39,,<music21.note.Note C->,note,wouters1011,1.5,230.0,GeneralNote
-39,,<music21.note.Note F>,note,wouters1012,2.0,230.0,GeneralNote
-39,,<music21.note.Note E->,note,wouters1013,2.0,230.0,GeneralNote
-39,,<music21.note.Note A->,note,wouters1014,0.5,231.5,GeneralNote
-39,,<music21.note.Note A->,note,wouters1015,0.5,231.5,GeneralNote
-39,,<music21.note.Note D>,note,wouters1016,1.5,232.0,GeneralNote
-39,,<music21.note.Rest half>,note,wouters1017,2.0,232.0,GeneralNote
-39,,<music21.note.Note D>,note,wouters1018,1.5,232.0,GeneralNote
-39,,<music21.note.Rest half>,note,wouters1019,2.0,232.0,GeneralNote
-39,,<music21.note.Rest half>,note,wouters1020,2.0,232.0,GeneralNote
-39,,<music21.note.Note F>,note,wouters1021,2.0,232.0,GeneralNote
-39,,<music21.note.Note E->,note,wouters1022,2.0,232.0,GeneralNote
-39,,<music21.note.Note D>,note,wouters1023,0.5,233.5,GeneralNote
-39,,<music21.note.Note D>,note,wouters1024,0.5,233.5,GeneralNote
-39,,<music21.expressions.TextExpression 'morendo'>,morendo,wouters1138,0.0,228.0,TextExpression
-40,,<music21.note.Note E->,note,wouters1025,2.0,234.0,GeneralNote
-40,,<music21.note.Rest eighth>,note,wouters1026,0.5,234.0,GeneralNote
-40,,<music21.note.Rest eighth>,note,wouters1027,0.5,234.0,GeneralNote
-40,,<music21.chord.Chord G3 B-3 E-4>,note,wouters1028,6.0,234.0,GeneralNote
-40,,<music21.chord.Chord E-2 B-2 E-3>,note,wouters1029,6.0,234.0,GeneralNote
-40,,<music21.note.Note B->,note,wouters1030,1.5,234.5,GeneralNote
-40,,<music21.note.Rest eighth>,note,wouters1031,0.5,234.5,GeneralNote
-40,,<music21.note.Note G>,note,wouters1032,1.0,235.0,GeneralNote
-40,,<music21.note.Note E->,note,wouters1033,4.0,236.0,GeneralNote
-40,,<music21.note.Note B->,note,wouters1034,4.0,236.0,GeneralNote
-40,,<music21.note.Note G>,note,wouters1035,4.0,236.0,GeneralNote
+14,,<music21.note.Rest half>,note,wouters311,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,wouters312,2.0,78.0,GeneralNote
+14,,<music21.chord.Chord E-3 A3 C4>,note,wouters313,2.0,78.0,GeneralNote
+14,,<music21.note.Rest dotted-whole>,note,wouters314,6.0,78.0,GeneralNote
+14,,<music21.note.Note G>,note,wouters315,0.125,78.75,GeneralNote
+14,,<music21.note.Note G>,note,wouters316,0.125,78.75,GeneralNote
+14,,<music21.note.Note A>,note,wouters317,0.125,78.875,GeneralNote
+14,,<music21.note.Note A>,note,wouters318,0.125,78.875,GeneralNote
+14,,<music21.note.Note B->,note,wouters319,0.125,79.0,GeneralNote
+14,,<music21.articulations.Fingering 1>,fingering,wouters320,0.0,0.0,Fingering
+14,,<music21.note.Note A>,note,wouters321,0.75,79.0,GeneralNote
+14,,<music21.note.Note A>,note,wouters322,0.125,79.125,GeneralNote
+14,,<music21.note.Note B->,note,wouters323,0.125,79.25,GeneralNote
+14,,<music21.note.Note A>,note,wouters324,0.125,79.375,GeneralNote
+14,,<music21.note.Note B->,note,wouters325,0.125,79.5,GeneralNote
+14,,<music21.note.Note A>,note,wouters326,0.125,79.625,GeneralNote
+14,,<music21.note.Note G>,note,wouters327,0.125,79.75,GeneralNote
+14,,<music21.note.Note G>,note,wouters328,0.125,79.75,GeneralNote
+14,,<music21.note.Note A>,note,wouters329,0.125,79.875,GeneralNote
+14,,<music21.note.Note A>,note,wouters330,0.125,79.875,GeneralNote
+14,,<music21.note.Note B->,note,wouters331,4.0,80.0,GeneralNote
+14,,<music21.articulations.Fingering 45>,fingering,wouters332,0.0,0.0,Fingering
+14,,<music21.note.Rest quarter>,note,wouters333,1.0,80.0,GeneralNote
+14,,<music21.note.Note B->,note,wouters334,4.0,80.0,GeneralNote
+14,,<music21.articulations.Fingering 45>,fingering,wouters335,0.0,0.0,Fingering
+14,,<music21.note.Rest quarter>,note,wouters336,1.0,80.0,GeneralNote
+14,,<music21.chord.Chord D-3 F3 B-3>,note,wouters337,2.0,80.0,GeneralNote
+14,,<music21.note.Rest eighth>,note,wouters338,0.5,81.0,GeneralNote
+14,,<music21.note.Rest eighth>,note,wouters339,0.5,81.0,GeneralNote
+14,,<music21.note.Note F>,note,wouters340,0.5,81.5,GeneralNote
+14,,<music21.articulations.Fingering 1>,fingering,wouters341,0.0,0.0,Fingering
+14,,<music21.note.Note F>,note,wouters342,0.5,81.5,GeneralNote
+14,,<music21.note.Note G->,note,wouters343,1.5,82.0,GeneralNote
+14,,<music21.articulations.Fingering 3>,fingering,wouters344,0.0,0.0,Fingering
+14,,<music21.note.Note G->,note,wouters345,1.5,82.0,GeneralNote
+14,,<music21.chord.Chord E-3 B-3>,note,wouters346,2.0,82.0,GeneralNote
+14,,<music21.note.Note E->,note,wouters347,0.5,83.5,GeneralNote
+14,,<music21.articulations.Fingering 1>,fingering,wouters348,0.0,0.0,Fingering
+14,,<music21.note.Note E->,note,wouters349,0.5,83.5,GeneralNote
+14,15,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E->>,slur,wouters1153,11.75,0.0,Slur
+14,16,<music21.spanner.Slur <music21.note.Note F><music21.note.Note D->>,slur,wouters1173,14.0,0.0,Slur
+14,15,<music21.dynamics.Crescendo <music21.note.Note G><music21.note.Note A>>,diminuendo,wouters1229,,,DynamicRegion
+15,,<music21.note.Note B->,note,wouters350,4.0,84.0,GeneralNote
+15,,<music21.note.Note D->,note,wouters351,0.5,84.0,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,wouters352,0.0,0.0,Fingering
+15,,<music21.note.Rest half>,note,wouters353,2.0,84.0,GeneralNote
+15,,<music21.note.Rest whole>,note,wouters354,4.0,84.0,GeneralNote
+15,,<music21.note.Note B->,note,wouters355,4.0,84.0,GeneralNote
+15,,<music21.note.Note C>,note,wouters356,1.0,84.0,GeneralNote
+15,,<music21.note.Rest half>,note,wouters357,2.0,84.0,GeneralNote
+15,,<music21.note.Rest whole>,note,wouters358,4.0,84.0,GeneralNote
+15,,<music21.note.Rest half>,note,wouters359,2.0,84.0,GeneralNote
+15,,<music21.note.Rest whole>,note,wouters360,4.0,84.0,GeneralNote
+15,,<music21.note.Note F>,note,wouters361,2.0,84.0,GeneralNote
+15,,<music21.note.Note F>,note,wouters362,2.0,84.0,GeneralNote
+15,,<music21.note.Rest dotted-whole>,note,wouters363,6.0,84.0,GeneralNote
+15,,<music21.note.Note C>,note,wouters364,0.5,84.5,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,wouters365,0.0,0.0,Fingering
+15,,<music21.note.Note C>,note,wouters366,0.25,85.0,GeneralNote
+15,,<music21.note.Note C>,note,wouters367,0.25,85.0,GeneralNote
+15,,<music21.note.Note D->,note,wouters368,0.25,85.25,GeneralNote
+15,,<music21.note.Note D->,note,wouters369,0.25,85.25,GeneralNote
+15,,<music21.note.Note C>,note,wouters370,0.25,85.5,GeneralNote
+15,,<music21.note.Note C>,note,wouters371,0.25,85.5,GeneralNote
+15,,<music21.note.Note D->,note,wouters372,0.25,85.75,GeneralNote
+15,,<music21.note.Note D->,note,wouters373,0.25,85.75,GeneralNote
+15,,<music21.note.Note E->,note,wouters374,0.25,86.0,GeneralNote
+15,,<music21.note.Rest half>,note,wouters375,2.0,86.0,GeneralNote
+15,,<music21.note.Note E->,note,wouters376,0.25,86.0,GeneralNote
+15,,<music21.note.Rest half>,note,wouters377,2.0,86.0,GeneralNote
+15,,<music21.note.Rest half>,note,wouters378,2.0,86.0,GeneralNote
+15,,<music21.note.Note F>,note,wouters379,2.0,86.0,GeneralNote
+15,,<music21.note.Note F>,note,wouters380,2.0,86.0,GeneralNote
+15,,<music21.note.Note D->,note,wouters381,0.25,86.25,GeneralNote
+15,,<music21.note.Note D->,note,wouters382,0.25,86.25,GeneralNote
+15,,<music21.note.Note C>,note,wouters383,0.25,86.5,GeneralNote
+15,,<music21.note.Note C>,note,wouters384,0.25,86.5,GeneralNote
+15,,<music21.note.Note D->,note,wouters385,0.25,86.75,GeneralNote
+15,,<music21.note.Note D->,note,wouters386,0.25,86.75,GeneralNote
+15,,<music21.note.Note E->,note,wouters387,0.25,87.0,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,wouters388,0.0,0.0,Fingering
+15,,<music21.note.Note E->,note,wouters389,0.25,87.0,GeneralNote
+15,,<music21.note.Note F>,note,wouters390,0.25,87.25,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,wouters391,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,wouters392,0.25,87.25,GeneralNote
+15,,<music21.note.Note E->,note,wouters393,0.25,87.5,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,wouters394,0.0,0.0,Fingering
+15,,<music21.note.Note E->,note,wouters395,0.25,87.5,GeneralNote
+15,,<music21.note.Note F>,note,wouters396,0.25,87.75,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,wouters397,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,wouters398,0.25,87.75,GeneralNote
+15,,<music21.note.Note A>,note,wouters399,2.0,88.0,GeneralNote
+15,,<music21.note.Note G->,note,wouters400,1.0,88.0,GeneralNote
+15,,<music21.articulations.Fingering 43>,fingering,wouters401,0.0,0.0,Fingering
+15,,<music21.note.Note C>,note,wouters402,2.0,88.0,GeneralNote
+15,,<music21.note.Note A>,note,wouters403,2.0,88.0,GeneralNote
+15,,<music21.note.Note G->,note,wouters404,1.0,88.0,GeneralNote
+15,,<music21.note.Note C>,note,wouters405,2.0,88.0,GeneralNote
+15,,<music21.note.Note F>,note,wouters406,2.0,88.0,GeneralNote
+15,,<music21.note.Note F>,note,wouters407,2.0,88.0,GeneralNote
+15,,<music21.note.Note F>,note,wouters408,0.125,89.0,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,wouters409,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,wouters410,0.75,89.0,GeneralNote
+15,,<music21.note.Note G->,note,wouters411,0.125,89.125,GeneralNote
+15,,<music21.note.Note F>,note,wouters412,0.125,89.25,GeneralNote
+15,,<music21.note.Note G->,note,wouters413,0.125,89.375,GeneralNote
+15,,<music21.note.Note F>,note,wouters414,0.25,89.5,GeneralNote
+15,,<music21.articulations.Fingering 23>,fingering,wouters415,0.0,0.0,Fingering
+15,,<music21.note.Note E->,note,wouters416,0.25,89.75,GeneralNote
+15,,<music21.note.Note E->,note,wouters417,0.25,89.75,GeneralNote
+15,15,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note C>>,slur,wouters1154,0.5,0.0,Slur
+15,16,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note F>>,diminuendo,wouters1231,,,DynamicRegion
+16,,<music21.note.Rest dotted-whole>,note,wouters418,6.0,90.0,GeneralNote
+16,,<music21.note.Note B->,note,wouters419,1.5,90.0,GeneralNote
+16,,<music21.articulations.Fingering 43>,fingering,wouters420,0.0,0.0,Fingering
+16,,<music21.note.Note D->,note,wouters421,1.5,90.0,GeneralNote
+16,,<music21.note.Note B->,note,wouters422,2.0,90.0,GeneralNote
+16,,<music21.chord.Chord F3 B-3>,note,wouters423,2.0,90.0,GeneralNote
+16,,<music21.note.Rest dotted-whole>,note,wouters424,6.0,90.0,GeneralNote
+16,,<music21.note.Note C>,note,wouters425,0.5,91.5,GeneralNote
+16,,<music21.note.Note E->,note,wouters426,0.5,91.5,GeneralNote
+16,,<music21.note.Note D->,note,wouters427,2.0,92.0,GeneralNote
+16,,<music21.chord.Chord F4 B-4>,note,wouters428,2.0,92.0,GeneralNote
+16,,<music21.note.Rest half>,note,wouters429,2.0,92.0,GeneralNote
+16,,<music21.note.Rest quarter>,note,wouters430,1.0,92.0,GeneralNote
+16,,<music21.note.Rest half>,note,wouters431,2.0,92.0,GeneralNote
+16,,<music21.note.Rest eighth>,note,wouters432,0.5,93.0,GeneralNote
+16,,<music21.note.Note B->,note,wouters433,0.5,93.5,GeneralNote
+16,,<music21.articulations.Fingering 3>,fingering,wouters434,0.0,0.0,Fingering
+16,,<music21.note.Note D->,note,wouters435,2.0,94.0,GeneralNote
+16,,<music21.chord.Chord F4 B-4>,note,wouters436,2.0,94.0,GeneralNote
+16,,<music21.note.Rest half>,note,wouters437,2.0,94.0,GeneralNote
+16,,<music21.note.Note D->,note,wouters438,1.5,94.0,GeneralNote
+16,,<music21.note.Rest half>,note,wouters439,2.0,94.0,GeneralNote
+16,,<music21.note.Note F>,note,wouters440,0.5,95.5,GeneralNote
+16,17,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note G>>,slur,wouters1174,2.5,0.0,Slur
+16,,<music21.dynamics.Dynamic p>,p,wouters1205,,,DynamicPoint
+16,19,<music21.dynamics.Crescendo <music21.note.Note B-><music21.note.Note E->>,diminuendo,wouters1233,,,DynamicRegion
+17,,<music21.note.Rest dotted-whole>,note,wouters441,6.0,96.0,GeneralNote
+17,,<music21.note.Note D->,note,wouters442,1.5,96.0,GeneralNote
+17,,<music21.chord.Chord F-4 B-4>,note,wouters443,1.5,96.0,GeneralNote
+17,,<music21.note.Note G>,note,wouters444,2.0,96.0,GeneralNote
+17,,<music21.note.Rest dotted-whole>,note,wouters445,6.0,96.0,GeneralNote
+17,,<music21.note.Note C->,note,wouters446,0.25,97.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,wouters447,0.5,97.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,wouters448,0.5,97.5,GeneralNote
+17,,<music21.note.Note B->,note,wouters449,0.25,97.75,GeneralNote
+17,,<music21.note.Note F->,note,wouters450,2.0,98.0,GeneralNote
+17,,<music21.chord.Chord B-4 D-5>,note,wouters451,2.0,98.0,GeneralNote
+17,,<music21.note.Note G>,note,wouters452,1.0,98.0,GeneralNote
+17,,<music21.note.Note G>,note,wouters453,0.25,99.0,GeneralNote
+17,,<music21.note.Note B->,note,wouters454,0.25,99.25,GeneralNote
+17,,<music21.note.Note A->,note,wouters455,0.25,99.5,GeneralNote
+17,,<music21.note.Note G>,note,wouters456,0.25,99.75,GeneralNote
+17,,<music21.chord.Chord D-5 F-5>,note,wouters457,1.5,100.0,GeneralNote
+17,,<music21.chord.Chord B-4 D-5>,note,wouters458,1.5,100.0,GeneralNote
+17,,<music21.note.Note D->,note,wouters459,2.0,100.0,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,wouters460,0.0,0.0,Fingering
+17,,<music21.note.Note E->,note,wouters461,0.25,101.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,wouters462,0.5,101.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,wouters463,0.5,101.5,GeneralNote
+17,,<music21.note.Note D->,note,wouters464,0.25,101.75,GeneralNote
+17,17,<music21.spanner.Slur <music21.note.Note D-><music21.chord.Chord D-5 F-5>>,slur,wouters1175,4.0,0.0,Slur
+17,17,<music21.spanner.Slur <music21.note.Note D-><music21.chord.Chord D-5 F-5>>,slur,wouters1176,4.0,0.0,Slur
+17,18,<music21.spanner.Slur <music21.note.Note E-><music21.chord.Chord B-4 D-5 G5>>,slur,wouters1177,2.5,0.0,Slur
+17,19,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note F->>,slur,wouters1178,8.75,0.0,Slur
+17,,<music21.expressions.TextExpression 'cresc.'>,cresc.,wouters1254,0.0,97.5,TextExpression
+18,,<music21.note.Rest dotted-whole>,note,wouters465,6.0,102.0,GeneralNote
+18,,<music21.chord.Chord B-4 D-5 G5>,note,wouters466,2.0,102.0,GeneralNote
+18,,<music21.note.Rest half>,note,wouters467,2.0,102.0,GeneralNote
+18,,<music21.note.Rest whole>,note,wouters468,4.0,102.0,GeneralNote
+18,,<music21.note.Rest half>,note,wouters469,2.0,102.0,GeneralNote
+18,,<music21.note.Rest whole>,note,wouters470,4.0,102.0,GeneralNote
+18,,<music21.note.Note D->,note,wouters471,1.5,102.0,GeneralNote
+18,,<music21.note.Rest dotted-whole>,note,wouters472,6.0,102.0,GeneralNote
+18,,<music21.note.Note C->,note,wouters473,0.25,103.5,GeneralNote
+18,,<music21.note.Note B->,note,wouters474,0.25,103.75,GeneralNote
+18,,<music21.chord.Chord B-4 D-5 G5>,note,wouters475,1.5,104.0,GeneralNote
+18,,<music21.note.Rest half>,note,wouters476,2.0,104.0,GeneralNote
+18,,<music21.note.Rest half>,note,wouters477,2.0,104.0,GeneralNote
+18,,<music21.note.Note F->,note,wouters478,0.5,104.0,GeneralNote
+18,,<music21.note.Note E->,note,wouters479,0.5,104.5,GeneralNote
+18,,<music21.note.Note F->,note,wouters480,0.5,105.0,GeneralNote
+18,,<music21.note.Note F->,note,wouters481,0.25,105.5,GeneralNote
+18,,<music21.note.Note D->,note,wouters482,0.5,105.5,GeneralNote
+18,,<music21.note.Note E->,note,wouters483,0.25,105.75,GeneralNote
+18,,<music21.note.Note A->,note,wouters484,2.0,106.0,GeneralNote
+18,,<music21.chord.Chord C-5 E-5>,note,wouters485,2.0,106.0,GeneralNote
+18,,<music21.note.Note C->,note,wouters486,0.25,106.0,GeneralNote
+18,,<music21.articulations.Fingering 1>,fingering,wouters487,0.0,0.0,Fingering
+18,,<music21.note.Note B->,note,wouters488,0.25,106.25,GeneralNote
+18,,<music21.note.Note A->,note,wouters489,0.25,106.5,GeneralNote
+18,,<music21.note.Note B->,note,wouters490,0.25,106.75,GeneralNote
+18,,<music21.note.Note C->,note,wouters491,0.25,107.0,GeneralNote
+18,,<music21.note.Note A->,note,wouters492,0.25,107.25,GeneralNote
+18,,<music21.note.Note B->,note,wouters493,0.25,107.5,GeneralNote
+18,,<music21.note.Note C->,note,wouters494,0.25,107.75,GeneralNote
+18,20,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note A->>,slur,wouters1179,8.5,0.0,Slur
+19,,<music21.note.Rest half>,note,wouters495,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,wouters496,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,wouters497,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,wouters498,2.0,108.0,GeneralNote
+19,,<music21.note.Note A->,note,wouters499,0.5,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,wouters500,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,wouters501,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,wouters502,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,wouters503,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,wouters504,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,wouters505,2.0,108.0,GeneralNote
+19,,<music21.note.Note F->,note,wouters506,1.0,108.0,GeneralNote
+19,,<music21.articulations.Accent>,accent,wouters507,0.0,0.0,Articulation
+19,,<music21.note.Rest dotted-whole>,note,wouters508,6.0,108.0,GeneralNote
+19,,<music21.note.Note G>,note,wouters509,0.5,108.5,GeneralNote
+19,,<music21.note.Note A->,note,wouters510,0.5,109.0,GeneralNote
+19,,<music21.note.Note F->,note,wouters511,0.25,109.0,GeneralNote
+19,,<music21.note.Note F->,note,wouters512,0.25,109.25,GeneralNote
+19,,<music21.note.Note B->,note,wouters513,0.5,109.5,GeneralNote
+19,,<music21.note.Note E->,note,wouters514,0.25,109.5,GeneralNote
+19,,<music21.note.Note D->,note,wouters515,0.25,109.75,GeneralNote
+19,,<music21.note.Note C->,note,wouters516,0.25,110.0,GeneralNote
+19,,<music21.articulations.Fingering 5>,fingering,wouters517,0.0,0.0,Fingering
+19,,<music21.note.Note E->,note,wouters518,2.0,110.0,GeneralNote
+19,,<music21.note.Note G>,note,wouters519,4.0,110.0,GeneralNote
+19,,<music21.note.Note B->,note,wouters520,3.0,110.0,GeneralNote
+19,,<music21.note.Note E->,note,wouters521,2.0,110.0,GeneralNote
+19,,<music21.note.Note G>,note,wouters522,4.0,110.0,GeneralNote
+19,,<music21.note.Note E->,note,wouters523,1.5,110.0,GeneralNote
+19,,<music21.note.Note B->,note,wouters524,0.125,110.25,GeneralNote
+19,,<music21.articulations.Fingering 4>,fingering,wouters525,0.0,0.0,Fingering
+19,,<music21.note.Note C->,note,wouters526,0.125,110.375,GeneralNote
+19,,<music21.note.Note B->,note,wouters527,0.125,110.5,GeneralNote
+19,,<music21.note.Note C->,note,wouters528,0.125,110.625,GeneralNote
+19,,<music21.note.Note B->,note,wouters529,0.125,110.75,GeneralNote
+19,,<music21.note.Note C->,note,wouters530,0.125,110.875,GeneralNote
+19,,<music21.note.Note B->,note,wouters531,2.0,111.0,GeneralNote
+19,,<music21.note.Note D->,note,wouters532,0.5,111.5,GeneralNote
+19,,<music21.note.Note D->,note,wouters533,2.0,112.0,GeneralNote
+19,,<music21.note.Note D->,note,wouters534,2.0,112.0,GeneralNote
+19,,<music21.note.Note E->,note,wouters535,1.5,112.0,GeneralNote
+19,,<music21.note.Note A->,note,wouters536,1.0,113.0,GeneralNote
+19,,<music21.note.Note A->,note,wouters537,1.0,113.0,GeneralNote
+19,,<music21.note.Note E->,note,wouters538,0.5,113.5,GeneralNote
+19,19,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A->>,slur,wouters1155,3.0,0.0,Slur
+19,20,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note A->>,slur,wouters1180,4.75,0.0,Slur
+19,22,<music21.dynamics.Diminuendo <music21.note.Note D-><music21.note.Note G>>,diminuendo,wouters1235,,,DynamicRegion
+20,,<music21.note.Rest dotted-whole>,note,wouters539,6.0,114.0,GeneralNote
+20,,<music21.note.Note A->,note,wouters540,1.5,114.0,GeneralNote
+20,,<music21.chord.Chord C-5 E-5>,note,wouters541,1.5,114.0,GeneralNote
+20,,<music21.note.Note A->,note,wouters542,2.0,114.0,GeneralNote
+20,,<music21.note.Rest dotted-whole>,note,wouters543,6.0,114.0,GeneralNote
+20,,<music21.note.Rest dotted-whole>,note,wouters544,4.5,115.5,GeneralNote
+20,,<music21.note.Note C->,note,wouters545,0.5,115.5,GeneralNote
+20,,<music21.note.Note F>,note,wouters546,1.5,116.0,GeneralNote
+20,,<music21.note.Rest quarter>,note,wouters547,1.0,116.0,GeneralNote
+20,,<music21.note.Rest eighth>,note,wouters548,0.5,117.0,GeneralNote
+20,,<music21.note.Note G->,note,wouters549,0.25,117.5,GeneralNote
+20,,<music21.note.Note C->,note,wouters550,0.5,117.5,GeneralNote
+20,,<music21.note.Note A->,note,wouters551,0.25,117.75,GeneralNote
+20,,<music21.note.Note D>,note,wouters552,1.5,118.0,GeneralNote
+20,,<music21.note.Note F>,note,wouters553,1.5,118.0,GeneralNote
+20,,<music21.note.Note E->,note,wouters554,0.25,119.5,GeneralNote
+20,,<music21.note.Note G->,note,wouters555,0.25,119.5,GeneralNote
+20,,<music21.note.Note F>,note,wouters556,0.25,119.75,GeneralNote
+20,,<music21.note.Note A->,note,wouters557,0.25,119.75,GeneralNote
+20,21,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,slur,wouters1181,4.5,0.0,Slur
+20,21,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,slur,wouters1182,4.5,0.0,Slur
+20,,<music21.dynamics.Dynamic p>,p,wouters1206,,,DynamicPoint
+21,,<music21.note.Rest dotted-whole>,note,wouters558,6.0,120.0,GeneralNote
+21,,<music21.note.Note B->,note,wouters559,1.5,120.0,GeneralNote
+21,,<music21.note.Note D>,note,wouters560,1.5,120.0,GeneralNote
+21,,<music21.note.Rest dotted-whole>,note,wouters561,6.0,120.0,GeneralNote
+21,,<music21.note.Note A->,note,wouters562,0.5,121.5,GeneralNote
+21,,<music21.note.Note E->,note,wouters563,0.25,121.5,GeneralNote
+21,,<music21.note.Note F>,note,wouters564,0.25,121.75,GeneralNote
+21,,<music21.note.Note D>,note,wouters565,1.5,122.0,GeneralNote
+21,,<music21.note.Note B->,note,wouters566,1.5,122.0,GeneralNote
+21,,<music21.note.Note E->,note,wouters567,0.25,123.5,GeneralNote
+21,,<music21.note.Note A->,note,wouters568,0.5,123.5,GeneralNote
+21,,<music21.note.Note F>,note,wouters569,0.25,123.75,GeneralNote
+21,,<music21.note.Note B->,note,wouters570,1.5,124.0,GeneralNote
+21,,<music21.note.Note D>,note,wouters571,1.5,124.0,GeneralNote
+21,,<music21.note.Note C>,note,wouters572,0.25,125.5,GeneralNote
+21,,<music21.note.Note E->,note,wouters573,0.25,125.5,GeneralNote
+21,,<music21.note.Note D>,note,wouters574,0.25,125.75,GeneralNote
+21,,<music21.note.Note F>,note,wouters575,0.25,125.75,GeneralNote
+21,22,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note D->>,slur,wouters1183,6.5,0.0,Slur
+21,22,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G>>,slur,wouters1184,4.5,0.0,Slur
+22,,<music21.note.Rest dotted-whole>,note,wouters576,6.0,126.0,GeneralNote
+22,,<music21.note.Note E->,note,wouters577,1.5,126.0,GeneralNote
+22,,<music21.note.Rest half>,note,wouters578,2.0,126.0,GeneralNote
+22,,<music21.note.Rest whole>,note,wouters579,4.0,126.0,GeneralNote
+22,,<music21.note.Rest half>,note,wouters580,2.0,126.0,GeneralNote
+22,,<music21.note.Rest whole>,note,wouters581,4.0,126.0,GeneralNote
+22,,<music21.note.Note G->,note,wouters582,2.0,126.0,GeneralNote
+22,,<music21.note.Rest dotted-whole>,note,wouters583,6.0,126.0,GeneralNote
+22,,<music21.note.Note D->,note,wouters584,0.25,127.5,GeneralNote
+22,,<music21.note.Note C->,note,wouters585,0.25,127.75,GeneralNote
+22,,<music21.note.Note D->,note,wouters586,2.0,128.0,GeneralNote
+22,,<music21.note.Rest half>,note,wouters587,2.0,128.0,GeneralNote
+22,,<music21.note.Rest half>,note,wouters588,2.0,128.0,GeneralNote
+22,,<music21.note.Note G>,note,wouters589,1.5,128.0,GeneralNote
+22,,<music21.note.Note B->,note,wouters590,0.5,129.5,GeneralNote
+22,,<music21.note.Note D->,note,wouters591,2.0,130.0,GeneralNote
+22,,<music21.chord.Chord E-4 B-4>,note,wouters592,2.0,130.0,GeneralNote
+22,,<music21.note.Note G>,note,wouters593,1.5,130.0,GeneralNote
+22,,<music21.note.Note E->,note,wouters594,0.5,131.5,GeneralNote
+22,23,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A->>,slur,wouters1185,2.5,0.0,Slur
+23,,<music21.note.Rest dotted-whole>,note,wouters595,6.0,132.0,GeneralNote
+23,,<music21.note.Note D->,note,wouters596,1.5,132.0,GeneralNote
+23,,<music21.chord.Chord E-4 B-4>,note,wouters597,1.5,132.0,GeneralNote
+23,,<music21.note.Note A->,note,wouters598,2.0,132.0,GeneralNote
+23,,<music21.note.Rest dotted-whole>,note,wouters599,6.0,132.0,GeneralNote
+23,,<music21.note.Note C->,note,wouters600,0.25,133.5,GeneralNote
+23,,<music21.note.Rest eighth>,note,wouters601,0.5,133.5,GeneralNote
+23,,<music21.note.Note B->,note,wouters602,0.25,133.75,GeneralNote
+23,,<music21.note.Note C->,note,wouters603,2.0,134.0,GeneralNote
+23,,<music21.note.Rest half>,note,wouters604,2.0,134.0,GeneralNote
+23,,<music21.note.Rest quarter>,note,wouters605,1.0,134.0,GeneralNote
+23,,<music21.note.Rest eighth>,note,wouters606,0.5,135.0,GeneralNote
+23,,<music21.note.Note C->,note,wouters607,0.5,135.5,GeneralNote
+23,,<music21.note.Note C->,note,wouters608,2.0,136.0,GeneralNote
+23,,<music21.chord.Chord E-4 A-4>,note,wouters609,2.0,136.0,GeneralNote
+23,,<music21.note.Note A->,note,wouters610,1.5,136.0,GeneralNote
+23,,<music21.note.Note F>,note,wouters611,0.5,137.5,GeneralNote
+23,23,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note C->>,slur,wouters1186,2.0,0.0,Slur
+23,24,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,wouters1187,2.5,0.0,Slur
+23,24,<music21.dynamics.Crescendo <music21.note.Note C-><music21.chord.Chord F3 B-3>>,diminuendo,wouters1237,,,DynamicRegion
+24,,<music21.note.Note C->,note,wouters612,1.5,138.0,GeneralNote
+24,,<music21.chord.Chord F4 A-4>,note,wouters613,1.5,138.0,GeneralNote
+24,,<music21.note.Note C->,note,wouters614,1.5,138.0,GeneralNote
+24,,<music21.chord.Chord F4 A-4>,note,wouters615,1.5,138.0,GeneralNote
+24,,<music21.chord.Chord F3 A-3>,note,wouters616,2.0,138.0,GeneralNote
+24,,<music21.note.Note D>,note,wouters617,2.0,138.0,GeneralNote
+24,,<music21.note.Rest dotted-whole>,note,wouters618,6.0,138.0,GeneralNote
+24,,<music21.note.Note B->,note,wouters619,0.25,139.5,GeneralNote
+24,,<music21.note.Rest eighth>,note,wouters620,0.5,139.5,GeneralNote
+24,,<music21.note.Note B->,note,wouters621,0.25,139.5,GeneralNote
+24,,<music21.note.Rest eighth>,note,wouters622,0.5,139.5,GeneralNote
+24,,<music21.note.Rest eighth>,note,wouters623,0.5,139.5,GeneralNote
+24,,<music21.note.Note A->,note,wouters624,0.25,139.75,GeneralNote
+24,,<music21.note.Note A->,note,wouters625,0.25,139.75,GeneralNote
+24,,<music21.note.Note F>,note,wouters626,1.5,140.0,GeneralNote
+24,,<music21.note.Rest half>,note,wouters627,2.0,140.0,GeneralNote
+24,,<music21.note.Note F>,note,wouters628,1.5,140.0,GeneralNote
+24,,<music21.note.Rest half>,note,wouters629,2.0,140.0,GeneralNote
+24,,<music21.note.Rest half>,note,wouters630,2.0,140.0,GeneralNote
+24,,<music21.chord.Chord F3 B-3>,note,wouters631,2.0,140.0,GeneralNote
+24,,<music21.note.Note D>,note,wouters632,2.0,140.0,GeneralNote
+24,,<music21.note.Rest quarter>,note,wouters633,1.0,141.0,GeneralNote
+24,,<music21.note.Rest quarter>,note,wouters634,1.0,141.0,GeneralNote
+24,,<music21.note.Note C->,note,wouters635,0.5,141.5,GeneralNote
+24,,<music21.articulations.Fingering 1>,fingering,wouters636,0.0,0.0,Fingering
+24,,<music21.note.Note C->,note,wouters637,0.5,141.5,GeneralNote
+24,,<music21.articulations.Fingering 1>,fingering,wouters638,0.0,0.0,Fingering
+24,,<music21.note.Note B->,note,wouters639,0.125,142.0,GeneralNote
+24,,<music21.articulations.Fingering 3>,fingering,wouters640,0.0,0.0,Fingering
+24,,<music21.note.Rest half>,note,wouters641,2.0,142.0,GeneralNote
+24,,<music21.note.Note B->,note,wouters642,1.5,142.0,GeneralNote
+24,,<music21.articulations.Fingering 3>,fingering,wouters643,0.0,0.0,Fingering
+24,,<music21.note.Rest half>,note,wouters644,2.0,142.0,GeneralNote
+24,,<music21.note.Rest half>,note,wouters645,2.0,142.0,GeneralNote
+24,,<music21.chord.Chord F3 B-3>,note,wouters646,2.0,142.0,GeneralNote
+24,,<music21.note.Note D>,note,wouters647,2.0,142.0,GeneralNote
+24,,<music21.note.Note C->,note,wouters648,0.125,142.125,GeneralNote
+24,,<music21.note.Note B->,note,wouters649,0.125,142.25,GeneralNote
+24,,<music21.note.Note C->,note,wouters650,0.125,142.375,GeneralNote
+24,,<music21.note.Note B->,note,wouters651,0.125,142.5,GeneralNote
+24,,<music21.note.Note C->,note,wouters652,0.125,142.625,GeneralNote
+24,,<music21.note.Note B->,note,wouters653,0.125,142.75,GeneralNote
+24,,<music21.note.Note C->,note,wouters654,0.125,142.875,GeneralNote
+24,,<music21.note.Note B->,note,wouters655,0.5,143.0,GeneralNote
+24,,<music21.note.Note C->,note,wouters656,0.25,143.5,GeneralNote
+24,,<music21.note.Note C->,note,wouters657,0.25,143.5,GeneralNote
+24,,<music21.articulations.Fingering 5>,fingering,wouters658,0.0,0.0,Fingering
+24,,<music21.note.Note A->,note,wouters659,0.25,143.75,GeneralNote
+24,,<music21.note.Note A->,note,wouters660,0.25,143.75,GeneralNote
+24,,<music21.articulations.Fingering 4>,fingering,wouters661,0.0,0.0,Fingering
+24,24,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A->>,slur,wouters1156,5.75,0.0,Slur
+24,25,<music21.spanner.Slur <music21.note.Note C-><music21.chord.Chord E-4 G-4>>,slur,wouters1188,6.0,0.0,Slur
+24,24,<music21.dynamics.Diminuendo <music21.note.Note B-><music21.note.Note A->>,diminuendo,wouters1239,,,DynamicRegion
+25,,<music21.note.Rest dotted-whole>,note,wouters662,6.0,144.0,GeneralNote
+25,,<music21.chord.Chord E-4 G-4>,note,wouters663,2.0,144.0,GeneralNote
+25,,<music21.chord.Chord E-3 G-3 B-3>,note,wouters664,2.0,144.0,GeneralNote
+25,,<music21.note.Rest dotted-whole>,note,wouters665,6.0,144.0,GeneralNote
+25,,<music21.note.Note G->,note,wouters666,0.25,146.0,GeneralNote
+25,,<music21.chord.Chord E-3 G-3 B-3>,note,wouters667,2.0,146.0,GeneralNote
+25,,<music21.note.Note E->,note,wouters668,0.25,146.25,GeneralNote
+25,,<music21.articulations.Fingering 2>,fingering,wouters669,0.0,0.0,Fingering
+25,,<music21.note.Note F>,note,wouters670,0.25,146.5,GeneralNote
+25,,<music21.note.Note G->,note,wouters671,0.25,146.75,GeneralNote
+25,,<music21.note.Note A->,note,wouters672,0.25,147.0,GeneralNote
+25,,<music21.note.Note B->,note,wouters673,0.25,147.25,GeneralNote
+25,,<music21.note.Note C>,note,wouters674,0.25,147.5,GeneralNote
+25,,<music21.note.Note D>,note,wouters675,0.25,147.75,GeneralNote
+25,,<music21.note.Note E->,note,wouters676,0.25,148.0,GeneralNote
+25,,<music21.chord.Chord E-3 G-3 B-3>,note,wouters677,2.0,148.0,GeneralNote
+25,,<music21.note.Note F>,note,wouters678,0.25,148.25,GeneralNote
+25,,<music21.note.Note G->,note,wouters679,0.25,148.5,GeneralNote
+25,,<music21.note.Note A->,note,wouters680,0.25,148.75,GeneralNote
+25,,<music21.note.Note G->,note,wouters681,0.25,149.0,GeneralNote
+25,,<music21.note.Note F>,note,wouters682,0.25,149.25,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,wouters683,0.0,0.0,Fingering
+25,,<music21.note.Note G->,note,wouters684,0.25,149.5,GeneralNote
+25,,<music21.articulations.Fingering 3>,fingering,wouters685,0.0,0.0,Fingering
+25,,<music21.note.Note E->,note,wouters686,0.25,149.75,GeneralNote
+25,,<music21.articulations.Fingering 2>,fingering,wouters687,0.0,0.0,Fingering
+25,26,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note F->>,slur,wouters1189,3.75,0.0,Slur
+25,,<music21.expressions.TextExpression 'cresc.'>,cresc.,wouters1255,0.0,146.25,TextExpression
+26,,<music21.note.Rest dotted-whole>,note,wouters688,6.0,150.0,GeneralNote
+26,,<music21.note.Note F->,note,wouters689,1.5,150.0,GeneralNote
+26,,<music21.chord.Chord F-4 A-4 C-5>,note,wouters690,1.5,150.0,GeneralNote
+26,,<music21.note.Rest half>,note,wouters691,2.0,150.0,GeneralNote
+26,,<music21.chord.Chord A-2 C-3 F-3 A-3>,note,wouters692,2.0,150.0,GeneralNote
+26,,<music21.note.Rest half>,note,wouters693,2.0,150.0,GeneralNote
+26,,<music21.note.Rest dotted-whole>,note,wouters694,6.0,150.0,GeneralNote
+26,,<music21.note.Note C->,note,wouters695,0.25,151.5,GeneralNote
+26,,<music21.articulations.Fingering 3>,fingering,wouters696,0.0,0.0,Fingering
+26,,<music21.note.Rest eighth>,note,wouters697,0.5,151.5,GeneralNote
+26,,<music21.note.Rest eighth>,note,wouters698,0.5,151.5,GeneralNote
+26,,<music21.note.Note B-->,note,wouters699,0.25,151.75,GeneralNote
+26,,<music21.articulations.Fingering 1>,fingering,wouters700,0.0,0.0,Fingering
+26,,<music21.note.Note A->,note,wouters701,1.5,152.0,GeneralNote
+26,,<music21.articulations.Fingering 2>,fingering,wouters702,0.0,0.0,Fingering
+26,,<music21.note.Rest half>,note,wouters703,2.0,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,wouters704,2.0,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,wouters705,2.0,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,wouters706,2.0,152.0,GeneralNote
+26,,<music21.note.Note B-->,note,wouters707,0.25,153.5,GeneralNote
+26,,<music21.note.Note C->,note,wouters708,0.25,153.75,GeneralNote
+26,,<music21.note.Note F->,note,wouters709,1.5,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,wouters710,2.0,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,wouters711,2.0,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,wouters712,2.0,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,wouters713,2.0,154.0,GeneralNote
+26,,<music21.note.Note G->,note,wouters714,0.25,155.5,GeneralNote
+26,,<music21.note.Note A->,note,wouters715,0.25,155.75,GeneralNote
+26,27,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,wouters1190,4.5,0.0,Slur
+26,,<music21.dynamics.Dynamic mf>,mf,wouters1207,,,DynamicPoint
+27,,<music21.note.Rest dotted-whole>,note,wouters716,6.0,156.0,GeneralNote
+27,,<music21.note.Note D>,note,wouters717,1.5,156.0,GeneralNote
+27,,<music21.note.Rest half>,note,wouters718,2.0,156.0,GeneralNote
+27,,<music21.note.Rest half>,note,wouters719,2.0,156.0,GeneralNote
+27,,<music21.chord.Chord A-2 F3 B-3>,note,wouters720,2.0,156.0,GeneralNote
+27,,<music21.note.Rest half>,note,wouters721,2.0,156.0,GeneralNote
+27,,<music21.note.Rest half>,note,wouters722,2.0,156.0,GeneralNote
+27,,<music21.note.Rest dotted-whole>,note,wouters723,6.0,156.0,GeneralNote
+27,,<music21.note.Note F>,note,wouters724,0.25,157.5,GeneralNote
+27,,<music21.note.Note A->,note,wouters725,0.25,157.75,GeneralNote
+27,,<music21.note.Note C->,note,wouters726,1.5,158.0,GeneralNote
+27,,<music21.articulations.Fingering 54>,fingering,wouters727,0.0,0.0,Fingering
+27,,<music21.note.Rest half>,note,wouters728,2.0,158.0,GeneralNote
+27,,<music21.note.Rest half>,note,wouters729,2.0,158.0,GeneralNote
+27,,<music21.note.Note B->,note,wouters730,0.25,159.5,GeneralNote
+27,,<music21.note.Note A->,note,wouters731,0.25,159.75,GeneralNote
+27,,<music21.note.Note F>,note,wouters732,1.5,160.0,GeneralNote
+27,,<music21.articulations.Fingering 53>,fingering,wouters733,0.0,0.0,Fingering
+27,,<music21.note.Rest half>,note,wouters734,2.0,160.0,GeneralNote
+27,,<music21.note.Rest half>,note,wouters735,2.0,160.0,GeneralNote
+27,,<music21.note.Note E->,note,wouters736,0.25,161.5,GeneralNote
+27,,<music21.note.Note D>,note,wouters737,0.25,161.75,GeneralNote
+27,29,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E->>,slur,wouters1191,10.5,0.0,Slur
+28,,<music21.note.Rest half>,note,wouters738,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,wouters739,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,wouters740,2.0,162.0,GeneralNote
+28,,<music21.note.Rest whole>,note,wouters741,4.0,162.0,GeneralNote
+28,,<music21.note.Note C->,note,wouters742,0.5,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,wouters743,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,wouters744,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,wouters745,2.0,162.0,GeneralNote
+28,,<music21.note.Rest dotted-whole>,note,wouters746,6.0,162.0,GeneralNote
+28,,<music21.note.Note A>,note,wouters747,1.0,162.5,GeneralNote
+28,,<music21.note.Note B->,note,wouters748,0.5,163.5,GeneralNote
+28,,<music21.note.Rest half>,note,wouters749,2.0,164.0,GeneralNote
+28,,<music21.note.Rest half>,note,wouters750,2.0,164.0,GeneralNote
+28,,<music21.note.Rest half>,note,wouters751,2.0,164.0,GeneralNote
+28,,<music21.note.Note E->,note,wouters752,2.0,164.0,GeneralNote
+28,,<music21.articulations.Fingering 45>,fingering,wouters753,0.0,0.0,Fingering
+28,,<music21.chord.Chord G-4 B-4>,note,wouters754,2.0,164.0,GeneralNote
+28,,<music21.note.Rest half>,note,wouters755,2.0,164.0,GeneralNote
+28,,<music21.chord.Chord B-2 E-3 G-3 B-3>,note,wouters756,2.0,164.0,GeneralNote
+28,,<music21.note.Rest half>,note,wouters757,2.0,164.0,GeneralNote
+28,,<music21.note.Note F>,note,wouters758,0.125,166.0,GeneralNote
+28,,<music21.note.Rest 32nd>,note,wouters759,0.125,166.0,GeneralNote
+28,,<music21.note.Rest 32nd>,note,wouters760,0.125,166.0,GeneralNote
+28,,<music21.note.Note F>,note,wouters761,1.0,166.0,GeneralNote
+28,,<music21.note.Note D>,note,wouters762,1.5,166.0,GeneralNote
+28,,<music21.chord.Chord F4 B-4>,note,wouters763,2.0,166.0,GeneralNote
+28,,<music21.note.Rest half>,note,wouters764,2.0,166.0,GeneralNote
+28,,<music21.chord.Chord B-2 F3 A-3 B-3>,note,wouters765,2.0,166.0,GeneralNote
+28,,<music21.note.Rest half>,note,wouters766,2.0,166.0,GeneralNote
+28,,<music21.note.Note B->,note,wouters767,0.125,166.125,GeneralNote
+28,,<music21.note.Note B->,note,wouters768,0.5,166.125,GeneralNote
+28,,<music21.note.Note D>,note,wouters769,0.125,166.25,GeneralNote
+28,,<music21.note.Note E->,note,wouters770,0.125,166.375,GeneralNote
+28,,<music21.note.Note D>,note,wouters771,0.125,166.5,GeneralNote
+28,,<music21.note.Note E->,note,wouters772,0.125,166.625,GeneralNote
+28,,<music21.note.Rest 32nd>,note,wouters773,0.125,166.625,GeneralNote
+28,,<music21.note.Note D>,note,wouters774,0.125,166.75,GeneralNote
+28,,<music21.note.Rest 16th>,note,wouters775,0.25,166.75,GeneralNote
+28,,<music21.note.Note E->,note,wouters776,0.125,166.875,GeneralNote
+28,,<music21.note.Note D>,note,wouters777,0.75,167.0,GeneralNote
+28,,<music21.note.Note B->,note,wouters778,1.0,167.0,GeneralNote
+28,,<music21.note.Note F>,note,wouters779,1.0,167.0,GeneralNote
+28,,<music21.note.Note E->,note,wouters780,0.5,167.5,GeneralNote
+28,,<music21.note.Note E->,note,wouters781,0.25,167.75,GeneralNote
+28,28,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A>>,slur,wouters1192,0.5,0.0,Slur
+29,,<music21.note.Note E->,note,wouters782,6.0,168.0,GeneralNote
+29,,<music21.chord.Chord E-4 B-4>,note,wouters783,1.0,168.0,GeneralNote
+29,,<music21.note.Note E->,note,wouters784,6.0,168.0,GeneralNote
+29,,<music21.chord.Chord E-4 B-4>,note,wouters785,1.5,168.0,GeneralNote
+29,,<music21.chord.Chord C-3 C-4>,note,wouters786,2.0,168.0,GeneralNote
+29,,<music21.note.Rest dotted-whole>,note,wouters787,6.0,168.0,GeneralNote
+29,,<music21.chord.Chord E-4 B-4>,note,wouters788,0.25,169.0,GeneralNote
+29,,<music21.note.Note A->,note,wouters789,0.25,169.25,GeneralNote
+29,,<music21.note.Note G>,note,wouters790,0.25,169.5,GeneralNote
+29,,<music21.note.Note A->,note,wouters791,1/6,169.5,GeneralNote
+29,,<music21.note.Note G>,note,wouters792,1/6,509/3,GeneralNote
+29,,<music21.note.Note A->,note,wouters793,0.25,169.75,GeneralNote
+29,,<music21.note.Note A->,note,wouters794,1/6,1019/6,GeneralNote
+29,,<music21.note.Note B->,note,wouters795,1/6,170.0,GeneralNote
+29,,<music21.note.Note A->,note,wouters796,2.0,170.0,GeneralNote
+29,,<music21.chord.Chord C-4 E-4>,note,wouters797,2.0,170.0,GeneralNote
+29,,<music21.note.Note A->,note,wouters798,1/6,1021/6,GeneralNote
+29,,<music21.note.Note B->,note,wouters799,1/6,511/3,GeneralNote
+29,,<music21.note.Note A->,note,wouters800,1/6,170.5,GeneralNote
+29,,<music21.note.Note B->,note,wouters801,1/6,512/3,GeneralNote
+29,,<music21.note.Note A->,note,wouters802,1/6,1025/6,GeneralNote
+29,,<music21.note.Note B->,note,wouters803,0.125,171.0,GeneralNote
+29,,<music21.note.Note A->,note,wouters804,0.125,171.125,GeneralNote
+29,,<music21.note.Note B->,note,wouters805,0.125,171.25,GeneralNote
+29,,<music21.note.Note A->,note,wouters806,0.125,171.375,GeneralNote
+29,,<music21.note.Note B->,note,wouters807,0.125,171.5,GeneralNote
+29,,<music21.note.Note A->,note,wouters808,0.125,171.625,GeneralNote
+29,,<music21.note.Note B->,note,wouters809,0.125,171.75,GeneralNote
+29,,<music21.note.Note A->,note,wouters810,0.125,171.875,GeneralNote
+29,,<music21.note.Note B->,note,wouters811,0.125,172.0,GeneralNote
+29,,<music21.note.Note A->,note,wouters812,1.5,172.0,GeneralNote
+29,,<music21.chord.Chord C-4 E-4>,note,wouters813,2.0,172.0,GeneralNote
+29,,<music21.note.Note A->,note,wouters814,0.125,172.125,GeneralNote
+29,,<music21.note.Note B->,note,wouters815,0.125,172.25,GeneralNote
+29,,<music21.note.Note A->,note,wouters816,0.125,172.375,GeneralNote
+29,,<music21.note.Note B->,note,wouters817,0.125,172.5,GeneralNote
+29,,<music21.note.Note A->,note,wouters818,0.125,172.625,GeneralNote
+29,,<music21.note.Note B->,note,wouters819,0.125,172.75,GeneralNote
+29,,<music21.note.Note A->,note,wouters820,0.125,172.875,GeneralNote
+29,,<music21.note.Note B->,note,wouters821,0.125,173.0,GeneralNote
+29,,<music21.note.Note A->,note,wouters822,0.125,173.125,GeneralNote
+29,,<music21.note.Note B->,note,wouters823,0.125,173.25,GeneralNote
+29,,<music21.note.Note A->,note,wouters824,0.125,173.375,GeneralNote
+29,,<music21.note.Note G>,note,wouters825,0.25,173.5,GeneralNote
+29,,<music21.note.Note G>,note,wouters826,0.25,173.5,GeneralNote
+29,,<music21.note.Note A->,note,wouters827,0.25,173.75,GeneralNote
+29,,<music21.note.Note A->,note,wouters828,0.25,173.75,GeneralNote
+29,29,<music21.dynamics.Crescendo <music21.chord.Chord E-4 B-4><music21.note.Note A->>,diminuendo,wouters1213,,,DynamicRegion
+29,29,<music21.dynamics.Diminuendo <music21.note.Note B-><music21.note.Note B->>,diminuendo,wouters1215,,,DynamicRegion
+29,29,<music21.dynamics.Crescendo <music21.note.Note E-><music21.note.Note A->>,diminuendo,wouters1241,,,DynamicRegion
+29,30,<music21.dynamics.Diminuendo <music21.note.Note A-><music21.note.Note E->>,diminuendo,wouters1243,,,DynamicRegion
+30,,<music21.note.Rest dotted-whole>,note,wouters829,6.0,174.0,GeneralNote
+30,,<music21.note.Note E->,note,wouters830,2.0,174.0,GeneralNote
+30,,<music21.note.Note B->,note,wouters831,6.0,174.0,GeneralNote
+30,,<music21.articulations.Fingering 32>,fingering,wouters832,0.0,0.0,Fingering
+30,,<music21.chord.Chord G3 B-3 E-4>,note,wouters833,2.0,174.0,GeneralNote
+30,,<music21.note.Rest dotted-whole>,note,wouters834,6.0,174.0,GeneralNote
+30,,<music21.note.Rest quarter>,note,wouters835,1.0,175.0,GeneralNote
+30,,<music21.note.Rest quarter>,note,wouters836,1.0,175.0,GeneralNote
+30,,<music21.note.Note E->,note,wouters837,1.0,176.0,GeneralNote
+30,,<music21.chord.Chord G3 B-3 E-4>,note,wouters838,2.0,176.0,GeneralNote
+30,,<music21.note.Note E->,note,wouters839,0.25,177.0,GeneralNote
+30,,<music21.note.Note E->,note,wouters840,0.25,177.25,GeneralNote
+30,,<music21.note.Note D->,note,wouters841,0.25,177.5,GeneralNote
+30,,<music21.note.Note C->,note,wouters842,0.25,177.75,GeneralNote
+30,,<music21.note.Note D->,note,wouters843,1.5,178.0,GeneralNote
+30,,<music21.chord.Chord G3 B-3 E-4>,note,wouters844,2.0,178.0,GeneralNote
+30,,<music21.note.Note B->,note,wouters845,0.5,179.5,GeneralNote
+30,,<music21.articulations.Fingering 3>,fingering,wouters846,0.0,0.0,Fingering
+30,31,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,wouters1193,2.75,0.0,Slur
+30,30,<music21.dynamics.Crescendo <music21.note.Note E-><music21.note.Note B->>,diminuendo,wouters1245,,,DynamicRegion
+31,,<music21.note.Rest dotted-whole>,note,wouters847,6.0,180.0,GeneralNote
+31,,<music21.note.Note C->,note,wouters848,2.0,180.0,GeneralNote
+31,,<music21.note.Note A->,note,wouters849,2.0,180.0,GeneralNote
+31,,<music21.chord.Chord C-4 E-4>,note,wouters850,2.0,180.0,GeneralNote
+31,,<music21.note.Note A->,note,wouters851,2.0,180.0,GeneralNote
+31,,<music21.note.Rest dotted-whole>,note,wouters852,6.0,180.0,GeneralNote
+31,,<music21.note.Note C->,note,wouters853,1.0,182.0,GeneralNote
+31,,<music21.note.Rest half>,note,wouters854,2.0,182.0,GeneralNote
+31,,<music21.note.Rest half>,note,wouters855,2.0,182.0,GeneralNote
+31,,<music21.note.Note E->,note,wouters856,1.0,182.0,GeneralNote
+31,,<music21.note.Note F->,note,wouters857,2.0,182.0,GeneralNote
+31,,<music21.note.Note C->,note,wouters858,0.25,183.0,GeneralNote
+31,,<music21.note.Note E->,note,wouters859,0.25,183.0,GeneralNote
+31,,<music21.note.Note C->,note,wouters860,0.25,183.25,GeneralNote
+31,,<music21.articulations.Fingering 4>,fingering,wouters861,0.0,0.0,Fingering
+31,,<music21.note.Note E->,note,wouters862,0.25,183.25,GeneralNote
+31,,<music21.articulations.Fingering 1>,fingering,wouters863,0.0,0.0,Fingering
+31,,<music21.note.Note B->,note,wouters864,0.25,183.5,GeneralNote
+31,,<music21.articulations.Fingering 3>,fingering,wouters865,0.0,0.0,Fingering
+31,,<music21.note.Note D->,note,wouters866,0.25,183.5,GeneralNote
+31,,<music21.articulations.Fingering 2>,fingering,wouters867,0.0,0.0,Fingering
+31,,<music21.note.Note A->,note,wouters868,0.25,183.75,GeneralNote
+31,,<music21.articulations.Fingering 2>,fingering,wouters869,0.0,0.0,Fingering
+31,,<music21.note.Note C->,note,wouters870,0.25,183.75,GeneralNote
+31,,<music21.articulations.Fingering 1>,fingering,wouters871,0.0,0.0,Fingering
+31,,<music21.note.Note B->,note,wouters872,1.5,184.0,GeneralNote
+31,,<music21.articulations.Fingering 45>,fingering,wouters873,0.0,0.0,Fingering
+31,,<music21.note.Rest half>,note,wouters874,2.0,184.0,GeneralNote
+31,,<music21.note.Note D->,note,wouters875,1.5,184.0,GeneralNote
+31,,<music21.articulations.Fingering 12>,fingering,wouters876,0.0,0.0,Fingering
+31,,<music21.note.Rest half>,note,wouters877,2.0,184.0,GeneralNote
+31,,<music21.note.Note F->,note,wouters878,2.0,184.0,GeneralNote
+31,,<music21.articulations.Fingering 4>,fingering,wouters879,0.0,0.0,Fingering
+31,,<music21.note.Note G>,note,wouters880,0.5,185.5,GeneralNote
+31,,<music21.note.Note B->,note,wouters881,0.5,185.5,GeneralNote
+31,32,<music21.spanner.Slur <music21.note.Note C-><music21.chord.Chord C-4 D4 A-4>>,slur,wouters1194,2.75,0.0,Slur
+31,31,<music21.dynamics.Diminuendo <music21.note.Note E-><music21.note.Note B->>,diminuendo,wouters1247,,,DynamicRegion
+32,,<music21.note.Rest dotted-whole>,note,wouters882,6.0,186.0,GeneralNote
+32,,<music21.chord.Chord C-4 D4 A-4>,note,wouters883,2.0,186.0,GeneralNote
+32,,<music21.note.Note F>,note,wouters884,2.0,186.0,GeneralNote
+32,,<music21.articulations.Fingering 3>,fingering,wouters885,0.0,0.0,Fingering
+32,,<music21.note.Rest dotted-whole>,note,wouters886,6.0,186.0,GeneralNote
+32,,<music21.chord.Chord C-4 D4 A-4>,note,wouters887,2.0,188.0,GeneralNote
+32,,<music21.note.Note F>,note,wouters888,1.0,188.0,GeneralNote
+32,,<music21.note.Note F>,note,wouters889,0.25,189.0,GeneralNote
+32,,<music21.note.Note G->,note,wouters890,0.25,189.25,GeneralNote
+32,,<music21.note.Note F>,note,wouters891,0.25,189.5,GeneralNote
+32,,<music21.note.Note E->,note,wouters892,0.25,189.75,GeneralNote
+32,,<music21.chord.Chord C-4 D4 A-4>,note,wouters893,2.0,190.0,GeneralNote
+32,,<music21.note.Note F>,note,wouters894,0.75,190.0,GeneralNote
+32,,<music21.note.Note G->,note,wouters895,0.25,190.75,GeneralNote
+32,,<music21.note.Note A->,note,wouters896,0.25,191.0,GeneralNote
+32,,<music21.note.Note F>,note,wouters897,0.25,191.25,GeneralNote
+32,,<music21.note.Note G->,note,wouters898,0.25,191.5,GeneralNote
+32,,<music21.note.Note A->,note,wouters899,0.25,191.75,GeneralNote
+32,33,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note D>>,slur,wouters1195,2.75,0.0,Slur
+32,,<music21.dynamics.Dynamic p>,p,wouters1208,,,DynamicPoint
+33,,<music21.note.Rest dotted-whole>,note,wouters900,6.0,192.0,GeneralNote
+33,,<music21.chord.Chord C-4 F4 A-4>,note,wouters901,2.0,192.0,GeneralNote
+33,,<music21.note.Note D>,note,wouters902,2.0,192.0,GeneralNote
+33,,<music21.articulations.Fingering 3>,fingering,wouters903,0.0,0.0,Fingering
+33,,<music21.note.Rest dotted-whole>,note,wouters904,6.0,192.0,GeneralNote
+33,,<music21.chord.Chord C-4 F4 A-4>,note,wouters905,2.0,194.0,GeneralNote
+33,,<music21.note.Note D>,note,wouters906,1.0,194.0,GeneralNote
+33,,<music21.note.Note D>,note,wouters907,0.25,195.0,GeneralNote
+33,,<music21.note.Note E->,note,wouters908,0.25,195.25,GeneralNote
+33,,<music21.note.Note D>,note,wouters909,0.25,195.5,GeneralNote
+33,,<music21.note.Note C>,note,wouters910,0.25,195.75,GeneralNote
+33,,<music21.chord.Chord C-4 F4 A-4>,note,wouters911,2.0,196.0,GeneralNote
+33,,<music21.note.Note D>,note,wouters912,0.75,196.0,GeneralNote
+33,,<music21.note.Note E->,note,wouters913,0.25,196.75,GeneralNote
+33,,<music21.note.Note F>,note,wouters914,0.25,197.0,GeneralNote
+33,,<music21.note.Note D>,note,wouters915,0.25,197.25,GeneralNote
+33,,<music21.note.Note E->,note,wouters916,0.25,197.5,GeneralNote
+33,,<music21.note.Note F>,note,wouters917,0.25,197.75,GeneralNote
+33,34,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,wouters1196,2.75,0.0,Slur
+33,,<music21.expressions.TextExpression 'cresc.'>,cresc.,wouters1256,0.0,194.0,TextExpression
+34,,<music21.note.Rest dotted-whole>,note,wouters918,6.0,198.0,GeneralNote
+34,,<music21.chord.Chord D4 F4 A-4>,note,wouters919,2.0,198.0,GeneralNote
+34,,<music21.note.Note C->,note,wouters920,2.0,198.0,GeneralNote
+34,,<music21.articulations.Fingering 3>,fingering,wouters921,0.0,0.0,Fingering
+34,,<music21.note.Rest dotted-whole>,note,wouters922,6.0,198.0,GeneralNote
+34,,<music21.chord.Chord D4 F4 A-4>,note,wouters923,2.0,200.0,GeneralNote
+34,,<music21.note.Note C->,note,wouters924,1.0,200.0,GeneralNote
+34,,<music21.note.Note C->,note,wouters925,0.25,201.0,GeneralNote
+34,,<music21.note.Note D->,note,wouters926,0.25,201.25,GeneralNote
+34,,<music21.note.Note C->,note,wouters927,0.25,201.5,GeneralNote
+34,,<music21.note.Note B->,note,wouters928,0.25,201.75,GeneralNote
+34,,<music21.chord.Chord D4 F4 A-4>,note,wouters929,2.0,202.0,GeneralNote
+34,,<music21.note.Note C->,note,wouters930,0.25,202.0,GeneralNote
+34,,<music21.note.Note B->,note,wouters931,0.25,202.25,GeneralNote
+34,,<music21.note.Note A->,note,wouters932,0.25,202.5,GeneralNote
+34,,<music21.note.Note B->,note,wouters933,0.25,202.75,GeneralNote
+34,,<music21.note.Note C->,note,wouters934,0.25,203.0,GeneralNote
+34,,<music21.note.Note A->,note,wouters935,0.25,203.25,GeneralNote
+34,,<music21.note.Note B->,note,wouters936,0.25,203.5,GeneralNote
+34,,<music21.note.Note C->,note,wouters937,0.25,203.75,GeneralNote
+34,35,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note D>>,slur,wouters1197,2.75,0.0,Slur
+35,,<music21.note.Rest dotted-whole>,note,wouters938,6.0,204.0,GeneralNote
+35,,<music21.note.Note C->,note,wouters939,2.0,204.0,GeneralNote
+35,,<music21.chord.Chord D4 F4 A-4>,note,wouters940,2.0,204.0,GeneralNote
+35,,<music21.note.Note D>,note,wouters941,2.0,204.0,GeneralNote
+35,,<music21.note.Rest dotted-whole>,note,wouters942,6.0,204.0,GeneralNote
+35,,<music21.note.Note C->,note,wouters943,0.25,206.0,GeneralNote
+35,,<music21.note.Rest half>,note,wouters944,2.0,206.0,GeneralNote
+35,,<music21.note.Rest half>,note,wouters945,2.0,206.0,GeneralNote
+35,,<music21.note.Rest half>,note,wouters946,2.0,206.0,GeneralNote
+35,,<music21.note.Note B->,note,wouters947,0.25,206.25,GeneralNote
+35,,<music21.note.Note A->,note,wouters948,0.25,206.5,GeneralNote
+35,,<music21.note.Note G->,note,wouters949,0.25,206.75,GeneralNote
+35,,<music21.note.Note F>,note,wouters950,0.25,207.0,GeneralNote
+35,,<music21.note.Note E->,note,wouters951,0.25,207.25,GeneralNote
+35,,<music21.note.Note D>,note,wouters952,0.25,207.5,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,wouters953,0.0,0.0,Fingering
+35,,<music21.note.Note F>,note,wouters954,0.25,207.75,GeneralNote
+35,,<music21.articulations.Fingering 2>,fingering,wouters955,0.0,0.0,Fingering
+35,,<music21.note.Note A->,note,wouters956,0.25,208.0,GeneralNote
+35,,<music21.articulations.Fingering 3>,fingering,wouters957,0.0,0.0,Fingering
+35,,<music21.note.Rest half>,note,wouters958,2.0,208.0,GeneralNote
+35,,<music21.note.Rest half>,note,wouters959,2.0,208.0,GeneralNote
+35,,<music21.note.Rest half>,note,wouters960,2.0,208.0,GeneralNote
+35,,<music21.note.Note C->,note,wouters961,0.25,208.25,GeneralNote
+35,,<music21.articulations.Fingering 4>,fingering,wouters962,0.0,0.0,Fingering
+35,,<music21.note.Note D>,note,wouters963,0.25,208.5,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,wouters964,0.0,0.0,Fingering
+35,,<music21.note.Note F>,note,wouters965,0.25,208.75,GeneralNote
+35,,<music21.note.Note A->,note,wouters966,0.25,209.0,GeneralNote
+35,,<music21.articulations.Fingering 3>,fingering,wouters967,0.0,0.0,Fingering
+35,,<music21.note.Note C->,note,wouters968,0.25,209.25,GeneralNote
+35,,<music21.articulations.Fingering 5>,fingering,wouters969,0.0,0.0,Fingering
+35,,<music21.note.Note B->,note,wouters970,0.25,209.5,GeneralNote
+35,,<music21.articulations.Fingering 4>,fingering,wouters971,0.0,0.0,Fingering
+35,,<music21.note.Note D>,note,wouters972,0.25,209.75,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,wouters973,0.0,0.0,Fingering
+35,36,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note E->>,slur,wouters1198,6.0,0.0,Slur
+35,,<music21.dynamics.Dynamic mf>,mf,wouters1209,,,DynamicPoint
+35,35,<music21.dynamics.Diminuendo <music21.note.Note A-><music21.note.Note D>>,diminuendo,wouters1249,,,DynamicRegion
+36,,<music21.note.Note E->,note,wouters974,1.5,210.0,GeneralNote
+36,,<music21.articulations.Fingering 35>,fingering,wouters975,0.0,0.0,Fingering
+36,,<music21.note.Rest quarter>,note,wouters976,1.0,210.0,GeneralNote
+36,,<music21.note.Rest dotted-quarter>,note,wouters977,1.5,210.0,GeneralNote
+36,,<music21.note.Note E->,note,wouters978,1.5,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,wouters979,1.0,210.0,GeneralNote
+36,,<music21.note.Rest dotted-quarter>,note,wouters980,1.5,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,wouters981,1.0,210.0,GeneralNote
+36,,<music21.note.Rest dotted-quarter>,note,wouters982,1.5,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,wouters983,1.0,210.0,GeneralNote
+36,,<music21.note.Rest dotted-quarter>,note,wouters984,1.5,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,wouters985,1.0,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,wouters986,1.0,210.0,GeneralNote
+36,,<music21.note.Rest dotted-quarter>,note,wouters987,1.5,210.0,GeneralNote
+36,,<music21.note.Rest dotted-whole>,note,wouters988,6.0,210.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,wouters989,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,wouters990,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,wouters991,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,wouters992,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,wouters993,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,wouters994,0.5,211.0,GeneralNote
+36,,<music21.note.Note B->,note,wouters995,0.5,211.5,GeneralNote
+36,,<music21.articulations.Fingering 4>,fingering,wouters996,0.0,0.0,Fingering
+36,,<music21.note.Note G->,note,wouters997,0.5,211.5,GeneralNote
+36,,<music21.articulations.Fingering 2>,fingering,wouters998,0.0,0.0,Fingering
+36,,<music21.note.Note B->,note,wouters999,0.5,211.5,GeneralNote
+36,,<music21.note.Note G->,note,wouters1000,0.5,211.5,GeneralNote
+36,,<music21.note.Note E->,note,wouters1001,0.5,211.5,GeneralNote
+36,,<music21.note.Note E->,note,wouters1002,0.5,211.5,GeneralNote
+36,,<music21.note.Note A->,note,wouters1003,0.0,212.0,GeneralNote
+36,,<music21.note.Note A->,note,wouters1004,0.5,212.0,GeneralNote
+36,,<music21.articulations.Fingering 3>,fingering,wouters1005,0.0,0.0,Fingering
+36,,<music21.note.Note E->,note,wouters1006,2.0,212.0,GeneralNote
+36,,<music21.note.Note G->,note,wouters1007,2.0,212.0,GeneralNote
+36,,<music21.note.Note E->,note,wouters1008,2.0,212.0,GeneralNote
+36,,<music21.chord.Chord E-3 G-3>,note,wouters1009,2.0,212.0,GeneralNote
+36,,<music21.note.Note B->,note,wouters1010,2.0,212.0,GeneralNote
+36,,<music21.note.Note G->,note,wouters1011,1.5,212.5,GeneralNote
+36,,<music21.articulations.Fingering 24>,fingering,wouters1012,0.0,0.0,Fingering
+36,,<music21.note.Note F>,note,wouters1013,0.125,214.0,GeneralNote
+36,,<music21.note.Note D>,note,wouters1014,2.0,214.0,GeneralNote
+36,,<music21.note.Note F>,note,wouters1015,0.5,214.0,GeneralNote
+36,,<music21.note.Note D>,note,wouters1016,2.0,214.0,GeneralNote
+36,,<music21.chord.Chord F3 A-3>,note,wouters1017,2.0,214.0,GeneralNote
+36,,<music21.note.Note B->,note,wouters1018,2.0,214.0,GeneralNote
+36,,<music21.note.Note G->,note,wouters1019,0.125,214.125,GeneralNote
+36,,<music21.note.Note F>,note,wouters1020,0.25,214.25,GeneralNote
+36,,<music21.note.Note E->,note,wouters1021,0.5,214.5,GeneralNote
+36,,<music21.note.Note E->,note,wouters1022,0.5,214.5,GeneralNote
+36,,<music21.note.Note F>,note,wouters1023,1.0,215.0,GeneralNote
+36,,<music21.note.Note F>,note,wouters1024,1.0,215.0,GeneralNote
+36,37,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note E->>,slur,wouters1157,4.5,0.0,Slur
+36,36,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,wouters1158,0.25,0.0,Slur
+36,36,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G->>,slur,wouters1199,0.0,0.0,Slur
+36,36,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,wouters1200,1.0,0.0,Slur
+36,,<music21.dynamics.Dynamic p>,p,wouters1210,,,DynamicPoint
+36,36,<music21.dynamics.Diminuendo <music21.note.Note B-><music21.note.Note F>>,diminuendo,wouters1251,,,DynamicRegion
+37,,<music21.note.Note E->,note,wouters1025,2.0,216.0,GeneralNote
+37,,<music21.note.Note E->,note,wouters1026,2.0,216.0,GeneralNote
+37,,<music21.articulations.Fingering 2>,fingering,wouters1027,0.0,0.0,Fingering
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,wouters1028,2.0,216.0,GeneralNote
+37,,<music21.note.Rest dotted-whole>,note,wouters1029,6.0,216.0,GeneralNote
+37,,<music21.note.Note E->,note,wouters1030,1.0,218.0,GeneralNote
+37,,<music21.note.Note E->,note,wouters1031,1.0,218.0,GeneralNote
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,wouters1032,2.0,218.0,GeneralNote
+37,,<music21.note.Note E->,note,wouters1033,0.25,219.0,GeneralNote
+37,,<music21.note.Note E->,note,wouters1034,0.25,219.0,GeneralNote
+37,,<music21.note.Note F>,note,wouters1035,0.25,219.25,GeneralNote
+37,,<music21.note.Note F>,note,wouters1036,0.25,219.25,GeneralNote
+37,,<music21.articulations.Fingering 1>,fingering,wouters1037,0.0,0.0,Fingering
+37,,<music21.note.Note G>,note,wouters1038,0.25,219.5,GeneralNote
+37,,<music21.note.Note G>,note,wouters1039,0.25,219.5,GeneralNote
+37,,<music21.note.Note A->,note,wouters1040,0.25,219.75,GeneralNote
+37,,<music21.note.Note A->,note,wouters1041,0.25,219.75,GeneralNote
+37,,<music21.note.Note B->,note,wouters1042,1.0,220.0,GeneralNote
+37,,<music21.note.Note B->,note,wouters1043,1.0,220.0,GeneralNote
+37,,<music21.articulations.Fingering 4>,fingering,wouters1044,0.0,0.0,Fingering
+37,,<music21.chord.Chord E-3 G3 B-3 D-4>,note,wouters1045,2.0,220.0,GeneralNote
+37,,<music21.note.Note B->,note,wouters1046,0.25,221.0,GeneralNote
+37,,<music21.note.Note B->,note,wouters1047,0.25,221.0,GeneralNote
+37,,<music21.note.Note F->,note,wouters1048,0.25,221.25,GeneralNote
+37,,<music21.note.Note F->,note,wouters1049,0.25,221.25,GeneralNote
+37,,<music21.articulations.Fingering 1>,fingering,wouters1050,0.0,0.0,Fingering
+37,,<music21.note.Note E->,note,wouters1051,0.25,221.5,GeneralNote
+37,,<music21.note.Note E->,note,wouters1052,0.25,221.5,GeneralNote
+37,,<music21.articulations.Fingering 3>,fingering,wouters1053,0.0,0.0,Fingering
+37,,<music21.note.Note D->,note,wouters1054,0.25,221.75,GeneralNote
+37,,<music21.note.Note D->,note,wouters1055,0.25,221.75,GeneralNote
+37,38,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C->>,slur,wouters1159,3.75,0.0,Slur
+37,,<music21.dynamics.Dynamic pp>,pp,wouters1211,,,DynamicPoint
+38,,<music21.note.Note D->,note,wouters1056,0.0,222.0,GeneralNote
+38,,<music21.note.Note D->,note,wouters1057,1.0,222.0,GeneralNote
+38,,<music21.note.Note C->,note,wouters1058,2.0,222.0,GeneralNote
+38,,<music21.chord.Chord E-3 A-3>,note,wouters1059,2.0,222.0,GeneralNote
+38,,<music21.note.Rest dotted-whole>,note,wouters1060,6.0,222.0,GeneralNote
+38,,<music21.note.Note C->,note,wouters1061,1.0,223.0,GeneralNote
+38,,<music21.note.Note C->,note,wouters1062,0.75,224.0,GeneralNote
+38,,<music21.note.Note C->,note,wouters1063,0.75,224.0,GeneralNote
+38,,<music21.chord.Chord E-3 A-3>,note,wouters1064,2.0,224.0,GeneralNote
+38,,<music21.note.Note E->,note,wouters1065,0.25,224.75,GeneralNote
+38,,<music21.note.Note E->,note,wouters1066,0.25,224.75,GeneralNote
+38,,<music21.note.Note F>,note,wouters1067,0.25,225.0,GeneralNote
+38,,<music21.articulations.Fingering 1>,fingering,wouters1068,0.0,0.0,Fingering
+38,,<music21.note.Note F>,note,wouters1069,0.25,225.0,GeneralNote
+38,,<music21.note.Note G>,note,wouters1070,0.25,225.25,GeneralNote
+38,,<music21.note.Note G>,note,wouters1071,0.25,225.25,GeneralNote
+38,,<music21.note.Note A->,note,wouters1072,0.25,225.5,GeneralNote
+38,,<music21.note.Note A->,note,wouters1073,0.25,225.5,GeneralNote
+38,,<music21.note.Note B->,note,wouters1074,0.25,225.75,GeneralNote
+38,,<music21.note.Note B->,note,wouters1075,0.25,225.75,GeneralNote
+38,,<music21.note.Note C->,note,wouters1076,0.5,226.0,GeneralNote
+38,,<music21.note.Note C->,note,wouters1077,0.5,226.0,GeneralNote
+38,,<music21.chord.Chord E-3 A-3>,note,wouters1078,2.0,226.0,GeneralNote
+38,,<music21.note.Note C->,note,wouters1079,0.125,226.5,GeneralNote
+38,,<music21.note.Note C->,note,wouters1080,0.125,226.5,GeneralNote
+38,,<music21.note.Note B->,note,wouters1081,0.125,226.625,GeneralNote
+38,,<music21.note.Note B->,note,wouters1082,0.125,226.625,GeneralNote
+38,,<music21.note.Note A->,note,wouters1083,0.125,226.75,GeneralNote
+38,,<music21.note.Note A->,note,wouters1084,0.125,226.75,GeneralNote
+38,,<music21.note.Note G->,note,wouters1085,0.125,226.875,GeneralNote
+38,,<music21.note.Note G->,note,wouters1086,0.125,226.875,GeneralNote
+38,,<music21.note.Note F>,note,wouters1087,0.25,227.0,GeneralNote
+38,,<music21.note.Note F>,note,wouters1088,0.25,227.0,GeneralNote
+38,,<music21.note.Note G->,note,wouters1089,0.25,227.25,GeneralNote
+38,,<music21.articulations.Fingering 3>,fingering,wouters1090,0.0,0.0,Fingering
+38,,<music21.note.Note G->,note,wouters1091,0.25,227.25,GeneralNote
+38,,<music21.note.Note A->,note,wouters1092,0.25,227.5,GeneralNote
+38,,<music21.note.Note A->,note,wouters1093,0.25,227.5,GeneralNote
+38,,<music21.note.Note F>,note,wouters1094,0.25,227.75,GeneralNote
+38,,<music21.note.Note F>,note,wouters1095,0.25,227.75,GeneralNote
+38,38,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note C->>,slur,wouters1160,1.0,0.0,Slur
+38,38,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note C->>,slur,wouters1201,0.0,0.0,Slur
+38,,<music21.expressions.TextExpression 'dim.'>,dim.,wouters1257,0.0,225.0,TextExpression
+39,,<music21.note.Note D>,note,wouters1096,4.0,228.0,GeneralNote
+39,,<music21.note.Rest quarter>,note,wouters1097,1.0,228.0,GeneralNote
+39,,<music21.note.Note D>,note,wouters1098,4.0,228.0,GeneralNote
+39,,<music21.articulations.Fingering 13>,fingering,wouters1099,0.0,0.0,Fingering
+39,,<music21.note.Rest quarter>,note,wouters1100,1.0,228.0,GeneralNote
+39,,<music21.note.Note F>,note,wouters1101,2.0,228.0,GeneralNote
+39,,<music21.note.Note E->,note,wouters1102,2.0,228.0,GeneralNote
+39,,<music21.note.Rest dotted-whole>,note,wouters1103,6.0,228.0,GeneralNote
+39,,<music21.note.Rest eighth>,note,wouters1104,0.5,229.0,GeneralNote
+39,,<music21.note.Rest eighth>,note,wouters1105,0.5,229.0,GeneralNote
+39,,<music21.note.Note C->,note,wouters1106,0.25,229.5,GeneralNote
+39,,<music21.note.Note C->,note,wouters1107,0.25,229.5,GeneralNote
+39,,<music21.articulations.Fingering 2>,fingering,wouters1108,0.0,0.0,Fingering
+39,,<music21.note.Note B->,note,wouters1109,0.25,229.75,GeneralNote
+39,,<music21.note.Note B->,note,wouters1110,0.25,229.75,GeneralNote
+39,,<music21.articulations.Fingering 1>,fingering,wouters1111,0.0,0.0,Fingering
+39,,<music21.note.Note C->,note,wouters1112,1.5,230.0,GeneralNote
+39,,<music21.note.Note C->,note,wouters1113,1.5,230.0,GeneralNote
+39,,<music21.articulations.Fingering 2>,fingering,wouters1114,0.0,0.0,Fingering
+39,,<music21.note.Note F>,note,wouters1115,2.0,230.0,GeneralNote
+39,,<music21.note.Note E->,note,wouters1116,2.0,230.0,GeneralNote
+39,,<music21.note.Note A->,note,wouters1117,0.5,231.5,GeneralNote
+39,,<music21.note.Note A->,note,wouters1118,0.5,231.5,GeneralNote
+39,,<music21.articulations.Fingering 1>,fingering,wouters1119,0.0,0.0,Fingering
+39,,<music21.note.Note D>,note,wouters1120,1.5,232.0,GeneralNote
+39,,<music21.note.Rest half>,note,wouters1121,2.0,232.0,GeneralNote
+39,,<music21.note.Note D>,note,wouters1122,1.5,232.0,GeneralNote
+39,,<music21.note.Rest half>,note,wouters1123,2.0,232.0,GeneralNote
+39,,<music21.note.Rest half>,note,wouters1124,2.0,232.0,GeneralNote
+39,,<music21.note.Note F>,note,wouters1125,2.0,232.0,GeneralNote
+39,,<music21.note.Note E->,note,wouters1126,2.0,232.0,GeneralNote
+39,,<music21.note.Note D>,note,wouters1127,0.5,233.5,GeneralNote
+39,,<music21.articulations.Fingering 4>,fingering,wouters1128,0.0,0.0,Fingering
+39,,<music21.note.Note D>,note,wouters1129,0.5,233.5,GeneralNote
+39,,<music21.expressions.TextExpression 'morendo'>,morendo,wouters1258,0.0,228.0,TextExpression
+40,,<music21.note.Note E->,note,wouters1130,2.0,234.0,GeneralNote
+40,,<music21.note.Rest eighth>,note,wouters1131,0.5,234.0,GeneralNote
+40,,<music21.note.Rest eighth>,note,wouters1132,0.5,234.0,GeneralNote
+40,,<music21.note.Rest eighth>,note,wouters1133,0.5,234.0,GeneralNote
+40,,<music21.chord.Chord G3 B-3 E-4>,note,wouters1134,6.0,234.0,GeneralNote
+40,,<music21.chord.Chord E-2 B-2 E-3>,note,wouters1135,6.0,234.0,GeneralNote
+40,,<music21.note.Rest quarter>,note,wouters1136,1.0,234.0,GeneralNote
+40,,<music21.note.Note E->,note,wouters1137,2.0,234.0,GeneralNote
+40,,<music21.note.Note B->,note,wouters1138,1.5,234.5,GeneralNote
+40,,<music21.note.Rest eighth>,note,wouters1139,0.5,234.5,GeneralNote
+40,,<music21.note.Note G>,note,wouters1140,1.0,235.0,GeneralNote
+40,,<music21.note.Rest eighth>,note,wouters1141,0.5,235.0,GeneralNote
+40,,<music21.note.Note B->,note,wouters1142,0.5,235.5,GeneralNote
+40,,<music21.note.Note E->,note,wouters1143,4.0,236.0,GeneralNote
+40,,<music21.note.Note B->,note,wouters1144,4.0,236.0,GeneralNote
+40,,<music21.note.Note G>,note,wouters1145,4.0,236.0,GeneralNote
+40,,<music21.chord.Chord E-2 B-2 E-3>,note,wouters1146,4.0,236.0,GeneralNote
+40,,<music21.note.Rest half>,note,wouters1147,2.0,236.0,GeneralNote
+40,,<music21.note.Rest half>,note,wouters1148,2.0,238.0,GeneralNote
