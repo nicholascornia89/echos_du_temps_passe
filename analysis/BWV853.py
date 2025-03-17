@@ -21,15 +21,15 @@ pieceName = "BWV853"
 piecePath = os.path.join(transcriptionsPath, pieceName, "musicxml")
 urtextName = pieceName + "_durr"
 arrangements = [
-    {"name": "bartok"},
-    {"name": "bischoff"},
-    {"name": "busoni"},
-    {"name": "czerny"},
-    {"name": "dejong"},
-    {"name": "selva"},
-    {"name": "morgan"},
-    {"name": "sporck"},
-    {"name": "wouters"},
+    {"name": "czerny"},  # 1830
+    {"name": "bischoff"},  # 1889
+    {"name": "busoni"},  # 1894
+    {"name": "wouters"},  # 1899
+    {"name": "bartok"},  # 1907
+    {"name": "morgan"},  # 1912
+    {"name": "dejong"},  # 1925
+    {"name": "sporck"},  # 1914
+    {"name": "selva"},  # 1915
 ]
 
 
@@ -104,17 +104,19 @@ def musicxml_analysis(urtextScore):
 
 
 def histogram_generations():
-    arrangements = []
     for file in os.listdir(pieceName):
         # check extension
         if os.path.splitext(file)[1] == ".json":
             # load json file as dictionary
-            arrangements.append(
-                {
-                    "name": file.split("_")[0].capitalize(),
-                    "statistics": import_json_file(os.path.join(pieceName, file)),
-                }
+            json_name = os.path.splitext(file)[0].split("_")[0]
+            query = list(
+                filter(lambda x: x[1]["name"] == json_name, enumerate(arrangements))
             )
+            if len(query) > 0:
+                arrangements[query[0][0]]["plot_name"] = file.split("_")[0].capitalize()
+                arrangements[query[0][0]]["statistics"] = import_json_file(
+                    os.path.join(pieceName, file)
+                )
 
     # set colors
     colors = []
@@ -125,7 +127,7 @@ def histogram_generations():
         objects = []
         values = []
         for arrangement in arrangements:
-            objects.append(arrangement["name"])
+            objects.append(arrangement["plot_name"])
             values.append(arrangement["statistics"][key])
 
         colorByGroupHistogram(objects, values, key, colors, pieceName)
@@ -133,5 +135,5 @@ def histogram_generations():
 
 # CODE
 
-musicxml_analysis(urtextScore)
+# musicxml_analysis(urtextScore)
 histogram_generations()

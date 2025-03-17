@@ -17,15 +17,15 @@ pieceName = "K9"
 piecePath = os.path.join(transcriptionsPath, pieceName, "musicxml")
 urtextName = pieceName + "_gilbert"
 arrangements = [
-    {"name": "buonamici"},
-    {"name": "czerny"},
-    {"name": "dunhill"},
-    {"name": "esposito"},
-    {"name": "longo"},
-    {"name": "oesterle"},
-    {"name": "sauer"},
-    {"name": "tausig"},
-    {"name": "wouters"},
+    {"name": "czerny"},  # 1830
+    {"name": "tausig"},  # c.1865
+    {"name": "wouters"},  # c.1890
+    {"name": "buonamici"},  # 1902
+    {"name": "oesterle"},  # c.1904
+    {"name": "esposito"},  # 1905
+    {"name": "longo"},  # 1906
+    {"name": "dunhill"},  # 1917
+    {"name": "sauer"},  # 1942
 ]
 
 
@@ -94,17 +94,20 @@ def musicxml_analysis(urtextScore):
 
 
 def histogram_generations():
-    arrangements = []
+    # arrangements = []
     for file in os.listdir(pieceName):
         # check extension
         if os.path.splitext(file)[1] == ".json":
             # load json file as dictionary
-            arrangements.append(
-                {
-                    "name": file.split("_")[0].capitalize(),
-                    "statistics": import_json_file(os.path.join(pieceName, file)),
-                }
+            json_name = os.path.splitext(file)[0].split("_")[0]
+            query = list(
+                filter(lambda x: x[1]["name"] == json_name, enumerate(arrangements))
             )
+            if len(query) > 0:
+                arrangements[query[0][0]]["plot_name"] = file.split("_")[0].capitalize()
+                arrangements[query[0][0]]["statistics"] = import_json_file(
+                    os.path.join(pieceName, file)
+                )
 
     # set colors
     colors = []
@@ -115,10 +118,25 @@ def histogram_generations():
         objects = []
         values = []
         for arrangement in arrangements:
-            objects.append(arrangement["name"])
+            objects.append(arrangement["plot_name"])
             values.append(arrangement["statistics"][key])
 
         colorByGroupHistogram(objects, values, key, colors, pieceName)
+
+
+def total_plots_generation():
+    names = []
+    values = []
+    for a in arrangements:
+        names.append(a["name"])
+        total = 0
+        for key in a["statistics"].keys():
+            if key == "measures" or "notes" or "slurs_average_density":
+                pass
+            else:
+                a["statistics"][key] += total
+
+    totalAnnotationsPlot(names, values)
 
 
 # CODE
@@ -126,3 +144,5 @@ def histogram_generations():
 musicxml_analysis(urtextScore)
 
 histogram_generations()
+
+# total_plots_generation()

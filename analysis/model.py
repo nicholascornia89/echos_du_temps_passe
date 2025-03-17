@@ -52,6 +52,18 @@ def colorByGroupHistogram(objects, values, value_label, colors, base_path):
     plt.savefig(os.path.join(base_path, "statistics_" + value_label + ".png"), dpi=600)
 
 
+def totalAnnotationsPlot(names, values):
+    fig, ax = plt.subplots()
+    plt.rcParams["figure.figsize"] = (10, 6)
+    plt.rcParams["legend.loc"] = "best"
+    ax.set_title("Total annotations")
+    plt.tight_layout()
+    plt.rcParams.update({"figure.autolayout": True})
+    plt.style.use("fast")
+    plt.plot(names, values)
+    plt.savefig(os.path.join(base_path, "statistics_total" + ".png"), dpi=600)
+
+
 def diff_streams(u, a):
     # stores the differences in a list of Music21 IDs
     # simple version, assuming len(a) > len(u)
@@ -105,9 +117,11 @@ def m21stream2dict(score, id_name):
     id_counter = 1
     id_base = id_name
     score_dict = []
+    total_annotations = 0
     score_statistics = {
         "measures": 0,
         "notes": len(score.flatten().getElementsByClass("GeneralNote")),
+        "total_annotations": 0,
         "slurs": len(score.flatten().getElementsByClass("Slur")),
         "slurs_average_density": 0,
         "dynamics": len(
@@ -123,6 +137,18 @@ def m21stream2dict(score, id_name):
         "fingerings": 0
         # "pedals": {"counter": 0, "density": 0},
     }
+    # summing up all annotations
+    for key in score_statistics.keys():
+        if (
+            key == "measures"
+            or "notes"
+            or "slurs_average_density"
+            or "total_annotations"
+        ):
+            pass
+        else:
+            score_statistics["total_annotations"] += score_statistics[key]
+
     # get general notes
     art_count = 0
     fingering_count = 0
@@ -179,6 +205,7 @@ def m21stream2dict(score, id_name):
                     )
     score_statistics["articulations"] = art_count
     score_statistics["fingerings"] = fingering_count
+    score_statistics["total_annotations"] += art_count
 
     # get slurs
     slurLenghtSum = 0

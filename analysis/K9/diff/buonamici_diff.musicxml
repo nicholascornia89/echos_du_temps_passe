@@ -7,7 +7,7 @@
     <creator type="composer">Music21</creator>
     <rights>B. 32.645</rights>
     <encoding>
-      <encoding-date>2025-03-12</encoding-date>
+      <encoding-date>2025-03-16</encoding-date>
       <software>music21 v.9.3.0</software>
       <software>MuseScore 4.4.4</software>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
@@ -90,11 +90,11 @@ Transposed from D to E minor
     <score-part id="P1">
       <part-name print-object="no">Piano 2</part-name>
       <part-abbreviation>Pno</part-abbreviation>
-      <score-instrument id="I6097dca2390315e36e7b167414fb8cf4">
+      <score-instrument id="If7e95f2538b53a30bd5c6265ba5ca478">
         <instrument-name>Piano</instrument-name>
         <instrument-abbreviation>Pno</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I6097dca2390315e36e7b167414fb8cf4">
+      <midi-instrument id="If7e95f2538b53a30bd5c6265ba5ca478">
         <midi-channel>2</midi-channel>
         <midi-program>1</midi-program>
       </midi-instrument>
@@ -102,11 +102,11 @@ Transposed from D to E minor
     <score-part id="P2">
       <part-name>Piano</part-name>
       <part-abbreviation>Piano</part-abbreviation>
-      <score-instrument id="I96584afa3e73474b94b54ffac45dfcec">
+      <score-instrument id="I97c99fe33939b119671a759a442feecd">
         <instrument-name>Acoustic Grand Piano</instrument-name>
         <instrument-abbreviation>Pno</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I96584afa3e73474b94b54ffac45dfcec">
+      <midi-instrument id="I97c99fe33939b119671a759a442feecd">
         <midi-channel>1</midi-channel>
         <midi-program>1</midi-program>
       </midi-instrument>
@@ -6101,10 +6101,10 @@ Transposed from D to E minor
           </articulations>
         </notations>
       </note>
-      <note default-x="12.5" default-y="-230.22">
+      <note default-x="12.5" default-y="-220.22">
         <chord />
         <pitch>
-          <step>G</step>
+          <step>B</step>
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
