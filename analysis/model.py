@@ -37,15 +37,15 @@ def csv2dict(csv_filename):
 def colorByGroupHistogram(objects, values, value_label, colors, base_path):
     fig, ax = plt.subplots()
     # figure size in inches
-    plt.rcParams["figure.figsize"] = (10, 6)
+    plt.rcParams["figure.figsize"] = (14, 6)
     # best location for legend
-    plt.rcParams["legend.loc"] = "best"
+    # plt.rcParams["legend.loc"] = "best"
     bar_labels = objects
     bar_colors = colors
     ax.bar(objects, values, label=bar_labels, color=bar_colors)
     ax.set_ylabel("value")
-    ax.set_title("Arrangement Analysis")
-    ax.legend(title=value_label)
+    ax.set_title(value_label.capitalize().replace("_", " ") + " analysis")
+    # ax.legend(title=value_label)
     plt.tight_layout()
     plt.rcParams.update({"figure.autolayout": True})
     plt.style.use("fast")
@@ -137,17 +137,6 @@ def m21stream2dict(score, id_name):
         "fingerings": 0
         # "pedals": {"counter": 0, "density": 0},
     }
-    # summing up all annotations
-    for key in score_statistics.keys():
-        if (
-            key == "measures"
-            or "notes"
-            or "slurs_average_density"
-            or "total_annotations"
-        ):
-            pass
-        else:
-            score_statistics["total_annotations"] += score_statistics[key]
 
     # get general notes
     art_count = 0
@@ -205,7 +194,6 @@ def m21stream2dict(score, id_name):
                     )
     score_statistics["articulations"] = art_count
     score_statistics["fingerings"] = fingering_count
-    score_statistics["total_annotations"] += art_count
 
     # get slurs
     slurLenghtSum = 0
@@ -333,6 +321,20 @@ def m21stream2dict(score, id_name):
         )
 
     # get Pedal: not supported by Music21...
+
+    # summing up all annotations
+    for key in score_statistics.keys():
+        # print(f"Current key: {key}")
+        if (
+            key == "measures"
+            or key == "notes"
+            or key == "slurs_average_density"
+            or key == "total_annotations"
+        ):
+            pass
+        else:
+            # print("adding to total annotations")
+            score_statistics["total_annotations"] += score_statistics[key]
 
     # compute number of measures
     max_measure = 0
