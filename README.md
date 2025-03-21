@@ -11,10 +11,6 @@ Markdown pages useful to clarify technical and artistic steps during the creatio
 ### [Repertoire](/repertoire)
 Metadata and useuful pages concerning the musical pieces of the corpus.
 
-#### TO-DO
-
-- [ ] Generate dynamically pieces' pages from CSV Nodegoat
-
 ### [Sessions](/sessions)
 Logs and output of performances.
 
@@ -28,8 +24,7 @@ Computational and Statistical analysis of the corpus, including scripts and quan
 ### [Encoded Music](/encoded_music)
 : Digitally readable transcriptions of the pieces from our own and related projects.
 
-- [x ] Finish Transcriptions of BWV 853 
-- [x ] BWV 853 check + transcription to MEI
+- [ ] Consider new transcripts of [Sonata K.30]()
 
 ## Useful links
 
