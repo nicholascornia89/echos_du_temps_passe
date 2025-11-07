@@ -1,0 +1,1335 @@
+measure_start,measure_end,object,value,id,quarterlength,offset,type
+0,,<music21.note.Note A>,note,oesterle1,0.5,0.0,GeneralNote
+0,,<music21.articulations.Fingering 1>,fingering,oesterle2,0.0,0.0,Fingering
+0,,<music21.note.Rest dotted-half>,note,oesterle3,3.0,0.0,GeneralNote
+0,,<music21.dynamics.Dynamic p>,p,oesterle1278,,,DynamicPoint
+0,,<music21.expressions.TextExpression 'Allegretto'>,Allegretto,oesterle1336,0.0,0.0,TextExpression
+0,,<music21.tempo.MetronomeMark Quarter=116 (playback only)>,None,oesterle1351,0.0,0.0,TempoIndication
+0,,<music21.tempo.MetronomeMark Quarter=116 (playback only)>,None None,oesterle1352,0.0,0.0,MetronomeMark
+1,,<music21.note.Note D>,note,oesterle4,0.5,3.0,GeneralNote
+1,,<music21.articulations.Fingering 2>,fingering,oesterle5,0.0,0.0,Fingering
+1,,<music21.chord.Chord D4 F4>,note,oesterle6,1.5,3.0,GeneralNote
+1,,<music21.articulations.Fingering 4>,fingering,oesterle7,0.0,0.0,Fingering
+1,,<music21.articulations.Fingering 2>,fingering,oesterle8,0.0,0.0,Fingering
+1,,<music21.note.Rest dotted-half>,note,oesterle9,3.0,3.0,GeneralNote
+1,,<music21.note.Note E>,note,oesterle10,0.5,3.5,GeneralNote
+1,,<music21.note.Note F>,note,oesterle11,0.5,4.0,GeneralNote
+1,,<music21.note.Note E>,note,oesterle12,0.5,4.5,GeneralNote
+1,,<music21.chord.Chord C#4 E4>,note,oesterle13,1.5,4.5,GeneralNote
+1,,<music21.note.Note A>,note,oesterle14,0.5,5.0,GeneralNote
+1,,<music21.note.Note A>,note,oesterle15,0.5,5.5,GeneralNote
+1,1,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,oesterle1173,2.5,0.0,Slur
+1,1,<music21.dynamics.Crescendo <music21.note.Note E><music21.note.Note A>>,diminuendo,oesterle1301,,,DynamicRegion
+2,,<music21.note.Note F>,note,oesterle16,1.5,6.0,GeneralNote
+2,,<music21.articulations.Fingering 34>,fingering,oesterle17,0.0,0.0,Fingering
+2,,<music21.note.Note D>,note,oesterle18,0.5,6.0,GeneralNote
+2,,<music21.note.Rest dotted-half>,note,oesterle19,3.0,6.0,GeneralNote
+2,,<music21.note.Note F>,note,oesterle20,0.5,6.5,GeneralNote
+2,,<music21.note.Note A>,note,oesterle21,0.5,7.0,GeneralNote
+2,,<music21.note.Note E>,note,oesterle22,1.0,7.5,GeneralNote
+2,,<music21.note.Note C>,note,oesterle23,0.5,7.5,GeneralNote
+2,,<music21.note.Note F>,note,oesterle24,0.5,8.0,GeneralNote
+2,,<music21.note.Note A>,note,oesterle25,0.5,8.5,GeneralNote
+2,,<music21.note.Note A>,note,oesterle26,0.5,8.5,GeneralNote
+2,2,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,oesterle1174,1.5,0.0,Slur
+2,3,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,oesterle1175,0.5,0.0,Slur
+2,2,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,oesterle1176,2.5,0.0,Slur
+2,2,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note C>>,diminuendo,oesterle1303,,,DynamicRegion
+3,,<music21.note.Note G>,note,oesterle27,0.5,9.0,GeneralNote
+3,,<music21.articulations.Staccato>,staccato,oesterle28,0.0,0.0,Articulation
+3,,<music21.note.Note D>,note,oesterle29,1.5,9.0,GeneralNote
+3,,<music21.note.Note B->,note,oesterle30,1.5,9.0,GeneralNote
+3,,<music21.note.Note B->,note,oesterle31,0.25,9.5,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,oesterle32,0.0,0.0,Fingering
+3,,<music21.note.Note A>,note,oesterle33,0.25,9.75,GeneralNote
+3,,<music21.note.Note G>,note,oesterle34,0.25,10.0,GeneralNote
+3,,<music21.note.Note F>,note,oesterle35,0.25,10.25,GeneralNote
+3,,<music21.note.Note E>,note,oesterle36,0.5,10.5,GeneralNote
+3,,<music21.articulations.Fingering 2>,fingering,oesterle37,0.0,0.0,Fingering
+3,,<music21.articulations.Staccato>,staccato,oesterle38,0.0,0.0,Articulation
+3,,<music21.chord.Chord D4 E4>,note,oesterle39,1.5,10.5,GeneralNote
+3,,<music21.note.Note G>,note,oesterle40,1.5,10.5,GeneralNote
+3,,<music21.note.Note G>,note,oesterle41,0.25,11.0,GeneralNote
+3,,<music21.note.Note F>,note,oesterle42,0.25,11.25,GeneralNote
+3,,<music21.note.Note E>,note,oesterle43,0.25,11.5,GeneralNote
+3,,<music21.note.Note D>,note,oesterle44,0.25,11.75,GeneralNote
+3,3,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note E>>,slur,oesterle1177,1.0,0.0,Slur
+4,,<music21.note.Note D>,note,oesterle45,1.0,12.0,GeneralNote
+4,,<music21.articulations.Fingering 3>,fingering,oesterle46,0.0,0.0,Fingering
+4,,<music21.note.Note A>,note,oesterle47,0.5,12.0,GeneralNote
+4,,<music21.note.Note C#>,note,oesterle48,0.5,12.5,GeneralNote
+4,,<music21.articulations.Fingering 3>,fingering,oesterle49,0.0,0.0,Fingering
+4,,<music21.note.Note C#>,note,oesterle50,0.5,13.0,GeneralNote
+4,,<music21.note.Note E>,note,oesterle51,0.5,13.0,GeneralNote
+4,,<music21.articulations.Fingering 2>,fingering,oesterle52,0.0,0.0,Fingering
+4,,<music21.note.Note C#>,note,oesterle53,1.0,13.5,GeneralNote
+4,,<music21.note.Note A>,note,oesterle54,0.25,13.5,GeneralNote
+4,,<music21.note.Note G>,note,oesterle55,0.25,13.75,GeneralNote
+4,,<music21.note.Note F>,note,oesterle56,0.25,14.0,GeneralNote
+4,,<music21.note.Note E>,note,oesterle57,0.25,14.25,GeneralNote
+4,,<music21.note.Note A>,note,oesterle58,0.5,14.5,GeneralNote
+4,,<music21.articulations.Staccato>,staccato,oesterle59,0.0,0.0,Articulation
+4,,<music21.note.Note D>,note,oesterle60,0.5,14.5,GeneralNote
+4,,<music21.articulations.Staccato>,staccato,oesterle61,0.0,0.0,Articulation
+4,4,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,oesterle1178,2.5,0.0,Slur
+4,4,<music21.spanner.Slur <music21.note.Note A><music21.note.Note E>>,slur,oesterle1179,1.0,0.0,Slur
+4,4,<music21.spanner.Slur <music21.note.Note A><music21.note.Note D>>,slur,oesterle1180,1.0,0.0,Slur
+4,4,<music21.dynamics.Crescendo <music21.note.Note D><music21.note.Note A>>,diminuendo,oesterle1305,,,DynamicRegion
+5,,<music21.note.Note C>,note,oesterle62,0.5,15.0,GeneralNote
+5,,<music21.articulations.Fingering 2>,fingering,oesterle63,0.0,0.0,Fingering
+5,,<music21.note.Note G>,note,oesterle64,1.0,15.0,GeneralNote
+5,,<music21.articulations.Fingering 1>,fingering,oesterle65,0.0,0.0,Fingering
+5,,<music21.note.Rest dotted-half>,note,oesterle66,3.0,15.0,GeneralNote
+5,,<music21.note.Note B->,note,oesterle67,0.5,15.5,GeneralNote
+5,,<music21.note.Note G>,note,oesterle68,0.5,16.0,GeneralNote
+5,,<music21.note.Note G>,note,oesterle69,0.5,16.0,GeneralNote
+5,,<music21.articulations.Fingering 2>,fingering,oesterle70,0.0,0.0,Fingering
+5,,<music21.note.Note B->,note,oesterle71,0.5,16.5,GeneralNote
+5,,<music21.articulations.Fingering 2>,fingering,oesterle72,0.0,0.0,Fingering
+5,,<music21.note.Note F>,note,oesterle73,1.0,16.5,GeneralNote
+5,,<music21.note.Note A>,note,oesterle74,0.5,17.0,GeneralNote
+5,,<music21.note.Note F>,note,oesterle75,0.5,17.5,GeneralNote
+5,,<music21.note.Note F>,note,oesterle76,0.5,17.5,GeneralNote
+5,,<music21.articulations.Fingering 2>,fingering,oesterle77,0.0,0.0,Fingering
+5,7,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B->>,slur,oesterle1181,8.5,0.0,Slur
+5,7,<music21.spanner.Slur <music21.note.Note G><music21.note.Note B->>,slur,oesterle1182,8.5,0.0,Slur
+5,,<music21.dynamics.Dynamic p>,p,oesterle1279,,,DynamicPoint
+6,,<music21.note.Note A>,note,oesterle78,0.5,18.0,GeneralNote
+6,,<music21.articulations.Fingering 2>,fingering,oesterle79,0.0,0.0,Fingering
+6,,<music21.note.Note E>,note,oesterle80,1.0,18.0,GeneralNote
+6,,<music21.note.Rest dotted-half>,note,oesterle81,3.0,18.0,GeneralNote
+6,,<music21.note.Note G>,note,oesterle82,0.5,18.5,GeneralNote
+6,,<music21.note.Note E>,note,oesterle83,0.5,19.0,GeneralNote
+6,,<music21.note.Note E>,note,oesterle84,0.5,19.0,GeneralNote
+6,,<music21.articulations.Fingering 2>,fingering,oesterle85,0.0,0.0,Fingering
+6,,<music21.note.Note G>,note,oesterle86,0.5,19.5,GeneralNote
+6,,<music21.articulations.Fingering 2>,fingering,oesterle87,0.0,0.0,Fingering
+6,,<music21.note.Note D>,note,oesterle88,1.0,19.5,GeneralNote
+6,,<music21.note.Note F>,note,oesterle89,0.5,20.0,GeneralNote
+6,,<music21.note.Note D>,note,oesterle90,0.5,20.5,GeneralNote
+6,,<music21.note.Note D>,note,oesterle91,0.5,20.5,GeneralNote
+6,,<music21.articulations.Fingering 2>,fingering,oesterle92,0.0,0.0,Fingering
+7,,<music21.note.Note F>,note,oesterle93,0.5,21.0,GeneralNote
+7,,<music21.articulations.Fingering 2>,fingering,oesterle94,0.0,0.0,Fingering
+7,,<music21.note.Note C>,note,oesterle95,1.0,21.0,GeneralNote
+7,,<music21.note.Rest quarter>,note,oesterle96,1.0,21.0,GeneralNote
+7,,<music21.note.Note E>,note,oesterle97,0.5,21.5,GeneralNote
+7,,<music21.note.Note C>,note,oesterle98,0.5,22.0,GeneralNote
+7,,<music21.note.Note C>,note,oesterle99,0.5,22.0,GeneralNote
+7,,<music21.articulations.Fingering 2>,fingering,oesterle100,0.0,0.0,Fingering
+7,,<music21.note.Rest eighth>,note,oesterle101,0.5,22.0,GeneralNote
+7,,<music21.note.Note E>,note,oesterle102,0.5,22.5,GeneralNote
+7,,<music21.articulations.Fingering 2>,fingering,oesterle103,0.0,0.0,Fingering
+7,,<music21.note.Rest quarter>,note,oesterle104,1.0,22.5,GeneralNote
+7,,<music21.note.Rest quarter>,note,oesterle105,1.0,22.5,GeneralNote
+7,,<music21.note.Note B->,note,oesterle106,1.0,22.5,GeneralNote
+7,,<music21.note.Note D>,note,oesterle107,0.5,23.0,GeneralNote
+7,,<music21.note.Note B->,note,oesterle108,0.5,23.5,GeneralNote
+7,,<music21.note.Rest eighth>,note,oesterle109,0.5,23.5,GeneralNote
+7,,<music21.note.Rest eighth>,note,oesterle110,0.5,23.5,GeneralNote
+7,,<music21.note.Note B->,note,oesterle111,0.5,23.5,GeneralNote
+7,,<music21.articulations.Fingering 2>,fingering,oesterle112,0.0,0.0,Fingering
+8,,<music21.note.Note C>,note,oesterle113,0.5,24.0,GeneralNote
+8,,<music21.note.Note A>,note,oesterle114,0.5,24.0,GeneralNote
+8,,<music21.note.Note D>,note,oesterle115,0.25,24.5,GeneralNote
+8,,<music21.note.Note B->,note,oesterle116,0.25,24.5,GeneralNote
+8,,<music21.note.Note E>,note,oesterle117,0.25,24.75,GeneralNote
+8,,<music21.note.Note C>,note,oesterle118,0.25,24.75,GeneralNote
+8,,<music21.note.Note F>,note,oesterle119,0.25,25.0,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,oesterle120,0.0,0.0,Fingering
+8,,<music21.note.Note D>,note,oesterle121,0.25,25.0,GeneralNote
+8,,<music21.articulations.Fingering 4>,fingering,oesterle122,0.0,0.0,Fingering
+8,,<music21.note.Note G>,note,oesterle123,0.25,25.25,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,oesterle124,0.0,0.0,Fingering
+8,,<music21.note.Note E>,note,oesterle125,0.25,25.25,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,oesterle126,0.0,0.0,Fingering
+8,,<music21.note.Note A>,note,oesterle127,0.5,25.5,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,oesterle128,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,oesterle129,0.0,0.0,Articulation
+8,,<music21.note.Note F>,note,oesterle130,0.5,25.5,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,oesterle131,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,oesterle132,0.0,0.0,Articulation
+8,,<music21.note.Note G>,note,oesterle133,0.5,26.0,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,oesterle134,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,oesterle135,0.0,0.0,Articulation
+8,,<music21.note.Note E>,note,oesterle136,0.5,26.0,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,oesterle137,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,oesterle138,0.0,0.0,Articulation
+8,,<music21.note.Note F>,note,oesterle139,0.5,26.5,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,oesterle140,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,oesterle141,0.0,0.0,Articulation
+8,,<music21.note.Note D>,note,oesterle142,0.5,26.5,GeneralNote
+8,,<music21.articulations.Fingering 4>,fingering,oesterle143,0.0,0.0,Fingering
+8,,<music21.articulations.Staccato>,staccato,oesterle144,0.0,0.0,Articulation
+8,8,<music21.spanner.Slur <music21.note.Note C><music21.note.Note A>>,slur,oesterle1183,1.5,0.0,Slur
+8,8,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,oesterle1184,1.5,0.0,Slur
+8,,<music21.expressions.TextExpression 'cresc.'>,cresc.,oesterle1337,0.0,25.5,TextExpression
+9,,<music21.note.Note E>,note,oesterle145,0.25,27.0,GeneralNote
+9,,<music21.articulations.Fingering 2>,fingering,oesterle146,0.0,0.0,Fingering
+9,,<music21.note.Note C>,note,oesterle147,0.25,27.0,GeneralNote
+9,,<music21.note.Rest dotted-half>,note,oesterle148,3.0,27.0,GeneralNote
+9,,<music21.note.Note F>,note,oesterle149,0.25,27.25,GeneralNote
+9,,<music21.articulations.Fingering 1>,fingering,oesterle150,0.0,0.0,Fingering
+9,,<music21.note.Note D>,note,oesterle151,0.25,27.25,GeneralNote
+9,,<music21.note.Note G>,note,oesterle152,0.25,27.5,GeneralNote
+9,,<music21.note.Note E>,note,oesterle153,0.25,27.5,GeneralNote
+9,,<music21.note.Note A>,note,oesterle154,0.25,27.75,GeneralNote
+9,,<music21.note.Note F>,note,oesterle155,0.25,27.75,GeneralNote
+9,,<music21.note.Note B->,note,oesterle156,0.25,28.0,GeneralNote
+9,,<music21.note.Note G>,note,oesterle157,0.25,28.0,GeneralNote
+9,,<music21.articulations.Fingering 1>,fingering,oesterle158,0.0,0.0,Fingering
+9,,<music21.note.Note C>,note,oesterle159,0.25,28.25,GeneralNote
+9,,<music21.articulations.Fingering 1>,fingering,oesterle160,0.0,0.0,Fingering
+9,,<music21.note.Note A>,note,oesterle161,0.25,28.25,GeneralNote
+9,,<music21.articulations.Fingering 3>,fingering,oesterle162,0.0,0.0,Fingering
+9,,<music21.note.Note D>,note,oesterle163,0.5,28.5,GeneralNote
+9,,<music21.articulations.Fingering 2>,fingering,oesterle164,0.0,0.0,Fingering
+9,,<music21.articulations.Staccato>,staccato,oesterle165,0.0,0.0,Articulation
+9,,<music21.note.Note B->,note,oesterle166,0.5,28.5,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,oesterle167,0.0,0.0,Articulation
+9,,<music21.note.Note C>,note,oesterle168,0.5,29.0,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,oesterle169,0.0,0.0,Articulation
+9,,<music21.note.Note A>,note,oesterle170,0.5,29.0,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,oesterle171,0.0,0.0,Articulation
+9,,<music21.note.Note B->,note,oesterle172,0.5,29.5,GeneralNote
+9,,<music21.articulations.Fingering 3>,fingering,oesterle173,0.0,0.0,Fingering
+9,,<music21.articulations.Staccato>,staccato,oesterle174,0.0,0.0,Articulation
+9,,<music21.note.Note G>,note,oesterle175,0.5,29.5,GeneralNote
+9,,<music21.articulations.Staccato>,staccato,oesterle176,0.0,0.0,Articulation
+9,9,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D>>,slur,oesterle1185,1.5,0.0,Slur
+9,9,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B->>,slur,oesterle1186,1.5,0.0,Slur
+10,,<music21.note.Note A>,note,oesterle177,0.5,30.0,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,oesterle178,0.0,0.0,Fingering
+10,,<music21.note.Note F>,note,oesterle179,0.5,30.0,GeneralNote
+10,,<music21.articulations.Fingering 5>,fingering,oesterle180,0.0,0.0,Fingering
+10,,<music21.note.Rest dotted-half>,note,oesterle181,3.0,30.0,GeneralNote
+10,,<music21.note.Note B->,note,oesterle182,0.25,30.5,GeneralNote
+10,,<music21.note.Note G>,note,oesterle183,0.25,30.5,GeneralNote
+10,,<music21.note.Note C>,note,oesterle184,0.25,30.75,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,oesterle185,0.0,0.0,Fingering
+10,,<music21.note.Note A>,note,oesterle186,0.25,30.75,GeneralNote
+10,,<music21.note.Note D>,note,oesterle187,0.25,31.0,GeneralNote
+10,,<music21.note.Note B->,note,oesterle188,0.25,31.0,GeneralNote
+10,,<music21.note.Note E>,note,oesterle189,0.25,31.25,GeneralNote
+10,,<music21.note.Note C>,note,oesterle190,0.25,31.25,GeneralNote
+10,,<music21.note.Note F>,note,oesterle191,0.5,31.5,GeneralNote
+10,,<music21.articulations.Fingering 4>,fingering,oesterle192,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,oesterle193,0.0,0.0,Articulation
+10,,<music21.note.Note D>,note,oesterle194,0.5,31.5,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,oesterle195,0.0,0.0,Fingering
+10,,<music21.articulations.Staccato>,staccato,oesterle196,0.0,0.0,Articulation
+10,,<music21.note.Note E>,note,oesterle197,0.5,32.0,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,oesterle198,0.0,0.0,Articulation
+10,,<music21.note.Note C>,note,oesterle199,0.5,32.0,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,oesterle200,0.0,0.0,Articulation
+10,,<music21.note.Note D>,note,oesterle201,0.5,32.5,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,oesterle202,0.0,0.0,Articulation
+10,,<music21.note.Note B->,note,oesterle203,0.5,32.5,GeneralNote
+10,,<music21.articulations.Staccato>,staccato,oesterle204,0.0,0.0,Articulation
+10,10,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,oesterle1187,1.5,0.0,Slur
+10,10,<music21.spanner.Slur <music21.note.Note F><music21.note.Note D>>,slur,oesterle1188,1.5,0.0,Slur
+11,,<music21.note.Note C>,note,oesterle205,0.25,33.0,GeneralNote
+11,,<music21.articulations.Fingering 1>,fingering,oesterle206,0.0,0.0,Fingering
+11,,<music21.note.Note A>,note,oesterle207,0.25,33.0,GeneralNote
+11,,<music21.articulations.Fingering 5>,fingering,oesterle208,0.0,0.0,Fingering
+11,,<music21.note.Rest dotted-half>,note,oesterle209,3.0,33.0,GeneralNote
+11,,<music21.note.Note D>,note,oesterle210,0.25,33.25,GeneralNote
+11,,<music21.note.Note B->,note,oesterle211,0.25,33.25,GeneralNote
+11,,<music21.note.Note E>,note,oesterle212,0.25,33.5,GeneralNote
+11,,<music21.note.Note C>,note,oesterle213,0.25,33.5,GeneralNote
+11,,<music21.note.Note F>,note,oesterle214,0.25,33.75,GeneralNote
+11,,<music21.articulations.Fingering 1>,fingering,oesterle215,0.0,0.0,Fingering
+11,,<music21.note.Note D>,note,oesterle216,0.25,33.75,GeneralNote
+11,,<music21.note.Note G>,note,oesterle217,0.25,34.0,GeneralNote
+11,,<music21.note.Note E>,note,oesterle218,0.25,34.0,GeneralNote
+11,,<music21.note.Note A>,note,oesterle219,0.125,34.25,GeneralNote
+11,,<music21.note.Note F>,note,oesterle220,0.125,34.25,GeneralNote
+11,,<music21.articulations.Fingering 3>,fingering,oesterle221,0.0,0.0,Fingering
+11,,<music21.note.Note B->,note,oesterle222,0.125,34.375,GeneralNote
+11,,<music21.note.Note G>,note,oesterle223,0.125,34.375,GeneralNote
+11,,<music21.note.Note C>,note,oesterle224,0.5,34.5,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,oesterle225,0.0,0.0,Articulation
+11,,<music21.note.Note A>,note,oesterle226,0.5,34.5,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,oesterle227,0.0,0.0,Articulation
+11,,<music21.note.Note B->,note,oesterle228,0.5,35.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,oesterle229,0.0,0.0,Articulation
+11,,<music21.note.Note G>,note,oesterle230,0.5,35.0,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,oesterle231,0.0,0.0,Articulation
+11,,<music21.note.Note A>,note,oesterle232,0.5,35.5,GeneralNote
+11,,<music21.articulations.Staccato>,staccato,oesterle233,0.0,0.0,Articulation
+11,,<music21.note.Note F>,note,oesterle234,0.5,35.5,GeneralNote
+11,,<music21.articulations.Fingering 3>,fingering,oesterle235,0.0,0.0,Fingering
+11,,<music21.articulations.Staccato>,staccato,oesterle236,0.0,0.0,Articulation
+11,11,<music21.spanner.Slur <music21.note.Note C><music21.note.Note C>>,slur,oesterle1189,1.5,0.0,Slur
+11,11,<music21.spanner.Slur <music21.note.Note A><music21.note.Note A>>,slur,oesterle1190,1.5,0.0,Slur
+12,,<music21.note.Note G>,note,oesterle237,1.5,36.0,GeneralNote
+12,,<music21.articulations.Fingering 23>,fingering,oesterle238,0.0,0.0,Fingering
+12,,<music21.note.Note C>,note,oesterle239,1.5,36.0,GeneralNote
+12,,<music21.articulations.Fingering 5>,fingering,oesterle240,0.0,0.0,Fingering
+12,,<music21.note.Rest dotted-half>,note,oesterle241,3.0,36.0,GeneralNote
+12,,<music21.note.Note F>,note,oesterle242,0.0,37.5,GeneralNote
+12,,<music21.note.Note G>,note,oesterle243,0.5,37.5,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,oesterle244,0.0,0.0,Articulation
+12,,<music21.chord.Chord E4 G4>,note,oesterle245,1.5,37.5,GeneralNote
+12,,<music21.articulations.Fingering 4>,fingering,oesterle246,0.0,0.0,Fingering
+12,,<music21.articulations.Fingering 2>,fingering,oesterle247,0.0,0.0,Fingering
+12,,<music21.note.Note C>,note,oesterle248,0.5,38.0,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,oesterle249,0.0,0.0,Articulation
+12,,<music21.note.Note C>,note,oesterle250,0.5,38.5,GeneralNote
+12,,<music21.articulations.Staccato>,staccato,oesterle251,0.0,0.0,Articulation
+12,12,<music21.spanner.Slur <music21.note.Note G><music21.note.Note F>>,slur,oesterle1191,1.5,0.0,Slur
+12,13,<music21.spanner.Slur <music21.chord.Chord E4 G4><music21.chord.Chord E4 G4>>,slur,oesterle1192,3.0,0.0,Slur
+12,,<music21.dynamics.Dynamic f>,f,oesterle1280,,,DynamicPoint
+12,,<music21.dynamics.Dynamic p>,p,oesterle1281,,,DynamicPoint
+13,,<music21.note.Note D>,note,oesterle252,1.0,39.0,GeneralNote
+13,,<music21.articulations.Fingering 34>,fingering,oesterle253,0.0,0.0,Fingering
+13,,<music21.articulations.Accent>,accent,oesterle254,0.0,0.0,Articulation
+13,,<music21.chord.Chord F4 A4>,note,oesterle255,1.5,39.0,GeneralNote
+13,,<music21.note.Rest dotted-half>,note,oesterle256,3.0,39.0,GeneralNote
+13,,<music21.note.Note C>,note,oesterle257,0.5,40.0,GeneralNote
+13,,<music21.articulations.Fingering 2>,fingering,oesterle258,0.0,0.0,Fingering
+13,,<music21.note.Note C>,note,oesterle259,0.5,40.5,GeneralNote
+13,,<music21.articulations.Fingering 1>,fingering,oesterle260,0.0,0.0,Fingering
+13,,<music21.articulations.Staccato>,staccato,oesterle261,0.0,0.0,Articulation
+13,,<music21.chord.Chord E4 G4>,note,oesterle262,1.5,40.5,GeneralNote
+13,,<music21.note.Note C>,note,oesterle263,0.5,41.0,GeneralNote
+13,,<music21.articulations.Staccato>,staccato,oesterle264,0.0,0.0,Articulation
+13,,<music21.note.Note C>,note,oesterle265,0.5,41.5,GeneralNote
+13,,<music21.articulations.Staccato>,staccato,oesterle266,0.0,0.0,Articulation
+13,13,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,oesterle1193,1.0,0.0,Slur
+14,,<music21.note.Note D>,note,oesterle267,1.0,42.0,GeneralNote
+14,,<music21.articulations.Fingering 34>,fingering,oesterle268,0.0,0.0,Fingering
+14,,<music21.articulations.Accent>,accent,oesterle269,0.0,0.0,Articulation
+14,,<music21.note.Rest quarter>,note,oesterle270,1.0,42.0,GeneralNote
+14,,<music21.note.Rest dotted-quarter>,note,oesterle271,1.5,42.0,GeneralNote
+14,,<music21.chord.Chord F4 A4>,note,oesterle272,1.5,42.0,GeneralNote
+14,,<music21.articulations.Fingering 32>,fingering,oesterle273,0.0,0.0,Fingering
+14,,<music21.articulations.Fingering 1>,fingering,oesterle274,0.0,0.0,Fingering
+14,,<music21.note.Rest quarter>,note,oesterle275,1.0,42.0,GeneralNote
+14,,<music21.note.Rest dotted-quarter>,note,oesterle276,1.5,42.0,GeneralNote
+14,,<music21.note.Rest dotted-half>,note,oesterle277,3.0,42.0,GeneralNote
+14,,<music21.note.Note C>,note,oesterle278,0.5,43.0,GeneralNote
+14,,<music21.note.Rest eighth>,note,oesterle279,0.5,43.0,GeneralNote
+14,,<music21.note.Rest eighth>,note,oesterle280,0.5,43.0,GeneralNote
+14,,<music21.note.Note C>,note,oesterle281,0.5,43.5,GeneralNote
+14,,<music21.articulations.Fingering 1>,fingering,oesterle282,0.0,0.0,Fingering
+14,,<music21.note.Note E>,note,oesterle283,0.5,43.5,GeneralNote
+14,,<music21.articulations.Fingering 3>,fingering,oesterle284,0.0,0.0,Fingering
+14,,<music21.note.Note G>,note,oesterle285,1.5,43.5,GeneralNote
+14,,<music21.articulations.Fingering 1>,fingering,oesterle286,0.0,0.0,Fingering
+14,,<music21.note.Note C>,note,oesterle287,0.5,44.0,GeneralNote
+14,,<music21.note.Note D>,note,oesterle288,0.5,44.0,GeneralNote
+14,,<music21.note.Note B->,note,oesterle289,0.5,44.5,GeneralNote
+14,,<music21.note.Note C>,note,oesterle290,0.5,44.5,GeneralNote
+14,14,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C>>,slur,oesterle1194,1.0,0.0,Slur
+14,15,<music21.spanner.Slur <music21.note.Note C><music21.note.Note F>>,slur,oesterle1195,2.5,0.0,Slur
+14,14,<music21.spanner.Slur <music21.chord.Chord F4 A4><music21.note.Note C>>,slur,oesterle1196,2.5,0.0,Slur
+14,14,<music21.dynamics.Crescendo <music21.note.Note C><music21.note.Note B->>,diminuendo,oesterle1307,,,DynamicRegion
+15,,<music21.note.Note A>,note,oesterle291,0.5,45.0,GeneralNote
+15,,<music21.note.Rest quarter>,note,oesterle292,1.0,45.0,GeneralNote
+15,,<music21.note.Rest dotted-quarter>,note,oesterle293,1.5,45.0,GeneralNote
+15,,<music21.note.Note A>,note,oesterle294,1.5,45.0,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,oesterle295,0.0,0.0,Fingering
+15,,<music21.note.Rest quarter>,note,oesterle296,1.0,45.0,GeneralNote
+15,,<music21.note.Rest dotted-quarter>,note,oesterle297,1.5,45.0,GeneralNote
+15,,<music21.note.Note F>,note,oesterle298,1.0,45.0,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,oesterle299,0.0,0.0,Fingering
+15,,<music21.note.Note G>,note,oesterle300,0.5,45.5,GeneralNote
+15,,<music21.note.Note F>,note,oesterle301,0.5,46.0,GeneralNote
+15,,<music21.note.Rest eighth>,note,oesterle302,0.5,46.0,GeneralNote
+15,,<music21.note.Rest eighth>,note,oesterle303,0.5,46.0,GeneralNote
+15,,<music21.note.Note B->,note,oesterle304,0.5,46.0,GeneralNote
+15,,<music21.note.Note F>,note,oesterle305,0.5,46.5,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,oesterle306,0.0,0.0,Fingering
+15,,<music21.note.Rest quarter>,note,oesterle307,1.0,46.5,GeneralNote
+15,,<music21.note.Rest quarter>,note,oesterle308,1.0,46.5,GeneralNote
+15,,<music21.note.Note A>,note,oesterle309,1.0,46.5,GeneralNote
+15,,<music21.note.Note C>,note,oesterle310,1.5,46.5,GeneralNote
+15,,<music21.articulations.Fingering 4>,fingering,oesterle311,0.0,0.0,Fingering
+15,,<music21.note.Note G>,note,oesterle312,0.5,47.0,GeneralNote
+15,,<music21.note.Note E>,note,oesterle313,0.5,47.5,GeneralNote
+15,,<music21.note.Rest eighth>,note,oesterle314,0.5,47.5,GeneralNote
+15,,<music21.note.Rest eighth>,note,oesterle315,0.5,47.5,GeneralNote
+15,,<music21.note.Note G>,note,oesterle316,0.5,47.5,GeneralNote
+15,15,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,oesterle1197,1.0,0.0,Slur
+15,15,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C>>,slur,oesterle1198,1.5,0.0,Slur
+15,15,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note E>>,diminuendo,oesterle1309,,,DynamicRegion
+16,,<music21.note.Note F>,note,oesterle317,1.5,48.0,GeneralNote
+16,,<music21.articulations.Accent>,accent,oesterle318,0.0,0.0,Articulation
+16,,<music21.note.Note F>,note,oesterle319,0.5,48.0,GeneralNote
+16,,<music21.articulations.Fingering 1>,fingering,oesterle320,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,oesterle321,0.0,0.0,Articulation
+16,,<music21.note.Note C>,note,oesterle322,0.5,48.5,GeneralNote
+16,,<music21.articulations.Fingering 2>,fingering,oesterle323,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,oesterle324,0.0,0.0,Articulation
+16,,<music21.note.Note F>,note,oesterle325,0.5,49.0,GeneralNote
+16,,<music21.articulations.Fingering 5>,fingering,oesterle326,0.0,0.0,Fingering
+16,,<music21.articulations.Staccato>,staccato,oesterle327,0.0,0.0,Articulation
+16,,<music21.note.Note F>,note,oesterle328,0.0,49.5,GeneralNote
+16,,<music21.note.Note F>,note,oesterle329,0.5,49.5,GeneralNote
+16,,<music21.note.Note C>,note,oesterle330,1.5,49.5,GeneralNote
+16,,<music21.articulations.Fingering 5>,fingering,oesterle331,0.0,0.0,Fingering
+16,,<music21.note.Note G>,note,oesterle332,0.5,50.0,GeneralNote
+16,,<music21.articulations.Staccato>,staccato,oesterle333,0.0,0.0,Articulation
+16,,<music21.note.Note C>,note,oesterle334,0.5,50.5,GeneralNote
+16,,<music21.articulations.Staccato>,staccato,oesterle335,0.0,0.0,Articulation
+16,16,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,oesterle1199,1.5,0.0,Slur
+16,16,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G>>,slur,oesterle1200,0.5,0.0,Slur
+16,,<music21.dynamics.Dynamic p>,p,oesterle1282,,,DynamicPoint
+16,,<music21.expressions.TextExpression 'cresc.'>,cresc.,oesterle1338,0.0,49.5,TextExpression
+17,,<music21.note.Note A>,note,oesterle336,1.5,51.0,GeneralNote
+17,,<music21.articulations.Fingering 4>,fingering,oesterle337,0.0,0.0,Fingering
+17,,<music21.articulations.Accent>,accent,oesterle338,0.0,0.0,Articulation
+17,,<music21.note.Note F>,note,oesterle339,1.5,51.0,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,oesterle340,0.0,0.0,Fingering
+17,,<music21.note.Note F>,note,oesterle341,0.5,51.0,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,oesterle342,0.0,0.0,Articulation
+17,,<music21.note.Note C>,note,oesterle343,0.5,51.5,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,oesterle344,0.0,0.0,Fingering
+17,,<music21.articulations.Staccato>,staccato,oesterle345,0.0,0.0,Articulation
+17,,<music21.note.Note F>,note,oesterle346,0.5,52.0,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,oesterle347,0.0,0.0,Articulation
+17,,<music21.note.Note E>,note,oesterle348,0.0,52.5,GeneralNote
+17,,<music21.note.Note A>,note,oesterle349,0.5,52.5,GeneralNote
+17,,<music21.note.Note F>,note,oesterle350,0.5,52.5,GeneralNote
+17,,<music21.note.Note C>,note,oesterle351,1.5,52.5,GeneralNote
+17,,<music21.note.Note G>,note,oesterle352,0.5,53.0,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,oesterle353,0.0,0.0,Articulation
+17,,<music21.note.Note G>,note,oesterle354,0.5,53.0,GeneralNote
+17,,<music21.note.Note C>,note,oesterle355,0.5,53.5,GeneralNote
+17,,<music21.articulations.Staccato>,staccato,oesterle356,0.0,0.0,Articulation
+17,,<music21.note.Rest eighth>,note,oesterle357,0.5,53.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,oesterle358,0.5,53.5,GeneralNote
+17,17,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,oesterle1201,0.5,0.0,Slur
+17,17,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,oesterle1202,1.5,0.0,Slur
+18,,<music21.note.Note A>,note,oesterle359,1.5,54.0,GeneralNote
+18,,<music21.articulations.Fingering 4>,fingering,oesterle360,0.0,0.0,Fingering
+18,,<music21.articulations.Accent>,accent,oesterle361,0.0,0.0,Articulation
+18,,<music21.note.Note F>,note,oesterle362,1.5,54.0,GeneralNote
+18,,<music21.articulations.Fingering 2>,fingering,oesterle363,0.0,0.0,Fingering
+18,,<music21.note.Note F>,note,oesterle364,0.5,54.0,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,oesterle365,0.0,0.0,Articulation
+18,,<music21.note.Note C>,note,oesterle366,0.5,54.5,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,oesterle367,0.0,0.0,Articulation
+18,,<music21.note.Note F>,note,oesterle368,0.5,55.0,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,oesterle369,0.0,0.0,Articulation
+18,,<music21.note.Note E>,note,oesterle370,0.0,55.5,GeneralNote
+18,,<music21.note.Note A>,note,oesterle371,0.5,55.5,GeneralNote
+18,,<music21.note.Note F>,note,oesterle372,0.5,55.5,GeneralNote
+18,,<music21.note.Note C>,note,oesterle373,1.0,55.5,GeneralNote
+18,,<music21.note.Note G>,note,oesterle374,0.5,56.0,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,oesterle375,0.0,0.0,Articulation
+18,,<music21.note.Note G>,note,oesterle376,0.5,56.0,GeneralNote
+18,,<music21.note.Note C>,note,oesterle377,0.5,56.5,GeneralNote
+18,,<music21.articulations.Staccato>,staccato,oesterle378,0.0,0.0,Articulation
+18,,<music21.note.Note E>,note,oesterle379,0.5,56.5,GeneralNote
+18,,<music21.articulations.Fingering 2>,fingering,oesterle380,0.0,0.0,Fingering
+18,,<music21.note.Rest eighth>,note,oesterle381,0.5,56.5,GeneralNote
+18,18,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,oesterle1203,0.5,0.0,Slur
+18,18,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,oesterle1204,1.5,0.0,Slur
+18,19,<music21.spanner.Slur <music21.note.Note E><music21.note.Note F>>,slur,oesterle1205,0.5,0.0,Slur
+18,,<music21.dynamics.Dynamic f>,f,oesterle1283,,,DynamicPoint
+18,19,<music21.dynamics.Crescendo <music21.note.Note C><music21.note.Note A>>,diminuendo,oesterle1311,,,DynamicRegion
+19,,<music21.note.Note F>,note,oesterle382,0.5,57.0,GeneralNote
+19,,<music21.articulations.Fingering 2>,fingering,oesterle383,0.0,0.0,Fingering
+19,,<music21.note.Note A>,note,oesterle384,0.5,57.0,GeneralNote
+19,,<music21.articulations.Fingering 4>,fingering,oesterle385,0.0,0.0,Fingering
+19,,<music21.articulations.Staccato>,staccato,oesterle386,0.0,0.0,Articulation
+19,,<music21.note.Note F>,note,oesterle387,1.5,57.0,GeneralNote
+19,,<music21.note.Rest quarter>,note,oesterle388,1.0,57.0,GeneralNote
+19,,<music21.note.Note G>,note,oesterle389,0.5,57.5,GeneralNote
+19,,<music21.articulations.Fingering 1>,fingering,oesterle390,0.0,0.0,Fingering
+19,,<music21.note.Note B->,note,oesterle391,0.5,57.5,GeneralNote
+19,,<music21.articulations.Fingering 3>,fingering,oesterle392,0.0,0.0,Fingering
+19,,<music21.articulations.Staccato>,staccato,oesterle393,0.0,0.0,Articulation
+19,,<music21.note.Note A>,note,oesterle394,0.5,58.0,GeneralNote
+19,,<music21.note.Note C>,note,oesterle395,0.5,58.0,GeneralNote
+19,,<music21.articulations.Accent>,accent,oesterle396,0.0,0.0,Articulation
+19,,<music21.note.Rest eighth>,note,oesterle397,0.5,58.0,GeneralNote
+19,,<music21.note.Note A>,note,oesterle398,0.5,58.5,GeneralNote
+19,,<music21.note.Note C>,note,oesterle399,0.5,58.5,GeneralNote
+19,,<music21.chord.Chord D4 F4>,note,oesterle400,1.5,58.5,GeneralNote
+19,,<music21.note.Note B->,note,oesterle401,1.5,58.5,GeneralNote
+19,,<music21.articulations.Fingering 4>,fingering,oesterle402,0.0,0.0,Fingering
+19,,<music21.note.Note G>,note,oesterle403,0.5,59.0,GeneralNote
+19,,<music21.note.Note B->,note,oesterle404,0.5,59.0,GeneralNote
+19,,<music21.note.Note F>,note,oesterle405,0.5,59.5,GeneralNote
+19,,<music21.articulations.Fingering 1>,fingering,oesterle406,0.0,0.0,Fingering
+19,,<music21.note.Note A>,note,oesterle407,0.5,59.5,GeneralNote
+19,,<music21.articulations.Fingering 2>,fingering,oesterle408,0.0,0.0,Fingering
+19,19,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B->>,slur,oesterle1206,1.0,0.0,Slur
+19,19,<music21.dynamics.Diminuendo <music21.note.Note A><music21.note.Note F>>,diminuendo,oesterle1313,,,DynamicRegion
+20,,<music21.note.Note G>,note,oesterle409,0.25,60.0,GeneralNote
+20,,<music21.articulations.Fingering 5>,fingering,oesterle410,0.0,0.0,Fingering
+20,,<music21.note.Note C>,note,oesterle411,1.5,60.0,GeneralNote
+20,,<music21.note.Note C>,note,oesterle412,1.5,60.0,GeneralNote
+20,,<music21.note.Note F>,note,oesterle413,0.25,60.25,GeneralNote
+20,,<music21.note.Note E>,note,oesterle414,0.25,60.5,GeneralNote
+20,,<music21.note.Note D>,note,oesterle415,0.25,60.75,GeneralNote
+20,,<music21.note.Note C>,note,oesterle416,0.25,61.0,GeneralNote
+20,,<music21.note.Note B->,note,oesterle417,0.25,61.25,GeneralNote
+20,,<music21.articulations.Fingering 4>,fingering,oesterle418,0.0,0.0,Fingering
+20,,<music21.note.Note A>,note,oesterle419,0.25,61.5,GeneralNote
+20,,<music21.note.Rest quarter>,note,oesterle420,1.0,61.5,GeneralNote
+20,,<music21.note.Rest quarter>,note,oesterle421,1.0,61.5,GeneralNote
+20,,<music21.note.Rest quarter>,note,oesterle422,1.0,61.5,GeneralNote
+20,,<music21.note.Note G>,note,oesterle423,0.25,61.75,GeneralNote
+20,,<music21.note.Note F>,note,oesterle424,0.25,62.0,GeneralNote
+20,,<music21.note.Note E>,note,oesterle425,0.25,62.25,GeneralNote
+20,,<music21.articulations.Fingering 3>,fingering,oesterle426,0.0,0.0,Fingering
+20,,<music21.note.Note D>,note,oesterle427,0.25,62.5,GeneralNote
+20,,<music21.note.Rest eighth>,note,oesterle428,0.5,62.5,GeneralNote
+20,,<music21.note.Rest eighth>,note,oesterle429,0.5,62.5,GeneralNote
+20,,<music21.note.Rest eighth>,note,oesterle430,0.5,62.5,GeneralNote
+20,,<music21.note.Note C>,note,oesterle431,0.25,62.75,GeneralNote
+20,20,<music21.spanner.Slur <music21.note.Note G><music21.note.Note C>>,slur,oesterle1207,2.75,0.0,Slur
+20,,<music21.expressions.TextExpression 'dim.'>,dim.,oesterle1339,0.0,60.0,TextExpression
+21,,<music21.note.Note A>,note,oesterle432,1.5,63.0,GeneralNote
+21,,<music21.articulations.Fingering 4>,fingering,oesterle433,0.0,0.0,Fingering
+21,,<music21.articulations.Accent>,accent,oesterle434,0.0,0.0,Articulation
+21,,<music21.note.Note F>,note,oesterle435,1.5,63.0,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,oesterle436,0.0,0.0,Fingering
+21,,<music21.note.Note F>,note,oesterle437,0.5,63.0,GeneralNote
+21,,<music21.articulations.Fingering 1>,fingering,oesterle438,0.0,0.0,Fingering
+21,,<music21.articulations.Staccato>,staccato,oesterle439,0.0,0.0,Articulation
+21,,<music21.note.Note C>,note,oesterle440,0.5,63.5,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,oesterle441,0.0,0.0,Fingering
+21,,<music21.articulations.Staccato>,staccato,oesterle442,0.0,0.0,Articulation
+21,,<music21.note.Note F>,note,oesterle443,0.5,64.0,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,oesterle444,0.0,0.0,Articulation
+21,,<music21.note.Note E>,note,oesterle445,0.0,64.5,GeneralNote
+21,,<music21.note.Note A>,note,oesterle446,0.5,64.5,GeneralNote
+21,,<music21.note.Note F>,note,oesterle447,0.5,64.5,GeneralNote
+21,,<music21.note.Note C>,note,oesterle448,1.5,64.5,GeneralNote
+21,,<music21.note.Note G>,note,oesterle449,0.5,65.0,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,oesterle450,0.0,0.0,Articulation
+21,,<music21.note.Note G>,note,oesterle451,0.5,65.0,GeneralNote
+21,,<music21.note.Note C>,note,oesterle452,0.5,65.5,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,oesterle453,0.0,0.0,Articulation
+21,,<music21.note.Rest eighth>,note,oesterle454,0.5,65.5,GeneralNote
+21,,<music21.note.Rest eighth>,note,oesterle455,0.5,65.5,GeneralNote
+21,21,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,oesterle1208,0.5,0.0,Slur
+21,21,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,oesterle1209,1.5,0.0,Slur
+21,,<music21.dynamics.Dynamic mf>,mf,oesterle1284,,,DynamicPoint
+21,,<music21.expressions.TextExpression 'cresc.'>,cresc.,oesterle1340,0.0,64.5,TextExpression
+22,,<music21.note.Note A>,note,oesterle456,1.5,66.0,GeneralNote
+22,,<music21.articulations.Accent>,accent,oesterle457,0.0,0.0,Articulation
+22,,<music21.note.Note F>,note,oesterle458,1.5,66.0,GeneralNote
+22,,<music21.note.Note F>,note,oesterle459,0.5,66.0,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,oesterle460,0.0,0.0,Articulation
+22,,<music21.note.Note C>,note,oesterle461,0.5,66.5,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,oesterle462,0.0,0.0,Articulation
+22,,<music21.note.Note F>,note,oesterle463,0.5,67.0,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,oesterle464,0.0,0.0,Articulation
+22,,<music21.note.Note E>,note,oesterle465,0.0,67.5,GeneralNote
+22,,<music21.note.Note A>,note,oesterle466,0.5,67.5,GeneralNote
+22,,<music21.note.Note F>,note,oesterle467,0.5,67.5,GeneralNote
+22,,<music21.note.Note C>,note,oesterle468,1.5,67.5,GeneralNote
+22,,<music21.note.Note G>,note,oesterle469,0.5,68.0,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,oesterle470,0.0,0.0,Articulation
+22,,<music21.note.Note G>,note,oesterle471,0.5,68.0,GeneralNote
+22,,<music21.note.Note C>,note,oesterle472,0.5,68.5,GeneralNote
+22,,<music21.articulations.Staccato>,staccato,oesterle473,0.0,0.0,Articulation
+22,,<music21.note.Rest eighth>,note,oesterle474,0.5,68.5,GeneralNote
+22,,<music21.note.Rest eighth>,note,oesterle475,0.5,68.5,GeneralNote
+22,22,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,oesterle1210,0.5,0.0,Slur
+22,22,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,oesterle1211,1.5,0.0,Slur
+23,,<music21.note.Note A>,note,oesterle476,1.5,69.0,GeneralNote
+23,,<music21.articulations.Fingering 4>,fingering,oesterle477,0.0,0.0,Fingering
+23,,<music21.articulations.Accent>,accent,oesterle478,0.0,0.0,Articulation
+23,,<music21.note.Note F>,note,oesterle479,1.5,69.0,GeneralNote
+23,,<music21.articulations.Fingering 2>,fingering,oesterle480,0.0,0.0,Fingering
+23,,<music21.note.Note F>,note,oesterle481,0.5,69.0,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,oesterle482,0.0,0.0,Articulation
+23,,<music21.note.Note C>,note,oesterle483,0.5,69.5,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,oesterle484,0.0,0.0,Articulation
+23,,<music21.note.Note F>,note,oesterle485,0.5,70.0,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,oesterle486,0.0,0.0,Articulation
+23,,<music21.note.Note E>,note,oesterle487,0.0,70.5,GeneralNote
+23,,<music21.note.Note A>,note,oesterle488,0.5,70.5,GeneralNote
+23,,<music21.note.Note F>,note,oesterle489,0.5,70.5,GeneralNote
+23,,<music21.note.Note C>,note,oesterle490,1.5,70.5,GeneralNote
+23,,<music21.note.Note G>,note,oesterle491,0.5,71.0,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,oesterle492,0.0,0.0,Articulation
+23,,<music21.note.Note G>,note,oesterle493,0.5,71.0,GeneralNote
+23,,<music21.note.Note C>,note,oesterle494,0.5,71.5,GeneralNote
+23,,<music21.articulations.Staccato>,staccato,oesterle495,0.0,0.0,Articulation
+23,,<music21.note.Rest eighth>,note,oesterle496,0.5,71.5,GeneralNote
+23,,<music21.note.Rest eighth>,note,oesterle497,0.5,71.5,GeneralNote
+23,23,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,oesterle1212,0.5,0.0,Slur
+23,23,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,oesterle1213,1.5,0.0,Slur
+23,,<music21.dynamics.Dynamic f>,f,oesterle1285,,,DynamicPoint
+23,,<music21.dynamics.Dynamic p>,p,oesterle1286,,,DynamicPoint
+24,,<music21.note.Note A>,note,oesterle498,0.5,72.0,GeneralNote
+24,,<music21.note.Note F>,note,oesterle499,1.0,72.0,GeneralNote
+24,,<music21.note.Note F>,note,oesterle500,1.0,72.0,GeneralNote
+24,,<music21.note.Note G>,note,oesterle501,0.5,72.5,GeneralNote
+24,,<music21.articulations.Staccato>,staccato,oesterle502,0.0,0.0,Articulation
+24,,<music21.note.Note F>,note,oesterle503,0.5,73.0,GeneralNote
+24,,<music21.articulations.Staccato>,staccato,oesterle504,0.0,0.0,Articulation
+24,,<music21.note.Note D>,note,oesterle505,0.5,73.0,GeneralNote
+24,,<music21.note.Note B->,note,oesterle506,0.5,73.0,GeneralNote
+24,,<music21.note.Note A>,note,oesterle507,0.5,73.5,GeneralNote
+24,,<music21.articulations.Fingering 4>,fingering,oesterle508,0.0,0.0,Fingering
+24,,<music21.note.Note F>,note,oesterle509,0.5,73.5,GeneralNote
+24,,<music21.articulations.Fingering 2>,fingering,oesterle510,0.0,0.0,Fingering
+24,,<music21.note.Note C>,note,oesterle511,1.0,73.5,GeneralNote
+24,,<music21.note.Note B->,note,oesterle512,0.5,74.0,GeneralNote
+24,,<music21.articulations.Staccato>,staccato,oesterle513,0.0,0.0,Articulation
+24,,<music21.note.Note G>,note,oesterle514,0.5,74.0,GeneralNote
+24,,<music21.note.Note G>,note,oesterle515,0.5,74.5,GeneralNote
+24,,<music21.articulations.Fingering 4>,fingering,oesterle516,0.0,0.0,Fingering
+24,,<music21.articulations.Staccato>,staccato,oesterle517,0.0,0.0,Articulation
+24,,<music21.note.Note E>,note,oesterle518,0.5,74.5,GeneralNote
+24,,<music21.articulations.Fingering 2>,fingering,oesterle519,0.0,0.0,Fingering
+24,,<music21.note.Note C>,note,oesterle520,0.5,74.5,GeneralNote
+24,24,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,oesterle1214,0.5,0.0,Slur
+24,24,<music21.spanner.Slur <music21.note.Note A><music21.note.Note B->>,slur,oesterle1215,0.5,0.0,Slur
+24,24,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C>>,slur,oesterle1216,2.5,0.0,Slur
+24,24,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note F>>,diminuendo,oesterle1315,,,DynamicRegion
+24,24,<music21.dynamics.Diminuendo <music21.note.Note A><music21.note.Note G>>,diminuendo,oesterle1317,,,DynamicRegion
+25,,<music21.note.Note F>,note,oesterle521,0.5,75.0,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,oesterle522,0.0,0.0,Fingering
+25,,<music21.note.Note F>,note,oesterle523,1.5,75.0,GeneralNote
+25,,<music21.note.Note G>,note,oesterle524,0.125,75.5,GeneralNote
+25,,<music21.note.Note A>,note,oesterle525,0.125,75.625,GeneralNote
+25,,<music21.note.Note B->,note,oesterle526,0.125,75.75,GeneralNote
+25,,<music21.note.Note C>,note,oesterle527,0.125,75.875,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,oesterle528,0.0,0.0,Fingering
+25,,<music21.note.Note D>,note,oesterle529,0.125,76.0,GeneralNote
+25,,<music21.note.Note E>,note,oesterle530,0.125,76.125,GeneralNote
+25,,<music21.note.Note F>,note,oesterle531,0.125,76.25,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,oesterle532,0.0,0.0,Fingering
+25,,<music21.note.Note G>,note,oesterle533,0.125,76.375,GeneralNote
+25,,<music21.note.Note A>,note,oesterle534,0.5,76.5,GeneralNote
+25,,<music21.chord.Chord F2 F3>,note,oesterle535,1.5,76.5,GeneralNote
+25,,<music21.note.Note C>,note,oesterle536,0.5,77.0,GeneralNote
+25,,<music21.articulations.Staccato>,staccato,oesterle537,0.0,0.0,Articulation
+25,,<music21.note.Note C>,note,oesterle538,0.5,77.5,GeneralNote
+25,,<music21.articulations.Staccato>,staccato,oesterle539,0.0,0.0,Articulation
+25,25,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G>>,slur,oesterle1217,1.375,0.0,Slur
+25,25,<music21.spanner.Slur <music21.note.Note A><music21.note.Note C>>,slur,oesterle1218,0.5,0.0,Slur
+25,,<music21.expressions.TextExpression 'cresc.'>,cresc.,oesterle1341,0.0,75.0,TextExpression
+26,,<music21.note.Note A>,note,oesterle540,0.5,78.0,GeneralNote
+26,,<music21.articulations.Fingering 3>,fingering,oesterle541,0.0,0.0,Fingering
+26,,<music21.chord.Chord F2 F3>,note,oesterle542,1.5,78.0,GeneralNote
+26,,<music21.note.Note C>,note,oesterle543,0.5,78.5,GeneralNote
+26,,<music21.articulations.Staccato>,staccato,oesterle544,0.0,0.0,Articulation
+26,,<music21.note.Note C>,note,oesterle545,0.5,79.0,GeneralNote
+26,,<music21.articulations.Staccato>,staccato,oesterle546,0.0,0.0,Articulation
+26,,<music21.note.Note A>,note,oesterle547,0.5,79.5,GeneralNote
+26,,<music21.chord.Chord F2 F3>,note,oesterle548,1.5,79.5,GeneralNote
+26,,<music21.note.Note C>,note,oesterle549,0.5,80.0,GeneralNote
+26,,<music21.articulations.Staccato>,staccato,oesterle550,0.0,0.0,Articulation
+26,,<music21.note.Note C>,note,oesterle551,0.5,80.5,GeneralNote
+26,,<music21.articulations.Staccato>,staccato,oesterle552,0.0,0.0,Articulation
+26,26,<music21.spanner.Slur <music21.note.Note A><music21.note.Note C>>,slur,oesterle1219,0.5,0.0,Slur
+26,26,<music21.spanner.Slur <music21.note.Note A><music21.note.Note C>>,slur,oesterle1220,0.5,0.0,Slur
+26,,<music21.dynamics.Dynamic f>,f,oesterle1287,,,DynamicPoint
+27,,<music21.note.Note A>,note,oesterle553,1.5,81.0,GeneralNote
+27,,<music21.articulations.Fingering 4>,fingering,oesterle554,0.0,0.0,Fingering
+27,,<music21.note.Note F>,note,oesterle555,1.5,81.0,GeneralNote
+27,,<music21.articulations.Fingering 2>,fingering,oesterle556,0.0,0.0,Fingering
+27,,<music21.chord.Chord F2 F3>,note,oesterle557,1.5,81.0,GeneralNote
+27,,<music21.note.Note E>,note,oesterle558,0.0,82.5,GeneralNote
+27,,<music21.note.Note A>,note,oesterle559,1.0,82.5,GeneralNote
+27,,<music21.note.Note F>,note,oesterle560,1.0,82.5,GeneralNote
+27,,<music21.chord.Chord F2 F3>,note,oesterle561,1.0,82.5,GeneralNote
+27,,<music21.note.Note C>,note,oesterle562,0.5,83.5,GeneralNote
+27,,<music21.articulations.Fingering 1>,fingering,oesterle563,0.0,0.0,Fingering
+27,,<music21.note.Rest eighth>,note,oesterle564,0.5,83.5,GeneralNote
+27,27,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,oesterle1221,1.5,0.0,Slur
+27,,<music21.dynamics.Dynamic p>,p,oesterle1288,,,DynamicPoint
+27,27,<music21.dynamics.Diminuendo <music21.note.Note A><music21.note.Note A>>,diminuendo,oesterle1319,,,DynamicRegion
+28,,<music21.note.Note F>,note,oesterle565,0.5,84.0,GeneralNote
+28,,<music21.articulations.Fingering 2>,fingering,oesterle566,0.0,0.0,Fingering
+28,,<music21.note.Note C>,note,oesterle567,1.5,84.0,GeneralNote
+28,,<music21.chord.Chord F3 A3>,note,oesterle568,1.5,84.0,GeneralNote
+28,,<music21.articulations.Fingering 4>,fingering,oesterle569,0.0,0.0,Fingering
+28,,<music21.note.Note G>,note,oesterle570,0.5,84.5,GeneralNote
+28,,<music21.note.Note A>,note,oesterle571,0.5,85.0,GeneralNote
+28,,<music21.note.Note G>,note,oesterle572,0.5,85.5,GeneralNote
+28,,<music21.articulations.Fingering 2>,fingering,oesterle573,0.0,0.0,Fingering
+28,,<music21.note.Note C>,note,oesterle574,1.5,85.5,GeneralNote
+28,,<music21.chord.Chord E3 G3>,note,oesterle575,1.5,85.5,GeneralNote
+28,,<music21.note.Note A>,note,oesterle576,0.5,86.0,GeneralNote
+28,,<music21.note.Note B->,note,oesterle577,0.5,86.5,GeneralNote
+28,29,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E->>,slur,oesterle1222,5.5,0.0,Slur
+29,,<music21.note.Note A>,note,oesterle578,0.5,87.0,GeneralNote
+29,,<music21.articulations.Fingering 1>,fingering,oesterle579,0.0,0.0,Fingering
+29,,<music21.note.Note C>,note,oesterle580,1.5,87.0,GeneralNote
+29,,<music21.chord.Chord F3 A3>,note,oesterle581,1.5,87.0,GeneralNote
+29,,<music21.note.Note B->,note,oesterle582,0.5,87.5,GeneralNote
+29,,<music21.note.Note C>,note,oesterle583,0.5,88.0,GeneralNote
+29,,<music21.note.Note C>,note,oesterle584,0.5,88.5,GeneralNote
+29,,<music21.note.Note C>,note,oesterle585,1.5,88.5,GeneralNote
+29,,<music21.chord.Chord E-3 G3>,note,oesterle586,1.5,88.5,GeneralNote
+29,,<music21.note.Note D>,note,oesterle587,0.5,89.0,GeneralNote
+29,,<music21.note.Note E->,note,oesterle588,0.5,89.5,GeneralNote
+29,,<music21.expressions.TextExpression 'cresc.'>,cresc.,oesterle1342,0.0,88.0,TextExpression
+30,,<music21.note.Note G>,note,oesterle589,0.5,90.0,GeneralNote
+30,,<music21.note.Note D>,note,oesterle590,1.5,90.0,GeneralNote
+30,,<music21.chord.Chord D3 A3>,note,oesterle591,1.5,90.0,GeneralNote
+30,,<music21.note.Note F#>,note,oesterle592,0.5,90.5,GeneralNote
+30,,<music21.articulations.Fingering 2>,fingering,oesterle593,0.0,0.0,Fingering
+30,,<music21.note.Note G>,note,oesterle594,0.5,91.0,GeneralNote
+30,,<music21.articulations.Fingering 1>,fingering,oesterle595,0.0,0.0,Fingering
+30,,<music21.note.Note A>,note,oesterle596,0.5,91.5,GeneralNote
+30,,<music21.note.Note D>,note,oesterle597,1.5,91.5,GeneralNote
+30,,<music21.chord.Chord F#3 A3>,note,oesterle598,1.5,91.5,GeneralNote
+30,,<music21.articulations.Fingering 4>,fingering,oesterle599,0.0,0.0,Fingering
+30,,<music21.note.Note B->,note,oesterle600,0.5,92.0,GeneralNote
+30,,<music21.note.Note C>,note,oesterle601,0.5,92.5,GeneralNote
+30,31,<music21.spanner.Slur <music21.note.Note G><music21.note.Note F>>,slur,oesterle1223,5.5,0.0,Slur
+31,,<music21.note.Note B->,note,oesterle602,0.5,93.0,GeneralNote
+31,,<music21.articulations.Fingering 3>,fingering,oesterle603,0.0,0.0,Fingering
+31,,<music21.note.Note D>,note,oesterle604,1.5,93.0,GeneralNote
+31,,<music21.chord.Chord G3 B-3>,note,oesterle605,1.5,93.0,GeneralNote
+31,,<music21.note.Note C>,note,oesterle606,0.5,93.5,GeneralNote
+31,,<music21.articulations.Fingering 1>,fingering,oesterle607,0.0,0.0,Fingering
+31,,<music21.note.Note D>,note,oesterle608,0.5,94.0,GeneralNote
+31,,<music21.note.Note D>,note,oesterle609,0.5,94.5,GeneralNote
+31,,<music21.note.Note D>,note,oesterle610,1.5,94.5,GeneralNote
+31,,<music21.chord.Chord F3 A3>,note,oesterle611,1.5,94.5,GeneralNote
+31,,<music21.articulations.Fingering 4>,fingering,oesterle612,0.0,0.0,Fingering
+31,,<music21.note.Note E>,note,oesterle613,0.5,95.0,GeneralNote
+31,,<music21.note.Note F>,note,oesterle614,0.5,95.5,GeneralNote
+31,32,<music21.spanner.Slur <music21.chord.Chord F3 A3><music21.chord.Chord E3 B3>>,slur,oesterle1224,1.5,0.0,Slur
+32,,<music21.note.Note A>,note,oesterle615,0.5,96.0,GeneralNote
+32,,<music21.note.Note E>,note,oesterle616,1.5,96.0,GeneralNote
+32,,<music21.chord.Chord E3 B3>,note,oesterle617,1.5,96.0,GeneralNote
+32,,<music21.note.Note G#>,note,oesterle618,0.5,96.5,GeneralNote
+32,,<music21.articulations.Fingering 2>,fingering,oesterle619,0.0,0.0,Fingering
+32,,<music21.note.Note A>,note,oesterle620,0.5,97.0,GeneralNote
+32,,<music21.articulations.Fingering 1>,fingering,oesterle621,0.0,0.0,Fingering
+32,,<music21.note.Note B>,note,oesterle622,0.5,97.5,GeneralNote
+32,,<music21.note.Note E>,note,oesterle623,1.5,97.5,GeneralNote
+32,,<music21.chord.Chord G#3 B3>,note,oesterle624,1.5,97.5,GeneralNote
+32,,<music21.articulations.Fingering 4>,fingering,oesterle625,0.0,0.0,Fingering
+32,,<music21.note.Note C#>,note,oesterle626,0.5,98.0,GeneralNote
+32,,<music21.note.Note D>,note,oesterle627,0.5,98.5,GeneralNote
+32,33,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,oesterle1225,5.5,0.0,Slur
+32,,<music21.dynamics.Dynamic mf>,mf,oesterle1289,,,DynamicPoint
+33,,<music21.note.Note C#>,note,oesterle628,0.5,99.0,GeneralNote
+33,,<music21.articulations.Fingering 3>,fingering,oesterle629,0.0,0.0,Fingering
+33,,<music21.note.Note E>,note,oesterle630,1.5,99.0,GeneralNote
+33,,<music21.chord.Chord A3 C#4>,note,oesterle631,1.5,99.0,GeneralNote
+33,,<music21.note.Note D>,note,oesterle632,0.5,99.5,GeneralNote
+33,,<music21.articulations.Fingering 1>,fingering,oesterle633,0.0,0.0,Fingering
+33,,<music21.note.Note E>,note,oesterle634,0.5,100.0,GeneralNote
+33,,<music21.note.Note E>,note,oesterle635,0.5,100.5,GeneralNote
+33,,<music21.note.Rest quarter>,note,oesterle636,1.0,100.5,GeneralNote
+33,,<music21.note.Rest quarter>,note,oesterle637,1.0,100.5,GeneralNote
+33,,<music21.chord.Chord C#3 E3 A3>,note,oesterle638,1.5,100.5,GeneralNote
+33,,<music21.note.Note F>,note,oesterle639,0.5,101.0,GeneralNote
+33,,<music21.note.Note G>,note,oesterle640,0.5,101.5,GeneralNote
+33,,<music21.note.Rest eighth>,note,oesterle641,0.5,101.5,GeneralNote
+33,,<music21.note.Rest eighth>,note,oesterle642,0.5,101.5,GeneralNote
+33,,<music21.expressions.TextExpression 'cresc.'>,cresc.,oesterle1343,0.0,100.0,TextExpression
+34,,<music21.note.Note F>,note,oesterle643,0.5,102.0,GeneralNote
+34,,<music21.chord.Chord D3 A3 D4>,note,oesterle644,1.5,102.0,GeneralNote
+34,,<music21.note.Note E>,note,oesterle645,0.5,102.5,GeneralNote
+34,,<music21.note.Note D>,note,oesterle646,0.5,103.0,GeneralNote
+34,,<music21.note.Note A>,note,oesterle647,0.5,103.5,GeneralNote
+34,,<music21.chord.Chord F3 D4>,note,oesterle648,1.0,103.5,GeneralNote
+34,,<music21.articulations.Fingering 4>,fingering,oesterle649,0.0,0.0,Fingering
+34,,<music21.note.Note G>,note,oesterle650,0.5,104.0,GeneralNote
+34,,<music21.note.Note F>,note,oesterle651,0.5,104.5,GeneralNote
+34,,<music21.note.Note G>,note,oesterle652,0.5,104.5,GeneralNote
+34,34,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,oesterle1226,2.5,0.0,Slur
+34,34,<music21.spanner.Slur <music21.chord.Chord F3 D4><music21.note.Note G>>,slur,oesterle1227,1.0,0.0,Slur
+34,,<music21.dynamics.Dynamic f>,f,oesterle1290,,,DynamicPoint
+35,,<music21.note.Note E>,note,oesterle653,1.5,105.0,GeneralNote
+35,,<music21.note.Note A>,note,oesterle654,0.5,105.0,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,oesterle655,0.0,0.0,Fingering
+35,,<music21.note.Note E>,note,oesterle656,0.5,105.5,GeneralNote
+35,,<music21.articulations.Fingering 2>,fingering,oesterle657,0.0,0.0,Fingering
+35,,<music21.note.Note C#>,note,oesterle658,0.5,106.0,GeneralNote
+35,,<music21.articulations.Fingering 3>,fingering,oesterle659,0.0,0.0,Fingering
+35,,<music21.note.Note D>,note,oesterle660,0.0,106.5,GeneralNote
+35,,<music21.note.Note E>,note,oesterle661,0.5,106.5,GeneralNote
+35,,<music21.articulations.Staccato>,staccato,oesterle662,0.0,0.0,Articulation
+35,,<music21.note.Note A>,note,oesterle663,1.5,106.5,GeneralNote
+35,,<music21.note.Note A>,note,oesterle664,0.5,107.0,GeneralNote
+35,,<music21.articulations.Staccato>,staccato,oesterle665,0.0,0.0,Articulation
+35,,<music21.note.Note A>,note,oesterle666,0.5,107.5,GeneralNote
+35,,<music21.articulations.Staccato>,staccato,oesterle667,0.0,0.0,Articulation
+35,35,<music21.spanner.Slur <music21.note.Note E><music21.note.Note D>>,slur,oesterle1228,1.5,0.0,Slur
+35,35,<music21.spanner.Slur <music21.note.Note A><music21.note.Note A>>,slur,oesterle1229,1.5,0.0,Slur
+35,,<music21.dynamics.Dynamic p>,p,oesterle1291,,,DynamicPoint
+35,35,<music21.dynamics.Diminuendo <music21.note.Note E>>,diminuendo,oesterle1321,,,DynamicRegion
+36,,<music21.note.Note B->,note,oesterle668,1.0,108.0,GeneralNote
+36,,<music21.articulations.Fingering 34>,fingering,oesterle669,0.0,0.0,Fingering
+36,,<music21.articulations.Accent>,accent,oesterle670,0.0,0.0,Articulation
+36,,<music21.chord.Chord D4 F4>,note,oesterle671,1.5,108.0,GeneralNote
+36,,<music21.articulations.Fingering 3>,fingering,oesterle672,0.0,0.0,Fingering
+36,,<music21.articulations.Fingering 1>,fingering,oesterle673,0.0,0.0,Fingering
+36,,<music21.note.Rest dotted-half>,note,oesterle674,3.0,108.0,GeneralNote
+36,,<music21.note.Note A>,note,oesterle675,0.5,109.0,GeneralNote
+36,,<music21.articulations.Fingering 2>,fingering,oesterle676,0.0,0.0,Fingering
+36,,<music21.articulations.Staccato>,staccato,oesterle677,0.0,0.0,Articulation
+36,,<music21.note.Note A>,note,oesterle678,0.5,109.5,GeneralNote
+36,,<music21.articulations.Fingering 1>,fingering,oesterle679,0.0,0.0,Fingering
+36,,<music21.articulations.Staccato>,staccato,oesterle680,0.0,0.0,Articulation
+36,,<music21.chord.Chord C#4 E4>,note,oesterle681,1.5,109.5,GeneralNote
+36,,<music21.note.Note A>,note,oesterle682,0.5,110.0,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,oesterle683,0.0,0.0,Articulation
+36,,<music21.note.Note A>,note,oesterle684,0.5,110.5,GeneralNote
+36,,<music21.articulations.Staccato>,staccato,oesterle685,0.0,0.0,Articulation
+36,36,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A>>,slur,oesterle1230,1.0,0.0,Slur
+36,36,<music21.spanner.Slur <music21.chord.Chord D4 F4><music21.chord.Chord C#4 E4>>,slur,oesterle1231,1.5,0.0,Slur
+37,,<music21.note.Note B->,note,oesterle686,1.0,111.0,GeneralNote
+37,,<music21.articulations.Fingering 34>,fingering,oesterle687,0.0,0.0,Fingering
+37,,<music21.articulations.Accent>,accent,oesterle688,0.0,0.0,Articulation
+37,,<music21.chord.Chord D4 F4>,note,oesterle689,1.5,111.0,GeneralNote
+37,,<music21.note.Rest dotted-half>,note,oesterle690,3.0,111.0,GeneralNote
+37,,<music21.note.Note A>,note,oesterle691,0.5,112.0,GeneralNote
+37,,<music21.articulations.Staccato>,staccato,oesterle692,0.0,0.0,Articulation
+37,,<music21.note.Note A>,note,oesterle693,0.5,112.5,GeneralNote
+37,,<music21.articulations.Fingering 1>,fingering,oesterle694,0.0,0.0,Fingering
+37,,<music21.articulations.Staccato>,staccato,oesterle695,0.0,0.0,Articulation
+37,,<music21.chord.Chord D4 F#4>,note,oesterle696,1.5,112.5,GeneralNote
+37,,<music21.articulations.Fingering 4>,fingering,oesterle697,0.0,0.0,Fingering
+37,,<music21.articulations.Fingering 2>,fingering,oesterle698,0.0,0.0,Fingering
+37,,<music21.note.Note A>,note,oesterle699,0.5,113.0,GeneralNote
+37,,<music21.articulations.Staccato>,staccato,oesterle700,0.0,0.0,Articulation
+37,,<music21.note.Note F#>,note,oesterle701,0.5,113.5,GeneralNote
+37,,<music21.articulations.Staccato>,staccato,oesterle702,0.0,0.0,Articulation
+37,37,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A>>,slur,oesterle1232,1.0,0.0,Slur
+37,39,<music21.spanner.Slur <music21.chord.Chord D4 F#4><music21.chord.Chord D4 F#4 A4>>,slur,oesterle1233,4.5,0.0,Slur
+38,,<music21.note.Note G>,note,oesterle703,0.5,114.0,GeneralNote
+38,,<music21.articulations.Fingering 1>,fingering,oesterle704,0.0,0.0,Fingering
+38,,<music21.chord.Chord E-4 G4>,note,oesterle705,1.5,114.0,GeneralNote
+38,,<music21.note.Rest dotted-half>,note,oesterle706,3.0,114.0,GeneralNote
+38,,<music21.note.Note A>,note,oesterle707,0.5,114.5,GeneralNote
+38,,<music21.note.Note B->,note,oesterle708,0.5,115.0,GeneralNote
+38,,<music21.note.Note C>,note,oesterle709,0.0,115.5,GeneralNote
+38,,<music21.note.Note B->,note,oesterle710,0.5,115.5,GeneralNote
+38,,<music21.chord.Chord C4 E-4 A4>,note,oesterle711,1.5,115.5,GeneralNote
+38,,<music21.note.Note A>,note,oesterle712,0.5,116.0,GeneralNote
+38,,<music21.note.Note G>,note,oesterle713,0.5,116.5,GeneralNote
+38,38,<music21.spanner.Slur <music21.note.Note G><music21.note.Note G>>,slur,oesterle1234,2.5,0.0,Slur
+38,38,<music21.spanner.Slur <music21.note.Note C><music21.note.Note B->>,slur,oesterle1235,0.0,0.0,Slur
+38,,<music21.expressions.TextExpression 'cresc.'>,cresc.,oesterle1344,0.0,115.5,TextExpression
+39,,<music21.note.Note F#>,note,oesterle714,0.5,117.0,GeneralNote
+39,,<music21.articulations.Fingering 3>,fingering,oesterle715,0.0,0.0,Fingering
+39,,<music21.chord.Chord D4 F#4 A4>,note,oesterle716,1.5,117.0,GeneralNote
+39,,<music21.articulations.Fingering 4>,fingering,oesterle717,0.0,0.0,Fingering
+39,,<music21.note.Rest dotted-quarter>,note,oesterle718,1.5,117.0,GeneralNote
+39,,<music21.note.Note G>,note,oesterle719,0.5,117.5,GeneralNote
+39,,<music21.note.Note A>,note,oesterle720,0.5,118.0,GeneralNote
+39,,<music21.note.Note F>,note,oesterle721,0.0,118.5,GeneralNote
+39,,<music21.articulations.Fingering 4>,fingering,oesterle722,0.0,0.0,Fingering
+39,,<music21.note.Note E->,note,oesterle723,0.5,118.5,GeneralNote
+39,,<music21.note.Note D>,note,oesterle724,1.5,118.5,GeneralNote
+39,,<music21.chord.Chord F#3 A3>,note,oesterle725,1.5,118.5,GeneralNote
+39,,<music21.articulations.Fingering 5>,fingering,oesterle726,0.0,0.0,Fingering
+39,,<music21.note.Note D>,note,oesterle727,0.5,119.0,GeneralNote
+39,,<music21.note.Note C>,note,oesterle728,0.5,119.5,GeneralNote
+39,39,<music21.spanner.Slur <music21.note.Note F#><music21.note.Note C>>,slur,oesterle1236,2.5,0.0,Slur
+39,39,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E->>,slur,oesterle1237,0.0,0.0,Slur
+39,,<music21.dynamics.Dynamic f>,f,oesterle1292,,,DynamicPoint
+40,,<music21.note.Note C>,note,oesterle729,0.5,120.0,GeneralNote
+40,,<music21.articulations.Fingering 2>,fingering,oesterle730,0.0,0.0,Fingering
+40,,<music21.note.Rest quarter>,note,oesterle731,1.0,120.0,GeneralNote
+40,,<music21.note.Rest quarter>,note,oesterle732,1.0,120.0,GeneralNote
+40,,<music21.note.Rest quarter>,note,oesterle733,1.0,120.0,GeneralNote
+40,,<music21.note.Rest quarter>,note,oesterle734,1.0,120.0,GeneralNote
+40,,<music21.note.Note G>,note,oesterle735,1.0,120.0,GeneralNote
+40,,<music21.note.Note B->,note,oesterle736,0.5,120.5,GeneralNote
+40,,<music21.note.Note G>,note,oesterle737,0.5,121.0,GeneralNote
+40,,<music21.note.Note G>,note,oesterle738,0.5,121.0,GeneralNote
+40,,<music21.note.Rest eighth>,note,oesterle739,0.5,121.0,GeneralNote
+40,,<music21.note.Note B->,note,oesterle740,0.5,121.5,GeneralNote
+40,,<music21.articulations.Fingering 2>,fingering,oesterle741,0.0,0.0,Fingering
+40,,<music21.note.Rest quarter>,note,oesterle742,1.0,121.5,GeneralNote
+40,,<music21.note.Rest quarter>,note,oesterle743,1.0,121.5,GeneralNote
+40,,<music21.note.Note F>,note,oesterle744,1.0,121.5,GeneralNote
+40,,<music21.note.Note A>,note,oesterle745,0.5,122.0,GeneralNote
+40,,<music21.note.Note F>,note,oesterle746,0.5,122.5,GeneralNote
+40,,<music21.note.Note F>,note,oesterle747,0.5,122.5,GeneralNote
+40,,<music21.note.Rest eighth>,note,oesterle748,0.5,122.5,GeneralNote
+40,43,<music21.spanner.Slur <music21.note.Note C><music21.note.Note E>>,slur,oesterle1238,11.5,0.0,Slur
+40,43,<music21.spanner.Slur <music21.note.Note G><music21.note.Note G>>,slur,oesterle1239,11.5,0.0,Slur
+40,,<music21.expressions.TextExpression 'dim.'>,dim.,oesterle1345,0.0,120.0,TextExpression
+41,,<music21.note.Note A>,note,oesterle749,0.5,123.0,GeneralNote
+41,,<music21.articulations.Fingering 2>,fingering,oesterle750,0.0,0.0,Fingering
+41,,<music21.note.Rest quarter>,note,oesterle751,1.0,123.0,GeneralNote
+41,,<music21.note.Rest quarter>,note,oesterle752,1.0,123.0,GeneralNote
+41,,<music21.note.Rest quarter>,note,oesterle753,1.0,123.0,GeneralNote
+41,,<music21.note.Rest quarter>,note,oesterle754,1.0,123.0,GeneralNote
+41,,<music21.note.Note E>,note,oesterle755,1.0,123.0,GeneralNote
+41,,<music21.note.Note G>,note,oesterle756,0.5,123.5,GeneralNote
+41,,<music21.note.Note E>,note,oesterle757,0.5,124.0,GeneralNote
+41,,<music21.note.Note E>,note,oesterle758,0.5,124.0,GeneralNote
+41,,<music21.note.Rest eighth>,note,oesterle759,0.5,124.0,GeneralNote
+41,,<music21.note.Note G>,note,oesterle760,0.5,124.5,GeneralNote
+41,,<music21.articulations.Fingering 2>,fingering,oesterle761,0.0,0.0,Fingering
+41,,<music21.note.Rest quarter>,note,oesterle762,1.0,124.5,GeneralNote
+41,,<music21.note.Rest quarter>,note,oesterle763,1.0,124.5,GeneralNote
+41,,<music21.note.Note D>,note,oesterle764,1.0,124.5,GeneralNote
+41,,<music21.note.Note F>,note,oesterle765,0.5,125.0,GeneralNote
+41,,<music21.note.Note D>,note,oesterle766,0.5,125.5,GeneralNote
+41,,<music21.note.Note D>,note,oesterle767,0.5,125.5,GeneralNote
+41,,<music21.note.Rest eighth>,note,oesterle768,0.5,125.5,GeneralNote
+42,,<music21.note.Note F>,note,oesterle769,0.5,126.0,GeneralNote
+42,,<music21.articulations.Fingering 2>,fingering,oesterle770,0.0,0.0,Fingering
+42,,<music21.note.Note C>,note,oesterle771,1.0,126.0,GeneralNote
+42,,<music21.note.Note E>,note,oesterle772,0.5,126.5,GeneralNote
+42,,<music21.note.Note C>,note,oesterle773,0.5,127.0,GeneralNote
+42,,<music21.note.Note C>,note,oesterle774,0.5,127.0,GeneralNote
+42,,<music21.note.Note E>,note,oesterle775,0.5,127.5,GeneralNote
+42,,<music21.articulations.Fingering 2>,fingering,oesterle776,0.0,0.0,Fingering
+42,,<music21.note.Note B->,note,oesterle777,1.0,127.5,GeneralNote
+42,,<music21.note.Note D>,note,oesterle778,0.5,128.0,GeneralNote
+42,,<music21.note.Note B->,note,oesterle779,0.5,128.5,GeneralNote
+42,,<music21.note.Note B->,note,oesterle780,0.5,128.5,GeneralNote
+43,,<music21.note.Note D>,note,oesterle781,0.5,129.0,GeneralNote
+43,,<music21.articulations.Fingering 2>,fingering,oesterle782,0.0,0.0,Fingering
+43,,<music21.note.Rest quarter>,note,oesterle783,1.0,129.0,GeneralNote
+43,,<music21.note.Rest dotted-quarter>,note,oesterle784,1.5,129.0,GeneralNote
+43,,<music21.note.Note A>,note,oesterle785,1.0,129.0,GeneralNote
+43,,<music21.note.Rest quarter>,note,oesterle786,1.0,129.0,GeneralNote
+43,,<music21.note.Rest dotted-quarter>,note,oesterle787,1.5,129.0,GeneralNote
+43,,<music21.note.Note C>,note,oesterle788,0.5,129.5,GeneralNote
+43,,<music21.note.Note A>,note,oesterle789,0.5,130.0,GeneralNote
+43,,<music21.note.Rest eighth>,note,oesterle790,0.5,130.0,GeneralNote
+43,,<music21.note.Note A>,note,oesterle791,0.5,130.0,GeneralNote
+43,,<music21.note.Rest eighth>,note,oesterle792,0.5,130.0,GeneralNote
+43,,<music21.note.Rest quarter>,note,oesterle793,1.0,130.5,GeneralNote
+43,,<music21.note.Note C>,note,oesterle794,0.5,130.5,GeneralNote
+43,,<music21.articulations.Fingering 2>,fingering,oesterle795,0.0,0.0,Fingering
+43,,<music21.note.Note G>,note,oesterle796,1.0,130.5,GeneralNote
+43,,<music21.note.Note B->,note,oesterle797,0.5,131.0,GeneralNote
+43,,<music21.note.Rest eighth>,note,oesterle798,0.5,131.5,GeneralNote
+43,,<music21.note.Note E>,note,oesterle799,0.5,131.5,GeneralNote
+43,,<music21.note.Note G>,note,oesterle800,0.5,131.5,GeneralNote
+43,,<music21.dynamics.Dynamic p>,p,oesterle1293,,,DynamicPoint
+44,,<music21.note.Rest quarter>,note,oesterle801,1.0,132.0,GeneralNote
+44,,<music21.note.Note A>,note,oesterle802,0.5,132.0,GeneralNote
+44,,<music21.note.Note F>,note,oesterle803,0.5,132.0,GeneralNote
+44,,<music21.articulations.Fingering 3>,fingering,oesterle804,0.0,0.0,Fingering
+44,,<music21.note.Note B>,note,oesterle805,0.25,132.5,GeneralNote
+44,,<music21.note.Note G>,note,oesterle806,0.25,132.5,GeneralNote
+44,,<music21.note.Note C#>,note,oesterle807,0.25,132.75,GeneralNote
+44,,<music21.note.Note A>,note,oesterle808,0.25,132.75,GeneralNote
+44,,<music21.note.Rest eighth>,note,oesterle809,0.5,133.0,GeneralNote
+44,,<music21.note.Note D>,note,oesterle810,0.25,133.0,GeneralNote
+44,,<music21.articulations.Fingering 1>,fingering,oesterle811,0.0,0.0,Fingering
+44,,<music21.note.Note B>,note,oesterle812,0.25,133.0,GeneralNote
+44,,<music21.articulations.Fingering 3>,fingering,oesterle813,0.0,0.0,Fingering
+44,,<music21.note.Note E>,note,oesterle814,0.25,133.25,GeneralNote
+44,,<music21.note.Note C#>,note,oesterle815,0.25,133.25,GeneralNote
+44,,<music21.note.Note F>,note,oesterle816,0.5,133.5,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,oesterle817,0.0,0.0,Articulation
+44,,<music21.note.Rest quarter>,note,oesterle818,1.0,133.5,GeneralNote
+44,,<music21.note.Note D>,note,oesterle819,0.5,133.5,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,oesterle820,0.0,0.0,Articulation
+44,,<music21.note.Rest quarter>,note,oesterle821,1.0,133.5,GeneralNote
+44,,<music21.note.Note E>,note,oesterle822,0.5,134.0,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,oesterle823,0.0,0.0,Articulation
+44,,<music21.note.Note C>,note,oesterle824,0.5,134.0,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,oesterle825,0.0,0.0,Articulation
+44,,<music21.note.Note D>,note,oesterle826,0.5,134.5,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,oesterle827,0.0,0.0,Articulation
+44,,<music21.note.Rest eighth>,note,oesterle828,0.5,134.5,GeneralNote
+44,,<music21.note.Note B>,note,oesterle829,0.5,134.5,GeneralNote
+44,,<music21.articulations.Staccato>,staccato,oesterle830,0.0,0.0,Articulation
+44,,<music21.note.Rest eighth>,note,oesterle831,0.5,134.5,GeneralNote
+44,44,<music21.spanner.Slur <music21.note.Note D>>,slur,oesterle1240,0.0,0.0,Slur
+44,44,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,oesterle1241,1.5,0.0,Slur
+44,45,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C#><music21.note.Note B->>,slur,oesterle1242,4.5,0.0,Slur
+44,,<music21.expressions.TextExpression 'cresc.'>,cresc.,oesterle1346,0.0,133.5,TextExpression
+45,,<music21.note.Note C#>,note,oesterle832,0.25,135.0,GeneralNote
+45,,<music21.articulations.Fingering 2>,fingering,oesterle833,0.0,0.0,Fingering
+45,,<music21.note.Note A>,note,oesterle834,0.25,135.0,GeneralNote
+45,,<music21.note.Note D>,note,oesterle835,0.25,135.25,GeneralNote
+45,,<music21.articulations.Fingering 1>,fingering,oesterle836,0.0,0.0,Fingering
+45,,<music21.note.Note B>,note,oesterle837,0.25,135.25,GeneralNote
+45,,<music21.note.Note E>,note,oesterle838,0.25,135.5,GeneralNote
+45,,<music21.note.Note C#>,note,oesterle839,0.25,135.5,GeneralNote
+45,,<music21.note.Note F>,note,oesterle840,0.25,135.75,GeneralNote
+45,,<music21.articulations.Fingering 3>,fingering,oesterle841,0.0,0.0,Fingering
+45,,<music21.note.Note D>,note,oesterle842,0.25,135.75,GeneralNote
+45,,<music21.articulations.Fingering 1>,fingering,oesterle843,0.0,0.0,Fingering
+45,,<music21.note.Note G>,note,oesterle844,0.25,136.0,GeneralNote
+45,,<music21.articulations.Fingering 1>,fingering,oesterle845,0.0,0.0,Fingering
+45,,<music21.note.Note E>,note,oesterle846,0.25,136.0,GeneralNote
+45,,<music21.articulations.Fingering 4>,fingering,oesterle847,0.0,0.0,Fingering
+45,,<music21.note.Note A>,note,oesterle848,0.25,136.25,GeneralNote
+45,,<music21.articulations.Fingering 2>,fingering,oesterle849,0.0,0.0,Fingering
+45,,<music21.note.Note F>,note,oesterle850,0.25,136.25,GeneralNote
+45,,<music21.articulations.Fingering 3>,fingering,oesterle851,0.0,0.0,Fingering
+45,,<music21.note.Note B->,note,oesterle852,0.5,136.5,GeneralNote
+45,,<music21.articulations.Fingering 3>,fingering,oesterle853,0.0,0.0,Fingering
+45,,<music21.articulations.Staccato>,staccato,oesterle854,0.0,0.0,Articulation
+45,,<music21.note.Note G>,note,oesterle855,0.5,136.5,GeneralNote
+45,,<music21.articulations.Fingering 2>,fingering,oesterle856,0.0,0.0,Fingering
+45,,<music21.articulations.Staccato>,staccato,oesterle857,0.0,0.0,Articulation
+45,,<music21.note.Note A>,note,oesterle858,0.5,137.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,oesterle859,0.0,0.0,Articulation
+45,,<music21.note.Note F>,note,oesterle860,0.5,137.0,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,oesterle861,0.0,0.0,Articulation
+45,,<music21.note.Note G>,note,oesterle862,0.5,137.5,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,oesterle863,0.0,0.0,Articulation
+45,,<music21.note.Note E>,note,oesterle864,0.5,137.5,GeneralNote
+45,,<music21.articulations.Staccato>,staccato,oesterle865,0.0,0.0,Articulation
+45,45,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,oesterle1243,1.5,0.0,Slur
+46,,<music21.note.Note A>,note,oesterle866,0.5,138.0,GeneralNote
+46,,<music21.articulations.Fingering 2>,fingering,oesterle867,0.0,0.0,Fingering
+46,,<music21.note.Note F>,note,oesterle868,0.5,138.0,GeneralNote
+46,,<music21.articulations.Fingering 3>,fingering,oesterle869,0.0,0.0,Fingering
+46,,<music21.note.Rest dotted-half>,note,oesterle870,3.0,138.0,GeneralNote
+46,,<music21.note.Note B>,note,oesterle871,0.25,138.5,GeneralNote
+46,,<music21.note.Note G>,note,oesterle872,0.25,138.5,GeneralNote
+46,,<music21.note.Note C#>,note,oesterle873,0.25,138.75,GeneralNote
+46,,<music21.note.Note A>,note,oesterle874,0.25,138.75,GeneralNote
+46,,<music21.note.Note D>,note,oesterle875,0.25,139.0,GeneralNote
+46,,<music21.articulations.Fingering 1>,fingering,oesterle876,0.0,0.0,Fingering
+46,,<music21.note.Note B>,note,oesterle877,0.25,139.0,GeneralNote
+46,,<music21.articulations.Fingering 3>,fingering,oesterle878,0.0,0.0,Fingering
+46,,<music21.note.Note E>,note,oesterle879,0.25,139.25,GeneralNote
+46,,<music21.note.Note C#>,note,oesterle880,0.25,139.25,GeneralNote
+46,,<music21.note.Note F>,note,oesterle881,0.5,139.5,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,oesterle882,0.0,0.0,Articulation
+46,,<music21.note.Note D>,note,oesterle883,0.5,139.5,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,oesterle884,0.0,0.0,Articulation
+46,,<music21.note.Note E>,note,oesterle885,0.5,140.0,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,oesterle886,0.0,0.0,Articulation
+46,,<music21.note.Note C#>,note,oesterle887,0.5,140.0,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,oesterle888,0.0,0.0,Articulation
+46,,<music21.note.Note D>,note,oesterle889,0.5,140.5,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,oesterle890,0.0,0.0,Articulation
+46,,<music21.note.Note B>,note,oesterle891,0.5,140.5,GeneralNote
+46,,<music21.articulations.Staccato>,staccato,oesterle892,0.0,0.0,Articulation
+46,46,<music21.spanner.Slur <music21.note.Note A><music21.note.Note F>>,slur,oesterle1244,1.5,0.0,Slur
+46,46,<music21.spanner.Slur <music21.note.Note F><music21.note.Note D>>,slur,oesterle1245,1.5,0.0,Slur
+47,,<music21.note.Note A>,note,oesterle893,1.5,141.0,GeneralNote
+47,,<music21.articulations.Fingering 34>,fingering,oesterle894,0.0,0.0,Fingering
+47,,<music21.note.Note A>,note,oesterle895,0.5,141.0,GeneralNote
+47,,<music21.articulations.Fingering 1>,fingering,oesterle896,0.0,0.0,Fingering
+47,,<music21.articulations.Staccato>,staccato,oesterle897,0.0,0.0,Articulation
+47,,<music21.note.Rest quarter>,note,oesterle898,1.0,141.0,GeneralNote
+47,,<music21.note.Note E>,note,oesterle899,0.5,141.5,GeneralNote
+47,,<music21.articulations.Fingering 2>,fingering,oesterle900,0.0,0.0,Fingering
+47,,<music21.articulations.Staccato>,staccato,oesterle901,0.0,0.0,Articulation
+47,,<music21.note.Note C#>,note,oesterle902,0.5,142.0,GeneralNote
+47,,<music21.articulations.Fingering 3>,fingering,oesterle903,0.0,0.0,Fingering
+47,,<music21.articulations.Staccato>,staccato,oesterle904,0.0,0.0,Articulation
+47,,<music21.note.Rest eighth>,note,oesterle905,0.5,142.0,GeneralNote
+47,,<music21.note.Note G#>,note,oesterle906,0.0,142.5,GeneralNote
+47,,<music21.note.Note A>,note,oesterle907,0.5,142.5,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,oesterle908,0.0,0.0,Articulation
+47,,<music21.note.Rest quarter>,note,oesterle909,1.0,142.5,GeneralNote
+47,,<music21.note.Rest quarter>,note,oesterle910,1.0,142.5,GeneralNote
+47,,<music21.note.Note A>,note,oesterle911,1.0,142.5,GeneralNote
+47,,<music21.note.Note A>,note,oesterle912,0.5,143.0,GeneralNote
+47,,<music21.articulations.Fingering 5>,fingering,oesterle913,0.0,0.0,Fingering
+47,,<music21.articulations.Staccato>,staccato,oesterle914,0.0,0.0,Articulation
+47,,<music21.note.Note A>,note,oesterle915,0.5,143.5,GeneralNote
+47,,<music21.articulations.Staccato>,staccato,oesterle916,0.0,0.0,Articulation
+47,,<music21.note.Rest eighth>,note,oesterle917,0.5,143.5,GeneralNote
+47,,<music21.note.Rest eighth>,note,oesterle918,0.5,143.5,GeneralNote
+47,,<music21.chord.Chord C#4 E4>,note,oesterle919,0.5,143.5,GeneralNote
+47,,<music21.articulations.Fingering 4>,fingering,oesterle920,0.0,0.0,Fingering
+47,,<music21.articulations.Fingering 2>,fingering,oesterle921,0.0,0.0,Fingering
+47,47,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G#>>,slur,oesterle1246,1.5,0.0,Slur
+47,48,<music21.spanner.Slur <music21.chord.Chord C#4 E4><music21.note.Note A>>,slur,oesterle1247,3.0,0.0,Slur
+47,,<music21.dynamics.Dynamic f>,f,oesterle1294,,,DynamicPoint
+47,,<music21.dynamics.Dynamic p>,p,oesterle1295,,,DynamicPoint
+48,,<music21.note.Note B->,note,oesterle922,1.0,144.0,GeneralNote
+48,,<music21.articulations.Fingering 34>,fingering,oesterle923,0.0,0.0,Fingering
+48,,<music21.articulations.Accent>,accent,oesterle924,0.0,0.0,Articulation
+48,,<music21.note.Note F>,note,oesterle925,1.5,144.0,GeneralNote
+48,,<music21.note.Note D>,note,oesterle926,1.5,144.0,GeneralNote
+48,,<music21.note.Note A>,note,oesterle927,0.5,145.0,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,oesterle928,0.0,0.0,Articulation
+48,,<music21.note.Note A>,note,oesterle929,0.5,145.5,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,oesterle930,0.0,0.0,Articulation
+48,,<music21.note.Note E>,note,oesterle931,1.5,145.5,GeneralNote
+48,,<music21.note.Note C#>,note,oesterle932,1.0,145.5,GeneralNote
+48,,<music21.note.Note A>,note,oesterle933,0.5,146.0,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,oesterle934,0.0,0.0,Articulation
+48,,<music21.note.Note A>,note,oesterle935,0.5,146.5,GeneralNote
+48,,<music21.articulations.Staccato>,staccato,oesterle936,0.0,0.0,Articulation
+48,,<music21.note.Note A>,note,oesterle937,0.5,146.5,GeneralNote
+48,48,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A>>,slur,oesterle1248,1.0,0.0,Slur
+49,,<music21.note.Note B->,note,oesterle938,1.0,147.0,GeneralNote
+49,,<music21.articulations.Fingering 34>,fingering,oesterle939,0.0,0.0,Fingering
+49,,<music21.articulations.Accent>,accent,oesterle940,0.0,0.0,Articulation
+49,,<music21.note.Note F>,note,oesterle941,1.5,147.0,GeneralNote
+49,,<music21.articulations.Fingering 1>,fingering,oesterle942,0.0,0.0,Fingering
+49,,<music21.note.Note D>,note,oesterle943,1.5,147.0,GeneralNote
+49,,<music21.articulations.Fingering 3>,fingering,oesterle944,0.0,0.0,Fingering
+49,,<music21.note.Note A>,note,oesterle945,0.5,148.0,GeneralNote
+49,,<music21.articulations.Staccato>,staccato,oesterle946,0.0,0.0,Articulation
+49,,<music21.note.Note A>,note,oesterle947,0.5,148.5,GeneralNote
+49,,<music21.articulations.Fingering 1>,fingering,oesterle948,0.0,0.0,Fingering
+49,,<music21.note.Note E>,note,oesterle949,1.5,148.5,GeneralNote
+49,,<music21.note.Note C#>,note,oesterle950,1.0,148.5,GeneralNote
+49,,<music21.note.Note A>,note,oesterle951,0.5,149.0,GeneralNote
+49,,<music21.note.Note G>,note,oesterle952,0.5,149.5,GeneralNote
+49,,<music21.note.Note A>,note,oesterle953,0.5,149.5,GeneralNote
+49,,<music21.articulations.Accent>,accent,oesterle954,0.0,0.0,Articulation
+49,49,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A>>,slur,oesterle1249,1.0,0.0,Slur
+49,50,<music21.spanner.Slur <music21.note.Note A><music21.note.Note D>>,slur,oesterle1250,2.5,0.0,Slur
+49,49,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,oesterle1251,2.5,0.0,Slur
+49,50,<music21.dynamics.Crescendo <music21.note.Note A><music21.note.Note F>>,diminuendo,oesterle1323,,,DynamicRegion
+50,,<music21.note.Note F>,note,oesterle955,0.5,150.0,GeneralNote
+50,,<music21.note.Note F>,note,oesterle956,1.5,150.0,GeneralNote
+50,,<music21.note.Note D>,note,oesterle957,1.0,150.0,GeneralNote
+50,,<music21.note.Note E>,note,oesterle958,0.5,150.5,GeneralNote
+50,,<music21.note.Note D>,note,oesterle959,0.5,151.0,GeneralNote
+50,,<music21.note.Note G>,note,oesterle960,0.5,151.0,GeneralNote
+50,,<music21.note.Note D>,note,oesterle961,0.5,151.5,GeneralNote
+50,,<music21.articulations.Fingering 3>,fingering,oesterle962,0.0,0.0,Fingering
+50,,<music21.note.Note F>,note,oesterle963,1.0,151.5,GeneralNote
+50,,<music21.note.Note A>,note,oesterle964,1.5,151.5,GeneralNote
+50,,<music21.note.Note E>,note,oesterle965,0.5,152.0,GeneralNote
+50,,<music21.note.Note C#>,note,oesterle966,0.5,152.5,GeneralNote
+50,,<music21.note.Note E>,note,oesterle967,0.5,152.5,GeneralNote
+50,50,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C#>>,slur,oesterle1252,1.0,0.0,Slur
+50,50,<music21.dynamics.Diminuendo <music21.note.Note D><music21.note.Note C#>>,diminuendo,oesterle1325,,,DynamicRegion
+51,,<music21.note.Note D>,note,oesterle968,1.5,153.0,GeneralNote
+51,,<music21.articulations.Fingering 34>,fingering,oesterle969,0.0,0.0,Fingering
+51,,<music21.articulations.Accent>,accent,oesterle970,0.0,0.0,Articulation
+51,,<music21.note.Note D>,note,oesterle971,0.5,153.0,GeneralNote
+51,,<music21.articulations.Staccato>,staccato,oesterle972,0.0,0.0,Articulation
+51,,<music21.note.Note A>,note,oesterle973,0.5,153.5,GeneralNote
+51,,<music21.articulations.Fingering 2>,fingering,oesterle974,0.0,0.0,Fingering
+51,,<music21.articulations.Staccato>,staccato,oesterle975,0.0,0.0,Articulation
+51,,<music21.note.Note D>,note,oesterle976,0.5,154.0,GeneralNote
+51,,<music21.articulations.Staccato>,staccato,oesterle977,0.0,0.0,Articulation
+51,,<music21.note.Note C#>,note,oesterle978,0.0,154.5,GeneralNote
+51,,<music21.note.Note D>,note,oesterle979,0.5,154.5,GeneralNote
+51,,<music21.note.Note A>,note,oesterle980,1.5,154.5,GeneralNote
+51,,<music21.note.Note E>,note,oesterle981,0.5,155.0,GeneralNote
+51,,<music21.articulations.Staccato>,staccato,oesterle982,0.0,0.0,Articulation
+51,,<music21.note.Note A>,note,oesterle983,0.5,155.5,GeneralNote
+51,,<music21.articulations.Staccato>,staccato,oesterle984,0.0,0.0,Articulation
+51,51,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C#>>,slur,oesterle1253,1.5,0.0,Slur
+51,51,<music21.spanner.Slur <music21.note.Note D><music21.note.Note E>>,slur,oesterle1254,0.5,0.0,Slur
+51,,<music21.expressions.TextExpression 'cresc.'>,cresc.,oesterle1347,0.0,154.5,TextExpression
+52,,<music21.note.Note F>,note,oesterle985,1.5,156.0,GeneralNote
+52,,<music21.articulations.Fingering 4>,fingering,oesterle986,0.0,0.0,Fingering
+52,,<music21.articulations.Accent>,accent,oesterle987,0.0,0.0,Articulation
+52,,<music21.note.Note D>,note,oesterle988,1.5,156.0,GeneralNote
+52,,<music21.articulations.Fingering 2>,fingering,oesterle989,0.0,0.0,Fingering
+52,,<music21.note.Note D>,note,oesterle990,0.5,156.0,GeneralNote
+52,,<music21.articulations.Staccato>,staccato,oesterle991,0.0,0.0,Articulation
+52,,<music21.note.Note A>,note,oesterle992,0.5,156.5,GeneralNote
+52,,<music21.articulations.Staccato>,staccato,oesterle993,0.0,0.0,Articulation
+52,,<music21.note.Note D>,note,oesterle994,0.5,157.0,GeneralNote
+52,,<music21.articulations.Staccato>,staccato,oesterle995,0.0,0.0,Articulation
+52,,<music21.note.Note C#>,note,oesterle996,0.0,157.5,GeneralNote
+52,,<music21.note.Note F>,note,oesterle997,0.5,157.5,GeneralNote
+52,,<music21.note.Note D>,note,oesterle998,0.5,157.5,GeneralNote
+52,,<music21.note.Note A>,note,oesterle999,1.5,157.5,GeneralNote
+52,,<music21.note.Note E>,note,oesterle1000,0.5,158.0,GeneralNote
+52,,<music21.articulations.Staccato>,staccato,oesterle1001,0.0,0.0,Articulation
+52,,<music21.note.Note E>,note,oesterle1002,0.5,158.0,GeneralNote
+52,,<music21.note.Note A>,note,oesterle1003,0.5,158.5,GeneralNote
+52,,<music21.articulations.Staccato>,staccato,oesterle1004,0.0,0.0,Articulation
+52,,<music21.note.Rest eighth>,note,oesterle1005,0.5,158.5,GeneralNote
+52,,<music21.note.Rest eighth>,note,oesterle1006,0.5,158.5,GeneralNote
+52,52,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,oesterle1255,1.5,0.0,Slur
+52,52,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,oesterle1256,0.5,0.0,Slur
+52,52,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C#>>,slur,oesterle1257,1.5,0.0,Slur
+53,,<music21.note.Note F>,note,oesterle1007,1.5,159.0,GeneralNote
+53,,<music21.articulations.Accent>,accent,oesterle1008,0.0,0.0,Articulation
+53,,<music21.note.Note D>,note,oesterle1009,1.5,159.0,GeneralNote
+53,,<music21.note.Note D>,note,oesterle1010,0.5,159.0,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,oesterle1011,0.0,0.0,Articulation
+53,,<music21.note.Note A>,note,oesterle1012,0.5,159.5,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,oesterle1013,0.0,0.0,Articulation
+53,,<music21.note.Note D>,note,oesterle1014,0.5,160.0,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,oesterle1015,0.0,0.0,Articulation
+53,,<music21.note.Note C#>,note,oesterle1016,0.0,160.5,GeneralNote
+53,,<music21.note.Note F>,note,oesterle1017,0.5,160.5,GeneralNote
+53,,<music21.note.Note D>,note,oesterle1018,0.5,160.5,GeneralNote
+53,,<music21.note.Note A>,note,oesterle1019,1.0,160.5,GeneralNote
+53,,<music21.note.Note E>,note,oesterle1020,0.5,161.0,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,oesterle1021,0.0,0.0,Articulation
+53,,<music21.note.Rest eighth>,note,oesterle1022,0.5,161.0,GeneralNote
+53,,<music21.note.Rest eighth>,note,oesterle1023,0.5,161.0,GeneralNote
+53,,<music21.note.Note A>,note,oesterle1024,0.5,161.5,GeneralNote
+53,,<music21.articulations.Staccato>,staccato,oesterle1025,0.0,0.0,Articulation
+53,,<music21.note.Rest eighth>,note,oesterle1026,0.5,161.5,GeneralNote
+53,,<music21.note.Rest eighth>,note,oesterle1027,0.5,161.5,GeneralNote
+53,,<music21.note.Note C#>,note,oesterle1028,0.5,161.5,GeneralNote
+53,,<music21.articulations.Fingering 2>,fingering,oesterle1029,0.0,0.0,Fingering
+53,53,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,oesterle1258,1.5,0.0,Slur
+53,53,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,oesterle1259,0.5,0.0,Slur
+53,53,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C#>>,slur,oesterle1260,1.5,0.0,Slur
+53,54,<music21.spanner.Slur <music21.note.Note C#><music21.note.Note D>>,slur,oesterle1261,0.5,0.0,Slur
+53,,<music21.dynamics.Dynamic f>,f,oesterle1296,,,DynamicPoint
+54,,<music21.note.Note F>,note,oesterle1030,0.5,162.0,GeneralNote
+54,,<music21.articulations.Fingering 3>,fingering,oesterle1031,0.0,0.0,Fingering
+54,,<music21.articulations.Staccato>,staccato,oesterle1032,0.0,0.0,Articulation
+54,,<music21.note.Note D>,note,oesterle1033,0.5,162.0,GeneralNote
+54,,<music21.articulations.Fingering 1>,fingering,oesterle1034,0.0,0.0,Fingering
+54,,<music21.note.Note D>,note,oesterle1035,1.5,162.0,GeneralNote
+54,,<music21.chord.Chord D3 A3>,note,oesterle1036,1.5,162.0,GeneralNote
+54,,<music21.note.Note G>,note,oesterle1037,0.5,162.5,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,oesterle1038,0.0,0.0,Articulation
+54,,<music21.note.Note E>,note,oesterle1039,0.5,162.5,GeneralNote
+54,,<music21.note.Note A>,note,oesterle1040,0.5,163.0,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,oesterle1041,0.0,0.0,Articulation
+54,,<music21.note.Note F>,note,oesterle1042,0.5,163.0,GeneralNote
+54,,<music21.note.Note A>,note,oesterle1043,0.5,163.5,GeneralNote
+54,,<music21.note.Note F>,note,oesterle1044,0.5,163.5,GeneralNote
+54,,<music21.note.Note D>,note,oesterle1045,1.5,163.5,GeneralNote
+54,,<music21.chord.Chord G3 B-3>,note,oesterle1046,1.5,163.5,GeneralNote
+54,,<music21.note.Note G>,note,oesterle1047,0.5,164.0,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,oesterle1048,0.0,0.0,Articulation
+54,,<music21.note.Note E>,note,oesterle1049,0.5,164.0,GeneralNote
+54,,<music21.note.Note F>,note,oesterle1050,0.5,164.5,GeneralNote
+54,,<music21.articulations.Staccato>,staccato,oesterle1051,0.0,0.0,Articulation
+54,,<music21.note.Note D>,note,oesterle1052,0.5,164.5,GeneralNote
+54,54,<music21.spanner.Slur <music21.note.Note A><music21.note.Note G>>,slur,oesterle1262,1.0,0.0,Slur
+54,54,<music21.dynamics.Crescendo <music21.note.Note F><music21.note.Note A>>,diminuendo,oesterle1327,,,DynamicRegion
+54,54,<music21.dynamics.Diminuendo <music21.note.Note A><music21.note.Note F>>,diminuendo,oesterle1329,,,DynamicRegion
+55,,<music21.note.Note E>,note,oesterle1053,0.25,165.0,GeneralNote
+55,,<music21.articulations.Fingering 2>,fingering,oesterle1054,0.0,0.0,Fingering
+55,,<music21.chord.Chord A2 A3>,note,oesterle1055,1.5,165.0,GeneralNote
+55,,<music21.note.Note D>,note,oesterle1056,0.25,165.25,GeneralNote
+55,,<music21.note.Note C#>,note,oesterle1057,0.25,165.5,GeneralNote
+55,,<music21.articulations.Fingering 4>,fingering,oesterle1058,0.0,0.0,Fingering
+55,,<music21.note.Note B>,note,oesterle1059,0.25,165.75,GeneralNote
+55,,<music21.note.Note A>,note,oesterle1060,0.25,166.0,GeneralNote
+55,,<music21.note.Note G>,note,oesterle1061,0.25,166.25,GeneralNote
+55,,<music21.note.Note F>,note,oesterle1062,0.25,166.5,GeneralNote
+55,,<music21.articulations.Fingering 3>,fingering,oesterle1063,0.0,0.0,Fingering
+55,,<music21.note.Rest quarter>,note,oesterle1064,1.0,166.5,GeneralNote
+55,,<music21.note.Note E>,note,oesterle1065,0.25,166.75,GeneralNote
+55,,<music21.note.Note D>,note,oesterle1066,0.25,167.0,GeneralNote
+55,,<music21.note.Note C#>,note,oesterle1067,0.25,167.25,GeneralNote
+55,,<music21.articulations.Fingering 3>,fingering,oesterle1068,0.0,0.0,Fingering
+55,,<music21.note.Note B>,note,oesterle1069,0.25,167.5,GeneralNote
+55,,<music21.note.Rest eighth>,note,oesterle1070,0.5,167.5,GeneralNote
+55,,<music21.note.Note A>,note,oesterle1071,0.25,167.75,GeneralNote
+55,55,<music21.spanner.Slur <music21.note.Note E><music21.note.Note A>>,slur,oesterle1263,2.75,0.0,Slur
+55,,<music21.expressions.TextExpression 'dim.'>,dim.,oesterle1348,0.0,165.25,TextExpression
+56,,<music21.note.Note F>,note,oesterle1072,1.5,168.0,GeneralNote
+56,,<music21.articulations.Fingering 4>,fingering,oesterle1073,0.0,0.0,Fingering
+56,,<music21.articulations.Accent>,accent,oesterle1074,0.0,0.0,Articulation
+56,,<music21.note.Note D>,note,oesterle1075,1.5,168.0,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,oesterle1076,0.0,0.0,Fingering
+56,,<music21.note.Note D>,note,oesterle1077,0.5,168.0,GeneralNote
+56,,<music21.articulations.Fingering 1>,fingering,oesterle1078,0.0,0.0,Fingering
+56,,<music21.articulations.Staccato>,staccato,oesterle1079,0.0,0.0,Articulation
+56,,<music21.note.Note A>,note,oesterle1080,0.5,168.5,GeneralNote
+56,,<music21.articulations.Fingering 2>,fingering,oesterle1081,0.0,0.0,Fingering
+56,,<music21.articulations.Staccato>,staccato,oesterle1082,0.0,0.0,Articulation
+56,,<music21.note.Note D>,note,oesterle1083,0.5,169.0,GeneralNote
+56,,<music21.articulations.Staccato>,staccato,oesterle1084,0.0,0.0,Articulation
+56,,<music21.note.Note C#>,note,oesterle1085,0.0,169.5,GeneralNote
+56,,<music21.note.Note F>,note,oesterle1086,0.5,169.5,GeneralNote
+56,,<music21.note.Note D>,note,oesterle1087,0.5,169.5,GeneralNote
+56,,<music21.note.Note A>,note,oesterle1088,1.5,169.5,GeneralNote
+56,,<music21.note.Note E>,note,oesterle1089,0.5,170.0,GeneralNote
+56,,<music21.articulations.Staccato>,staccato,oesterle1090,0.0,0.0,Articulation
+56,,<music21.note.Note E>,note,oesterle1091,0.5,170.0,GeneralNote
+56,,<music21.note.Note A>,note,oesterle1092,0.5,170.5,GeneralNote
+56,,<music21.note.Rest eighth>,note,oesterle1093,0.5,170.5,GeneralNote
+56,,<music21.note.Rest eighth>,note,oesterle1094,0.5,170.5,GeneralNote
+56,56,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,oesterle1264,1.5,0.0,Slur
+56,56,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,oesterle1265,0.5,0.0,Slur
+56,56,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C#>>,slur,oesterle1266,1.5,0.0,Slur
+56,,<music21.expressions.TextExpression 'cresc.'>,cresc.,oesterle1349,0.0,169.5,TextExpression
+57,,<music21.note.Note F>,note,oesterle1095,1.5,171.0,GeneralNote
+57,,<music21.articulations.Accent>,accent,oesterle1096,0.0,0.0,Articulation
+57,,<music21.note.Note D>,note,oesterle1097,1.5,171.0,GeneralNote
+57,,<music21.note.Note D>,note,oesterle1098,0.5,171.0,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,oesterle1099,0.0,0.0,Articulation
+57,,<music21.note.Note A>,note,oesterle1100,0.5,171.5,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,oesterle1101,0.0,0.0,Articulation
+57,,<music21.note.Note D>,note,oesterle1102,0.5,172.0,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,oesterle1103,0.0,0.0,Articulation
+57,,<music21.note.Note C#>,note,oesterle1104,0.0,172.5,GeneralNote
+57,,<music21.note.Note F>,note,oesterle1105,0.5,172.5,GeneralNote
+57,,<music21.note.Note D>,note,oesterle1106,0.5,172.5,GeneralNote
+57,,<music21.note.Note A>,note,oesterle1107,1.5,172.5,GeneralNote
+57,,<music21.note.Note E>,note,oesterle1108,0.5,173.0,GeneralNote
+57,,<music21.articulations.Staccato>,staccato,oesterle1109,0.0,0.0,Articulation
+57,,<music21.note.Note E>,note,oesterle1110,0.5,173.0,GeneralNote
+57,,<music21.note.Note A>,note,oesterle1111,0.5,173.5,GeneralNote
+57,,<music21.note.Rest eighth>,note,oesterle1112,0.5,173.5,GeneralNote
+57,,<music21.note.Rest eighth>,note,oesterle1113,0.5,173.5,GeneralNote
+57,57,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,oesterle1267,1.5,0.0,Slur
+57,57,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,oesterle1268,0.5,0.0,Slur
+57,57,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C#>>,slur,oesterle1269,1.5,0.0,Slur
+57,,<music21.dynamics.Dynamic f>,f,oesterle1297,,,DynamicPoint
+57,,<music21.dynamics.Dynamic p>,p,oesterle1298,,,DynamicPoint
+58,,<music21.note.Note F>,note,oesterle1114,0.5,174.0,GeneralNote
+58,,<music21.articulations.Fingering 4>,fingering,oesterle1115,0.0,0.0,Fingering
+58,,<music21.note.Note D>,note,oesterle1116,1.0,174.0,GeneralNote
+58,,<music21.articulations.Fingering 2>,fingering,oesterle1117,0.0,0.0,Fingering
+58,,<music21.note.Note D>,note,oesterle1118,1.0,174.0,GeneralNote
+58,,<music21.articulations.Fingering 5>,fingering,oesterle1119,0.0,0.0,Fingering
+58,,<music21.note.Note E>,note,oesterle1120,0.5,174.5,GeneralNote
+58,,<music21.note.Note D>,note,oesterle1121,0.5,175.0,GeneralNote
+58,,<music21.note.Rest eighth>,note,oesterle1122,0.5,175.0,GeneralNote
+58,,<music21.note.Rest eighth>,note,oesterle1123,0.5,175.0,GeneralNote
+58,,<music21.note.Note G>,note,oesterle1124,0.5,175.0,GeneralNote
+58,,<music21.note.Note D>,note,oesterle1125,0.5,175.5,GeneralNote
+58,,<music21.articulations.Fingering 3>,fingering,oesterle1126,0.0,0.0,Fingering
+58,,<music21.note.Rest quarter>,note,oesterle1127,1.0,175.5,GeneralNote
+58,,<music21.note.Rest quarter>,note,oesterle1128,1.0,175.5,GeneralNote
+58,,<music21.note.Note A>,note,oesterle1129,1.0,175.5,GeneralNote
+58,,<music21.note.Note E>,note,oesterle1130,0.5,176.0,GeneralNote
+58,,<music21.note.Note C#>,note,oesterle1131,0.5,176.5,GeneralNote
+58,,<music21.note.Rest eighth>,note,oesterle1132,0.5,176.5,GeneralNote
+58,,<music21.note.Rest eighth>,note,oesterle1133,0.5,176.5,GeneralNote
+58,,<music21.note.Note A>,note,oesterle1134,0.5,176.5,GeneralNote
+58,58,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E>>,slur,oesterle1270,0.5,0.0,Slur
+58,58,<music21.spanner.Slur <music21.note.Note D><music21.note.Note E>>,slur,oesterle1271,0.5,0.0,Slur
+58,58,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,oesterle1272,2.5,0.0,Slur
+58,58,<music21.dynamics.Crescendo <music21.note.Note F><music21.note.Note D>>,diminuendo,oesterle1331,,,DynamicRegion
+58,58,<music21.dynamics.Diminuendo <music21.note.Note D><music21.note.Note C#>>,diminuendo,oesterle1333,,,DynamicRegion
+59,,<music21.note.Note D>,note,oesterle1135,0.25,177.0,GeneralNote
+59,,<music21.articulations.Fingering 1>,fingering,oesterle1136,0.0,0.0,Fingering
+59,,<music21.note.Note D>,note,oesterle1137,1.5,177.0,GeneralNote
+59,,<music21.articulations.Fingering 2>,fingering,oesterle1138,0.0,0.0,Fingering
+59,,<music21.note.Note E>,note,oesterle1139,0.25,177.25,GeneralNote
+59,,<music21.note.Note F>,note,oesterle1140,0.25,177.5,GeneralNote
+59,,<music21.note.Note G>,note,oesterle1141,0.25,177.75,GeneralNote
+59,,<music21.articulations.Fingering 1>,fingering,oesterle1142,0.0,0.0,Fingering
+59,,<music21.note.Note A>,note,oesterle1143,0.25,178.0,GeneralNote
+59,,<music21.note.Note B>,note,oesterle1144,0.125,178.25,GeneralNote
+59,,<music21.note.Note C#>,note,oesterle1145,0.125,178.375,GeneralNote
+59,,<music21.note.Note D>,note,oesterle1146,0.5,178.5,GeneralNote
+59,,<music21.articulations.Fingering 1>,fingering,oesterle1147,0.0,0.0,Fingering
+59,,<music21.chord.Chord D2 D3>,note,oesterle1148,1.5,178.5,GeneralNote
+59,,<music21.note.Note A>,note,oesterle1149,0.5,179.0,GeneralNote
+59,,<music21.articulations.Fingering 5>,fingering,oesterle1150,0.0,0.0,Fingering
+59,,<music21.articulations.Staccato>,staccato,oesterle1151,0.0,0.0,Articulation
+59,,<music21.note.Note A>,note,oesterle1152,0.5,179.5,GeneralNote
+59,,<music21.articulations.Staccato>,staccato,oesterle1153,0.0,0.0,Articulation
+59,59,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C#>>,slur,oesterle1273,1.375,0.0,Slur
+59,59,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,oesterle1274,0.5,0.0,Slur
+59,,<music21.expressions.TextExpression 'cresc.'>,cresc.,oesterle1350,0.0,177.0,TextExpression
+60,,<music21.note.Note D>,note,oesterle1154,0.5,180.0,GeneralNote
+60,,<music21.articulations.Fingering 2>,fingering,oesterle1155,0.0,0.0,Fingering
+60,,<music21.chord.Chord D2 D3>,note,oesterle1156,1.5,180.0,GeneralNote
+60,,<music21.note.Note A>,note,oesterle1157,0.5,180.5,GeneralNote
+60,,<music21.articulations.Staccato>,staccato,oesterle1158,0.0,0.0,Articulation
+60,,<music21.note.Note A>,note,oesterle1159,0.5,181.0,GeneralNote
+60,,<music21.articulations.Staccato>,staccato,oesterle1160,0.0,0.0,Articulation
+60,,<music21.note.Note D>,note,oesterle1161,0.5,181.5,GeneralNote
+60,,<music21.chord.Chord D2 D3>,note,oesterle1162,1.5,181.5,GeneralNote
+60,,<music21.note.Note A>,note,oesterle1163,0.5,182.0,GeneralNote
+60,,<music21.articulations.Staccato>,staccato,oesterle1164,0.0,0.0,Articulation
+60,,<music21.note.Note A>,note,oesterle1165,0.5,182.5,GeneralNote
+60,,<music21.articulations.Staccato>,staccato,oesterle1166,0.0,0.0,Articulation
+60,60,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,oesterle1275,0.5,0.0,Slur
+60,60,<music21.spanner.Slur <music21.note.Note D><music21.note.Note A>>,slur,oesterle1276,0.5,0.0,Slur
+60,,<music21.dynamics.Dynamic f>,f,oesterle1299,,,DynamicPoint
+61,,<music21.note.Note D>,note,oesterle1167,1.5,183.0,GeneralNote
+61,,<music21.articulations.Fingering 34>,fingering,oesterle1168,0.0,0.0,Fingering
+61,,<music21.chord.Chord D2 D3>,note,oesterle1169,1.5,183.0,GeneralNote
+61,,<music21.note.Note C#>,note,oesterle1170,0.0,184.5,GeneralNote
+61,,<music21.note.Note D>,note,oesterle1171,1.0,184.5,GeneralNote
+61,,<music21.chord.Chord D2 D3>,note,oesterle1172,1.0,184.5,GeneralNote
+61,61,<music21.spanner.Slur <music21.note.Note D><music21.note.Note C#>>,slur,oesterle1277,1.5,0.0,Slur
+61,61,<music21.dynamics.Diminuendo <music21.chord.Chord D2 D3><music21.chord.Chord D2 D3>>,diminuendo,oesterle1335,,,DynamicRegion

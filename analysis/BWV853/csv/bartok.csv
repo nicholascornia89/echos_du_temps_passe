@@ -1,0 +1,1199 @@
+measure_start,measure_end,object,value,id,quarterlength,offset,type
+1,,<music21.note.Rest dotted-whole>,note,bartok1,6.0,0.0,GeneralNote
+1,,<music21.note.Note B->,note,bartok2,2.0,0.0,GeneralNote
+1,,<music21.articulations.Fingering 2>,fingering,bartok3,0.0,0.0,Fingering
+1,,<music21.articulations.Tenuto>,tenuto,bartok4,0.0,0.0,Articulation
+1,,<music21.chord.Chord E-4 G-4>,note,bartok5,2.0,0.0,GeneralNote
+1,,<music21.articulations.Fingering 5>,fingering,bartok6,0.0,0.0,Fingering
+1,,<music21.articulations.Tenuto>,tenuto,bartok7,0.0,0.0,Articulation
+1,,<music21.articulations.Fingering 3>,fingering,bartok8,0.0,0.0,Fingering
+1,,<music21.note.Rest dotted-whole>,note,bartok9,6.0,0.0,GeneralNote
+1,,<music21.note.Rest quarter>,note,bartok10,1.0,2.0,GeneralNote
+1,,<music21.chord.Chord E-4 G-4>,note,bartok11,2.0,2.0,GeneralNote
+1,,<music21.articulations.Tenuto>,tenuto,bartok12,0.0,0.0,Articulation
+1,,<music21.note.Rest eighth>,note,bartok13,0.5,3.0,GeneralNote
+1,,<music21.note.Note B->,note,bartok14,0.5,3.5,GeneralNote
+1,,<music21.articulations.Fingering 1>,fingering,bartok15,0.0,0.0,Fingering
+1,,<music21.note.Note E->,note,bartok16,1.5,4.0,GeneralNote
+1,,<music21.articulations.Fingering 2>,fingering,bartok17,0.0,0.0,Fingering
+1,,<music21.chord.Chord E-4 G-4>,note,bartok18,2.0,4.0,GeneralNote
+1,,<music21.articulations.Tenuto>,tenuto,bartok19,0.0,0.0,Articulation
+1,,<music21.note.Note G->,note,bartok20,0.5,5.5,GeneralNote
+1,2,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note C->>,slur,bartok1063,2.5,0.0,Slur
+1,,<music21.dynamics.Dynamic pp>,pp,bartok1116,,,DynamicPoint
+1,,<music21.expressions.TextExpression 'Lento'>,Lento,bartok1205,0.0,0.0,TextExpression
+1,,<music21.expressions.TextExpression 'molto espr...'>,molto espressivo,bartok1206,0.0,0.0,TextExpression
+1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None,bartok1230,0.0,0.0,TempoIndication
+1,,<music21.tempo.MetronomeMark andante Quarter=72>,andante,bartok1231,0.0,0.0,TempoIndication
+1,,<music21.tempo.MetronomeMark Quarter=52.5 (playback only)>,None None,bartok1232,0.0,0.0,MetronomeMark
+1,,<music21.tempo.MetronomeMark andante Quarter=72>,andante 72,bartok1233,0.0,0.0,MetronomeMark
+2,,<music21.note.Rest dotted-whole>,note,bartok21,6.0,6.0,GeneralNote
+2,,<music21.note.Note C->,note,bartok22,2.0,6.0,GeneralNote
+2,,<music21.chord.Chord E-4 A-4>,note,bartok23,2.0,6.0,GeneralNote
+2,,<music21.articulations.Tenuto>,tenuto,bartok24,0.0,0.0,Articulation
+2,,<music21.note.Rest dotted-whole>,note,bartok25,6.0,6.0,GeneralNote
+2,,<music21.note.Rest quarter>,note,bartok26,1.0,8.0,GeneralNote
+2,,<music21.chord.Chord E-4 A-4 C-5>,note,bartok27,2.0,8.0,GeneralNote
+2,,<music21.articulations.Tenuto>,tenuto,bartok28,0.0,0.0,Articulation
+2,,<music21.note.Rest eighth>,note,bartok29,0.5,9.0,GeneralNote
+2,,<music21.note.Note E->,note,bartok30,0.5,9.5,GeneralNote
+2,,<music21.articulations.Fingering 2>,fingering,bartok31,0.0,0.0,Fingering
+2,,<music21.note.Note A->,note,bartok32,1.5,10.0,GeneralNote
+2,,<music21.articulations.Fingering 4>,fingering,bartok33,0.0,0.0,Fingering
+2,,<music21.chord.Chord E-4 A-4 C-5>,note,bartok34,2.0,10.0,GeneralNote
+2,,<music21.articulations.Tenuto>,tenuto,bartok35,0.0,0.0,Articulation
+2,,<music21.note.Note C->,note,bartok36,0.5,11.5,GeneralNote
+2,3,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D>>,slur,bartok1064,2.5,0.0,Slur
+3,,<music21.note.Rest whole>,note,bartok37,4.0,12.0,GeneralNote
+3,,<music21.note.Note D>,note,bartok38,2.0,12.0,GeneralNote
+3,,<music21.articulations.Tenuto>,tenuto,bartok39,0.0,0.0,Articulation
+3,,<music21.chord.Chord E-4 F4 A-4>,note,bartok40,2.0,12.0,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,bartok41,0.0,0.0,Fingering
+3,,<music21.articulations.Tenuto>,tenuto,bartok42,0.0,0.0,Articulation
+3,,<music21.articulations.Fingering 3>,fingering,bartok43,0.0,0.0,Fingering
+3,,<music21.articulations.Fingering 1>,fingering,bartok44,0.0,0.0,Fingering
+3,,<music21.note.Rest dotted-whole>,note,bartok45,6.0,12.0,GeneralNote
+3,,<music21.note.Rest quarter>,note,bartok46,1.0,14.0,GeneralNote
+3,,<music21.chord.Chord D4 F4 A-4>,note,bartok47,2.0,14.0,GeneralNote
+3,,<music21.articulations.Tenuto>,tenuto,bartok48,0.0,0.0,Articulation
+3,,<music21.note.Rest eighth>,note,bartok49,0.5,15.0,GeneralNote
+3,,<music21.note.Note F>,note,bartok50,0.5,15.5,GeneralNote
+3,,<music21.note.Note B->,note,bartok51,1/6,16.0,GeneralNote
+3,,<music21.note.Note A->,note,bartok52,1.0,16.0,GeneralNote
+3,,<music21.chord.Chord D4 F4>,note,bartok53,2.0,16.0,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,bartok54,0.0,0.0,Fingering
+3,,<music21.articulations.Tenuto>,tenuto,bartok55,0.0,0.0,Articulation
+3,,<music21.articulations.Fingering 2>,fingering,bartok56,0.0,0.0,Fingering
+3,,<music21.note.Note A->,note,bartok57,1/6,97/6,GeneralNote
+3,,<music21.note.Note B->,note,bartok58,1/6,49/3,GeneralNote
+3,,<music21.note.Note A->,note,bartok59,0.5,16.5,GeneralNote
+3,,<music21.note.Rest quarter>,note,bartok60,1.0,17.0,GeneralNote
+3,,<music21.note.Note A->,note,bartok61,0.25,17.0,GeneralNote
+3,,<music21.note.Note G->,note,bartok62,0.25,17.25,GeneralNote
+3,,<music21.articulations.Fingering 1>,fingering,bartok63,0.0,0.0,Fingering
+3,,<music21.note.Note A->,note,bartok64,0.25,17.5,GeneralNote
+3,,<music21.articulations.Fingering 3>,fingering,bartok65,0.0,0.0,Fingering
+3,,<music21.note.Note B->,note,bartok66,0.25,17.75,GeneralNote
+3,,<music21.articulations.Fingering 4>,fingering,bartok67,0.0,0.0,Fingering
+3,4,<music21.spanner.Slur <music21.note.Note F><music21.note.Note G->>,slur,bartok1065,4.5,0.0,Slur
+3,3,<music21.dynamics.Crescendo <music21.note.Note A-><music21.note.Note B->>,diminuendo,bartok1136,,,DynamicRegion
+4,,<music21.note.Note A->,note,bartok68,0.125,18.0,GeneralNote
+4,,<music21.note.Note B->,note,bartok69,1.5,18.0,GeneralNote
+4,,<music21.articulations.Fingering 32>,fingering,bartok70,0.0,0.0,Fingering
+4,,<music21.articulations.Staccato>,staccato,bartok71,0.0,0.0,Articulation
+4,,<music21.note.Note E->,note,bartok72,2.0,18.0,GeneralNote
+4,,<music21.articulations.Tenuto>,tenuto,bartok73,0.0,0.0,Articulation
+4,,<music21.note.Rest half>,note,bartok74,2.0,18.0,GeneralNote
+4,,<music21.note.Note G->,note,bartok75,0.125,18.125,GeneralNote
+4,,<music21.note.Note A->,note,bartok76,0.125,18.25,GeneralNote
+4,,<music21.note.Note G->,note,bartok77,0.125,18.375,GeneralNote
+4,,<music21.note.Note A->,note,bartok78,0.125,18.5,GeneralNote
+4,,<music21.note.Note G->,note,bartok79,0.125,18.625,GeneralNote
+4,,<music21.note.Note A->,note,bartok80,0.125,18.75,GeneralNote
+4,,<music21.note.Note G->,note,bartok81,0.125,18.875,GeneralNote
+4,,<music21.note.Note A->,note,bartok82,0.125,19.0,GeneralNote
+4,,<music21.note.Note G->,note,bartok83,0.125,19.125,GeneralNote
+4,,<music21.note.Note A->,note,bartok84,0.125,19.25,GeneralNote
+4,,<music21.note.Note G->,note,bartok85,0.125,19.375,GeneralNote
+4,,<music21.note.Note F>,note,bartok86,0.25,19.5,GeneralNote
+4,,<music21.note.Note F>,note,bartok87,0.25,19.5,GeneralNote
+4,,<music21.articulations.Fingering 1>,fingering,bartok88,0.0,0.0,Fingering
+4,,<music21.note.Note E->,note,bartok89,0.25,19.75,GeneralNote
+4,,<music21.note.Note E->,note,bartok90,0.25,19.75,GeneralNote
+4,,<music21.articulations.Fingering 2>,fingering,bartok91,0.0,0.0,Fingering
+4,,<music21.note.Rest half>,note,bartok92,2.0,20.0,GeneralNote
+4,,<music21.note.Rest half>,note,bartok93,2.0,20.0,GeneralNote
+4,,<music21.note.Note G->,note,bartok94,2.0,20.0,GeneralNote
+4,,<music21.articulations.Tenuto>,tenuto,bartok95,0.0,0.0,Articulation
+4,,<music21.note.Rest quarter>,note,bartok96,1.0,20.0,GeneralNote
+4,,<music21.note.Rest eighth>,note,bartok97,0.5,21.0,GeneralNote
+4,,<music21.note.Note B->,note,bartok98,0.5,21.5,GeneralNote
+4,,<music21.note.Rest half>,note,bartok99,2.0,22.0,GeneralNote
+4,,<music21.note.Note G->,note,bartok100,2.0,22.0,GeneralNote
+4,,<music21.articulations.Tenuto>,tenuto,bartok101,0.0,0.0,Articulation
+4,,<music21.chord.Chord G-4 B-4 E-5>,note,bartok102,2.0,22.0,GeneralNote
+4,,<music21.note.Note G->,note,bartok103,1.5,22.0,GeneralNote
+4,,<music21.note.Note E->,note,bartok104,0.5,23.5,GeneralNote
+4,5,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note B->>,slur,bartok1066,2.5,0.0,Slur
+4,4,<music21.dynamics.Diminuendo <music21.note.Note B-><music21.note.Note E->>,diminuendo,bartok1138,,,DynamicRegion
+4,4,<music21.dynamics.Crescendo <music21.note.Note G->>,diminuendo,bartok1140,,,DynamicRegion
+4,,<music21.expressions.TextExpression 'molto espr.'>,molto espr.,bartok1207,0.0,20.0,TextExpression
+5,,<music21.note.Rest dotted-whole>,note,bartok105,6.0,24.0,GeneralNote
+5,,<music21.note.Note G->,note,bartok106,2.0,24.0,GeneralNote
+5,,<music21.articulations.Tenuto>,tenuto,bartok107,0.0,0.0,Articulation
+5,,<music21.chord.Chord G-4 B-4 D-5>,note,bartok108,2.0,24.0,GeneralNote
+5,,<music21.note.Rest half>,note,bartok109,2.0,24.0,GeneralNote
+5,,<music21.note.Rest half>,note,bartok110,2.0,24.0,GeneralNote
+5,,<music21.note.Note B->,note,bartok111,2.0,24.0,GeneralNote
+5,,<music21.note.Rest half>,note,bartok112,2.0,24.0,GeneralNote
+5,,<music21.note.Rest half>,note,bartok113,2.0,24.0,GeneralNote
+5,,<music21.note.Rest whole>,note,bartok114,4.0,26.0,GeneralNote
+5,,<music21.note.Rest quarter>,note,bartok115,1.0,26.0,GeneralNote
+5,,<music21.note.Note B->,note,bartok116,2.0,26.0,GeneralNote
+5,,<music21.chord.Chord D-3 G-3 B-3>,note,bartok117,2.0,26.0,GeneralNote
+5,,<music21.articulations.Tenuto>,tenuto,bartok118,0.0,0.0,Articulation
+5,,<music21.note.Rest 16th>,note,bartok119,0.25,27.0,GeneralNote
+5,,<music21.note.Note G->,note,bartok120,0.25,27.25,GeneralNote
+5,,<music21.note.Note F->,note,bartok121,0.25,27.5,GeneralNote
+5,,<music21.note.Note E->,note,bartok122,0.25,27.75,GeneralNote
+5,,<music21.note.Note F->,note,bartok123,1.5,28.0,GeneralNote
+5,,<music21.note.Note B->,note,bartok124,2.0,28.0,GeneralNote
+5,,<music21.chord.Chord D-3 G-3 B-3>,note,bartok125,2.0,28.0,GeneralNote
+5,,<music21.articulations.Tenuto>,tenuto,bartok126,0.0,0.0,Articulation
+5,,<music21.note.Note D->,note,bartok127,0.5,29.5,GeneralNote
+5,6,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note E->>,slur,bartok1067,2.75,0.0,Slur
+5,,<music21.dynamics.Dynamic mp>,mp,bartok1117,,,DynamicPoint
+6,,<music21.note.Rest dotted-whole>,note,bartok128,6.0,30.0,GeneralNote
+6,,<music21.note.Note E->,note,bartok129,2.0,30.0,GeneralNote
+6,,<music21.articulations.Tenuto>,tenuto,bartok130,0.0,0.0,Articulation
+6,,<music21.chord.Chord E-4 G-4 C-5>,note,bartok131,2.0,30.0,GeneralNote
+6,,<music21.chord.Chord E-3 G-3 C-4>,note,bartok132,2.0,30.0,GeneralNote
+6,,<music21.note.Note C->,note,bartok133,2.0,30.0,GeneralNote
+6,,<music21.note.Note E->,note,bartok134,2.0,32.0,GeneralNote
+6,,<music21.articulations.Fingering 4>,fingering,bartok135,0.0,0.0,Fingering
+6,,<music21.articulations.Tenuto>,tenuto,bartok136,0.0,0.0,Articulation
+6,,<music21.chord.Chord G-4 C-5>,note,bartok137,2.0,32.0,GeneralNote
+6,,<music21.note.Rest half>,note,bartok138,2.0,32.0,GeneralNote
+6,,<music21.note.Rest quarter>,note,bartok139,1.0,32.0,GeneralNote
+6,,<music21.note.Rest half>,note,bartok140,2.0,32.0,GeneralNote
+6,,<music21.note.Rest eighth>,note,bartok141,0.5,33.0,GeneralNote
+6,,<music21.note.Note G->,note,bartok142,0.5,33.5,GeneralNote
+6,,<music21.articulations.Fingering 1>,fingering,bartok143,0.0,0.0,Fingering
+6,,<music21.note.Note E->,note,bartok144,2.0,34.0,GeneralNote
+6,,<music21.articulations.Tenuto>,tenuto,bartok145,0.0,0.0,Articulation
+6,,<music21.chord.Chord G-4 C-5>,note,bartok146,2.0,34.0,GeneralNote
+6,,<music21.note.Rest half>,note,bartok147,2.0,34.0,GeneralNote
+6,,<music21.note.Note E->,note,bartok148,1.5,34.0,GeneralNote
+6,,<music21.articulations.Fingering 2>,fingering,bartok149,0.0,0.0,Fingering
+6,,<music21.note.Rest half>,note,bartok150,2.0,34.0,GeneralNote
+6,,<music21.note.Note C->,note,bartok151,0.5,35.5,GeneralNote
+6,,<music21.articulations.Fingering 3>,fingering,bartok152,0.0,0.0,Fingering
+6,7,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note G>>,slur,bartok1068,2.5,0.0,Slur
+6,,<music21.dynamics.Dynamic pp>,pp,bartok1118,,,DynamicPoint
+6,6,<music21.dynamics.Crescendo <music21.note.Note G-><music21.note.Note C->>,diminuendo,bartok1142,,,DynamicRegion
+7,,<music21.note.Rest dotted-whole>,note,bartok153,6.0,36.0,GeneralNote
+7,,<music21.chord.Chord B-4 E-5 B-5>,note,bartok154,2.0,36.0,GeneralNote
+7,,<music21.articulations.Tenuto>,tenuto,bartok155,0.0,0.0,Articulation
+7,,<music21.note.Note G>,note,bartok156,2.0,36.0,GeneralNote
+7,,<music21.note.Rest quarter>,note,bartok157,1.0,38.0,GeneralNote
+7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,bartok158,2.0,38.0,GeneralNote
+7,,<music21.articulations.Tenuto>,tenuto,bartok159,0.0,0.0,Articulation
+7,,<music21.note.Rest 16th>,note,bartok160,0.25,39.0,GeneralNote
+7,,<music21.note.Note E->,note,bartok161,0.25,39.25,GeneralNote
+7,,<music21.articulations.Fingering 3>,fingering,bartok162,0.0,0.0,Fingering
+7,,<music21.note.Note D->,note,bartok163,0.25,39.5,GeneralNote
+7,,<music21.note.Note C->,note,bartok164,0.25,39.75,GeneralNote
+7,,<music21.note.Note D->,note,bartok165,1.5,40.0,GeneralNote
+7,,<music21.articulations.Fingering 4>,fingering,bartok166,0.0,0.0,Fingering
+7,,<music21.chord.Chord G2 B-2 E-3 G3>,note,bartok167,2.0,40.0,GeneralNote
+7,,<music21.articulations.Tenuto>,tenuto,bartok168,0.0,0.0,Articulation
+7,,<music21.note.Note B->,note,bartok169,0.5,41.5,GeneralNote
+7,8,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note A->>,slur,bartok1069,4.5,0.0,Slur
+7,,<music21.dynamics.Dynamic mp>,mp,bartok1119,,,DynamicPoint
+8,,<music21.note.Rest dotted-whole>,note,bartok170,6.0,42.0,GeneralNote
+8,,<music21.note.Note C->,note,bartok171,1.5,42.0,GeneralNote
+8,,<music21.articulations.Fingering 43>,fingering,bartok172,0.0,0.0,Fingering
+8,,<music21.note.Rest dotted-quarter>,note,bartok173,1.5,42.0,GeneralNote
+8,,<music21.note.Rest half>,note,bartok174,2.0,42.0,GeneralNote
+8,,<music21.note.Rest dotted-quarter>,note,bartok175,1.5,42.0,GeneralNote
+8,,<music21.note.Rest half>,note,bartok176,2.0,42.0,GeneralNote
+8,,<music21.chord.Chord A-2 C-3 E-3 A-3>,note,bartok177,2.0,42.0,GeneralNote
+8,,<music21.articulations.Tenuto>,tenuto,bartok178,0.0,0.0,Articulation
+8,,<music21.note.Note B->,note,bartok179,0.25,43.5,GeneralNote
+8,,<music21.note.Rest 16th>,note,bartok180,0.25,43.5,GeneralNote
+8,,<music21.note.Rest 16th>,note,bartok181,0.25,43.5,GeneralNote
+8,,<music21.note.Note A->,note,bartok182,0.25,43.75,GeneralNote
+8,,<music21.note.Rest 16th>,note,bartok183,0.25,43.75,GeneralNote
+8,,<music21.note.Rest 16th>,note,bartok184,0.25,43.75,GeneralNote
+8,,<music21.chord.Chord E-5 A-5 C-6>,note,bartok185,2.0,44.0,GeneralNote
+8,,<music21.articulations.Tenuto>,tenuto,bartok186,0.0,0.0,Articulation
+8,,<music21.note.Rest quarter>,note,bartok187,1.0,44.0,GeneralNote
+8,,<music21.note.Rest whole>,note,bartok188,4.0,44.0,GeneralNote
+8,,<music21.note.Rest eighth>,note,bartok189,0.5,45.0,GeneralNote
+8,,<music21.note.Note C->,note,bartok190,0.5,45.5,GeneralNote
+8,,<music21.articulations.Fingering 1>,fingering,bartok191,0.0,0.0,Fingering
+8,,<music21.chord.Chord E-5 A-5 C-6>,note,bartok192,2.0,46.0,GeneralNote
+8,,<music21.articulations.Tenuto>,tenuto,bartok193,0.0,0.0,Articulation
+8,,<music21.note.Note A->,note,bartok194,1.5,46.0,GeneralNote
+8,,<music21.articulations.Fingering 2>,fingering,bartok195,0.0,0.0,Fingering
+8,,<music21.note.Note F>,note,bartok196,0.5,47.5,GeneralNote
+8,,<music21.articulations.Fingering 3>,fingering,bartok197,0.0,0.0,Fingering
+8,9,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,bartok1070,2.5,0.0,Slur
+8,,<music21.dynamics.Dynamic pp>,pp,bartok1120,,,DynamicPoint
+8,8,<music21.dynamics.Diminuendo <music21.note.Note C-><music21.note.Note A->>,diminuendo,bartok1144,,,DynamicRegion
+8,9,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note F>>,diminuendo,bartok1146,,,DynamicRegion
+9,,<music21.note.Rest dotted-whole>,note,bartok198,6.0,48.0,GeneralNote
+9,,<music21.chord.Chord F5 A-5 C-6>,note,bartok199,2.0,48.0,GeneralNote
+9,,<music21.articulations.Fingering 1>,fingering,bartok200,0.0,0.0,Fingering
+9,,<music21.articulations.Fingering 3>,fingering,bartok201,0.0,0.0,Fingering
+9,,<music21.articulations.Fingering 5>,fingering,bartok202,0.0,0.0,Fingering
+9,,<music21.note.Note D>,note,bartok203,2.0,48.0,GeneralNote
+9,,<music21.note.Rest dotted-whole>,note,bartok204,6.0,48.0,GeneralNote
+9,,<music21.note.Rest quarter>,note,bartok205,1.0,50.0,GeneralNote
+9,,<music21.chord.Chord D4 F4 B-4>,note,bartok206,2.0,50.0,GeneralNote
+9,,<music21.articulations.Tenuto>,tenuto,bartok207,0.0,0.0,Articulation
+9,,<music21.note.Rest 16th>,note,bartok208,0.25,51.0,GeneralNote
+9,,<music21.note.Note B->,note,bartok209,0.25,51.25,GeneralNote
+9,,<music21.note.Note A->,note,bartok210,0.25,51.5,GeneralNote
+9,,<music21.note.Note G->,note,bartok211,0.25,51.75,GeneralNote
+9,,<music21.note.Note F>,note,bartok212,0.25,52.0,GeneralNote
+9,,<music21.chord.Chord D4 F4 B-4>,note,bartok213,2.0,52.0,GeneralNote
+9,,<music21.articulations.Tenuto>,tenuto,bartok214,0.0,0.0,Articulation
+9,,<music21.note.Note G->,note,bartok215,0.25,52.25,GeneralNote
+9,,<music21.note.Note F>,note,bartok216,0.25,52.5,GeneralNote
+9,,<music21.note.Note G->,note,bartok217,0.25,52.75,GeneralNote
+9,,<music21.note.Note A->,note,bartok218,0.25,53.0,GeneralNote
+9,,<music21.note.Note G->,note,bartok219,0.25,53.25,GeneralNote
+9,,<music21.note.Note A->,note,bartok220,0.25,53.5,GeneralNote
+9,,<music21.note.Note F>,note,bartok221,0.25,53.75,GeneralNote
+9,10,<music21.spanner.Slur <music21.note.Note B-><music21.chord.Chord B-4 E-5 G-5 B-5>>,slur,bartok1071,4.75,0.0,Slur
+9,,<music21.dynamics.Dynamic p>,p,bartok1121,,,DynamicPoint
+9,10,<music21.dynamics.Crescendo <music21.note.Note B-><music21.note.Note E->>,diminuendo,bartok1148,,,DynamicRegion
+10,,<music21.note.Rest dotted-whole>,note,bartok222,6.0,54.0,GeneralNote
+10,,<music21.note.Note G->,note,bartok223,1.5,54.0,GeneralNote
+10,,<music21.articulations.Fingering 32>,fingering,bartok224,0.0,0.0,Fingering
+10,,<music21.chord.Chord E-4 G-4 B-4>,note,bartok225,2.0,54.0,GeneralNote
+10,,<music21.articulations.Tenuto>,tenuto,bartok226,0.0,0.0,Articulation
+10,,<music21.note.Rest dotted-whole>,note,bartok227,6.0,54.0,GeneralNote
+10,,<music21.note.Note F>,note,bartok228,0.25,55.5,GeneralNote
+10,,<music21.note.Note E->,note,bartok229,0.25,55.75,GeneralNote
+10,,<music21.chord.Chord B-4 E-5 G-5 B-5>,note,bartok230,2.0,56.0,GeneralNote
+10,,<music21.articulations.Tenuto>,tenuto,bartok231,0.0,0.0,Articulation
+10,,<music21.note.Rest quarter>,note,bartok232,1.0,56.0,GeneralNote
+10,,<music21.note.Rest eighth>,note,bartok233,0.5,57.0,GeneralNote
+10,,<music21.note.Note G->,note,bartok234,0.5,57.5,GeneralNote
+10,,<music21.articulations.Fingering 1>,fingering,bartok235,0.0,0.0,Fingering
+10,,<music21.chord.Chord B-4 E-5 G-5 B-5>,note,bartok236,2.0,58.0,GeneralNote
+10,,<music21.articulations.Tenuto>,tenuto,bartok237,0.0,0.0,Articulation
+10,,<music21.note.Note E->,note,bartok238,1.5,58.0,GeneralNote
+10,,<music21.articulations.Fingering 2>,fingering,bartok239,0.0,0.0,Fingering
+10,,<music21.note.Note C>,note,bartok240,0.5,59.5,GeneralNote
+10,,<music21.articulations.Fingering 3>,fingering,bartok241,0.0,0.0,Fingering
+10,11,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note A>>,slur,bartok1072,2.5,0.0,Slur
+10,11,<music21.dynamics.Diminuendo <music21.note.Note G-><music21.note.Rest whole>>,diminuendo,bartok1150,,,DynamicRegion
+11,,<music21.note.Rest dotted-whole>,note,bartok242,6.0,60.0,GeneralNote
+11,,<music21.note.Note C>,note,bartok243,2.0,60.0,GeneralNote
+11,,<music21.articulations.Tenuto>,tenuto,bartok244,0.0,0.0,Articulation
+11,,<music21.chord.Chord C5 E-5 G-5>,note,bartok245,2.0,60.0,GeneralNote
+11,,<music21.note.Rest half>,note,bartok246,2.0,60.0,GeneralNote
+11,,<music21.note.Rest half>,note,bartok247,2.0,60.0,GeneralNote
+11,,<music21.note.Note A>,note,bartok248,2.0,60.0,GeneralNote
+11,,<music21.note.Rest half>,note,bartok249,2.0,60.0,GeneralNote
+11,,<music21.note.Rest half>,note,bartok250,2.0,60.0,GeneralNote
+11,,<music21.note.Rest whole>,note,bartok251,4.0,62.0,GeneralNote
+11,,<music21.note.Rest quarter>,note,bartok252,1.0,62.0,GeneralNote
+11,,<music21.note.Note A>,note,bartok253,2.0,62.0,GeneralNote
+11,,<music21.articulations.Tenuto>,tenuto,bartok254,0.0,0.0,Articulation
+11,,<music21.chord.Chord C4 F4>,note,bartok255,2.0,62.0,GeneralNote
+11,,<music21.note.Rest 16th>,note,bartok256,0.25,63.0,GeneralNote
+11,,<music21.note.Note F>,note,bartok257,0.25,63.25,GeneralNote
+11,,<music21.articulations.Fingering 4>,fingering,bartok258,0.0,0.0,Fingering
+11,,<music21.note.Note E->,note,bartok259,0.25,63.5,GeneralNote
+11,,<music21.note.Note D->,note,bartok260,0.25,63.75,GeneralNote
+11,,<music21.note.Note C>,note,bartok261,0.25,64.0,GeneralNote
+11,,<music21.note.Note A>,note,bartok262,2.0,64.0,GeneralNote
+11,,<music21.articulations.Tenuto>,tenuto,bartok263,0.0,0.0,Articulation
+11,,<music21.chord.Chord C4 F4>,note,bartok264,2.0,64.0,GeneralNote
+11,,<music21.note.Note D->,note,bartok265,0.25,64.25,GeneralNote
+11,,<music21.note.Note C>,note,bartok266,0.25,64.5,GeneralNote
+11,,<music21.note.Note D->,note,bartok267,0.25,64.75,GeneralNote
+11,,<music21.note.Note E->,note,bartok268,0.25,65.0,GeneralNote
+11,,<music21.note.Note D->,note,bartok269,0.25,65.25,GeneralNote
+11,,<music21.note.Note E->,note,bartok270,0.25,65.5,GeneralNote
+11,,<music21.note.Note C>,note,bartok271,0.25,65.75,GeneralNote
+11,12,<music21.spanner.Slur <music21.note.Note F><music21.note.Note B->>,slur,bartok1073,4.5,0.0,Slur
+11,,<music21.dynamics.Dynamic p>,p,bartok1122,,,DynamicPoint
+11,12,<music21.dynamics.Crescendo <music21.note.Note F><music21.note.Note B->>,diminuendo,bartok1152,,,DynamicRegion
+11,,<music21.expressions.TextExpression 'più'>,più,bartok1208,0.0,62.0,TextExpression
+12,,<music21.note.Rest dotted-whole>,note,bartok272,6.0,66.0,GeneralNote
+12,,<music21.note.Note D->,note,bartok273,1.5,66.0,GeneralNote
+12,,<music21.articulations.Fingering 32>,fingering,bartok274,0.0,0.0,Fingering
+12,,<music21.chord.Chord D-4 F4>,note,bartok275,2.0,66.0,GeneralNote
+12,,<music21.note.Note B->,note,bartok276,2.0,66.0,GeneralNote
+12,,<music21.note.Note C>,note,bartok277,0.25,67.5,GeneralNote
+12,,<music21.note.Note B->,note,bartok278,0.25,67.75,GeneralNote
+12,,<music21.chord.Chord B-4 D-5 F5>,note,bartok279,1.0,68.0,GeneralNote
+12,,<music21.articulations.Fingering 1>,fingering,bartok280,0.0,0.0,Fingering
+12,,<music21.articulations.Fingering 2>,fingering,bartok281,0.0,0.0,Fingering
+12,,<music21.articulations.Fingering 4>,fingering,bartok282,0.0,0.0,Fingering
+12,,<music21.chord.Chord D-4 F4>,note,bartok283,2.0,68.0,GeneralNote
+12,,<music21.note.Note B->,note,bartok284,2.0,68.0,GeneralNote
+12,,<music21.note.Note F>,note,bartok285,0.25,69.0,GeneralNote
+12,,<music21.note.Note G->,note,bartok286,0.25,69.25,GeneralNote
+12,,<music21.note.Note F>,note,bartok287,0.25,69.5,GeneralNote
+12,,<music21.note.Note E->,note,bartok288,0.25,69.75,GeneralNote
+12,,<music21.note.Note D->,note,bartok289,0.25,70.0,GeneralNote
+12,,<music21.chord.Chord D-4 F4>,note,bartok290,2.0,70.0,GeneralNote
+12,,<music21.note.Note B->,note,bartok291,2.0,70.0,GeneralNote
+12,,<music21.note.Note C>,note,bartok292,0.25,70.25,GeneralNote
+12,,<music21.note.Note B->,note,bartok293,0.25,70.5,GeneralNote
+12,,<music21.note.Note A->,note,bartok294,0.25,70.75,GeneralNote
+12,,<music21.note.Note G->,note,bartok295,0.5,71.0,GeneralNote
+12,,<music21.note.Note A->,note,bartok296,0.25,71.5,GeneralNote
+12,,<music21.note.Note F>,note,bartok297,0.25,71.75,GeneralNote
+12,13,<music21.spanner.Slur <music21.chord.Chord B-4 D-5 F5><music21.note.Note G->>,slur,bartok1074,4.0,0.0,Slur
+12,12,<music21.dynamics.Diminuendo <music21.note.Note D-><music21.note.Note F>>,diminuendo,bartok1154,,,DynamicRegion
+12,13,<music21.dynamics.Crescendo <music21.note.Note C><music21.note.Note D->>,diminuendo,bartok1156,,,DynamicRegion
+12,,<music21.expressions.TextExpression 'poco'>,poco,bartok1209,0.0,68.0,TextExpression
+12,,<music21.expressions.TextExpression 'cresc.'>,cresc.,bartok1210,0.0,68.0,TextExpression
+13,,<music21.note.Rest dotted-whole>,note,bartok298,6.0,72.0,GeneralNote
+13,,<music21.note.Note G->,note,bartok299,1.0,72.0,GeneralNote
+13,,<music21.articulations.Fingering 3>,fingering,bartok300,0.0,0.0,Fingering
+13,,<music21.note.Note E->,note,bartok301,1.0,72.0,GeneralNote
+13,,<music21.articulations.Fingering 2>,fingering,bartok302,0.0,0.0,Fingering
+13,,<music21.chord.Chord B-3 D-4>,note,bartok303,2.0,72.0,GeneralNote
+13,,<music21.note.Note E->,note,bartok304,2.0,72.0,GeneralNote
+13,,<music21.note.Note G->,note,bartok305,0.5,73.0,GeneralNote
+13,,<music21.articulations.Fingering 1>,fingering,bartok306,0.0,0.0,Fingering
+13,,<music21.note.Rest quarter>,note,bartok307,1.0,73.0,GeneralNote
+13,,<music21.note.Rest quarter>,note,bartok308,1.0,73.0,GeneralNote
+13,,<music21.note.Note B->,note,bartok309,0.25,73.5,GeneralNote
+13,,<music21.note.Note D->,note,bartok310,0.25,73.75,GeneralNote
+13,,<music21.note.Note G->,note,bartok311,1.0,74.0,GeneralNote
+13,,<music21.articulations.Accent>,accent,bartok312,0.0,0.0,Articulation
+13,,<music21.note.Rest half>,note,bartok313,2.0,74.0,GeneralNote
+13,,<music21.note.Rest half>,note,bartok314,2.0,74.0,GeneralNote
+13,,<music21.chord.Chord B-3 C4>,note,bartok315,2.0,74.0,GeneralNote
+13,,<music21.note.Note E->,note,bartok316,2.0,74.0,GeneralNote
+13,,<music21.note.Note G->,note,bartok317,0.25,75.0,GeneralNote
+13,,<music21.note.Note F>,note,bartok318,0.25,75.25,GeneralNote
+13,,<music21.note.Note E->,note,bartok319,0.25,75.5,GeneralNote
+13,,<music21.note.Note D->,note,bartok320,0.25,75.75,GeneralNote
+13,,<music21.note.Note C>,note,bartok321,0.75,76.0,GeneralNote
+13,,<music21.note.Rest half>,note,bartok322,2.0,76.0,GeneralNote
+13,,<music21.note.Rest half>,note,bartok323,2.0,76.0,GeneralNote
+13,,<music21.chord.Chord B-3 C4>,note,bartok324,2.0,76.0,GeneralNote
+13,,<music21.note.Note E->,note,bartok325,2.0,76.0,GeneralNote
+13,,<music21.note.Note E->,note,bartok326,0.125,76.75,GeneralNote
+13,,<music21.note.Note D->,note,bartok327,0.125,76.875,GeneralNote
+13,,<music21.note.Note C>,note,bartok328,0.25,77.0,GeneralNote
+13,,<music21.note.Note D->,note,bartok329,0.25,77.25,GeneralNote
+13,,<music21.note.Note E->,note,bartok330,0.5,77.5,GeneralNote
+13,13,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note E->>,slur,bartok1075,5.5,0.0,Slur
+13,14,<music21.dynamics.Crescendo <music21.note.Note G-><music21.note.Note A>>,diminuendo,bartok1158,,,DynamicRegion
+14,,<music21.note.Rest dotted-whole>,note,bartok331,6.0,78.0,GeneralNote
+14,,<music21.note.Note F>,note,bartok332,0.75,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,bartok333,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,bartok334,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,bartok335,2.0,78.0,GeneralNote
+14,,<music21.note.Rest half>,note,bartok336,2.0,78.0,GeneralNote
+14,,<music21.chord.Chord A3 C4>,note,bartok337,2.0,78.0,GeneralNote
+14,,<music21.note.Note E->,note,bartok338,2.0,78.0,GeneralNote
+14,,<music21.note.Note G>,note,bartok339,0.125,78.75,GeneralNote
+14,,<music21.note.Note A>,note,bartok340,0.125,78.875,GeneralNote
+14,,<music21.note.Note A>,note,bartok341,0.75,79.0,GeneralNote
+14,,<music21.articulations.Fingering 43>,fingering,bartok342,0.0,0.0,Fingering
+14,,<music21.note.Note G>,note,bartok343,0.125,79.75,GeneralNote
+14,,<music21.note.Note A>,note,bartok344,0.125,79.875,GeneralNote
+14,,<music21.note.Note B->,note,bartok345,4.0,80.0,GeneralNote
+14,,<music21.articulations.Fingering 4>,fingering,bartok346,0.0,0.0,Fingering
+14,,<music21.articulations.StrongAccent>,strong accent,bartok347,0.0,0.0,Articulation
+14,,<music21.note.Rest quarter>,note,bartok348,1.0,80.0,GeneralNote
+14,,<music21.chord.Chord F3 B-3>,note,bartok349,2.0,80.0,GeneralNote
+14,,<music21.note.Note D->,note,bartok350,2.0,80.0,GeneralNote
+14,,<music21.note.Rest eighth>,note,bartok351,0.5,81.0,GeneralNote
+14,,<music21.note.Note F>,note,bartok352,0.5,81.5,GeneralNote
+14,,<music21.articulations.Fingering 1>,fingering,bartok353,0.0,0.0,Fingering
+14,,<music21.note.Note G->,note,bartok354,1.5,82.0,GeneralNote
+14,,<music21.articulations.Fingering 3>,fingering,bartok355,0.0,0.0,Fingering
+14,,<music21.note.Note B->,note,bartok356,2.0,82.0,GeneralNote
+14,,<music21.note.Note E->,note,bartok357,2.0,82.0,GeneralNote
+14,,<music21.note.Note E->,note,bartok358,0.5,83.5,GeneralNote
+14,14,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E->>,slur,bartok1076,5.5,0.0,Slur
+14,15,<music21.spanner.Slur <music21.note.Note F><music21.note.Note C>>,slur,bartok1077,3.5,0.0,Slur
+14,,<music21.dynamics.Dynamic mf>,mf,bartok1123,,,DynamicPoint
+14,14,<music21.dynamics.Crescendo <music21.note.Note F><music21.note.Note B->>,diminuendo,bartok1160,,,DynamicRegion
+14,15,<music21.dynamics.Crescendo <music21.note.Note F><music21.chord.Chord C4 A4>>,diminuendo,bartok1162,,,DynamicRegion
+15,,<music21.note.Rest dotted-whole>,note,bartok359,6.0,84.0,GeneralNote
+15,,<music21.note.Note B->,note,bartok360,4.0,84.0,GeneralNote
+15,,<music21.note.Note C>,note,bartok361,1.0,84.0,GeneralNote
+15,,<music21.note.Note F>,note,bartok362,2.0,84.0,GeneralNote
+15,,<music21.note.Note F>,note,bartok363,2.0,84.0,GeneralNote
+15,,<music21.note.Note C>,note,bartok364,0.25,85.0,GeneralNote
+15,,<music21.note.Note D->,note,bartok365,0.25,85.25,GeneralNote
+15,,<music21.note.Note C>,note,bartok366,0.25,85.5,GeneralNote
+15,,<music21.note.Note D->,note,bartok367,0.25,85.75,GeneralNote
+15,,<music21.note.Note E->,note,bartok368,0.25,86.0,GeneralNote
+15,,<music21.note.Note F>,note,bartok369,2.0,86.0,GeneralNote
+15,,<music21.note.Note F>,note,bartok370,2.0,86.0,GeneralNote
+15,,<music21.note.Note D->,note,bartok371,0.25,86.25,GeneralNote
+15,,<music21.note.Note C>,note,bartok372,0.25,86.5,GeneralNote
+15,,<music21.note.Note D->,note,bartok373,0.25,86.75,GeneralNote
+15,,<music21.note.Note E->,note,bartok374,0.25,87.0,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,bartok375,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,bartok376,0.25,87.25,GeneralNote
+15,,<music21.articulations.Fingering 1>,fingering,bartok377,0.0,0.0,Fingering
+15,,<music21.note.Note E->,note,bartok378,0.25,87.5,GeneralNote
+15,,<music21.articulations.Fingering 2>,fingering,bartok379,0.0,0.0,Fingering
+15,,<music21.note.Note F>,note,bartok380,0.25,87.75,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,bartok381,0.0,0.0,Fingering
+15,,<music21.chord.Chord C4 A4>,note,bartok382,2.0,88.0,GeneralNote
+15,,<music21.note.Note G->,note,bartok383,1.0,88.0,GeneralNote
+15,,<music21.note.Note F>,note,bartok384,2.0,88.0,GeneralNote
+15,,<music21.note.Note F>,note,bartok385,2.0,88.0,GeneralNote
+15,,<music21.note.Note F>,note,bartok386,0.75,89.0,GeneralNote
+15,,<music21.articulations.Fingering 3>,fingering,bartok387,0.0,0.0,Fingering
+15,,<music21.note.Note E->,note,bartok388,0.25,89.75,GeneralNote
+15,16,<music21.spanner.Slur <music21.note.Note C><music21.note.Note D->>,slur,bartok1078,5.0,0.0,Slur
+15,15,<music21.dynamics.Crescendo <music21.note.Note C><music21.note.Note G->>,diminuendo,bartok1164,,,DynamicRegion
+15,16,<music21.dynamics.Diminuendo <music21.note.Note F><music21.note.Note F>>,diminuendo,bartok1166,,,DynamicRegion
+15,,<music21.expressions.TextExpression 'calando'>,calando,bartok1211,0.0,88.0,TextExpression
+16,,<music21.note.Rest dotted-whole>,note,bartok389,6.0,90.0,GeneralNote
+16,,<music21.note.Note B->,note,bartok390,1.5,90.0,GeneralNote
+16,,<music21.articulations.Fingering 5>,fingering,bartok391,0.0,0.0,Fingering
+16,,<music21.note.Note D->,note,bartok392,1.5,90.0,GeneralNote
+16,,<music21.articulations.Fingering 1>,fingering,bartok393,0.0,0.0,Fingering
+16,,<music21.note.Note B->,note,bartok394,2.0,90.0,GeneralNote
+16,,<music21.chord.Chord F3 B-3>,note,bartok395,2.0,90.0,GeneralNote
+16,,<music21.chord.Chord E-4 C5>,note,bartok396,0.5,91.5,GeneralNote
+16,,<music21.articulations.Fingering 2>,fingering,bartok397,0.0,0.0,Fingering
+16,,<music21.articulations.Tenuto>,tenuto,bartok398,0.0,0.0,Articulation
+16,,<music21.articulations.Fingering 5>,fingering,bartok399,0.0,0.0,Fingering
+16,,<music21.note.Rest whole>,note,bartok400,4.0,91.5,GeneralNote
+16,,<music21.note.Rest whole>,note,bartok401,4.0,91.5,GeneralNote
+16,,<music21.chord.Chord F4 B-4 D-5>,note,bartok402,2.0,92.0,GeneralNote
+16,,<music21.articulations.Fingering 1>,fingering,bartok403,0.0,0.0,Fingering
+16,,<music21.articulations.Tenuto>,tenuto,bartok404,0.0,0.0,Articulation
+16,,<music21.articulations.Fingering 3>,fingering,bartok405,0.0,0.0,Fingering
+16,,<music21.articulations.Fingering 5>,fingering,bartok406,0.0,0.0,Fingering
+16,,<music21.note.Rest half>,note,bartok407,2.0,92.0,GeneralNote
+16,,<music21.note.Rest quarter>,note,bartok408,1.0,92.0,GeneralNote
+16,,<music21.note.Rest half>,note,bartok409,2.0,92.0,GeneralNote
+16,,<music21.note.Rest eighth>,note,bartok410,0.5,93.0,GeneralNote
+16,,<music21.note.Note B->,note,bartok411,0.5,93.5,GeneralNote
+16,,<music21.articulations.Fingering 4>,fingering,bartok412,0.0,0.0,Fingering
+16,,<music21.chord.Chord F4 B-4 D-5>,note,bartok413,2.0,94.0,GeneralNote
+16,,<music21.articulations.Fingering 1>,fingering,bartok414,0.0,0.0,Fingering
+16,,<music21.articulations.Tenuto>,tenuto,bartok415,0.0,0.0,Articulation
+16,,<music21.articulations.Fingering 2>,fingering,bartok416,0.0,0.0,Fingering
+16,,<music21.articulations.Fingering 4>,fingering,bartok417,0.0,0.0,Fingering
+16,,<music21.note.Rest half>,note,bartok418,2.0,94.0,GeneralNote
+16,,<music21.note.Note D->,note,bartok419,1.5,94.0,GeneralNote
+16,,<music21.note.Rest half>,note,bartok420,2.0,94.0,GeneralNote
+16,,<music21.note.Rest eighth>,note,bartok421,0.5,95.5,GeneralNote
+16,,<music21.note.Rest eighth>,note,bartok422,0.5,95.5,GeneralNote
+16,,<music21.note.Note F>,note,bartok423,0.5,95.5,GeneralNote
+16,17,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note G>>,slur,bartok1079,4.5,0.0,Slur
+16,,<music21.dynamics.Dynamic p>,p,bartok1124,,,DynamicPoint
+16,17,<music21.dynamics.Crescendo <music21.note.Note B-><music21.note.Note B->>,diminuendo,bartok1168,,,DynamicRegion
+17,,<music21.note.Rest dotted-whole>,note,bartok424,6.0,96.0,GeneralNote
+17,,<music21.note.Note D->,note,bartok425,1.5,96.0,GeneralNote
+17,,<music21.chord.Chord F-4 B-4>,note,bartok426,1.5,96.0,GeneralNote
+17,,<music21.note.Note G>,note,bartok427,2.0,96.0,GeneralNote
+17,,<music21.note.Note C->,note,bartok428,0.25,97.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,bartok429,0.5,97.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,bartok430,0.5,97.5,GeneralNote
+17,,<music21.note.Note B->,note,bartok431,0.25,97.75,GeneralNote
+17,,<music21.note.Note F->,note,bartok432,2.0,98.0,GeneralNote
+17,,<music21.articulations.Fingering 4>,fingering,bartok433,0.0,0.0,Fingering
+17,,<music21.articulations.Accent>,accent,bartok434,0.0,0.0,Articulation
+17,,<music21.chord.Chord B-4 D-5>,note,bartok435,2.0,98.0,GeneralNote
+17,,<music21.note.Note G>,note,bartok436,1.0,98.0,GeneralNote
+17,,<music21.note.Note G>,note,bartok437,0.25,99.0,GeneralNote
+17,,<music21.note.Note B->,note,bartok438,0.25,99.25,GeneralNote
+17,,<music21.note.Note A->,note,bartok439,0.25,99.5,GeneralNote
+17,,<music21.note.Note G>,note,bartok440,0.25,99.75,GeneralNote
+17,,<music21.chord.Chord D-5 F-5>,note,bartok441,1.5,100.0,GeneralNote
+17,,<music21.note.Note B->,note,bartok442,1.5,100.0,GeneralNote
+17,,<music21.note.Note D->,note,bartok443,2.0,100.0,GeneralNote
+17,,<music21.articulations.Fingering 2>,fingering,bartok444,0.0,0.0,Fingering
+17,,<music21.articulations.Accent>,accent,bartok445,0.0,0.0,Articulation
+17,,<music21.note.Note E->,note,bartok446,0.25,101.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,bartok447,0.5,101.5,GeneralNote
+17,,<music21.note.Rest eighth>,note,bartok448,0.5,101.5,GeneralNote
+17,,<music21.note.Note D->,note,bartok449,0.25,101.75,GeneralNote
+17,17,<music21.spanner.Slur <music21.note.Note D-><music21.chord.Chord D-5 F-5>>,slur,bartok1080,4.0,0.0,Slur
+17,17,<music21.spanner.Slur <music21.note.Note D-><music21.chord.Chord D-5 F-5>>,slur,bartok1081,4.0,0.0,Slur
+17,18,<music21.spanner.Slur <music21.note.Note E-><music21.chord.Chord B-4 D-5 G5>>,slur,bartok1082,2.5,0.0,Slur
+17,18,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note D->>,slur,bartok1083,2.75,0.0,Slur
+17,18,<music21.dynamics.Crescendo <music21.note.Note B-><music21.chord.Chord B-4 D-5 G5>>,diminuendo,bartok1170,,,DynamicRegion
+17,18,<music21.dynamics.Crescendo <music21.note.Note E-><music21.note.Note E->>,diminuendo,bartok1172,,,DynamicRegion
+17,17,<music21.dynamics.Crescendo <music21.note.Note G><music21.note.Note G>>,diminuendo,bartok1174,,,DynamicRegion
+17,,<music21.expressions.TextExpression 'cresc.'>,cresc.,bartok1212,0.0,97.5,TextExpression
+18,,<music21.note.Rest dotted-whole>,note,bartok450,6.0,102.0,GeneralNote
+18,,<music21.chord.Chord B-4 D-5 G5>,note,bartok451,2.0,102.0,GeneralNote
+18,,<music21.articulations.Fingering 1>,fingering,bartok452,0.0,0.0,Fingering
+18,,<music21.articulations.Accent>,accent,bartok453,0.0,0.0,Articulation
+18,,<music21.articulations.Fingering 2>,fingering,bartok454,0.0,0.0,Fingering
+18,,<music21.articulations.Fingering 5>,fingering,bartok455,0.0,0.0,Fingering
+18,,<music21.note.Note D->,note,bartok456,1.5,102.0,GeneralNote
+18,,<music21.note.Rest quarter>,note,bartok457,1.0,103.0,GeneralNote
+18,,<music21.note.Rest quarter>,note,bartok458,1.0,103.0,GeneralNote
+18,,<music21.note.Note C->,note,bartok459,0.25,103.5,GeneralNote
+18,,<music21.note.Note B->,note,bartok460,0.25,103.75,GeneralNote
+18,,<music21.chord.Chord B-4 D-5 G5>,note,bartok461,1.5,104.0,GeneralNote
+18,,<music21.note.Note F->,note,bartok462,0.5,104.0,GeneralNote
+18,,<music21.note.Note E->,note,bartok463,0.5,104.5,GeneralNote
+18,,<music21.note.Note F->,note,bartok464,0.5,105.0,GeneralNote
+18,,<music21.note.Note F->,note,bartok465,0.25,105.5,GeneralNote
+18,,<music21.articulations.Fingering 4>,fingering,bartok466,0.0,0.0,Fingering
+18,,<music21.note.Note D->,note,bartok467,0.5,105.5,GeneralNote
+18,,<music21.note.Note E->,note,bartok468,0.25,105.75,GeneralNote
+18,,<music21.articulations.Fingering 3>,fingering,bartok469,0.0,0.0,Fingering
+18,,<music21.chord.Chord C-5 E-5 A-5>,note,bartok470,2.0,106.0,GeneralNote
+18,,<music21.articulations.Fingering 1>,fingering,bartok471,0.0,0.0,Fingering
+18,,<music21.articulations.StrongAccent>,strong accent,bartok472,0.0,0.0,Articulation
+18,,<music21.articulations.Fingering 2>,fingering,bartok473,0.0,0.0,Fingering
+18,,<music21.articulations.Fingering 5>,fingering,bartok474,0.0,0.0,Fingering
+18,,<music21.note.Note C->,note,bartok475,0.25,106.0,GeneralNote
+18,,<music21.articulations.Fingering 1>,fingering,bartok476,0.0,0.0,Fingering
+18,,<music21.note.Note B->,note,bartok477,0.25,106.25,GeneralNote
+18,,<music21.note.Note A->,note,bartok478,0.25,106.5,GeneralNote
+18,,<music21.note.Note B->,note,bartok479,0.25,106.75,GeneralNote
+18,,<music21.note.Note C->,note,bartok480,0.25,107.0,GeneralNote
+18,,<music21.note.Note A->,note,bartok481,0.25,107.25,GeneralNote
+18,,<music21.note.Note B->,note,bartok482,0.25,107.5,GeneralNote
+18,,<music21.note.Note C->,note,bartok483,0.25,107.75,GeneralNote
+18,19,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note A->>,slur,bartok1084,2.5,0.0,Slur
+18,19,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note F->>,slur,bartok1085,5.5,0.0,Slur
+18,18,<music21.dynamics.Crescendo <music21.note.Note F-><music21.note.Note C->>,diminuendo,bartok1176,,,DynamicRegion
+18,19,<music21.dynamics.Crescendo <music21.note.Note A-><music21.note.Note E->>,diminuendo,bartok1178,,,DynamicRegion
+18,,<music21.expressions.TextExpression 'molto espr...'>,molto espressivo,bartok1213,0.0,103.5,TextExpression
+19,,<music21.note.Rest half>,note,bartok484,2.0,108.0,GeneralNote
+19,,<music21.note.Note A->,note,bartok485,0.5,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,bartok486,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,bartok487,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,bartok488,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,bartok489,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,bartok490,2.0,108.0,GeneralNote
+19,,<music21.note.Rest half>,note,bartok491,2.0,108.0,GeneralNote
+19,,<music21.note.Note F->,note,bartok492,1.0,108.0,GeneralNote
+19,,<music21.articulations.Accent>,accent,bartok493,0.0,0.0,Articulation
+19,,<music21.note.Note G>,note,bartok494,0.5,108.5,GeneralNote
+19,,<music21.articulations.Fingering 1>,fingering,bartok495,0.0,0.0,Fingering
+19,,<music21.note.Note A->,note,bartok496,0.5,109.0,GeneralNote
+19,,<music21.note.Note F->,note,bartok497,0.25,109.0,GeneralNote
+19,,<music21.note.Note F->,note,bartok498,0.25,109.25,GeneralNote
+19,,<music21.note.Note B->,note,bartok499,0.5,109.5,GeneralNote
+19,,<music21.note.Note E->,note,bartok500,0.25,109.5,GeneralNote
+19,,<music21.note.Note D->,note,bartok501,0.25,109.75,GeneralNote
+19,,<music21.note.Note C->,note,bartok502,1/6,110.0,GeneralNote
+19,,<music21.note.Note B->,note,bartok503,3.0,110.0,GeneralNote
+19,,<music21.articulations.Fingering 43>,fingering,bartok504,0.0,0.0,Fingering
+19,,<music21.note.Note E->,note,bartok505,2.0,110.0,GeneralNote
+19,,<music21.note.Note G>,note,bartok506,4.0,110.0,GeneralNote
+19,,<music21.note.Note E->,note,bartok507,1.5,110.0,GeneralNote
+19,,<music21.articulations.Fingering 1>,fingering,bartok508,0.0,0.0,Fingering
+19,,<music21.note.Note B->,note,bartok509,1/6,661/6,GeneralNote
+19,,<music21.note.Note C->,note,bartok510,1/6,331/3,GeneralNote
+19,,<music21.note.Note B->,note,bartok511,1/6,110.5,GeneralNote
+19,,<music21.note.Note C->,note,bartok512,1/6,332/3,GeneralNote
+19,,<music21.note.Note B->,note,bartok513,1/6,665/6,GeneralNote
+19,,<music21.note.Note C->,note,bartok514,0.125,111.0,GeneralNote
+19,,<music21.note.Note B->,note,bartok515,0.125,111.125,GeneralNote
+19,,<music21.note.Note C->,note,bartok516,0.125,111.25,GeneralNote
+19,,<music21.note.Note B->,note,bartok517,0.125,111.375,GeneralNote
+19,,<music21.note.Note C->,note,bartok518,1/10,111.5,GeneralNote
+19,,<music21.note.Note D->,note,bartok519,0.5,111.5,GeneralNote
+19,,<music21.note.Note B->,note,bartok520,1/10,558/5,GeneralNote
+19,,<music21.note.Note C->,note,bartok521,1/10,1117/10,GeneralNote
+19,,<music21.note.Note B->,note,bartok522,1/10,559/5,GeneralNote
+19,,<music21.note.Note C->,note,bartok523,1/10,1119/10,GeneralNote
+19,,<music21.note.Note B->,note,bartok524,1.5,112.0,GeneralNote
+19,,<music21.note.Note D->,note,bartok525,2.0,112.0,GeneralNote
+19,,<music21.note.Note E->,note,bartok526,1.5,112.0,GeneralNote
+19,,<music21.note.Note A->,note,bartok527,1.0,113.0,GeneralNote
+19,,<music21.note.Note A->,note,bartok528,0.5,113.5,GeneralNote
+19,,<music21.note.Note E->,note,bartok529,0.5,113.5,GeneralNote
+19,19,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A->>,slur,bartok1061,3.5,0.0,Slur
+19,19,<music21.spanner.Slur <music21.note.Note G><music21.note.Note A->>,slur,bartok1086,4.5,0.0,Slur
+19,20,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note A->>,slur,bartok1087,4.75,0.0,Slur
+19,,<music21.dynamics.Dynamic f>,f,bartok1125,,,DynamicPoint
+19,24,<music21.dynamics.Crescendo <music21.note.Note G><music21.note.Note A->>,diminuendo,bartok1180,,,DynamicRegion
+20,,<music21.note.Rest dotted-whole>,note,bartok530,6.0,114.0,GeneralNote
+20,,<music21.note.Note A->,note,bartok531,1.5,114.0,GeneralNote
+20,,<music21.articulations.Fingering 4>,fingering,bartok532,0.0,0.0,Fingering
+20,,<music21.articulations.Tenuto>,tenuto,bartok533,0.0,0.0,Articulation
+20,,<music21.chord.Chord C-5 E-5>,note,bartok534,1.5,114.0,GeneralNote
+20,,<music21.note.Note A->,note,bartok535,2.0,114.0,GeneralNote
+20,,<music21.note.Rest dotted-whole>,note,bartok536,4.5,115.5,GeneralNote
+20,,<music21.note.Note C->,note,bartok537,0.5,115.5,GeneralNote
+20,,<music21.articulations.Staccato>,staccato,bartok538,0.0,0.0,Articulation
+20,,<music21.articulations.Tenuto>,tenuto,bartok539,0.0,0.0,Articulation
+20,,<music21.note.Note F>,note,bartok540,1.5,116.0,GeneralNote
+20,,<music21.articulations.Fingering 2>,fingering,bartok541,0.0,0.0,Fingering
+20,,<music21.articulations.Accent>,accent,bartok542,0.0,0.0,Articulation
+20,,<music21.note.Rest quarter>,note,bartok543,1.0,116.0,GeneralNote
+20,,<music21.note.Rest eighth>,note,bartok544,0.5,117.0,GeneralNote
+20,,<music21.note.Note G->,note,bartok545,0.25,117.5,GeneralNote
+20,,<music21.note.Note C->,note,bartok546,0.5,117.5,GeneralNote
+20,,<music21.articulations.Staccato>,staccato,bartok547,0.0,0.0,Articulation
+20,,<music21.articulations.Tenuto>,tenuto,bartok548,0.0,0.0,Articulation
+20,,<music21.note.Note A->,note,bartok549,0.25,117.75,GeneralNote
+20,,<music21.note.Note D>,note,bartok550,1.5,118.0,GeneralNote
+20,,<music21.articulations.Fingering 1>,fingering,bartok551,0.0,0.0,Fingering
+20,,<music21.articulations.Accent>,accent,bartok552,0.0,0.0,Articulation
+20,,<music21.note.Note F>,note,bartok553,1.5,118.0,GeneralNote
+20,,<music21.articulations.Fingering 4>,fingering,bartok554,0.0,0.0,Fingering
+20,,<music21.articulations.Accent>,accent,bartok555,0.0,0.0,Articulation
+20,,<music21.note.Note E->,note,bartok556,0.25,119.5,GeneralNote
+20,,<music21.note.Note G->,note,bartok557,0.25,119.5,GeneralNote
+20,,<music21.note.Note F>,note,bartok558,0.25,119.75,GeneralNote
+20,,<music21.note.Note A->,note,bartok559,0.25,119.75,GeneralNote
+20,21,<music21.spanner.Slur <music21.note.Note F><music21.note.Note B->>,slur,bartok1088,4.0,0.0,Slur
+20,21,<music21.spanner.Slur <music21.note.Note F><music21.note.Note B->>,slur,bartok1089,4.0,0.0,Slur
+20,,<music21.dynamics.Dynamic mf>,mf,bartok1126,,,DynamicPoint
+20,,<music21.expressions.TextExpression 'poco energ...'>,poco energico,bartok1214,0.0,115.5,TextExpression
+21,,<music21.note.Rest dotted-whole>,note,bartok560,6.0,120.0,GeneralNote
+21,,<music21.note.Note B->,note,bartok561,1.5,120.0,GeneralNote
+21,,<music21.articulations.Tenuto>,tenuto,bartok562,0.0,0.0,Articulation
+21,,<music21.note.Note D>,note,bartok563,1.5,120.0,GeneralNote
+21,,<music21.articulations.Accent>,accent,bartok564,0.0,0.0,Articulation
+21,,<music21.note.Note A->,note,bartok565,0.5,121.5,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,bartok566,0.0,0.0,Articulation
+21,,<music21.articulations.Tenuto>,tenuto,bartok567,0.0,0.0,Articulation
+21,,<music21.note.Note E->,note,bartok568,0.25,121.5,GeneralNote
+21,,<music21.articulations.Fingering 3>,fingering,bartok569,0.0,0.0,Fingering
+21,,<music21.note.Note F>,note,bartok570,0.25,121.75,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,bartok571,0.0,0.0,Fingering
+21,,<music21.note.Note D>,note,bartok572,1.5,122.0,GeneralNote
+21,,<music21.articulations.Fingering 2>,fingering,bartok573,0.0,0.0,Fingering
+21,,<music21.articulations.Accent>,accent,bartok574,0.0,0.0,Articulation
+21,,<music21.note.Note B->,note,bartok575,1.5,122.0,GeneralNote
+21,,<music21.note.Note E->,note,bartok576,0.25,123.5,GeneralNote
+21,,<music21.note.Note A->,note,bartok577,0.5,123.5,GeneralNote
+21,,<music21.articulations.Staccato>,staccato,bartok578,0.0,0.0,Articulation
+21,,<music21.articulations.Tenuto>,tenuto,bartok579,0.0,0.0,Articulation
+21,,<music21.note.Note F>,note,bartok580,0.25,123.75,GeneralNote
+21,,<music21.note.Note B->,note,bartok581,1.5,124.0,GeneralNote
+21,,<music21.articulations.Fingering 1>,fingering,bartok582,0.0,0.0,Fingering
+21,,<music21.articulations.Accent>,accent,bartok583,0.0,0.0,Articulation
+21,,<music21.note.Note D>,note,bartok584,1.5,124.0,GeneralNote
+21,,<music21.articulations.Fingering 3>,fingering,bartok585,0.0,0.0,Fingering
+21,,<music21.articulations.Accent>,accent,bartok586,0.0,0.0,Articulation
+21,,<music21.note.Note C>,note,bartok587,0.25,125.5,GeneralNote
+21,,<music21.note.Note E->,note,bartok588,0.25,125.5,GeneralNote
+21,,<music21.note.Note D>,note,bartok589,0.25,125.75,GeneralNote
+21,,<music21.note.Note F>,note,bartok590,0.25,125.75,GeneralNote
+21,22,<music21.spanner.Slur <music21.note.Note D><music21.note.Note E->>,slur,bartok1090,4.0,0.0,Slur
+21,22,<music21.spanner.Slur <music21.note.Note D><music21.note.Note G>>,slur,bartok1091,4.0,0.0,Slur
+22,,<music21.note.Rest dotted-whole>,note,bartok591,6.0,126.0,GeneralNote
+22,,<music21.note.Note E->,note,bartok592,1.5,126.0,GeneralNote
+22,,<music21.note.Rest half>,note,bartok593,2.0,126.0,GeneralNote
+22,,<music21.note.Rest whole>,note,bartok594,4.0,126.0,GeneralNote
+22,,<music21.note.Rest half>,note,bartok595,2.0,126.0,GeneralNote
+22,,<music21.note.Rest whole>,note,bartok596,4.0,126.0,GeneralNote
+22,,<music21.note.Note G->,note,bartok597,2.0,126.0,GeneralNote
+22,,<music21.note.Note D->,note,bartok598,0.25,127.5,GeneralNote
+22,,<music21.note.Note C->,note,bartok599,0.25,127.75,GeneralNote
+22,,<music21.note.Note D->,note,bartok600,2.0,128.0,GeneralNote
+22,,<music21.note.Rest half>,note,bartok601,2.0,128.0,GeneralNote
+22,,<music21.note.Rest half>,note,bartok602,2.0,128.0,GeneralNote
+22,,<music21.note.Note G>,note,bartok603,1.5,128.0,GeneralNote
+22,,<music21.articulations.Fingering 5>,fingering,bartok604,0.0,0.0,Fingering
+22,,<music21.note.Note B->,note,bartok605,0.5,129.5,GeneralNote
+22,,<music21.note.Note D->,note,bartok606,2.0,130.0,GeneralNote
+22,,<music21.articulations.Fingering 4>,fingering,bartok607,0.0,0.0,Fingering
+22,,<music21.articulations.Tenuto>,tenuto,bartok608,0.0,0.0,Articulation
+22,,<music21.chord.Chord E-4 B-4>,note,bartok609,2.0,130.0,GeneralNote
+22,,<music21.note.Note G>,note,bartok610,1.5,130.0,GeneralNote
+22,,<music21.note.Note E->,note,bartok611,0.5,131.5,GeneralNote
+22,22,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D->>,slur,bartok1092,2.0,0.0,Slur
+22,23,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A->>,slur,bartok1093,2.5,0.0,Slur
+22,,<music21.expressions.TextExpression 'dim.'>,dim.,bartok1215,0.0,126.0,TextExpression
+23,,<music21.note.Rest dotted-whole>,note,bartok612,6.0,132.0,GeneralNote
+23,,<music21.note.Note D->,note,bartok613,1.5,132.0,GeneralNote
+23,,<music21.chord.Chord E-4 B-4>,note,bartok614,1.5,132.0,GeneralNote
+23,,<music21.note.Note A->,note,bartok615,2.0,132.0,GeneralNote
+23,,<music21.note.Note C->,note,bartok616,0.25,133.5,GeneralNote
+23,,<music21.note.Rest eighth>,note,bartok617,0.5,133.5,GeneralNote
+23,,<music21.note.Note B->,note,bartok618,0.25,133.75,GeneralNote
+23,,<music21.note.Note C->,note,bartok619,2.0,134.0,GeneralNote
+23,,<music21.note.Rest half>,note,bartok620,2.0,134.0,GeneralNote
+23,,<music21.note.Rest quarter>,note,bartok621,1.0,134.0,GeneralNote
+23,,<music21.note.Rest eighth>,note,bartok622,0.5,135.0,GeneralNote
+23,,<music21.note.Note C->,note,bartok623,0.5,135.5,GeneralNote
+23,,<music21.note.Note C->,note,bartok624,2.0,136.0,GeneralNote
+23,,<music21.articulations.Fingering 4>,fingering,bartok625,0.0,0.0,Fingering
+23,,<music21.articulations.Tenuto>,tenuto,bartok626,0.0,0.0,Articulation
+23,,<music21.chord.Chord E-4 A-4>,note,bartok627,2.0,136.0,GeneralNote
+23,,<music21.note.Note A->,note,bartok628,1.5,136.0,GeneralNote
+23,,<music21.note.Note F>,note,bartok629,0.5,137.5,GeneralNote
+23,23,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note C->>,slur,bartok1094,2.0,0.0,Slur
+23,24,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note D>>,slur,bartok1095,2.5,0.0,Slur
+24,,<music21.note.Rest half>,note,bartok630,2.0,138.0,GeneralNote
+24,,<music21.note.Note C->,note,bartok631,1.5,138.0,GeneralNote
+24,,<music21.chord.Chord F4 A-4>,note,bartok632,1.5,138.0,GeneralNote
+24,,<music21.chord.Chord F3 A-3>,note,bartok633,2.0,138.0,GeneralNote
+24,,<music21.note.Note D>,note,bartok634,2.0,138.0,GeneralNote
+24,,<music21.note.Note B->,note,bartok635,0.25,139.5,GeneralNote
+24,,<music21.note.Rest eighth>,note,bartok636,0.5,139.5,GeneralNote
+24,,<music21.note.Rest eighth>,note,bartok637,0.5,139.5,GeneralNote
+24,,<music21.note.Note A->,note,bartok638,0.25,139.75,GeneralNote
+24,,<music21.note.Rest half>,note,bartok639,2.0,140.0,GeneralNote
+24,,<music21.note.Note F>,note,bartok640,1.5,140.0,GeneralNote
+24,,<music21.note.Rest half>,note,bartok641,2.0,140.0,GeneralNote
+24,,<music21.note.Rest half>,note,bartok642,2.0,140.0,GeneralNote
+24,,<music21.chord.Chord F3 B-3>,note,bartok643,2.0,140.0,GeneralNote
+24,,<music21.note.Note D>,note,bartok644,2.0,140.0,GeneralNote
+24,,<music21.note.Note C->,note,bartok645,0.5,141.5,GeneralNote
+24,,<music21.articulations.Fingering 1>,fingering,bartok646,0.0,0.0,Fingering
+24,,<music21.note.Note B->,note,bartok647,0.125,142.0,GeneralNote
+24,,<music21.note.Note B->,note,bartok648,1.5,142.0,GeneralNote
+24,,<music21.articulations.Fingering 3>,fingering,bartok649,0.0,0.0,Fingering
+24,,<music21.note.Rest half>,note,bartok650,2.0,142.0,GeneralNote
+24,,<music21.note.Rest half>,note,bartok651,2.0,142.0,GeneralNote
+24,,<music21.chord.Chord F3 B-3>,note,bartok652,2.0,142.0,GeneralNote
+24,,<music21.note.Note D>,note,bartok653,2.0,142.0,GeneralNote
+24,,<music21.note.Note C->,note,bartok654,0.125,142.125,GeneralNote
+24,,<music21.note.Note B->,note,bartok655,0.125,142.25,GeneralNote
+24,,<music21.note.Note C->,note,bartok656,0.125,142.375,GeneralNote
+24,,<music21.note.Note B->,note,bartok657,0.125,142.5,GeneralNote
+24,,<music21.note.Note C->,note,bartok658,0.125,142.625,GeneralNote
+24,,<music21.note.Note B->,note,bartok659,0.125,142.75,GeneralNote
+24,,<music21.note.Note C->,note,bartok660,0.125,142.875,GeneralNote
+24,,<music21.note.Note B->,note,bartok661,1/10,143.0,GeneralNote
+24,,<music21.note.Note C->,note,bartok662,1/10,1431/10,GeneralNote
+24,,<music21.note.Note B->,note,bartok663,1/10,716/5,GeneralNote
+24,,<music21.note.Note A->,note,bartok664,1/10,1433/10,GeneralNote
+24,,<music21.note.Note B->,note,bartok665,1/10,717/5,GeneralNote
+24,,<music21.note.Note A->,note,bartok666,0.0,143.5,GeneralNote
+24,,<music21.note.Note B->,note,bartok667,0.0,143.5,GeneralNote
+24,,<music21.note.Note C->,note,bartok668,0.25,143.5,GeneralNote
+24,,<music21.note.Note C->,note,bartok669,0.25,143.5,GeneralNote
+24,,<music21.note.Note A->,note,bartok670,0.25,143.75,GeneralNote
+24,,<music21.note.Note A->,note,bartok671,0.25,143.75,GeneralNote
+24,24,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note A->>,slur,bartok1062,1.75,0.0,Slur
+24,25,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note G->>,slur,bartok1096,8.0,0.0,Slur
+24,24,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note B->>,slur,bartok1097,0.0,0.0,Slur
+24,,<music21.dynamics.Dynamic p>,p,bartok1127,,,DynamicPoint
+24,24,<music21.dynamics.Crescendo <music21.note.Note C-><music21.note.Note A->>,diminuendo,bartok1182,,,DynamicRegion
+24,27,<music21.dynamics.Diminuendo <music21.note.Note C-><music21.note.Note D>>,diminuendo,bartok1184,,,DynamicRegion
+25,,<music21.note.Rest dotted-whole>,note,bartok672,6.0,144.0,GeneralNote
+25,,<music21.note.Note G->,note,bartok673,2.0,144.0,GeneralNote
+25,,<music21.articulations.Fingering 3>,fingering,bartok674,0.0,0.0,Fingering
+25,,<music21.articulations.Accent>,accent,bartok675,0.0,0.0,Articulation
+25,,<music21.note.Note E->,note,bartok676,2.0,144.0,GeneralNote
+25,,<music21.articulations.Fingering 1>,fingering,bartok677,0.0,0.0,Fingering
+25,,<music21.note.Rest half>,note,bartok678,2.0,144.0,GeneralNote
+25,,<music21.note.Rest whole>,note,bartok679,4.0,144.0,GeneralNote
+25,,<music21.chord.Chord E-3 G-3 B-3>,note,bartok680,2.0,144.0,GeneralNote
+25,,<music21.note.Rest half>,note,bartok681,2.0,144.0,GeneralNote
+25,,<music21.note.Rest whole>,note,bartok682,4.0,144.0,GeneralNote
+25,,<music21.note.Note G->,note,bartok683,0.25,146.0,GeneralNote
+25,,<music21.note.Rest half>,note,bartok684,2.0,146.0,GeneralNote
+25,,<music21.note.Rest half>,note,bartok685,2.0,146.0,GeneralNote
+25,,<music21.note.Rest half>,note,bartok686,2.0,146.0,GeneralNote
+25,,<music21.chord.Chord E-3 G-3 B-3>,note,bartok687,2.0,146.0,GeneralNote
+25,,<music21.note.Rest half>,note,bartok688,2.0,146.0,GeneralNote
+25,,<music21.note.Note E->,note,bartok689,0.25,146.25,GeneralNote
+25,,<music21.note.Note F>,note,bartok690,0.25,146.5,GeneralNote
+25,,<music21.note.Note G->,note,bartok691,0.25,146.75,GeneralNote
+25,,<music21.note.Note A->,note,bartok692,0.25,147.0,GeneralNote
+25,,<music21.note.Note B->,note,bartok693,0.25,147.25,GeneralNote
+25,,<music21.note.Note C>,note,bartok694,0.25,147.5,GeneralNote
+25,,<music21.note.Note D>,note,bartok695,0.25,147.75,GeneralNote
+25,,<music21.note.Note E->,note,bartok696,0.25,148.0,GeneralNote
+25,,<music21.note.Rest half>,note,bartok697,2.0,148.0,GeneralNote
+25,,<music21.note.Rest half>,note,bartok698,2.0,148.0,GeneralNote
+25,,<music21.chord.Chord E-3 B-3>,note,bartok699,2.0,148.0,GeneralNote
+25,,<music21.note.Note G->,note,bartok700,2.0,148.0,GeneralNote
+25,,<music21.note.Note F>,note,bartok701,0.25,148.25,GeneralNote
+25,,<music21.note.Note G->,note,bartok702,0.25,148.5,GeneralNote
+25,,<music21.note.Note A->,note,bartok703,0.25,148.75,GeneralNote
+25,,<music21.note.Note G->,note,bartok704,0.25,149.0,GeneralNote
+25,,<music21.note.Note F>,note,bartok705,0.25,149.25,GeneralNote
+25,,<music21.note.Note G->,note,bartok706,0.25,149.5,GeneralNote
+25,,<music21.articulations.Fingering 4>,fingering,bartok707,0.0,0.0,Fingering
+25,,<music21.note.Note E->,note,bartok708,0.25,149.75,GeneralNote
+25,25,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note E->>,slur,bartok1098,3.5,0.0,Slur
+25,,<music21.dynamics.Dynamic f>,f,bartok1128,,,DynamicPoint
+25,,<music21.expressions.TextExpression 'molto'>,molto,bartok1216,0.0,146.25,TextExpression
+25,,<music21.expressions.TextExpression 'cresc.'>,cresc.,bartok1217,0.0,146.25,TextExpression
+26,,<music21.note.Rest dotted-whole>,note,bartok709,6.0,150.0,GeneralNote
+26,,<music21.note.Note F->,note,bartok710,1.5,150.0,GeneralNote
+26,,<music21.chord.Chord F-4 A-4 C-5>,note,bartok711,1.5,150.0,GeneralNote
+26,,<music21.chord.Chord A-2 C-3 F-3 A-3>,note,bartok712,2.0,150.0,GeneralNote
+26,,<music21.note.Note C->,note,bartok713,0.25,151.5,GeneralNote
+26,,<music21.articulations.Fingering 4>,fingering,bartok714,0.0,0.0,Fingering
+26,,<music21.note.Rest eighth>,note,bartok715,0.5,151.5,GeneralNote
+26,,<music21.note.Rest eighth>,note,bartok716,0.5,151.5,GeneralNote
+26,,<music21.note.Note B-->,note,bartok717,0.25,151.75,GeneralNote
+26,,<music21.note.Note A->,note,bartok718,1.5,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,bartok719,2.0,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,bartok720,2.0,152.0,GeneralNote
+26,,<music21.note.Rest half>,note,bartok721,2.0,152.0,GeneralNote
+26,,<music21.note.Note B-->,note,bartok722,0.25,153.5,GeneralNote
+26,,<music21.note.Note C->,note,bartok723,0.25,153.75,GeneralNote
+26,,<music21.note.Note F->,note,bartok724,1.5,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,bartok725,2.0,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,bartok726,2.0,154.0,GeneralNote
+26,,<music21.note.Rest half>,note,bartok727,2.0,154.0,GeneralNote
+26,,<music21.note.Note G->,note,bartok728,0.25,155.5,GeneralNote
+26,,<music21.note.Note A->,note,bartok729,0.25,155.75,GeneralNote
+26,26,<music21.spanner.Slur <music21.note.Note F-><music21.note.Note A->>,slur,bartok1099,5.75,0.0,Slur
+26,,<music21.dynamics.Dynamic sf>,sf,bartok1129,,,DynamicPoint
+26,,<music21.expressions.TextExpression 'deciso'>,deciso,bartok1218,0.0,151.5,TextExpression
+27,,<music21.note.Rest dotted-whole>,note,bartok730,6.0,156.0,GeneralNote
+27,,<music21.note.Note D>,note,bartok731,1.5,156.0,GeneralNote
+27,,<music21.chord.Chord A-2 F3 B-3>,note,bartok732,2.0,156.0,GeneralNote
+27,,<music21.note.Note F>,note,bartok733,0.25,157.5,GeneralNote
+27,,<music21.note.Note A->,note,bartok734,0.25,157.75,GeneralNote
+27,,<music21.note.Note C->,note,bartok735,1.5,158.0,GeneralNote
+27,,<music21.note.Rest half>,note,bartok736,2.0,158.0,GeneralNote
+27,,<music21.note.Note B->,note,bartok737,0.25,159.5,GeneralNote
+27,,<music21.articulations.Fingering 3>,fingering,bartok738,0.0,0.0,Fingering
+27,,<music21.note.Note A->,note,bartok739,0.25,159.75,GeneralNote
+27,,<music21.note.Note F>,note,bartok740,1.5,160.0,GeneralNote
+27,,<music21.note.Rest half>,note,bartok741,2.0,160.0,GeneralNote
+27,,<music21.note.Note E->,note,bartok742,0.25,161.5,GeneralNote
+27,,<music21.articulations.Fingering 2>,fingering,bartok743,0.0,0.0,Fingering
+27,,<music21.note.Note D>,note,bartok744,0.25,161.75,GeneralNote
+27,27,<music21.spanner.Slur <music21.note.Note D><music21.note.Note D>>,slur,bartok1100,5.75,0.0,Slur
+27,,<music21.dynamics.Dynamic sf>,sf,bartok1130,,,DynamicPoint
+27,28,<music21.dynamics.Crescendo <music21.note.Note D><music21.note.Note B->>,diminuendo,bartok1186,,,DynamicRegion
+28,,<music21.note.Rest dotted-whole>,note,bartok745,6.0,162.0,GeneralNote
+28,,<music21.note.Note C->,note,bartok746,0.5,162.0,GeneralNote
+28,,<music21.articulations.Fingering 5>,fingering,bartok747,0.0,0.0,Fingering
+28,,<music21.note.Rest half>,note,bartok748,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,bartok749,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,bartok750,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,bartok751,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,bartok752,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,bartok753,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,bartok754,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,bartok755,2.0,162.0,GeneralNote
+28,,<music21.note.Rest half>,note,bartok756,2.0,162.0,GeneralNote
+28,,<music21.note.Note A>,note,bartok757,1.0,162.5,GeneralNote
+28,,<music21.articulations.Fingering 3>,fingering,bartok758,0.0,0.0,Fingering
+28,,<music21.articulations.StrongAccent>,strong accent,bartok759,0.0,0.0,Articulation
+28,,<music21.note.Note B->,note,bartok760,0.5,163.5,GeneralNote
+28,,<music21.note.Note E->,note,bartok761,2.0,164.0,GeneralNote
+28,,<music21.articulations.Fingering 5>,fingering,bartok762,0.0,0.0,Fingering
+28,,<music21.chord.Chord G-4 B-4>,note,bartok763,2.0,164.0,GeneralNote
+28,,<music21.chord.Chord E-3 G-3 B-3>,note,bartok764,2.0,164.0,GeneralNote
+28,,<music21.note.Note B->,note,bartok765,2.0,164.0,GeneralNote
+28,,<music21.note.Note D>,note,bartok766,1.5,166.0,GeneralNote
+28,,<music21.articulations.Fingering 4>,fingering,bartok767,0.0,0.0,Fingering
+28,,<music21.chord.Chord F4 B-4>,note,bartok768,2.0,166.0,GeneralNote
+28,,<music21.chord.Chord F3 A-3 B-3>,note,bartok769,2.0,166.0,GeneralNote
+28,,<music21.note.Note B->,note,bartok770,2.0,166.0,GeneralNote
+28,,<music21.note.Note E->,note,bartok771,0.5,167.5,GeneralNote
+28,28,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note A>>,slur,bartok1101,0.5,0.0,Slur
+28,28,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note B->>,slur,bartok1102,1.5,0.0,Slur
+28,28,<music21.spanner.Slur <music21.note.Note D><music21.note.Note E->>,slur,bartok1103,1.5,0.0,Slur
+28,29,<music21.dynamics.Diminuendo <music21.note.Note A><music21.note.Note E->>,diminuendo,bartok1188,,,DynamicRegion
+28,,<music21.expressions.TextExpression 'dim.'>,dim.,bartok1219,0.0,164.0,TextExpression
+29,,<music21.note.Rest half>,note,bartok772,2.0,168.0,GeneralNote
+29,,<music21.note.Note E->,note,bartok773,6.0,168.0,GeneralNote
+29,,<music21.chord.Chord E-4 B-4>,note,bartok774,1.5,168.0,GeneralNote
+29,,<music21.articulations.Fingering 3>,fingering,bartok775,0.0,0.0,Fingering
+29,,<music21.articulations.Fingering 5>,fingering,bartok776,0.0,0.0,Fingering
+29,,<music21.note.Rest half>,note,bartok777,2.0,168.0,GeneralNote
+29,,<music21.note.Rest half>,note,bartok778,2.0,168.0,GeneralNote
+29,,<music21.chord.Chord C-3 E-4>,note,bartok779,2.0,168.0,GeneralNote
+29,,<music21.note.Rest half>,note,bartok780,2.0,168.0,GeneralNote
+29,,<music21.note.Rest half>,note,bartok781,2.0,168.0,GeneralNote
+29,,<music21.note.Note A->,note,bartok782,1/6,169.5,GeneralNote
+29,,<music21.note.Note G>,note,bartok783,1/6,509/3,GeneralNote
+29,,<music21.note.Rest 4.25ql>,note,bartok784,4.25,169.75,GeneralNote
+29,,<music21.note.Rest 4.25ql>,note,bartok785,4.25,169.75,GeneralNote
+29,,<music21.note.Note A->,note,bartok786,1/6,1019/6,GeneralNote
+29,,<music21.note.Note B->,note,bartok787,0.125,170.0,GeneralNote
+29,,<music21.note.Note A->,note,bartok788,2.0,170.0,GeneralNote
+29,,<music21.articulations.Fingering 32>,fingering,bartok789,0.0,0.0,Fingering
+29,,<music21.note.Note E->,note,bartok790,2.0,170.0,GeneralNote
+29,,<music21.note.Note C->,note,bartok791,2.0,170.0,GeneralNote
+29,,<music21.note.Note A->,note,bartok792,0.125,170.125,GeneralNote
+29,,<music21.note.Note B->,note,bartok793,0.125,170.25,GeneralNote
+29,,<music21.note.Note A->,note,bartok794,0.125,170.375,GeneralNote
+29,,<music21.note.Note B->,note,bartok795,0.125,170.5,GeneralNote
+29,,<music21.note.Note A->,note,bartok796,0.125,170.625,GeneralNote
+29,,<music21.note.Note B->,note,bartok797,0.125,170.75,GeneralNote
+29,,<music21.note.Note A->,note,bartok798,0.125,170.875,GeneralNote
+29,,<music21.note.Note B->,note,bartok799,0.125,171.0,GeneralNote
+29,,<music21.note.Note A->,note,bartok800,0.125,171.125,GeneralNote
+29,,<music21.note.Note B->,note,bartok801,0.125,171.25,GeneralNote
+29,,<music21.note.Note A->,note,bartok802,0.125,171.375,GeneralNote
+29,,<music21.note.Note B->,note,bartok803,0.125,171.5,GeneralNote
+29,,<music21.note.Note A->,note,bartok804,0.125,171.625,GeneralNote
+29,,<music21.note.Note B->,note,bartok805,0.125,171.75,GeneralNote
+29,,<music21.note.Note A->,note,bartok806,0.125,171.875,GeneralNote
+29,,<music21.note.Note B->,note,bartok807,0.125,172.0,GeneralNote
+29,,<music21.note.Note A->,note,bartok808,1.5,172.0,GeneralNote
+29,,<music21.note.Note E->,note,bartok809,2.0,172.0,GeneralNote
+29,,<music21.note.Note C->,note,bartok810,2.0,172.0,GeneralNote
+29,,<music21.note.Note A->,note,bartok811,0.125,172.125,GeneralNote
+29,,<music21.note.Note B->,note,bartok812,0.125,172.25,GeneralNote
+29,,<music21.note.Note A->,note,bartok813,0.125,172.375,GeneralNote
+29,,<music21.note.Note B->,note,bartok814,0.125,172.5,GeneralNote
+29,,<music21.note.Note A->,note,bartok815,0.125,172.625,GeneralNote
+29,,<music21.note.Note B->,note,bartok816,0.125,172.75,GeneralNote
+29,,<music21.note.Note A->,note,bartok817,0.125,172.875,GeneralNote
+29,,<music21.note.Note B->,note,bartok818,0.125,173.0,GeneralNote
+29,,<music21.note.Note A->,note,bartok819,0.125,173.125,GeneralNote
+29,,<music21.note.Note B->,note,bartok820,0.125,173.25,GeneralNote
+29,,<music21.note.Note A->,note,bartok821,0.125,173.375,GeneralNote
+29,,<music21.note.Note G>,note,bartok822,0.25,173.5,GeneralNote
+29,,<music21.note.Note G>,note,bartok823,0.25,173.5,GeneralNote
+29,,<music21.note.Note A->,note,bartok824,0.25,173.75,GeneralNote
+29,,<music21.note.Note A->,note,bartok825,0.25,173.75,GeneralNote
+29,,<music21.dynamics.Dynamic p>,p,bartok1131,,,DynamicPoint
+29,31,<music21.dynamics.Crescendo <music21.chord.Chord E-4 B-4><music21.chord.Chord B-3 G4>>,diminuendo,bartok1190,,,DynamicRegion
+29,,<music21.expressions.TextExpression 'subito'>,subito,bartok1220,0.0,168.0,TextExpression
+30,,<music21.note.Rest dotted-whole>,note,bartok826,6.0,174.0,GeneralNote
+30,,<music21.note.Note E->,note,bartok827,2.0,174.0,GeneralNote
+30,,<music21.note.Note B->,note,bartok828,6.0,174.0,GeneralNote
+30,,<music21.articulations.Fingering 31>,fingering,bartok829,0.0,0.0,Fingering
+30,,<music21.articulations.Accent>,accent,bartok830,0.0,0.0,Articulation
+30,,<music21.chord.Chord B-3 E-4>,note,bartok831,2.0,174.0,GeneralNote
+30,,<music21.note.Note G>,note,bartok832,2.0,174.0,GeneralNote
+30,,<music21.articulations.Fingering 4>,fingering,bartok833,0.0,0.0,Fingering
+30,,<music21.note.Note E->,note,bartok834,1.0,176.0,GeneralNote
+30,,<music21.chord.Chord B-3 E-4>,note,bartok835,2.0,176.0,GeneralNote
+30,,<music21.note.Note G>,note,bartok836,2.0,176.0,GeneralNote
+30,,<music21.note.Note E->,note,bartok837,0.25,177.0,GeneralNote
+30,,<music21.note.Note E->,note,bartok838,0.25,177.25,GeneralNote
+30,,<music21.articulations.Fingering 4>,fingering,bartok839,0.0,0.0,Fingering
+30,,<music21.note.Note D->,note,bartok840,0.25,177.5,GeneralNote
+30,,<music21.note.Note C->,note,bartok841,0.25,177.75,GeneralNote
+30,,<music21.note.Note D->,note,bartok842,1.5,178.0,GeneralNote
+30,,<music21.chord.Chord B-3 E-4>,note,bartok843,2.0,178.0,GeneralNote
+30,,<music21.note.Note G>,note,bartok844,2.0,178.0,GeneralNote
+30,,<music21.note.Note B->,note,bartok845,0.5,179.5,GeneralNote
+30,,<music21.articulations.Fingering 1>,fingering,bartok846,0.0,0.0,Fingering
+30,31,<music21.spanner.Slur <music21.note.Note E-><music21.chord.Chord E-4 A-4 C-5>>,slur,bartok1104,4.75,0.0,Slur
+30,,<music21.expressions.TextExpression 'dolce'>,dolce,bartok1221,0.0,177.25,TextExpression
+31,,<music21.note.Rest dotted-whole>,note,bartok847,6.0,180.0,GeneralNote
+31,,<music21.chord.Chord E-4 A-4 C-5>,note,bartok848,2.0,180.0,GeneralNote
+31,,<music21.articulations.Fingering 2>,fingering,bartok849,0.0,0.0,Fingering
+31,,<music21.articulations.Fingering 4>,fingering,bartok850,0.0,0.0,Fingering
+31,,<music21.articulations.Fingering 5>,fingering,bartok851,0.0,0.0,Fingering
+31,,<music21.chord.Chord A-3 C-4>,note,bartok852,2.0,180.0,GeneralNote
+31,,<music21.chord.Chord E-4 A-4 C-5>,note,bartok853,1.0,182.0,GeneralNote
+31,,<music21.note.Note F->,note,bartok854,2.0,182.0,GeneralNote
+31,,<music21.chord.Chord E-4 A-4 C-5>,note,bartok855,0.25,183.0,GeneralNote
+31,,<music21.chord.Chord E-4 C-5>,note,bartok856,0.25,183.25,GeneralNote
+31,,<music21.chord.Chord D-4 B-4>,note,bartok857,0.25,183.5,GeneralNote
+31,,<music21.chord.Chord C-4 A-4>,note,bartok858,0.25,183.75,GeneralNote
+31,,<music21.chord.Chord D-4 B-4>,note,bartok859,1.5,184.0,GeneralNote
+31,,<music21.articulations.Fingering 5>,fingering,bartok860,0.0,0.0,Fingering
+31,,<music21.note.Note F->,note,bartok861,2.0,184.0,GeneralNote
+31,,<music21.chord.Chord B-3 G4>,note,bartok862,0.5,185.5,GeneralNote
+31,32,<music21.spanner.Slur <music21.chord.Chord E-4 C-5><music21.chord.Chord C-4 D4 A-4>>,slur,bartok1105,2.75,0.0,Slur
+31,32,<music21.dynamics.Crescendo <music21.chord.Chord E-4 A-4 C-5><music21.note.Note A->>,diminuendo,bartok1192,,,DynamicRegion
+32,,<music21.note.Rest dotted-whole>,note,bartok863,6.0,186.0,GeneralNote
+32,,<music21.chord.Chord C-4 D4 A-4>,note,bartok864,2.0,186.0,GeneralNote
+32,,<music21.articulations.Tenuto>,tenuto,bartok865,0.0,0.0,Articulation
+32,,<music21.articulations.StrongAccent>,strong accent,bartok866,0.0,0.0,Articulation
+32,,<music21.note.Note F>,note,bartok867,2.0,186.0,GeneralNote
+32,,<music21.articulations.Fingering 3>,fingering,bartok868,0.0,0.0,Fingering
+32,,<music21.articulations.StrongAccent>,strong accent,bartok869,0.0,0.0,Articulation
+32,,<music21.chord.Chord C-4 D4 A-4>,note,bartok870,2.0,188.0,GeneralNote
+32,,<music21.articulations.Tenuto>,tenuto,bartok871,0.0,0.0,Articulation
+32,,<music21.note.Note F>,note,bartok872,1.0,188.0,GeneralNote
+32,,<music21.note.Note F>,note,bartok873,0.25,189.0,GeneralNote
+32,,<music21.note.Note G->,note,bartok874,0.25,189.25,GeneralNote
+32,,<music21.note.Note F>,note,bartok875,0.25,189.5,GeneralNote
+32,,<music21.note.Note E->,note,bartok876,0.25,189.75,GeneralNote
+32,,<music21.chord.Chord C-4 D4 A-4>,note,bartok877,2.0,190.0,GeneralNote
+32,,<music21.articulations.Tenuto>,tenuto,bartok878,0.0,0.0,Articulation
+32,,<music21.note.Note F>,note,bartok879,0.75,190.0,GeneralNote
+32,,<music21.note.Note G->,note,bartok880,0.25,190.75,GeneralNote
+32,,<music21.note.Note A->,note,bartok881,0.25,191.0,GeneralNote
+32,,<music21.note.Note F>,note,bartok882,0.25,191.25,GeneralNote
+32,,<music21.note.Note G->,note,bartok883,0.25,191.5,GeneralNote
+32,,<music21.note.Note A->,note,bartok884,0.25,191.75,GeneralNote
+32,33,<music21.spanner.Slur <music21.note.Note G-><music21.note.Note D>>,slur,bartok1106,5.75,0.0,Slur
+32,33,<music21.dynamics.Crescendo <music21.note.Note G-><music21.note.Note F>>,diminuendo,bartok1194,,,DynamicRegion
+32,,<music21.expressions.TextExpression 'sonore'>,sonore,bartok1222,0.0,186.0,TextExpression
+32,,<music21.expressions.TextExpression 'poco a poco'>,poco a poco,bartok1223,0.0,190.0,TextExpression
+32,,<music21.expressions.TextExpression 'cresc.'>,cresc.,bartok1224,0.0,190.0,TextExpression
+33,,<music21.note.Rest dotted-whole>,note,bartok885,6.0,192.0,GeneralNote
+33,,<music21.chord.Chord C-4 F4 A-4>,note,bartok886,2.0,192.0,GeneralNote
+33,,<music21.articulations.Fingering 1>,fingering,bartok887,0.0,0.0,Fingering
+33,,<music21.articulations.Fingering 2>,fingering,bartok888,0.0,0.0,Fingering
+33,,<music21.articulations.Fingering 4>,fingering,bartok889,0.0,0.0,Fingering
+33,,<music21.note.Note D>,note,bartok890,2.0,192.0,GeneralNote
+33,,<music21.articulations.Accent>,accent,bartok891,0.0,0.0,Articulation
+33,,<music21.chord.Chord C-4 F4 A-4>,note,bartok892,2.0,194.0,GeneralNote
+33,,<music21.note.Note D>,note,bartok893,1.0,194.0,GeneralNote
+33,,<music21.note.Note D>,note,bartok894,0.25,195.0,GeneralNote
+33,,<music21.note.Note E->,note,bartok895,0.25,195.25,GeneralNote
+33,,<music21.articulations.Fingering 2>,fingering,bartok896,0.0,0.0,Fingering
+33,,<music21.note.Note D>,note,bartok897,0.25,195.5,GeneralNote
+33,,<music21.note.Note C>,note,bartok898,0.25,195.75,GeneralNote
+33,,<music21.chord.Chord C-4 F4 A-4>,note,bartok899,2.0,196.0,GeneralNote
+33,,<music21.note.Note D>,note,bartok900,0.75,196.0,GeneralNote
+33,,<music21.note.Note E->,note,bartok901,0.25,196.75,GeneralNote
+33,,<music21.note.Note F>,note,bartok902,0.25,197.0,GeneralNote
+33,,<music21.note.Note D>,note,bartok903,0.25,197.25,GeneralNote
+33,,<music21.note.Note E->,note,bartok904,0.25,197.5,GeneralNote
+33,,<music21.note.Note F>,note,bartok905,0.25,197.75,GeneralNote
+33,34,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note C->>,slur,bartok1107,5.75,0.0,Slur
+33,36,<music21.dynamics.Crescendo <music21.note.Note E-><music21.note.Note G->>,diminuendo,bartok1196,,,DynamicRegion
+33,,<music21.expressions.TextExpression 'cresc.'>,cresc.,bartok1225,0.0,194.0,TextExpression
+34,,<music21.note.Rest dotted-whole>,note,bartok906,6.0,198.0,GeneralNote
+34,,<music21.chord.Chord D4 F4 A-4>,note,bartok907,2.0,198.0,GeneralNote
+34,,<music21.note.Note C->,note,bartok908,2.0,198.0,GeneralNote
+34,,<music21.articulations.Accent>,accent,bartok909,0.0,0.0,Articulation
+34,,<music21.chord.Chord D4 F4 A-4>,note,bartok910,2.0,200.0,GeneralNote
+34,,<music21.note.Note C->,note,bartok911,1.0,200.0,GeneralNote
+34,,<music21.note.Note C->,note,bartok912,0.25,201.0,GeneralNote
+34,,<music21.note.Note D->,note,bartok913,0.25,201.25,GeneralNote
+34,,<music21.articulations.Fingering 2>,fingering,bartok914,0.0,0.0,Fingering
+34,,<music21.note.Note C->,note,bartok915,0.25,201.5,GeneralNote
+34,,<music21.note.Note B->,note,bartok916,0.25,201.75,GeneralNote
+34,,<music21.chord.Chord D4 F4 A-4>,note,bartok917,2.0,202.0,GeneralNote
+34,,<music21.note.Note C->,note,bartok918,0.25,202.0,GeneralNote
+34,,<music21.articulations.Fingering 1>,fingering,bartok919,0.0,0.0,Fingering
+34,,<music21.note.Note B->,note,bartok920,0.25,202.25,GeneralNote
+34,,<music21.note.Note A->,note,bartok921,0.25,202.5,GeneralNote
+34,,<music21.note.Note B->,note,bartok922,0.25,202.75,GeneralNote
+34,,<music21.note.Note C->,note,bartok923,0.25,203.0,GeneralNote
+34,,<music21.note.Note A->,note,bartok924,0.25,203.25,GeneralNote
+34,,<music21.note.Note B->,note,bartok925,0.25,203.5,GeneralNote
+34,,<music21.note.Note C->,note,bartok926,0.25,203.75,GeneralNote
+34,35,<music21.spanner.Slur <music21.note.Note D-><music21.note.Note D>>,slur,bartok1108,2.75,0.0,Slur
+35,,<music21.note.Rest dotted-whole>,note,bartok927,6.0,204.0,GeneralNote
+35,,<music21.chord.Chord D4 F4 A-4 C-5>,note,bartok928,2.0,204.0,GeneralNote
+35,,<music21.articulations.Fingering 3>,fingering,bartok929,0.0,0.0,Fingering
+35,,<music21.articulations.Fingering 5>,fingering,bartok930,0.0,0.0,Fingering
+35,,<music21.note.Note D>,note,bartok931,2.0,204.0,GeneralNote
+35,,<music21.articulations.StrongAccent>,strong accent,bartok932,0.0,0.0,Articulation
+35,,<music21.note.Note C->,note,bartok933,0.25,206.0,GeneralNote
+35,,<music21.note.Rest half>,note,bartok934,2.0,206.0,GeneralNote
+35,,<music21.note.Note B->,note,bartok935,0.25,206.25,GeneralNote
+35,,<music21.note.Note A->,note,bartok936,0.25,206.5,GeneralNote
+35,,<music21.note.Note G->,note,bartok937,0.25,206.75,GeneralNote
+35,,<music21.note.Note F>,note,bartok938,0.25,207.0,GeneralNote
+35,,<music21.note.Note E->,note,bartok939,0.25,207.25,GeneralNote
+35,,<music21.note.Note D>,note,bartok940,0.25,207.5,GeneralNote
+35,,<music21.note.Note F>,note,bartok941,0.25,207.75,GeneralNote
+35,,<music21.note.Note A->,note,bartok942,0.25,208.0,GeneralNote
+35,,<music21.note.Rest half>,note,bartok943,2.0,208.0,GeneralNote
+35,,<music21.note.Note C->,note,bartok944,0.25,208.25,GeneralNote
+35,,<music21.articulations.Fingering 5>,fingering,bartok945,0.0,0.0,Fingering
+35,,<music21.note.Note D>,note,bartok946,0.25,208.5,GeneralNote
+35,,<music21.articulations.Fingering 1>,fingering,bartok947,0.0,0.0,Fingering
+35,,<music21.note.Note F>,note,bartok948,0.25,208.75,GeneralNote
+35,,<music21.note.Note A->,note,bartok949,0.25,209.0,GeneralNote
+35,,<music21.note.Note C->,note,bartok950,0.25,209.25,GeneralNote
+35,,<music21.note.Note B->,note,bartok951,0.25,209.5,GeneralNote
+35,,<music21.note.Note D>,note,bartok952,0.25,209.75,GeneralNote
+35,36,<music21.spanner.Slur <music21.note.Note B-><music21.note.Note E->>,slur,bartok1109,3.75,0.0,Slur
+35,,<music21.dynamics.Dynamic f>,f,bartok1132,,,DynamicPoint
+35,,<music21.dynamics.Dynamic mf>,mf,bartok1133,,,DynamicPoint
+35,,<music21.expressions.TextExpression 'molto'>,molto,bartok1226,0.0,206.5,TextExpression
+35,,<music21.expressions.TextExpression 'cresc.'>,cresc.,bartok1227,0.0,206.5,TextExpression
+36,,<music21.note.Rest dotted-whole>,note,bartok953,6.0,210.0,GeneralNote
+36,,<music21.note.Note E->,note,bartok954,1.5,210.0,GeneralNote
+36,,<music21.articulations.Fingering 45>,fingering,bartok955,0.0,0.0,Fingering
+36,,<music21.articulations.Tenuto>,tenuto,bartok956,0.0,0.0,Articulation
+36,,<music21.note.Rest quarter>,note,bartok957,1.0,210.0,GeneralNote
+36,,<music21.note.Rest dotted-quarter>,note,bartok958,1.5,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,bartok959,1.0,210.0,GeneralNote
+36,,<music21.note.Rest dotted-quarter>,note,bartok960,1.5,210.0,GeneralNote
+36,,<music21.note.Rest quarter>,note,bartok961,1.0,210.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,bartok962,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,bartok963,0.5,211.0,GeneralNote
+36,,<music21.note.Rest eighth>,note,bartok964,0.5,211.0,GeneralNote
+36,,<music21.note.Note B->,note,bartok965,0.5,211.5,GeneralNote
+36,,<music21.articulations.Fingering 3>,fingering,bartok966,0.0,0.0,Fingering
+36,,<music21.articulations.Tenuto>,tenuto,bartok967,0.0,0.0,Articulation
+36,,<music21.note.Note G->,note,bartok968,0.5,211.5,GeneralNote
+36,,<music21.articulations.Fingering 1>,fingering,bartok969,0.0,0.0,Fingering
+36,,<music21.chord.Chord E-2 E-3>,note,bartok970,0.5,211.5,GeneralNote
+36,,<music21.articulations.Tenuto>,tenuto,bartok971,0.0,0.0,Articulation
+36,,<music21.note.Note A->,note,bartok972,0.0,212.0,GeneralNote
+36,,<music21.note.Note G->,note,bartok973,2.0,212.0,GeneralNote
+36,,<music21.articulations.Fingering 3>,fingering,bartok974,0.0,0.0,Fingering
+36,,<music21.note.Note E->,note,bartok975,2.0,212.0,GeneralNote
+36,,<music21.articulations.Fingering 1>,fingering,bartok976,0.0,0.0,Fingering
+36,,<music21.chord.Chord B-2 E-3 G-3>,note,bartok977,2.0,212.0,GeneralNote
+36,,<music21.articulations.Fingering 2>,fingering,bartok978,0.0,0.0,Fingering
+36,,<music21.note.Rest dotted-quarter>,note,bartok979,1.5,212.5,GeneralNote
+36,,<music21.note.Rest dotted-quarter>,note,bartok980,1.5,212.5,GeneralNote
+36,,<music21.note.Note F>,note,bartok981,0.5,214.0,GeneralNote
+36,,<music21.articulations.Fingering 3>,fingering,bartok982,0.0,0.0,Fingering
+36,,<music21.note.Note D>,note,bartok983,2.0,214.0,GeneralNote
+36,,<music21.articulations.Fingering 1>,fingering,bartok984,0.0,0.0,Fingering
+36,,<music21.chord.Chord B-2 F3 A-3>,note,bartok985,2.0,214.0,GeneralNote
+36,,<music21.note.Note E->,note,bartok986,0.5,214.5,GeneralNote
+36,,<music21.note.Note F>,note,bartok987,1.0,215.0,GeneralNote
+36,36,<music21.spanner.Slur <music21.note.Note A-><music21.note.Note G->>,slur,bartok1110,0.0,0.0,Slur
+36,36,<music21.spanner.Slur <music21.note.Note F><music21.note.Note F>>,slur,bartok1111,1.0,0.0,Slur
+36,37,<music21.dynamics.Diminuendo <music21.note.Note E-><music21.note.Note B->>,diminuendo,bartok1198,,,DynamicRegion
+36,,<music21.expressions.TextExpression 'dim.'>,dim.,bartok1228,0.0,214.0,TextExpression
+37,,<music21.note.Rest dotted-whole>,note,bartok988,6.0,216.0,GeneralNote
+37,,<music21.note.Note E->,note,bartok989,2.0,216.0,GeneralNote
+37,,<music21.articulations.Accent>,accent,bartok990,0.0,0.0,Articulation
+37,,<music21.chord.Chord G3 B-3 D-4>,note,bartok991,2.0,216.0,GeneralNote
+37,,<music21.note.Note E->,note,bartok992,2.0,216.0,GeneralNote
+37,,<music21.note.Note E->,note,bartok993,1.0,218.0,GeneralNote
+37,,<music21.chord.Chord G3 B-3 D-4>,note,bartok994,2.0,218.0,GeneralNote
+37,,<music21.note.Note E->,note,bartok995,2.0,218.0,GeneralNote
+37,,<music21.note.Note E->,note,bartok996,0.25,219.0,GeneralNote
+37,,<music21.note.Note F>,note,bartok997,0.25,219.25,GeneralNote
+37,,<music21.articulations.Fingering 1>,fingering,bartok998,0.0,0.0,Fingering
+37,,<music21.note.Note G>,note,bartok999,0.25,219.5,GeneralNote
+37,,<music21.note.Note A->,note,bartok1000,0.25,219.75,GeneralNote
+37,,<music21.note.Note B->,note,bartok1001,1.0,220.0,GeneralNote
+37,,<music21.chord.Chord G3 B-3 D-4>,note,bartok1002,2.0,220.0,GeneralNote
+37,,<music21.note.Note E->,note,bartok1003,2.0,220.0,GeneralNote
+37,,<music21.note.Note B->,note,bartok1004,0.25,221.0,GeneralNote
+37,,<music21.note.Note F->,note,bartok1005,0.25,221.25,GeneralNote
+37,,<music21.note.Note E->,note,bartok1006,0.25,221.5,GeneralNote
+37,,<music21.note.Note D->,note,bartok1007,0.25,221.75,GeneralNote
+37,38,<music21.spanner.Slur <music21.note.Note F><music21.note.Note E->>,slur,bartok1112,5.5,0.0,Slur
+37,,<music21.dynamics.Dynamic pp>,pp,bartok1134,,,DynamicPoint
+37,37,<music21.dynamics.Crescendo <music21.note.Note F><music21.note.Note D->>,diminuendo,bartok1200,,,DynamicRegion
+37,38,<music21.dynamics.Diminuendo <music21.note.Note B-><music21.note.Note C->>,diminuendo,bartok1202,,,DynamicRegion
+38,,<music21.note.Rest dotted-whole>,note,bartok1008,6.0,222.0,GeneralNote
+38,,<music21.note.Note C->,note,bartok1009,2.0,222.0,GeneralNote
+38,,<music21.note.Rest half>,note,bartok1010,2.0,222.0,GeneralNote
+38,,<music21.note.Rest half>,note,bartok1011,2.0,222.0,GeneralNote
+38,,<music21.chord.Chord E-3 A-3>,note,bartok1012,2.0,222.0,GeneralNote
+38,,<music21.note.Rest half>,note,bartok1013,2.0,222.0,GeneralNote
+38,,<music21.note.Rest half>,note,bartok1014,2.0,222.0,GeneralNote
+38,,<music21.note.Note C->,note,bartok1015,0.75,224.0,GeneralNote
+38,,<music21.chord.Chord E-3 A-3>,note,bartok1016,2.0,224.0,GeneralNote
+38,,<music21.note.Note C->,note,bartok1017,4.0,224.0,GeneralNote
+38,,<music21.note.Note E->,note,bartok1018,0.25,224.75,GeneralNote
+38,,<music21.note.Note F>,note,bartok1019,0.25,225.0,GeneralNote
+38,,<music21.articulations.Fingering 1>,fingering,bartok1020,0.0,0.0,Fingering
+38,,<music21.note.Note G>,note,bartok1021,0.25,225.25,GeneralNote
+38,,<music21.note.Note A->,note,bartok1022,0.25,225.5,GeneralNote
+38,,<music21.note.Note B->,note,bartok1023,0.25,225.75,GeneralNote
+38,,<music21.note.Note C->,note,bartok1024,0.5,226.0,GeneralNote
+38,,<music21.chord.Chord E-3 A-3>,note,bartok1025,2.0,226.0,GeneralNote
+38,,<music21.note.Note C->,note,bartok1026,0.125,226.5,GeneralNote
+38,,<music21.note.Note B->,note,bartok1027,0.125,226.625,GeneralNote
+38,,<music21.note.Note A->,note,bartok1028,0.125,226.75,GeneralNote
+38,,<music21.note.Note G->,note,bartok1029,0.125,226.875,GeneralNote
+38,,<music21.note.Note F>,note,bartok1030,0.25,227.0,GeneralNote
+38,,<music21.articulations.Fingering 1>,fingering,bartok1031,0.0,0.0,Fingering
+38,,<music21.note.Note G->,note,bartok1032,0.25,227.25,GeneralNote
+38,,<music21.articulations.Fingering 3>,fingering,bartok1033,0.0,0.0,Fingering
+38,,<music21.note.Note A->,note,bartok1034,0.25,227.5,GeneralNote
+38,,<music21.note.Note F>,note,bartok1035,0.25,227.75,GeneralNote
+38,38,<music21.spanner.Slur <music21.note.Note C-><music21.note.Note C->>,slur,bartok1113,2.0,0.0,Slur
+38,39,<music21.spanner.Slur <music21.note.Note E-><music21.note.Note D>>,slur,bartok1114,7.25,0.0,Slur
+38,38,<music21.dynamics.Crescendo <music21.note.Note E-><music21.note.Note F>>,diminuendo,bartok1204,,,DynamicRegion
+39,,<music21.note.Rest dotted-whole>,note,bartok1036,6.0,228.0,GeneralNote
+39,,<music21.note.Note D>,note,bartok1037,4.0,228.0,GeneralNote
+39,,<music21.articulations.Fingering 15>,fingering,bartok1038,0.0,0.0,Fingering
+39,,<music21.note.Rest quarter>,note,bartok1039,1.0,228.0,GeneralNote
+39,,<music21.note.Note F>,note,bartok1040,2.0,228.0,GeneralNote
+39,,<music21.note.Note E->,note,bartok1041,2.0,228.0,GeneralNote
+39,,<music21.note.Rest eighth>,note,bartok1042,0.5,229.0,GeneralNote
+39,,<music21.note.Note C->,note,bartok1043,0.25,229.5,GeneralNote
+39,,<music21.articulations.Fingering 3>,fingering,bartok1044,0.0,0.0,Fingering
+39,,<music21.note.Note B->,note,bartok1045,0.25,229.75,GeneralNote
+39,,<music21.note.Note C->,note,bartok1046,1.5,230.0,GeneralNote
+39,,<music21.note.Note F>,note,bartok1047,2.0,230.0,GeneralNote
+39,,<music21.note.Note E->,note,bartok1048,2.0,230.0,GeneralNote
+39,,<music21.note.Note A->,note,bartok1049,0.5,231.5,GeneralNote
+39,,<music21.note.Note D>,note,bartok1050,1.5,232.0,GeneralNote
+39,,<music21.note.Rest half>,note,bartok1051,2.0,232.0,GeneralNote
+39,,<music21.note.Note F>,note,bartok1052,2.0,232.0,GeneralNote
+39,,<music21.note.Rest half>,note,bartok1053,2.0,232.0,GeneralNote
+39,,<music21.note.Note E->,note,bartok1054,2.0,232.0,GeneralNote
+39,,<music21.note.Note D>,note,bartok1055,0.5,233.5,GeneralNote
+39,,<music21.articulations.Fingering 4>,fingering,bartok1056,0.0,0.0,Fingering
+39,,<music21.articulations.Tenuto>,tenuto,bartok1057,0.0,0.0,Articulation
+39,40,<music21.spanner.Slur <music21.note.Note C-><music21.chord.Chord G3 B-3 E-4>>,slur,bartok1115,4.5,0.0,Slur
+39,,<music21.expressions.TextExpression 'calando'>,calando,bartok1229,0.0,228.0,TextExpression
+40,,<music21.note.Rest dotted-whole>,note,bartok1058,6.0,234.0,GeneralNote
+40,,<music21.chord.Chord G3 B-3 E-4>,note,bartok1059,6.0,234.0,GeneralNote
+40,,<music21.chord.Chord E-2 B-2 E-3>,note,bartok1060,6.0,234.0,GeneralNote
